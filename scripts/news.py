@@ -16,6 +16,7 @@ import datetime as dt
 import email.utils
 import json
 import os
+import re
 import time
 import urllib.error
 import urllib.parse
@@ -25,8 +26,11 @@ import xml.etree.ElementTree as ET
 GOOGLE_RSS = "https://news.google.com/rss/search"
 BING_RSS = "https://www.bing.com/news/search"
 GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
-DEFAULT_MODEL = "gemini-2.5-flash-lite"
-FALLBACK_MODELS = ["gemini-2.5-flash", "gemini-2.0-flash"]   # tried when the main one is overloaded
+DEFAULT_MODEL = "gemini-3.5-flash-lite"
+FALLBACK_MODELS = ["gemini-3.8-flash"]   # tried when the main one is overloaded
+# Google retires models often. Each run also asks Gemini which Flash models this key can use
+# (see available_models) and adds them after these, so a retirement doesn't break the notes.
+MODEL_NAME = re.compile(r"^gemini-(\d+(?:\.\d+)?)-flash(-lite)?$")
 GIVE_UP_AFTER = 3       # teams in a row failing on every model -> skip the rest of the news step
 MAX_HEADLINES = 10      # headlines sent to Gemini per team
 MAX_NOTES = 3           # notes kept per team
@@ -163,6 +167,24 @@ def checked_notes(raw_notes, headlines):
     return out
 
 
+def available_models(key):
+    """Stable Flash models this key can call, Flash-Lite first, newest version first.
+    Skips previews and specialty versions (names with extra parts). Empty list if the lookup fails."""
+    try:
+        calls["gemini"] += 1
+        listing = json.loads(_get(f"{GEMINI_BASE}?pageSize=1000", {"x-goog-api-key": key}))
+    except Exception as err:
+        print(f"  could not list Gemini models: {err}")
+        return []
+    found = []
+    for m in listing.get("models") or []:
+        name = str(m.get("name", "")).removeprefix("models/")
+        match = MODEL_NAME.match(name)
+        if match and "generateContent" in (m.get("supportedGenerationMethods") or []):
+            found.append((bool(match.group(2)), float(match.group(1)), name))
+    return [name for _, _, name in sorted(found, reverse=True)]
+
+
 class KeyRefused(Exception):
     pass
 
@@ -210,7 +232,9 @@ def team_news(teams):
     if not key:
         print("  news notes skipped: no GEMINI_API_KEY")
         return {}, "off (no Gemini key)"
-    models = list(dict.fromkeys([os.environ.get("GEMINI_MODEL", "").strip() or DEFAULT_MODEL, *FALLBACK_MODELS]))
+    models = list(dict.fromkeys([os.environ.get("GEMINI_MODEL", "").strip() or DEFAULT_MODEL, *FALLBACK_MODELS,
+                                 *available_models(key)]))
+    print(f"  Gemini models to try: {', '.join(models)}")
     out, failed_in_a_row, stopped = {}, 0, ""
     for name, search in teams.items():
         try:
@@ -237,8 +261,12 @@ def team_news(teams):
             print(f"  Gemini failed for {name}: {err}")
             failed_in_a_row += 1
             if failed_in_a_row >= GIVE_UP_AFTER or not models:
-                print(f"  {failed_in_a_row} teams in a row failed on every model. Gemini seems down; stopping news notes.")
-                stopped = "Gemini busy or down"
+                if not models:
+                    print("  None of the Gemini models are available to this key; stopping news notes.")
+                    stopped = "no Gemini model available (see run log)"
+                else:
+                    print(f"  {failed_in_a_row} teams in a row failed on every model. Gemini seems down; stopping news notes.")
+                    stopped = "Gemini busy or down"
                 break
     summary = f"{len(out)} of {len(teams)} teams checked"
     print(f"  news notes: {summary} ({calls['news']} news fetches, {calls['gemini']} Gemini calls)")
