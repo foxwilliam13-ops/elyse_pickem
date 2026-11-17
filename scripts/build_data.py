@@ -430,7 +430,7 @@ def main():
             for side in ("away", "home"):
                 name = card[side]["name"]
                 upcoming[name] = f"{name} {mascots[name]}" if mascots.get(name) else name
-    news = team_news(upcoming)
+    news, news_status = team_news(upcoming) if upcoming else ({}, "no upcoming games")
     for card in cards:
         for side in ("away", "home"):
             card[side]["news"] = news.get(card[side]["name"])   # None = not checked
@@ -443,12 +443,35 @@ def main():
         "title": f"Week {week}" if season_type == "regular" else "Bowl season",
         "generated_at": now.isoformat(),
         "generated_label": f"{stamp:%a}, {stamp:%b} {stamp.day} at {clock(stamp)}",
+        "news_status": news_status,
         "games": cards,
     }
+    text = json.dumps(data, ensure_ascii=False, indent=1) + "\n"
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    OUT_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    OUT_FILE.write_text(text, encoding="utf-8")
+    save_archive(data, text)
     print(f"Wrote {len(cards)} games to {OUT_FILE} "
           f"({api_calls['cfbd']} CollegeFootballData calls, {api_calls['weather']} weather calls)")
+
+
+def save_archive(data, text):
+    """Keeps a copy of every week in docs/weeks/ plus an index the page uses for its week picker.
+    Thursday's and Friday's runs share one file per week; Friday's (newest) wins."""
+    folder = OUT_FILE.parent / "weeks"
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / f"{data['season']}-{data['season_type']}-{int(data['week']):02d}.json").write_text(text, encoding="utf-8")
+    weeks = []
+    for path in folder.glob("*-*-*.json"):
+        try:
+            season, season_type, week = path.stem.split("-")
+            season, week = int(season), int(week)
+        except ValueError:
+            continue
+        label = f"Week {week}" if season_type == "regular" else "Bowl season"
+        weeks.append({"file": path.name, "season": season, "season_type": season_type, "week": week,
+                      "label": f"{season} · {label}"})
+    weeks.sort(key=lambda w: (w["season"], w["season_type"] == "postseason", w["week"]), reverse=True)
+    (folder / "index.json").write_text(json.dumps(weeks, indent=1) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

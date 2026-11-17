@@ -12,6 +12,7 @@ Needs GEMINI_API_KEY (free tier, from Google AI Studio). Optional: GEMINI_MODEL.
 Standard library only.
 """
 
+import datetime as dt
 import email.utils
 import json
 import os
@@ -21,9 +22,12 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-NEWS_RSS = "https://news.google.com/rss/search"
+GOOGLE_RSS = "https://news.google.com/rss/search"
+BING_RSS = "https://www.bing.com/news/search"
 GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 DEFAULT_MODEL = "gemini-2.5-flash-lite"
+FALLBACK_MODELS = ["gemini-2.5-flash", "gemini-2.0-flash"]   # tried when the main one is overloaded
+GIVE_UP_AFTER = 3       # teams in a row failing on every model -> skip the rest of the news step
 MAX_HEADLINES = 10      # headlines sent to Gemini per team
 MAX_NOTES = 3           # notes kept per team
 DAYS_BACK = 7
@@ -55,27 +59,68 @@ def _get(url, headers=None, data=None, timeout=30):
         return response.read()
 
 
-def headlines_for(query):
-    """Recent Google News headlines for a search: [{title, source, url, date}]."""
-    params = {"q": f'"{query}" football when:{DAYS_BACK}d', "hl": "en-US", "gl": "US", "ceid": "US:en"}
-    calls["news"] += 1
-    root = ET.fromstring(_get(f"{NEWS_RSS}?{urllib.parse.urlencode(params)}"))
-    items = []
-    for item in root.iter("item"):
-        title = (item.findtext("title") or "").strip()
+def _rss_items(xml_bytes):
+    """(title, source, link, date) for each <item> in an RSS feed."""
+    for item in ET.fromstring(xml_bytes).iter("item"):
         source = (item.findtext("source") or "").strip()
-        if source and title.endswith(f" - {source}"):
-            title = title[: -len(source) - 3].strip()
-        link = (item.findtext("link") or "").strip()
-        if not title or not link.startswith("https://"):
-            continue
+        if not source:   # Bing puts the outlet name in its own namespaced <Source> tag
+            source = next(((c.text or "").strip() for c in item if c.tag.endswith("}Source")), "")
         try:
             when = email.utils.parsedate_to_datetime(item.findtext("pubDate") or "")
         except (TypeError, ValueError):
             when = None
-        items.append({"title": title, "source": source, "url": link, "date": when})
-    items.sort(key=lambda h: h["date"].timestamp() if h["date"] else 0, reverse=True)
-    return items[:MAX_HEADLINES]
+        yield (item.findtext("title") or "").strip(), source, (item.findtext("link") or "").strip(), when
+
+
+def google_news(query):
+    params = {"q": f'"{query}" football when:{DAYS_BACK}d', "hl": "en-US", "gl": "US", "ceid": "US:en"}
+    for title, source, link, when in _rss_items(_get(f"{GOOGLE_RSS}?{urllib.parse.urlencode(params)}")):
+        if source and title.endswith(f" - {source}"):
+            title = title[: -len(source) - 3].strip()
+        yield {"title": title, "source": source, "url": link, "date": when}
+
+
+def bing_news(query):
+    params = {"q": f"{query} football", "format": "rss"}
+    for title, source, link, when in _rss_items(_get(f"{BING_RSS}?{urllib.parse.urlencode(params)}")):
+        real = urllib.parse.parse_qs(urllib.parse.urlparse(link).query).get("url")   # unwrap Bing's click-tracking link
+        source = source.removesuffix(" on MSN")
+        yield {"title": title, "source": source, "url": real[0] if real else link, "date": when}
+
+
+SOURCES = {"Google News": google_news, "Bing News": bing_news}
+source_failures = {name: 0 for name in SOURCES}   # a source failing 3 times in a row is skipped for the rest of the run
+
+
+def headlines_for(query):
+    """Recent headlines for a team: [{title, source, url, date}]. Tries Google News, then Bing News.
+    Raises only if every source failed."""
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=DAYS_BACK)
+    errors = []
+    for name, fetch in SOURCES.items():
+        if source_failures[name] >= 3:
+            continue
+        try:
+            for attempt in (1, 2):   # one retry: both sites sometimes hiccup under quick repeat requests
+                calls["news"] += 1
+                try:
+                    items = [h for h in fetch(query)
+                             if h["title"] and h["url"].startswith("https://") and (h["date"] is None or h["date"] >= cutoff)]
+                    break
+                except Exception:
+                    if attempt == 2:
+                        raise
+                    time.sleep(5)
+        except Exception as err:
+            source_failures[name] += 1
+            if source_failures[name] == 3:
+                print(f"  {name} failed 3 times in a row; skipping it for the rest of this run")
+            errors.append(f"{name}: {err}")
+            continue
+        source_failures[name] = 0
+        items.sort(key=lambda h: h["date"].timestamp() if h["date"] else 0, reverse=True)
+        return items[:MAX_HEADLINES]
+    raise RuntimeError("; ".join(errors) or "no news source left to try")
 
 
 def ask_gemini(team, headlines, key, model):
@@ -118,45 +163,83 @@ def checked_notes(raw_notes, headlines):
     return out
 
 
+class KeyRefused(Exception):
+    pass
+
+
+def error_text(err):
+    """Gemini's own explanation from an error response, shortened for the log."""
+    try:
+        return json.loads(err.read()).get("error", {}).get("message", "")[:200]
+    except Exception:
+        return ""
+
+
+def notes_with_fallback(search, headlines, key, models):
+    """Tries each free model in turn. Overloaded (503/500) or rate-limited (429) -> wait and
+    retry, then move to the next model. A model that keeps failing is moved to the back of
+    the list so later teams start with one that works. Raises if every model fails."""
+    for model in list(models):
+        for wait in (0, 15):
+            time.sleep(GEMINI_GAP + wait)
+            try:
+                return checked_notes(ask_gemini(search, headlines, key, model), headlines)
+            except urllib.error.HTTPError as err:
+                detail = error_text(err)
+                if err.code in (401, 403) or (err.code == 400 and "API key" in detail):
+                    raise KeyRefused(f"{err.code} {detail}") from err
+                print(f"    {model}: {err.code} {detail}")
+                if err.code in (400, 404):      # model name not offered (anymore): drop it
+                    models.remove(model)
+                    break
+            except Exception as err:
+                print(f"    {model}: {err}")
+        if model in models:
+            models.remove(model)
+            models.append(model)
+    raise RuntimeError("every model failed")
+
+
 def team_news(teams):
-    """teams: {display name: search name}. Returns {display name: [notes]} for teams we managed to check.
+    """teams: {display name: search name}.
+    Returns ({display name: [notes]}, status text for the page).
 
     A team missing from the result means "not checked" (no key or an error), so the
     page can tell that apart from "checked, nothing notable" (an empty list)."""
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
         print("  news notes skipped: no GEMINI_API_KEY")
-        return {}
-    model = os.environ.get("GEMINI_MODEL", "").strip() or DEFAULT_MODEL
-    out = {}
+        return {}, "off (no Gemini key)"
+    models = list(dict.fromkeys([os.environ.get("GEMINI_MODEL", "").strip() or DEFAULT_MODEL, *FALLBACK_MODELS]))
+    out, failed_in_a_row, stopped = {}, 0, ""
     for name, search in teams.items():
         try:
             time.sleep(NEWS_GAP)
             headlines = headlines_for(search)
         except Exception as err:
             print(f"  news skipped for {name}: {err}")
+            if all(n >= 3 for n in source_failures.values()):
+                print("  Every news site is refusing us; stopping news notes.")
+                stopped = "news sites unreachable"
+                break
             continue
         if not headlines:
             out[name] = []
             continue
-        for attempt in (1, 2):
-            try:
-                time.sleep(GEMINI_GAP)
-                out[name] = checked_notes(ask_gemini(search, headlines, key, model), headlines)
+        try:
+            out[name] = notes_with_fallback(search, headlines, key, models)
+            failed_in_a_row = 0
+        except KeyRefused as err:
+            print(f"  Gemini refused the key ({err}). Check the GEMINI_API_KEY secret. Stopping news notes.")
+            stopped = "Gemini refused the key"
+            break
+        except Exception as err:
+            print(f"  Gemini failed for {name}: {err}")
+            failed_in_a_row += 1
+            if failed_in_a_row >= GIVE_UP_AFTER or not models:
+                print(f"  {failed_in_a_row} teams in a row failed on every model. Gemini seems down; stopping news notes.")
+                stopped = "Gemini busy or down"
                 break
-            except urllib.error.HTTPError as err:
-                if err.code == 429 and attempt == 1:
-                    print("  Gemini rate limit hit, waiting a minute")
-                    time.sleep(60)
-                    continue
-                if err.code in (400, 401, 403, 404):
-                    print(f"  Gemini refused the request ({err.code}). Check GEMINI_API_KEY and GEMINI_MODEL. Stopping news notes.")
-                    return out
-                print(f"  Gemini failed for {name}: {err}")
-                break
-            except Exception as err:
-                print(f"  Gemini failed for {name}: {err}")
-                break
-    print(f"  news notes: {len(out)} of {len(teams)} teams checked "
-          f"({calls['news']} news fetches, {calls['gemini']} Gemini calls)")
-    return out
+    summary = f"{len(out)} of {len(teams)} teams checked"
+    print(f"  news notes: {summary} ({calls['news']} news fetches, {calls['gemini']} Gemini calls)")
+    return out, f"{summary}, stopped early: {stopped}" if stopped else summary

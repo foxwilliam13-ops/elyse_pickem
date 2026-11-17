@@ -24,6 +24,9 @@
   .eyebrow { color: var(--green); font-weight: 700; font-size: 13px; }
   h1 { margin: 4px 0; font-family: var(--display); font-weight: 700; font-size: clamp(36px, 6vw, 52px); line-height: 1; }
   .updated { margin: 0; color: var(--quiet); font-size: 14px; }
+  .week-picker { display: flex; align-items: center; gap: 10px; margin-top: 12px; }
+  .week-picker[hidden] { display: none; }
+  .week-picker select { min-height: 44px; padding: 0 12px; border: 1px solid #C9CDC4; border-radius: 10px; background: var(--card); font: 500 15px Inter, system-ui, sans-serif; color: var(--ink); }
   .info { display: flex; flex-wrap: wrap; gap: 10px 28px; padding: 14px 18px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; font-size: 14px; color: #3A4046; }
   .info strong { color: var(--ink); }
   .badge { display: inline-block; padding: 3px 9px; border-radius: 999px; background: var(--orange-tint); color: var(--orange-ink); font-size: 11px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; }
@@ -49,7 +52,17 @@
   /* cards */
   main { flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 22px; }
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 22px; display: flex; flex-direction: column; gap: 18px; scroll-margin-top: 16px; }
-  .card.hidden, .games-list li.hidden, .games-list .day.hidden { display: none; }
+  #cards { display: flex; flex-direction: column; gap: 22px; }
+  .card.hidden, .games-list li.hidden, .games-list .day.hidden, .empty[hidden] { display: none; }
+  .top-right { display: flex; align-items: center; gap: 10px; }
+  .slate-btn { min-height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--card); color: var(--quiet); font: 600 13px Inter, system-ui, sans-serif; cursor: pointer; }
+  .slate-btn:hover { border-color: var(--green); color: var(--green); }
+  .slate-btn[aria-pressed="true"] { background: var(--green); border-color: var(--green); color: #fff; }
+  .card.on-slate { border-color: var(--green); box-shadow: inset 4px 0 0 var(--green); }
+  .games-list .star { display: none; color: var(--green); }
+  .games-list li.on-slate .star { display: inline; }
+  .slate-only { flex-direction: row !important; align-items: center; gap: 10px !important; min-height: 44px; margin: 4px 0 !important; font-size: 14px; font-weight: 600; cursor: pointer; }
+  .slate-only input { width: 20px; height: 20px; min-height: 0 !important; accent-color: var(--green); }
   .top { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; font-size: 13px; font-weight: 600; color: var(--quiet); }
   .final { font-weight: 700; color: var(--ink); }
   .team { display: flex; align-items: center; gap: 12px; }
@@ -91,6 +104,9 @@
     <p class="eyebrow">Yahoo College Pick'em</p>
     <h1 id="title">Pick'em Prep</h1>
     <p class="updated" id="updated">Loading…</p>
+    <label class="label week-picker" id="week-picker" hidden>Week
+      <select id="week"></select>
+    </label>
   </header>
 
   <div class="info">
@@ -106,9 +122,13 @@
       <label class="label" for="find">Find a team
         <input id="find" type="search" placeholder="Type a team name" autocomplete="off">
       </label>
+      <label class="slate-only"><input id="slate-only" type="checkbox"> Only my Yahoo games <span id="slate-count"></span></label>
       <div id="list"></div>
     </details>
-    <main id="cards"></main>
+    <main>
+      <div class="empty" id="slate-empty" hidden>No Yahoo games flagged for this week yet. Tap "☆ Add to Yahoo slate" on a game, or uncheck "Only my Yahoo games".</div>
+      <div id="cards"></div>
+    </main>
   </div>
 
   <footer>
@@ -169,10 +189,12 @@ function history(team) {
 
 function card(g, notes) {
   const gameNotes = [...(notes[g.away.name.toLowerCase()] || []), ...(notes[g.home.name.toLowerCase()] || [])];
-  return el('article', { class: 'card', id: g.anchor, 'data-teams': `${g.away.name} ${g.home.name}`.toLowerCase() },
+  return el('article', { class: 'card', id: g.anchor, 'data-game': g.id, 'data-teams': `${g.away.name} ${g.home.name}`.toLowerCase() },
     el('div', { class: 'top' },
       g.final ? el('span', { class: 'final' }, g.final) : el('span', {}, `${g.kickoff}${g.neutral ? ' · Neutral site' : ''}`),
-      g.tossup ? el('span', { class: 'badge' }, 'Toss-up') : null),
+      el('span', { class: 'top-right' },
+        g.tossup ? el('span', { class: 'badge' }, 'Toss-up') : null,
+        el('button', { class: 'slate-btn', type: 'button', 'data-game': g.id }))),
     el('div', {},
       teamRow(g.away, false, g.neutral),
       teamRow(g.home, true, g.neutral)),
@@ -221,48 +243,119 @@ function buildList(games) {
       ul = el('ul', { 'data-day': day });
       list.append(ul);
     }
-    ul.append(el('li', { 'data-teams': `${g.away.name} ${g.home.name}`.toLowerCase() },
+    ul.append(el('li', { 'data-game': g.id, 'data-teams': `${g.away.name} ${g.home.name}`.toLowerCase() },
       el('a', { href: `#${g.anchor}` },
-        el('span', { class: 'meta' }, el('span', {}, g.final ? 'Final' : g.time), g.tossup ? el('span', { class: 'toss' }, 'TOSS-UP') : null),
+        el('span', { class: 'meta' },
+          el('span', {}, el('span', { class: 'star', 'aria-label': 'On Yahoo slate' }, '★ '), g.final ? 'Final' : g.time),
+          g.tossup ? el('span', { class: 'toss' }, 'TOSS-UP') : null),
         el('span', { class: 'matchup' }, `${g.away.name} @ ${g.home.name}`),
         el('span', { class: 'line' }, g.spread))));
   }
 }
 
-function filter(term) {
-  term = term.trim().toLowerCase();
-  document.querySelectorAll('[data-teams]').forEach(node =>
-    node.classList.toggle('hidden', term !== '' && !node.dataset.teams.includes(term)));
+// Browser storage can be missing or blocked (private windows), so every use is wrapped.
+const store = {
+  get(key, fallback) { try { const v = localStorage.getItem(key); return v === null ? fallback : JSON.parse(v); } catch { return fallback; } },
+  set(key, value) { try { localStorage.setItem(key, JSON.stringify(value)); } catch { /* not saved; fine */ } },
+};
+
+// Yahoo slate flags: game ids saved in this browser only (not shared between devices).
+const slate = new Set(store.get('yahooSlate', []).map(String));
+
+function refreshSlate() {
+  document.querySelectorAll('[data-game]').forEach(node => node.classList.toggle('on-slate', slate.has(node.dataset.game)));
+  document.querySelectorAll('.slate-btn').forEach(btn => {
+    const on = slate.has(btn.dataset.game);
+    btn.setAttribute('aria-pressed', String(on));
+    btn.textContent = on ? '★ On Yahoo slate' : '☆ Add to Yahoo slate';
+  });
+  const flagged = document.querySelectorAll('article.on-slate').length;
+  document.getElementById('slate-count').textContent = flagged ? `(${flagged})` : '';
+  filter();
+}
+
+function filter() {
+  const term = document.getElementById('find').value.trim().toLowerCase();
+  const onlySlate = document.getElementById('slate-only').checked;
+  document.querySelectorAll('[data-teams]').forEach(node => node.classList.toggle('hidden',
+    (term !== '' && !node.dataset.teams.includes(term)) || (onlySlate && !slate.has(node.dataset.game))));
   document.querySelectorAll('#list ul').forEach(ul => {
     const empty = !ul.querySelector('li:not(.hidden)');
     ul.classList.toggle('hidden', empty);
     document.querySelector(`#list p[data-day="${CSS.escape(ul.dataset.day)}"]`).classList.toggle('hidden', empty);
   });
+  document.getElementById('slate-empty').hidden = !(onlySlate && !term && !document.querySelector('article.on-slate'));
 }
 
-async function start() {
-  const bust = `?t=${Date.now()}`;   // always get the newest files, not a cached copy
-  const [data, notesText] = await Promise.all([
-    fetch(`data.json${bust}`).then(r => r.json()),
-    fetch(`notes.txt${bust}`).then(r => (r.ok ? r.text() : '')).catch(() => ''),
-  ]);
-  const notes = parseNotes(notesText);
+const bust = `?t=${Date.now()}`;   // always get the newest files, not a cached copy
+const getJSON = path => fetch(path + bust).then(r => { if (!r.ok) throw new Error(`${path}: ${r.status}`); return r.json(); });
+
+// Draws one week. Typed notes (notes.txt) only belong on the current week.
+function render(data, notes, isLatest) {
   const games = data.games || [];
   document.title = `Pick'em Prep · ${data.title || ''}`;
-  document.getElementById('title').textContent = data.title ? `Pick'em Prep · ${data.title}` : "Pick'em Prep";
-  document.getElementById('updated').textContent = data.generated_label
-    ? `Updated ${data.generated_label} · Next update Thursday or Friday morning`
-    : 'Not updated yet. The first update runs Thursday morning, or run it now from GitHub.';
+  document.getElementById('title').textContent = data.title
+    ? `Pick'em Prep · ${data.title}${isLatest ? '' : ` ${data.season}`}` : "Pick'em Prep";
+  document.getElementById('updated').textContent = !data.generated_label
+    ? 'Not updated yet. The first update runs Thursday morning, or run it now from GitHub.'
+    : isLatest ? `Updated ${data.generated_label} · Next update Thursday or Friday morning`
+      + (data.news_status ? ` · News notes: ${data.news_status}` : '')
+    : `Past week (saved ${data.generated_label}). Lines and news are as of that day.`;
   document.getElementById('game-count').textContent = games.length ? `(${games.length})` : '';
+  document.getElementById('find').value = '';
 
   const cards = document.getElementById('cards');
+  cards.replaceChildren();
+  document.getElementById('list').replaceChildren();
   if (!games.length) {
     cards.append(el('div', { class: 'empty' }, 'No games to show yet.'));
     return;
   }
-  cards.append(...games.map(g => card(g, notes)));
+  cards.append(...games.map(g => card(g, isLatest ? notes : {})));
   buildList(games);
-  document.getElementById('find').addEventListener('input', e => filter(e.target.value));
+  refreshSlate();
+}
+
+// Week picker: lists every saved week from weeks/index.json. Hidden until there are two.
+function buildWeekPicker(weeks, latest, notes) {
+  if (weeks.length < 2) return;
+  const isLatestWeek = w => w.season === latest.season && w.season_type === latest.season_type && w.week === latest.week;
+  const select = document.getElementById('week');
+  select.replaceChildren(...weeks.map(w => el('option', { value: w.file, selected: isLatestWeek(w) ? 'selected' : null },
+    isLatestWeek(w) ? `${w.label} (this week)` : w.label)));
+  select.addEventListener('change', async () => {
+    const w = weeks.find(x => x.file === select.value);
+    try {
+      render(isLatestWeek(w) ? latest : await getJSON(`weeks/${w.file}`), notes, isLatestWeek(w));
+    } catch (err) {
+      document.getElementById('updated').textContent = 'Could not load that week. Try refreshing the page.';
+      console.error(err);
+    }
+  });
+  document.getElementById('week-picker').hidden = false;
+}
+
+async function start() {
+  const [data, notesText, weeks] = await Promise.all([
+    getJSON('data.json'),
+    fetch(`notes.txt${bust}`).then(r => (r.ok ? r.text() : '')).catch(() => ''),
+    getJSON('weeks/index.json').catch(() => []),
+  ]);
+  const notes = parseNotes(notesText);
+  render(data, notes, true);
+  buildWeekPicker(weeks, data, notes);
+  document.getElementById('find').addEventListener('input', filter);
+  const onlySlate = document.getElementById('slate-only');
+  onlySlate.checked = store.get('slateOnly', false);
+  onlySlate.addEventListener('change', () => { store.set('slateOnly', onlySlate.checked); filter(); });
+  document.getElementById('cards').addEventListener('click', e => {
+    const btn = e.target.closest('.slate-btn');
+    if (!btn) return;
+    slate.has(btn.dataset.game) ? slate.delete(btn.dataset.game) : slate.add(btn.dataset.game);
+    store.set('yahooSlate', [...slate]);
+    refreshSlate();
+  });
+  filter();
   if (window.matchMedia('(max-width: 899px)').matches) document.getElementById('games-list').open = false;
 }
 
