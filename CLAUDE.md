@@ -18,7 +18,7 @@ Live page: https://foxwilliam13-ops.github.io/elyse_pickem/
 4. `docs/notes.txt`: hand-typed notes, one per line, `Team name: note`.
 
 ## What each game card shows (v1)
-Kickoff (Central time), home team, AP/CFP rank, record, season ATS record, spread (preferred book: consensus, then DraftKings, ESPN Bet, Bovada) with a toss-up flag under 3 points, win probability (from moneylines, else estimated from the spread), last 4 games per team (score, opponent and their record; per-game covered/missed was removed on purpose), kickoff weather (skipped for domes), stakes flags (ranked; one win from bowl eligibility), rest flags (off a bye; short week), notes. Left sidebar lists all games with a find-a-team box.
+Kickoff (Central time), home team, AP/CFP rank, record, season ATS record, spread (preferred book: consensus, then DraftKings, ESPN Bet, Bovada) with a toss-up flag under 3 points, win probability (from moneylines, else estimated from the spread), last 4 games per team (score, opponent and their record; per-game covered/missed was removed on purpose), kickoff weather (skipped for domes), SP+ national rank table per team (overall, offense, defense, from `/ratings/sp`, one optional call; latest only, no per-week history, so past weeks rely on the archive), stakes flags (ranked; one win from bowl eligibility), rest flags (off a bye; short week), notes. Left sidebar lists all games with a find-a-team box.
 
 ## Testing locally
 - `CFBD_API_KEY` as a terminal environment variable only, then `python scripts/build_data.py`.

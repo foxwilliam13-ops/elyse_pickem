@@ -80,6 +80,13 @@
   .stat { flex: 1 1 200px; padding: 12px 14px; background: var(--ground); border-radius: 10px; }
   .stat .big { margin: 4px 0 0; font-family: var(--display); font-weight: 700; font-size: 26px; line-height: 1.1; }
   .stat .text { margin: 6px 0 0; font-size: 15px; font-weight: 600; line-height: 1.35; }
+  .ratings table { width: 100%; margin-top: 6px; border-collapse: collapse; font-size: 14px; }
+  .ratings th, .ratings td { padding: 7px 8px; border-top: 1px solid var(--rule); text-align: center; }
+  .ratings thead th { border-top: 0; font-size: 12px; font-weight: 600; color: var(--quiet); }
+  .ratings tbody th { text-align: left; font-weight: 600; padding-left: 0; }
+  .ratings td { font-family: var(--display); font-weight: 700; font-size: 20px; font-variant-numeric: tabular-nums; color: var(--quiet); }
+  .ratings td.top25 { color: var(--green); }
+  .ratings td.unrated { font: 400 13px Inter, system-ui, sans-serif; }
   .flags { display: flex; flex-wrap: wrap; gap: 8px; }
   .flags span { padding: 6px 12px; border-radius: 999px; background: var(--green-tint); color: var(--green); font-size: 13px; font-weight: 600; }
   .history { display: flex; flex-wrap: wrap; gap: 20px; }
@@ -113,6 +120,7 @@
     <span><strong>Spreads shown are the market line.</strong> Yahoo's can differ, so pick against Yahoo's number.</span>
     <span><span class="badge">Toss-up</span> spread under 3 points</span>
     <span><strong>ATS</strong> = record against the spread</span>
+    <span><strong>SP+</strong> = efficiency rating; #1 is best, green = top 25. Early in the season it leans on preseason expectations.</span>
     <span><strong>"In the news"</strong> notes are AI summaries of headlines. Click the source to check.</span>
   </div>
 
@@ -132,7 +140,7 @@
   </div>
 
   <footer>
-    Data: CollegeFootballData.com (games, lines, records, rankings), Open-Meteo (weather),
+    Data: CollegeFootballData.com (games, lines, records, rankings, SP+ ratings), Open-Meteo (weather),
     and Google News headlines summarized by Gemini (news notes).
     Updates Thursday and Friday mornings. This page helps with research; it never makes the pick.
   </footer>
@@ -187,7 +195,21 @@ function history(team) {
       : el('p', { class: 'rec' }, 'No games played yet'));
 }
 
-function card(g, notes) {
+// SP+ national ranks for both teams. Top 25 in bold. Hidden for weeks saved before ratings existed.
+function ratings(g, spTeams) {
+  if (!g.away.sp && !g.home.sp) return null;
+  const cell = rank => el('td', { class: rank && rank <= 25 ? 'top25' : null }, rank ? `#${rank}` : '–');
+  const row = team => el('tr', {}, el('th', { scope: 'row' }, team.name),
+    team.sp ? [cell(team.sp.overall), cell(team.sp.offense), cell(team.sp.defense)]
+            : el('td', { colspan: 3, class: 'unrated' }, 'Not rated (FCS)'));
+  return el('div', { class: 'ratings' },
+    el('p', { class: 'label' }, `Team ratings · SP+ national rank${spTeams ? ` of ${spTeams}` : ''}`),
+    el('table', {},
+      el('thead', {}, el('tr', {}, el('th', {}, ''), el('th', {}, 'Overall'), el('th', {}, 'Offense'), el('th', {}, 'Defense'))),
+      el('tbody', {}, row(g.away), row(g.home))));
+}
+
+function card(g, notes, spTeams) {
   const gameNotes = [...(notes[g.away.name.toLowerCase()] || []), ...(notes[g.home.name.toLowerCase()] || [])];
   return el('article', { class: 'card', id: g.anchor, 'data-game': g.id, 'data-teams': `${g.away.name} ${g.home.name}`.toLowerCase() },
     el('div', { class: 'top' },
@@ -210,6 +232,7 @@ function card(g, notes) {
         el('p', { class: 'label' }, 'Kickoff weather'),
         el('p', { class: 'text' }, g.weather),
         g.venue ? el('p', { class: 'rec' }, g.venue) : null)),
+    ratings(g, spTeams),
     g.flags.length ? el('div', { class: 'flags' }, g.flags.map(f => el('span', {}, f))) : null,
     el('div', { class: 'history' }, history(g.away), history(g.home)),
     el('div', { class: 'notes' },
@@ -311,7 +334,7 @@ function render(data, notes, isLatest) {
     cards.append(el('div', { class: 'empty' }, 'No games to show yet.'));
     return;
   }
-  cards.append(...games.map(g => card(g, isLatest ? notes : {})));
+  cards.append(...games.map(g => card(g, isLatest ? notes : {}, data.sp_teams)));
   buildList(games);
   refreshSlate();
 }

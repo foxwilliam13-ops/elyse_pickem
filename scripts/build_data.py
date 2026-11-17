@@ -166,6 +166,25 @@ def load_ranks(rows):
     return ranks
 
 
+def load_sp(rows):
+    """Team -> SP+ national ranks {overall, offense, defense}. #1 is best (for defense too)."""
+    out = {}
+    for r in rows or []:
+        offense, defense = r.get("offense") or {}, r.get("defense") or {}
+        if r.get("team") and r.get("ranking"):
+            out[r["team"]] = {"overall": r.get("ranking"), "offense": offense.get("ranking"), "defense": defense.get("ranking")}
+    return out
+
+
+def optional(path, **params):
+    """A CollegeFootballData call the dashboard can live without: errors give an empty list."""
+    try:
+        return cfbd(path, **params)
+    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as err:
+        print(f"  skipped {path}: {err}")
+        return []
+
+
 def load_venues(rows):
     out = {}
     for v in rows or []:
@@ -315,10 +334,12 @@ def build_team(name, is_fbs, game, ctx):
         opponent = g["away"] if is_home else g["home"]
         where = "vs" if is_home or g["neutral"] else "at"
         opp_record = ctx["records"].get(opponent)
+        opp_sp = (ctx["sp"].get(opponent) or {}).get("overall")
+        details = [record_text(*opp_record) if opp_record else "", f"SP+ #{opp_sp}" if opp_sp else ""]
         recent.append({
             "result": f"{'W' if us > them else 'L' if us < them else 'T'} {us}–{them}",
             "opponent": f"{where} {opponent}" + (" (neutral)" if g["neutral"] else ""),
-            "opp_record": f"({record_text(*opp_record)})" if opp_record else "",
+            "opp_record": f"({', '.join(d for d in details if d)})" if any(details) else "",
         })
     ats_text = f"ATS {ats['Covered']}–{ats['Missed']}" + (f"–{ats['Push']}" if ats["Push"] else "")
 
@@ -340,6 +361,7 @@ def build_team(name, is_fbs, game, ctx):
         "rank": f"#{rank[0]}" if rank else "",
         "record": record_text(wins, losses) if known else "Record n/a",
         "ats": ats_text,
+        "sp": ctx["sp"].get(name),   # None for teams SP+ doesn't rate (FCS)
         "last": recent,
     }, flags
 
@@ -415,6 +437,7 @@ def main():
         "records": load_records(cfbd("/records", year=year)),
         "ranks": load_ranks(cfbd("/rankings", year=year)),
         "venues": load_venues(cfbd("/venues")),
+        "sp": load_sp(optional("/ratings/sp", year=year)),
         "season_type": season_type,
     }
 
@@ -444,6 +467,7 @@ def main():
         "generated_at": now.isoformat(),
         "generated_label": f"{stamp:%a}, {stamp:%b} {stamp.day} at {clock(stamp)}",
         "news_status": news_status,
+        "sp_teams": len(ctx["sp"]),
         "games": cards,
     }
     text = json.dumps(data, ensure_ascii=False, indent=1) + "\n"
