@@ -3,9 +3,9 @@
  "week": 12,
  "season_type": "regular",
  "title": "Week 12",
- "generated_at": "2026-11-17T19:32:11.977428+00:00",
- "generated_label": "Tue, Nov 17 at 1:32 PM CT",
- "news_status": "0 of 140 teams checked, stopped early: Gemini busy or down",
+ "generated_at": "2026-11-17T20:04:47.817279+00:00",
+ "generated_label": "Tue, Nov 17 at 2:04 PM CT",
+ "news_status": "140 of 140 teams checked",
  "games": [
   {
    "id": 401866465,
@@ -17,11 +17,11 @@
    "neutral": false,
    "venue": "Waldo Stadium, Kalamazoo, MI",
    "final": null,
-   "spread": "Western Michigan −14.5",
+   "spread": "Western Michigan −15.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "Weather unavailable",
+   "weather": "46°F · Wind 6 mph · Rain or snow 0%",
    "flags": [
     "Eastern Michigan: off a bye week"
    ],
@@ -53,7 +53,7 @@
      }
     ],
     "win_pct": 16,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Western Michigan",
@@ -83,7 +83,18 @@
      }
     ],
     "win_pct": 84,
-    "news": null
+    "news": [
+     {
+      "text": "Western Michigan arrives at the game coming off a win.",
+      "sources": [
+       {
+        "title": "Eastern Michigan vs. Western Michigan Preview: Broncos Arrive off a Win While the Eagles Are Looking to Bounce Back",
+        "source": "Athlon Sports",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVczbWl4R192WEpDZUlBX2FrN1ItZnk5QTRCSHlNdzhQT1kyMTNZYXkwVm1jejFuTlVqakYwaTA2cFhqeTliQmd5S1lLdnpUT19iQU1uT0V5akNoTHYtMFRTQTJpWnRublFzZUE1TGpMbGVZRHI3aWRrREF1RTVDbWdNc09yU3p6Y3JwamFiNGJuWDZRVkY1b0RpUUxDZGpDaTA2Y0pEUlRHWmJlZ2NKWFNMZUpZd0YydmFGNDZ1R2lFa19DVVlPbHdrREstZw?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -130,7 +141,7 @@
      }
     ],
     "win_pct": 75,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Kent State",
@@ -160,7 +171,7 @@
      }
     ],
     "win_pct": 25,
-    "news": null
+    "news": []
    }
   },
   {
@@ -207,7 +218,7 @@
      }
     ],
     "win_pct": 23,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Ohio",
@@ -237,7 +248,7 @@
      }
     ],
     "win_pct": 77,
-    "news": null
+    "news": []
    }
   },
   {
@@ -286,7 +297,7 @@
      }
     ],
     "win_pct": 41,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Massachusetts",
@@ -316,7 +327,7 @@
      }
     ],
     "win_pct": 59,
-    "news": null
+    "news": []
    }
   },
   {
@@ -365,7 +376,7 @@
      }
     ],
     "win_pct": 48,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Buffalo",
@@ -395,7 +406,7 @@
      }
     ],
     "win_pct": 52,
-    "news": null
+    "news": []
    }
   },
   {
@@ -445,7 +456,7 @@
      }
     ],
     "win_pct": 43,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Temple",
@@ -475,7 +486,7 @@
      }
     ],
     "win_pct": 57,
-    "news": null
+    "news": []
    }
   },
   {
@@ -525,7 +536,7 @@
      }
     ],
     "win_pct": 46,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "UCF",
@@ -555,7 +566,18 @@
      }
     ],
     "win_pct": 54,
-    "news": null
+    "news": [
+     {
+      "text": "Lewis Carter has returned to help the UCF Knights.",
+      "sources": [
+       {
+        "title": "UCF Q&A: How does Lewis Carter’s return help the Knights?",
+        "source": "Orlando Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXh1eWl4dmgyazNjUHE5QXR5c21PN1ZGcGNsZV9aUWpwRG00anFqTHI4WjNKdmtkWW1RQ3BkUGF2dHJONGdQaG1weUduY0M3Qy1kbHFfdE1RVVFPVndnVHpMeFZpZWMyeWJ3WlllTkFSRkUyLWN5aTdfZENOdUYzMGlfUUUtQ0tQZUh3Z0hzNFlCeVRjd2VBRFhVWUppVDBOcmtrRUhqT0VPTXZoZ0xHTG4zbDVEdHc?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -602,7 +624,18 @@
      }
     ],
     "win_pct": 20,
-    "news": null
+    "news": [
+     {
+      "text": "Clemson has hope in its third-string quarterback entering the Duke matchup.",
+      "sources": [
+       {
+        "title": "Why Clemson Tigers Have Hope in Third-String QB Entering Duke Matchup",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnh1eDJIeDg4MG5Nb0RHRnlGa0JUNmlheVIzQUNscGFYNTE3UElJbmxJR0dwM2VnRmlrSnBGSHdXRF83R0huLWI1dE9QUFhQTWdMcVh0STRhOTlKMlRlS0lUN0dtREJQdktnS3JCN1R4OWF5Y21RY0dQMTJnNksyT0Z5bmxwQ3ZpYkN1bXpXTlE3Z1I2OHhNczZMaVd0dFZyZzJrMTVULWN0UXg5aXhqTU5xZEZBTjhVa1hIcnRqdC1fc2FsZ0E?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Duke",
@@ -632,7 +665,7 @@
      }
     ],
     "win_pct": 80,
-    "news": null
+    "news": []
    }
   },
   {
@@ -679,7 +712,7 @@
      }
     ],
     "win_pct": 15,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Toledo",
@@ -709,7 +742,7 @@
      }
     ],
     "win_pct": 85,
-    "news": null
+    "news": []
    }
   },
   {
@@ -756,7 +789,48 @@
      }
     ],
     "win_pct": 8,
-    "news": null
+    "news": [
+     {
+      "text": "UTEP fired head coach Scotty Walden after a 6-28 record across three seasons.",
+      "sources": [
+       {
+        "title": "UTEP Fires Head Coach Scotty Walden After 6-28 Record Across Three Seasons",
+        "source": "The Hype Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnlrUkdhT0dHRjJWZzdpckpnSTRKMWtyYm9hR0hfLTNXV0N5VWxKMlItUmlYOFMtSU9pTENNNGZ1WDR4LU5hdlEwME1HVFZVRWRRc2d1Q3dGT1lJazRob0x4cWY5RGU4V3oxV0VNczlfVm5Yd3hJT2dWVzdQWVhTZDk4UTFVTUE?oc=5"
+       },
+       {
+        "title": "Scotty Walden's hype couldn't overcome reality for UTEP football",
+        "source": "El Paso Times",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUDRPZnJSWDlDMlJmdzlEVjZTeXVLUUpUWVRJOXpHVEdQR3h6M3A4N1Z1ajlXZnp1VXBPZVczejV5UzdZaS12RjJfcHVheFRRWEF0c1dzXzlHMWF6TFhVSTE0VGNWZ3U3RmFEN3dkUXZpTzQ5RU1FNFRra2txaXN6dTlFQ3FIWnBBYlAzdTFYS3lsUzAydHJIYm50UTBRS2hYY0Y1ZXZ2MkZENXROTDdXR0FMVXB3eDdVNjVOQmtnNkhvYUJRdTJPVVJ4TzEwREpHdGc?oc=5"
+       },
+       {
+        "title": "UTEP AD Jim Senter explains Scotty Walden firing after Miners’ 6-28 run under him",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNWVqNDh1YWJDeTVwTnVLWGYzVERaN0VRVzc0U3JYUlh0dDlLeDN3SXNCbWF4UTZWWlkwX2ZEQUQ1UEFoR0JBMVJVTFRENEhFN0xEdU4zMjhaRG1oclZuSzFyMUpzUmhYaHNNQU1xQlpucDFSdlNJUS1BOFN3dEhPQkNn?oc=5"
+       },
+       {
+        "title": "UTEP Fires Scotty Walden: Miners Move On From Head Coach After Wyoming Loss",
+        "source": "FOX Sports",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDZfN3VhVW56Sk5JMGh4VEJINk5oNHFFNkVGclZ2Z2pYZWNmUjQzMm1oWXBDOG5wczNsRHZVSlpTWFozLTJYNWFwZXY3b0h1NUdlT1JPZjNJOGxlckRnalZLcHdDMjlqN2JEcnFJS2NuMXBmbFBRd1NmOTRXbzktcGdNNTZITGFsMGN2a3Y5VEpUVXhhbmtSOG8xV0l6d28waUVBMGxRcHhEVzlKUFNPT0ktOXJHZkhHVlJwVDFFQ2RaUdIBwgFBVV95cUxPY3hQd2Z2RkFUNF9HOXJZdGdZNTIzc1VjX3B6bFFyRTlTNUZKSmNYTEdnb1Atc0tHWlVQenBWTWNzSTFrV0lrcFZ0YTVHczdmZmIxLUVLYUM3TWV1V3I4VGVKbklSWnNEcFl0U05STWVoeTNQWFBLN1Vsa19fUlZkNE1Dd3VuV09aeDBMWFdaczZKdkt2SnlhOUVJUGx6UVVzS0dLTF80cFJIamZjc2E2T01NOW9USDlGb0pVZXJ5NlRHUQ?oc=5"
+       },
+       {
+        "title": "Why UTEP fired Scotty Walden and what it means for Miners football",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVjZMdUxFNDJBMFFEX3BfSzNqQUpvSGZBVm9VVGhFR1hkNnlGLWExZ2liemcwN2xvQzRGVWd5NThzNzNadWxhdzVwM1BGdGVpWEdnSXJUN21tSTBoMVp4VXloTlZqWkphajBYQkxTWUI1TlNUcFVPQVl5dnEycVZfVnFtZw?oc=5"
+       },
+       {
+        "title": "UTEP fires coach Scotty Walden: Who will be up for one of the toughest jobs in the FBS?",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkRzaW41SjRVbHhYMElzUnBVUDFBelNTYkFwZWdHY2dzNXU0NzlINFh6SzRfVlN2QzFrLXp6RXB0NmJQU0ZlQ21iMUR2RWdkQU1XMmtmN3hRN3dzb004RFhHLTJyMG9naGxvME1oRE9SOEVPRFhHX1QxNjhNamJMa0I5R3hSeTFsQ3BBamtKUU41SnY5WVZF?oc=5"
+       },
+       {
+        "title": "UTEP fires head coach Scotty Walden",
+        "source": "On3",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2pWcFBXSnM1Z01adGxyT20xclhPb09tMk91amMzLURvNllRV1JjV3g4bG1hVW1Wa0tqNERNU1pOWndGUThPZTFKemF6dVVHbVJTTXlreHdob295X3BoRXc5TlE1MktnaDQwa1NUblhzS3QyWTVIWGprcFFhWmh5eVZhSjNrZw?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Air Force",
@@ -786,7 +860,7 @@
      }
     ],
     "win_pct": 92,
-    "news": null
+    "news": []
    }
   },
   {
@@ -835,7 +909,7 @@
      }
     ],
     "win_pct": 85,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Michigan State",
@@ -865,7 +939,23 @@
      }
     ],
     "win_pct": 15,
-    "news": null
+    "news": [
+     {
+      "text": "Michigan State has a quarterback question and a latest injury update regarding starting quarterback Alessio Milivojevic before facing Oregon.",
+      "sources": [
+       {
+        "title": "Latest injury update, status on MSU starting QB Alessio Milivojevic",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHZHU2o0UDVTenN4WGMway1ZRzJLUmlCMjZRaU1ud2JLMF9NYURRMnRZWnBTMWRkb2tkVkFQakljdlQzdTg2ZHNBMDdKTF9UUjhrSHZjQjlGZzFtRHJSTGVUZ1RnMDRMTlMzRVdZMlJSX21fT2hFYUN6aEFsU2lLUVhPbzE0RTZrNnc?oc=5"
+       },
+       {
+        "title": "Michigan State Has a Quarterback Question Before Oregon Visits",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0RRWEVrdEZOUkZMVVJlT01NcllIX3hyYjlONEZFT09KUEZldkRIa3VKS1NUVGJ2cDhCUC1Gcng2TEVhVWNZZEp1alM5X1lxWl94SWhDaFZPWmNYdWJjWjBvUFQtdGdyMW8waDhORE01SVpnbXBXSmpXUjYzV0lXR3FkejZjT2ZWNkl2ZC1zczZxekE?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -912,7 +1002,7 @@
      }
     ],
     "win_pct": 72,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Wyoming",
@@ -942,7 +1032,18 @@
      }
     ],
     "win_pct": 28,
-    "news": null
+    "news": [
+     {
+      "text": "A weather forecast is reported for the Wyoming football game against New Mexico in Laramie.",
+      "sources": [
+       {
+        "title": "Wyoming Football Weather Forecast vs. New Mexico – Laramie (Nov. 20)",
+        "source": "sports.betmgm.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXJ3cDluc2pFaHlZZXp3UjJsdTJtellLX2NHbWZlenVoajd5Qms5aHhZOEhwaFBlUGdNVUtNbnpVaHV4YlQzaDZFWTF4b3FmNGpVcnFPNjJpdm0tWmowSGFUWWx0Q09GRDdLRzRqZ21YeXBrRjk0cFB3NS1HTVNOOFRBOWNvUVBaVmZBUlZpQktaQi1IeXQwOEFIU1NoNU5NdEJ5YktqQkV1YmU4Qnc5NXJBM1NjYmR3MmVj?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -992,7 +1093,7 @@
      }
     ],
     "win_pct": 34,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Army",
@@ -1022,7 +1123,18 @@
      }
     ],
     "win_pct": 66,
-    "news": null
+    "news": [
+     {
+      "text": "Sources indicate that Furman is targeting Army offensive coordinator Cody Worley.",
+      "sources": [
+       {
+        "title": "Sources: Furman is targeting Army OC Cody Worley as the...",
+        "source": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLYnZpOW1QcjdMV3pDZFhMem5KQkFXanRjZTQ5cElNSFhPWjM1bzBiQzBRRERObDVBRnNjcnlCdnpVb1RRZTJnOVYyeE4xLWctUEFBTnpDTXkwaFBzOUVhZWowQmZrYVROaWc?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1071,7 +1183,7 @@
      }
     ],
     "win_pct": 55,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Boston College",
@@ -1101,7 +1213,18 @@
      }
     ],
     "win_pct": 45,
-    "news": null
+    "news": [
+     {
+      "text": "A Boston College starting linebacker has been ruled out for the season.",
+      "sources": [
+       {
+        "title": "Boston College Football Starting Linebacker Ruled Out for Season",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEs3cUlZUDNUMFc3dC1uSTRobVRZT1hiLUF2U2xmOFBqaUxSejF3V2lQTjdueVhCNDRjU2p6QXFaWGdtZm50QnNZRHZzSnFSaHdobDV5Q0NCQ1NMa1Z5NUUtajBoZUV1bThjLTZkb2thQXRFbXJUaEdvY0ZwZy03dFg3aXRlQUFQeGxQMjc0eHdTR3dSUnhGY3hEamJwT2EySjJLTWdKblJ4RlZsWXB2UlBhODE?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1150,7 +1273,7 @@
      }
     ],
     "win_pct": 41,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Cincinnati",
@@ -1180,7 +1303,18 @@
      }
     ],
     "win_pct": 59,
-    "news": null
+    "news": [
+     {
+      "text": "Scott Satterfield is firmly on the hot seat at Cincinnati.",
+      "sources": [
+       {
+        "title": "Scott Satterfield Faces Latest Home Test While Firmly on Hot Seat at Cincinnati",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRl95dVg0NEwzclU5dzFLaGxZMHUxbTlUYktzdWNZY21GaWNBSjZvT1ZLclFBLXpJRmFqMUlGc3dvNVYtc19TNjUzRi1tLWMzTk1QcV93aGRFSzljaFJkQUl2Q1ZFdFY1Z1R0bVpjemVSeld1bW5fdWY2dVVEemFHZlJWNUc0U0pkSm5hU2toWlV3SmszdnNoaEY0WVQwS2I5Ni1zVllJQV9sZWprSmR0T3RrcUFhR2FhVExBMl9MUFNUajZEeUxRS29kZ2N0SDdRdm9NZ1hR?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1229,7 +1363,33 @@
      }
     ],
     "win_pct": 19,
-    "news": null
+    "news": [
+     {
+      "text": "Coach Clark Lea discussed Vanderbilt's sense of urgency to make a bowl game.",
+      "sources": [
+       {
+        "title": "Clark Lea Talks About Vanderbilt Football’s Sense of Urgency to Make a Bowl Game",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2hfQ0loZS1waFZub2xNLXF3d3ZkSkZSd29UblhoSUxHV1UwX0RlUlFxQXNjSGpkbnRFdXdQVF9sN2FPdXhBWWp5eE5UeUhNenlRc2F2TDFsTWozeUpjOURZLVp3X191YURVYS1iNHIwZlVLdE5MYXIwYjI2QjZYNXdXNHpmaUdYWkhOOGZWcmdTUV9pMDRZcGl0TkZhZk1xaDV1RDcwYTI5QlQyUzM5NFV3ZkVaSk0xR0JGRWFrZ2szcDcxOFE?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Quarterback Jared Curtis took a big hit against Alabama and injury updates were provided ahead of the Florida game.",
+      "sources": [
+       {
+        "title": "Jared Curtis Took Big Hit Against Alabama, How Has He Responded for Vanderbilt Football?",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUI1MHZ0Q0puOERCZjVGMGp0Vmcwb3UwY3ZoVDJHWG9GMmQxZS1PamVRbS1Ob1c1ZlJJbzh5Y1pZbkFkbHhGbTdVZ1JpdFlMY25Nc3JULXdvbXROckg2TzJKN19IeWRxWTNHekhTVXp0RWxaUU5FZ1BQalVadkRXVkdjaEVxTmVhbldzX2pPeWNTbmkwYzVJckYzandWUnNOMDgwZlJLSjlfWjZVRVRDZUxucGgtWFNBX0F2eVZSTTRtMktaWFo4RU02clFCdw?oc=5"
+       },
+       {
+        "title": "Jared Curtis injury update for Vanderbilt football vs Florida",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2Y5MWdwV1NqYWI2dGs5TG9jOWlTQUxSYUJDMzRlaTlCRmstTk83TTN2eDRhRThkNmdsNEhURTEyVDdVcUxsQnRLQVByY3RxU0lacnByc0RnRTBublowNFBzX3pjeGphbGRoWE9CWGVBTkFPMmJxRzVXdVFYNUo3dXg2dmN5WUVWbzNsYlpjeW9YZw?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Florida",
@@ -1259,7 +1419,7 @@
      }
     ],
     "win_pct": 81,
-    "news": null
+    "news": []
    }
   },
   {
@@ -1308,7 +1468,7 @@
      }
     ],
     "win_pct": 90,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Georgia Tech",
@@ -1338,7 +1498,18 @@
      }
     ],
     "win_pct": 10,
-    "news": null
+    "news": [
+     {
+      "text": "Georgia Tech is evaluating whether they can be successful using two quarterbacks ahead of their game against Wake Forest.",
+      "sources": [
+       {
+        "title": "Three Storylines To Watch On Saturday vs. Wake Forest: Can The Yellow Jackets Be Successful With Two QBs?",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWGhCQVpmc1E4NVpGcVdkMjFrR3VEcmRTd2l3TmtCMVVaNElLSUotcm1mczNxOUw2N250bUFqWGNYMEkzcG44WGVHTlAwSXhieS1MVW03MHlBd0o4RTh6WURabHoyejZEUS1YQ1lfMElyRWVLRmRDcWtDUEg1eUVSZXpYMEttLVZ1U05Ja3JDMHdfdnRNdElVX2RENHc5c0lERno1Tkh3dGY1NVRhUWRmem9RVG5faGhycEdZVGJRVms4OHRFUkd4MU1Wb2ZBbEkxUG9rSVBtRElVNVdRWnFUQk1SY1lSbXZ0VGhzUkNOYkxqbFQ1ZkE?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1387,7 +1558,23 @@
      }
     ],
     "win_pct": 66,
-    "news": null
+    "news": [
+     {
+      "text": "Aaron Roderick explained why LJ Martin sat out the second half against Baylor.",
+      "sources": [
+       {
+        "title": "Aaron Roderick Explains Why LJ Martin Sat Second Half vs Baylor",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemg4OVpBNjdyUnZGUTVOV21zLU42eWpudUp2M2NiRnJrSnYwT2t0VzlISFJyaWZITExZNGt3ZmJmWHlXNTh4c1BiTkVLdmU0Z2dreVlPVVkteTVTQUJNQVNzcWV0aFRuVmdiN2lqemJMUTIxeXNIQjBzTkcteFB5TER1ZnhrQnF6NEpBd1c4RW9nVE51X0RQNWNWdVRoOEVUMWdOZWlB?oc=5"
+       },
+       {
+        "title": "BYU football offense report: Cougars' struggles still enough for a 21-point victory over Baylor",
+        "source": "Lawless Republic",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkt3dTlTRmpUSE1yQmltSl9GU19NYzFUcnE5REo3UWxDQ3lvNWpiYUJITndrenhkQUc4dFdJTGhrNVExT1AySm5zNG1BV2J5WTdKdlJUczRveGp5SVJYdnZYY1JqUGQ5c05IaUN3c2dlM1VzYzh6NWpJS1VjQmpNbTI0VzQ1dHlUUVdyQ2RQNGNoSm5EUllOY0JwdEVTZGpXd3JUcEg3TXRpQlhCUkNLeU1POGgyNEY1OHhpU2h3?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Kansas",
@@ -1417,7 +1604,18 @@
      }
     ],
     "win_pct": 34,
-    "news": null
+    "news": [
+     {
+      "text": "Kansas provided an injury update regarding Kohl Rosario ahead of the upcoming game.",
+      "sources": [
+       {
+        "title": "Kansas Jayhawks news: Kohl Rosario injury update, Kansas volleyball sweeps No. 17 TCU and more",
+        "source": "Through the Phog",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTRvX0FKUGQ2Ny1rTmlMYWZHbmR1cHowZGgwRmE4Tmg3MGxzQng3Q0R6bUduSERkUklUUWcxRkdVTWtBRndCRDZYS0M1Zll4VEhtV0dxQ0FobWJBTTlBSFVtdURrOE84cXB3YWI2R0k0N3NxdkVETm1yVTNESE9NcnUyMUVIRzUyV2lZOXlWUnE4dFF4R1lCQWw3bkR6RFhLb09xdnNnWlJpZFpTajcya3RLSlBLckh0NlE?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1466,7 +1664,7 @@
      }
     ],
     "win_pct": 58,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Minnesota",
@@ -1496,7 +1694,23 @@
      }
     ],
     "win_pct": 42,
-    "news": null
+    "news": [
+     {
+      "text": "Head coach PJ Fleck fired offensive coordinator Harbaugh.",
+      "sources": [
+       {
+        "title": "PJ Fleck, Gophers Lose Two Recruits After Firing OC",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fa1lNTVV0NjJ1ODdYcGs4clJDVWRLMEtyV3EycVE2eXR1VjZtWUcyeXI2azlJRE5WeGdNZGk5SG9VZUtqV25aZVZvYWtldzg0ZUgxSUhBUmhaM2xVRlZ1WldlNmdkaHp0ZWFBcGpQTGx4S3pCRkJqTjlqQ3I1b2c?oc=5"
+       },
+       {
+        "title": "Fleck said firing of Harbaugh came down to ‘feel’",
+        "source": "InForum",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFM4VDNZMzRLNVRwT2xETExBVDVTNFlFdGxHUDVROWZ2OEo1MXhuMzl5bXhrNnFJUVliNGlJQjg2WUhpSUJyUjR1OFBPdU41VkV0QW83MDUzUXNCRmdRcUJiZld4REFwbzFkRVgzSUFONS1CcGM3VDA1dnpqenpMZTBuRFF4dmExcTM2V1d6OA?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1546,7 +1760,7 @@
      }
     ],
     "win_pct": 60,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Navy",
@@ -1576,7 +1790,7 @@
      }
     ],
     "win_pct": 40,
-    "news": null
+    "news": []
    }
   },
   {
@@ -1625,7 +1839,18 @@
      }
     ],
     "win_pct": 59,
-    "news": null
+    "news": [
+     {
+      "text": "Head coach Ryan Day provided an injury update indicating it does not look good for an injured starter to return this season.",
+      "sources": [
+       {
+        "title": "Ohio State HC Ryan Day gives injury update that doesn’t sound good for Buckeyes’ chances of getting an injured starter back this year",
+        "source": "A to Z Sports",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMTkxV1g0UTZwVXpaMXVTeTllTG51TU5FbW1xVXhJMUVfVGFhNHItdTNpR2ViM1M2RFJ2T1puR3VnejQtVGRyNWpaV01wRE1JN2h4VWplVkg0VG16STREbHdLbnlEbmJyTHJjZDZHenk3TWFDZ2FiZ09RQlR0RWxhcW1YUG1yS1UxcGhCU3RJb1k5WXZkSHM5TW1mbk9xNjBwNFRYM2hmTWZuSW1pSzdnRktIajFUV1Y2U29xb3BmZ0c1VHJVeUQtQWktZkI2Y3F3LVJB?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Nebraska",
@@ -1655,7 +1880,7 @@
      }
     ],
     "win_pct": 41,
-    "news": null
+    "news": []
    }
   },
   {
@@ -1690,7 +1915,7 @@
      }
     ],
     "win_pct": null,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Ole Miss",
@@ -1720,7 +1945,7 @@
      }
     ],
     "win_pct": null,
-    "news": null
+    "news": []
    }
   },
   {
@@ -1767,7 +1992,38 @@
      }
     ],
     "win_pct": 66,
-    "news": null
+    "news": [
+     {
+      "text": "Wisconsin's quarterback situation has grown more complicated following their loss to Maryland.",
+      "sources": [
+       {
+        "title": "Wisconsin’s Quarterback Situation Just Got More Complicated After Maryland Loss",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMk1McFRsT21FLUsyeEp1OU1icGlpU1BGUVBuRF9ILWZUaU44b1E4enJOQlp6cUVuaDBFWnZSM0phMlVjdlJVQWgxVF9hRGFSUGtFRURCY0VqWDBKY0ppeDNxTEFMMDMyWklFTkpuaGc0dE9YTFp0TjRUVFg2WEUwQVdLVXBvYzBNVk1IM0NRaVliM3R5OGN5MmgwbzQzWjlFQzU2NVBrTktjanIxeHlUMlEzYzdoTFo1cXJrV19EZWdFNHM?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Wisconsin's secondary is currently facing trouble as they prepare for Purdue.",
+      "sources": [
+       {
+        "title": "Wisconsin Football's Secondary is in Trouble—And Purdue Could Easily Take Advantage",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGtRX3ZDd0F1eS1COFVVSncwVlB1by1ha2doQ3hnSEFndUpZNTEtX082SktYMmpRYjdoQmppWEc2RXB0V3NQc19GM1BjaGEzaUlPZUUyU0FHRHhubW5JbnEyOGpzSE5jUVpsWldWcTNrQmtkX0dhX1poYVV6dXpfS2RKOHNpMXhDcEUxNzRteGJYcVdmcWdjN2dCcUh0NEQydG45V3dLNU90S0NoT2U2WGdVMU5WOVRBU2Z5TkpRRzZDS1I1RkE?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Coach Luke Fickell addressed the team's offensive struggles and uncertain identity.",
+      "sources": [
+       {
+        "title": "What Luke Fickell said about Wisconsin football's offensive struggles and uncertain identity",
+        "source": "Dillon Graff",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjVIUUVURy1vT2l0bUNCaVhfS1U5ODJPN0I3SVNzcjBuMnBVUHREaTFoLWtTSlRuTWZUVlpIWmpNdVVuVDY3Ynl5MGE4NS1jSHdMQnI4WTlBU09ubk1ONDBseXdmdFVPVW1qeUEzb3NPeUlmc3ViX21GSHNramRNM2NiMUpFcjRFT0NvcTRsVQ?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Purdue",
@@ -1797,7 +2053,7 @@
      }
     ],
     "win_pct": 34,
-    "news": null
+    "news": []
    }
   },
   {
@@ -1846,7 +2102,18 @@
      }
     ],
     "win_pct": 68,
-    "news": null
+    "news": [
+     {
+      "text": "North Texas quarterback Tayven Jackson may be done for the year.",
+      "sources": [
+       {
+        "title": "North Texas quarterback Tayven Jackson may be done for the year",
+        "source": "Lyndy's Sports Annuals",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2xUeFZzNHRJQUpudS1CRjEtUGtrN29yYVk0Nk50djExVTExbnhHWlVKcFo3RlBtZWFZcEx0Q0oteXIzX3FuWXFsYng2U0hfcEMxcHpjbFhrWUJ3UHY1NEZfbWxneTd0ZjhDcGJNRklPZWhGdFd1Y21kREFMd0VOQ0FQWVN0MFRtVHc5enR1SkpiaFEtMWlLQ2dwZnJYdjVCdEk5cjBlMlo?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Tulane",
@@ -1876,7 +2143,7 @@
      }
     ],
     "win_pct": 32,
-    "news": null
+    "news": []
    }
   },
   {
@@ -1926,7 +2193,23 @@
      }
     ],
     "win_pct": 48,
-    "news": null
+    "news": [
+     {
+      "text": "A wrist injury will sideline UNC's Neo Avdalas.",
+      "sources": [
+       {
+        "title": "What Neo Avdalas' Injury Means for UNC Moving Forward",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0c3bkNkajVaQ3J1dEVFS1k1QXZjb0lHanRKelpRekxWbmxrRDhpMUJBRzg3Z1NOMEhzVVJZMC1ibU5IcFpGejVSUDRKLUkwSWNRRHhyUTY3ZWxHRGlVV0EyT3N4U19MQnlHb3ljaVM1VENzZXg2WVJaWGpkMzFNZS1FNGlvelN3bTNQRjZB?oc=5"
+       },
+       {
+        "title": "Wrist Injury Will Sideline UNC's Neo Avdalas",
+        "source": "On3",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjZTOFFPMERiLXktUkJXNEw2TFVwd1hPRjVUbkRWeU5XTzFOTlkzNTRJbjJPQUpaWG04SjRUekVlLTlSMXhlSHZiX0hhWTVpbG43V1BRUUtvYlBlRkh1WUFKR1NzRkwydV8tN2VkeHNyeDFRWGh5RndSTndmWU1RYk9vd1pnU1Q1QXhzZDNWUGVMb2xC?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Virginia",
@@ -1956,7 +2239,7 @@
      }
     ],
     "win_pct": 52,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2005,7 +2288,7 @@
      }
     ],
     "win_pct": 14,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Liberty",
@@ -2035,7 +2318,7 @@
      }
     ],
     "win_pct": 86,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2061,7 +2344,18 @@
     "ats": "ATS 0–0",
     "last": [],
     "win_pct": null,
-    "news": null
+    "news": [
+     {
+      "text": "AJ Swann's injury status remains unclear ahead of Tennessee Tech.",
+      "sources": [
+       {
+        "title": "Why AJ Swann's Injury Status Remains Unclear Ahead of Tennessee Tech",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0J0VnUxT2lmZlQxdm1SbU1MMjAwSm5BanJVbU16Znhwa3FxNWRyWDRMWVNDQTlMWkZ6bzI1a0p4YU1ZVWVUWVFUX3RaNW5NbUpYc2w5MnFRMXZ4aGl2MDFUZ2E0SjRjVHdsZ2Q2d1hpdzBsVzZhazNHZFNINU1tbXJtSWxkRUt3UHFEWEltUVlBNFNDWjVnZVJqN09YRlBVN2g2QjhjV1I5bEZzUzFTYVc3R3Z1Umdrb0hqNkFR?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Mississippi State",
@@ -2091,7 +2385,43 @@
      }
     ],
     "win_pct": null,
-    "news": null
+    "news": [
+     {
+      "text": "AJ Swann's injury status remains unclear ahead of the upcoming game.",
+      "sources": [
+       {
+        "title": "Why AJ Swann's Injury Status Remains Unclear Ahead of Tennessee Tech",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0J0VnUxT2lmZlQxdm1SbU1MMjAwSm5BanJVbU16Znhwa3FxNWRyWDRMWVNDQTlMWkZ6bzI1a0p4YU1ZVWVUWVFUX3RaNW5NbUpYc2w5MnFRMXZ4aGl2MDFUZ2E0SjRjVHdsZ2Q2d1hpdzBsVzZhazNHZFNINU1tbXJtSWxkRUt3UHFEWEltUVlBNFNDWjVnZVJqN09YRlBVN2g2QjhjV1I5bEZzUzFTYVc3R3Z1Umdrb0hqNkFR?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Coach Jeff Lebby addressed his job security amid the team's losing streak.",
+      "sources": [
+       {
+        "title": "Jeff Lebby Addresses Job Security Amid Mississippi State's Losing Streak",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGtfX3FBVzZES0Rzdmswa28ybGJidXJzRFI3WXdXNk04cDVBektrZTlvRkM2eTBZdTIzelZqYkJpWHU2d2hLRW04WTlBd29SQkRYdDJDdkJpTFRmcU5ZNkFIY3R5b21ZSUZBQk9FTEZZeDd0LUpWSVdWemV0Y0VENEpCUmw4WUhuSnRzSnRIcENjdGFJSFJUMk8tRGNVOWZIZEdkVkdLR1FoYjFJYzVNNUcwRHIwbnBiNWd3RGRNa25OcEU?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Coach Jeff Lebby fired two Mississippi State assistant coaches.",
+      "sources": [
+       {
+        "title": "Why Jeff Lebby Fired Two Mississippi State Assistants After Saying He Would Wait",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOcm1saDNPRW1XT2l0Z1B1N2lTX0I5YkQxWEFyeUtWUmkyNkY3OHljMDVzYV9oT1NTZ196Rm9qNDI3aXFlczhuZlVGSENRWnVVTWl3cFhrN2lJb1RZU1gxdE95UEFRT0UzS0N2ZWE4TnNWdkJ1NFVUNy1OcVFmQQ?oc=5"
+       },
+       {
+        "title": "Why Jeff Lebby fired 2 Mississippi State assistant coaches a game after saying he wouldn't",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wS3E1UWhGbXRGSVhQeFJ6SnhsUzBJbW5CV05JemlUY2VPdVVreFpZZk5ORTJIMHVuRmplMGo0dmZielk3dEJVbUZnVE9QNFJlU2hiZVZrblJVSnk2UFJiZE56NDFLSm9JZjI3dXpLdTVJcnlKcUlMQVVTNA?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -2141,7 +2471,18 @@
      }
     ],
     "win_pct": 73,
-    "news": null
+    "news": [
+     {
+      "text": "Houston faces a tough decision at the quarterback position between Weigman and Keisean Henderson.",
+      "sources": [
+       {
+        "title": "DILEMMA? Houston Cougars \"Face \"Tough Weigman vs Keisean Henderson DECISION for QB Spot",
+        "source": "wtsp.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa09lOWV5bWJkakE4dGM5LTljUjE4LTNzbUdHREEtWmdoZ0owRUNPTDgxNFlseWc2VlBuT1l4YmZDLXh1TGpJVVpuUE5hZFBsTXJQTHpKS0lUTTZka3dyVGxubzhOZWtqUzJKOHhjWjVqTnF1TGFMWUV5T0F6RmNRdlI0RTdNUkpyTUZJNmVRQlc5TVJYMmdwcGJET2REVWpBMmhNTU1fLTIxMmY2bVM5Sm5rLVN5bXpIMVQ0YXNrMW82STVaYUhGUjd4cnBoSXdVM0UwWG5MUEVIZm81b2R1bm1pbGVuSDZMVGVmdXFMUVR0bVBCSlRiLTFNdFVMWmU1Mm11VEVCalFlMFJDN2tSd09EZnM1Y2ZZLVkw?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "West Virginia",
@@ -2171,7 +2512,33 @@
      }
     ],
     "win_pct": 27,
-    "news": null
+    "news": [
+     {
+      "text": "WVU quarterback Mike Hawkins Jr. is considered questionable for the upcoming game against Houston.",
+      "sources": [
+       {
+        "title": "WVU QB Mike Hawkins Jr. Considered \"Questionable\" for Houston Game",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnFCOGhyMUhYU1RmU3A1Nmp6R0JvX3FzQ05mbnZVcWJhMkN0MmJld1VseVFGeTJtVVM3Vl84WkFYUmgxVEtGQXZYRDdKVHJ5QmQwcHdYSnBmN2JlSVZRLVdpLWM4V2J2QkQ1M1B5ZktLS21OVUc3VjhDS25WZk12SC1fT1dXemNQRWxZZFVyQkVrdndHZ1c5c2tyaE1ERU85Wi1DRGNGWC1hQndKeElDWWxB?oc=5"
+       },
+       {
+        "title": "WVU Doesn't Have to Choose Between Mike Hawkins Jr. and Fixing Its Defense — It Can Do Both",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekhjUTBQdnU3RkVqY1lVeXB4UUMyMTduOVQ3QXYzQmN4V0JkZkUzWEI5dE1wVDVLQnIyZUtmNjUwTzZCV0lBV3R2eTRaMWRLYlUzNXFCSVVlVW1ZdlFYeWNoWmhWYW4ybUcyTUJiT05MdHIzV1BxSWxwRlNGMmxhblVoS1RQb0JtQkZBa3FGUUVkUWlzMFdSeTRWSkI1QzlGNjlsR3hpamduX2o3WG5CdGZEUUhSTUo2dDNOYUVTWjU5MTctNjFsa1VFX18zX2lqVEk0?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "West Virginia wide receiver Jaden Bray has been ruled out for the remainder of the season due to an injury.",
+      "sources": [
+       {
+        "title": "WVU WR Jaden Bray Ruled Out for the Remainder of the Season",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUFmQjZrVkc5RnROaG1vNzFRTlBpWFJZcHlhd3JrQkZ5UTlQcE14WEkyeGNTLWJ0Njc5Zld5SnBBWVJHd2pGWWNOV0k4cTZwU1N1bzZNTzNUUk1sMXM1ODQtdjJaZWhBUUM3Nm5Rb0VZSzFBbUJMcFB2Q1phb2FkX210SXdkdThpR2NCZlhpODJ2WmhUYWJ2aWVCWTJYWHIycGNWQkNmSEdQZy1z?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -2199,7 +2566,18 @@
     "ats": "ATS 0–0",
     "last": [],
     "win_pct": null,
-    "news": null
+    "news": [
+     {
+      "text": "Chattanooga punter Heath Jehu was named the SoCon Special Teams Player of the Week.",
+      "sources": [
+       {
+        "title": "Chattanooga Mocs punter Heath Jehu named SoCon Special Teams Player of the Week",
+        "source": "Local 3 News",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTUVfQ3Q5X1o4OFpjNm5jaE85OF84RXdRVUE0LVJXNUl2aE1ZZ0U5NGlYOFRZT0FMRFY1bldJVEg4WEM3ejYwb3A4SlVhS3B3RUNVc2NlZF9FWk5BWWRZUm5GeW5VWG5HT0RVd0JCMUdjbldZUlJRX0JJa3FtelNXeXdMY0VpN2plOHg2eXk3c1ZTMExnMHQxTjBNTEZzRFc1QURrRFRCV3BoakVzTDNXeWM2TlY0c0xZb1hya1NPa0FMLTJDeVdaMmlWcWlDSFgzQXVQb2VFWHIxSEJrOFRQaDdGaHNNNFEtdDdHUzRfeE1rT1FySElpUnFEa0NiUQ?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Alabama",
@@ -2229,7 +2607,7 @@
      }
     ],
     "win_pct": null,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2276,7 +2654,7 @@
      }
     ],
     "win_pct": 23,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Jacksonville State",
@@ -2306,7 +2684,7 @@
      }
     ],
     "win_pct": 77,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2355,7 +2733,7 @@
      }
     ],
     "win_pct": 66,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Sam Houston",
@@ -2385,7 +2763,7 @@
      }
     ],
     "win_pct": 34,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2432,7 +2810,7 @@
      }
     ],
     "win_pct": 8,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Tulsa",
@@ -2462,7 +2840,7 @@
      }
     ],
     "win_pct": 92,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2509,7 +2887,7 @@
      }
     ],
     "win_pct": 17,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "App State",
@@ -2539,7 +2917,7 @@
      }
     ],
     "win_pct": 83,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2586,7 +2964,7 @@
      }
     ],
     "win_pct": 51,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Florida Atlantic",
@@ -2616,7 +2994,7 @@
      }
     ],
     "win_pct": 49,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2665,7 +3043,7 @@
      }
     ],
     "win_pct": 73,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Illinois",
@@ -2695,7 +3073,18 @@
      }
     ],
     "win_pct": 27,
-    "news": null
+    "news": [
+     {
+      "text": "Illinois wide receiver Hudson Clement will miss the rest of the season due to an injury.",
+      "sources": [
+       {
+        "title": "Illinois WR Hudson Clement out for season",
+        "source": "The Champaign Room",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOWswSWVQTGNITFVVV0lLLU1UcEdJQVZrVGtoSW5Ecl9CNHpCQmlHODVPSWR1WnQ2Qm1YNjU1Z295MUN0eW9JNHRHTFZ5SkZidlVON3U5ZHhOUl9xT256N0NsSmhYaWZOWW9UcmpscVB2QWgyb25WcXJmeFF0a3FoekdQVC1lWkJOUHZHQUlqSlZiblNMQjJVYjkzRlZrWmhqXzNDZUNmY0lvLTFGZTFuWnh3ZV96MFZjenVUREdOSm9jQ0ppSmdJSEVuNmFqVGhQUUpzZmFGUHhxaUdhenJWWjJBdVFaYnZIdG5YZ3JRUWY5bDFzQS1sb004VUVWUzlTc1pSdg?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -2742,7 +3131,7 @@
      }
     ],
     "win_pct": 40,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Kennesaw State",
@@ -2772,7 +3161,7 @@
      }
     ],
     "win_pct": 60,
-    "news": null
+    "news": []
    }
   },
   {
@@ -2819,7 +3208,7 @@
      }
     ],
     "win_pct": 23,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Louisiana",
@@ -2849,7 +3238,23 @@
      }
     ],
     "win_pct": 77,
-    "news": null
+    "news": [
+     {
+      "text": "University of Louisiana football player Ashley Williams was carted off the field during the game against ULM.",
+      "sources": [
+       {
+        "title": "University of Louisiana Football Player Ashley Williams Carted Off the Field in Terrifying Scene",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDhQZTl6OE5DaTBEZkljVkk2OWE3eDBFV3BMOVV0ZEJxcGM4UXdkLU9xU2g0NGQ4ZG1FYU92VVYyQWR2SWJiY21tNWU4cm55Vm03a3JyTHBZTHA4aGhGTnViT0t3cjhid0N5X3AzeG05X0VrQzVaYUhjWm9oREhaRjFvR0IwLWFKWUJ6MmhMTlpyUmpqR3M4?oc=5"
+       },
+       {
+        "title": "Louisiana football's Ashley Williams carted off the field vs ULM in Week 11",
+        "source": "The Daily Advertiser | Lafayette, Louisiana",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVhPa3RRYXBweGJ1ck9mNk90dmRJeDgwWjFJbE96U0tGOXhXOWJ3aDVDTDFZU2xYN2VuWUwzSGdiRGVSVlBzYVlLdmJfLURJSEd3TFR6S0NQUHVxZXVHVERtRW9aZnlyUDR1ZmRSUmgteVhQTmxEU1p2YUl2bWcxOGJKLWp2RDZTa1BERERXUE9YVHJHM19Ia3RVYkdNMllyVWNkNEprTFNDdG9tbEZRR05FUTlqcGozQk05aDU0VTdSYUZaWWdNUE1TZlFoWjhfOS1EazJGbzNxS0dB?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -2898,7 +3303,7 @@
      }
     ],
     "win_pct": 60,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "New Mexico State",
@@ -2928,7 +3333,28 @@
      }
     ],
     "win_pct": 40,
-    "news": null
+    "news": [
+     {
+      "text": "A New Mexico State player returned to the team after being stretchered off in the previous game against Missouri State.",
+      "sources": [
+       {
+        "title": "New Mexico State player back with team after being stretchered off vs Missouri State",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkZIcE4tRk93bWpRdnJTaEpWWTZXcllUSXNnd3BuWDFacGJyMFF6bnp5T0drTVY1dDVWWG1Kckh2aF9RQVRWdS1sc1hWVzI5ZDlody1lbEpUYTdlR0IzSGVpWkRZSV9Wb19XcW5GVkxQc25JMjRHTkQtdXJ1alU2V3FPQlc?oc=5"
+       },
+       {
+        "title": "How Missouri State football won its first home OT game in history",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDB5NzNPYThVOGIzYTNlaFZrblRSaDVhSGpVMVh4Wk1tdzB6XzY5QVhIaWdRVHhJNV9XRkpBN1ZwQUJTUEszaTlWVXJlNk80UDhYOEgtUlY0alFxeHlRYXdDalhhQkY4eDk3SXhPNHZ1M2hBNzczWlZSdFpOelBFTWk2eHJSWUlxSHc?oc=5"
+       },
+       {
+        "title": "Missouri State 27-21 New Mexico State (Nov 14, 2026) Game Recap",
+        "source": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZDFTZGJOSjlfUVdKV2pjeV9jaktGV1p4ZnJ5YVo0MHpCd1hsQnlJWVpYVGdna2hyTnlObkNkM2Y1NnBhdGFQNmtYY3lHS0JSMjNNMWxaQUZVN3NSWjhNNkZKRElUWmVZUDlqWA?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -2962,7 +3388,7 @@
      }
     ],
     "win_pct": null,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Auburn",
@@ -2992,7 +3418,18 @@
      }
     ],
     "win_pct": null,
-    "news": null
+    "news": [
+     {
+      "text": "Head coach Alex Golesh detailed changes made during recent travel issues and a rescheduled kickoff.",
+      "sources": [
+       {
+        "title": "Auburn HC Alex Golesh Details Changes During Travel Issues, Rescheduled Kickoff",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNalI2V1k2bEVSdldtYWxEMDhhMGxKQ2p4TU1RZFU4TUR1WDgzelZ5OE96QUNZTzFIb2J3VWVPOEt6U3RnYTNyWmFucEdBQmpCWTdtZEJhLTdhdTBOTG9NVThoM2NGdGp5S3c4RkVsblRWUUN4WGRtNEhhbWNxUTRQYVR3YWk1UC1GRU04TE5jR3ZqU19Mc09kVEdKQU5kcWthd2x5X0NVZ3BfSVJfQ3VtaGlwMEdEd2RBNVN4a2RB?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3041,7 +3478,28 @@
      }
     ],
     "win_pct": 60,
-    "news": null
+    "news": [
+     {
+      "text": "There is an injury update regarding Thomas Castellanos.",
+      "sources": [
+       {
+        "title": "Thomas Castellanos Injury Update | Leftwich Being Targeted For A HC Job?! | Texas Tech Football News",
+        "source": "BVM Sports",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3lxQ3h0Mm1mVllIV0NzWDNQeXpjb0tSS3hreGRpWEl2aE5CdWdHVlJyQW0xRzFxSDZ6czhRUFE4YjdLMFNYX0dNbVlscTFiemlaTU96YnlYUjZMdzY3NzRpVDM4X1JqUFZwUElvTWM0UEM5RlJZajJUdTZyZDNwdWloZ3RUOUFCM1M5c3ZzQ19VVjNqeUU0MmFrRl9EUWZQQjVZa2RTanZyd0k1V0VfdlBGQ1RqbHBfVVllNEVEckhPVUFBZmdB?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Leftwich is being targeted for a head coaching job.",
+      "sources": [
+       {
+        "title": "Thomas Castellanos Injury Update | Leftwich Being Targeted For A HC Job?! | Texas Tech Football News",
+        "source": "BVM Sports",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3lxQ3h0Mm1mVllIV0NzWDNQeXpjb0tSS3hreGRpWEl2aE5CdWdHVlJyQW0xRzFxSDZ6czhRUFE4YjdLMFNYX0dNbVlscTFiemlaTU96YnlYUjZMdzY3NzRpVDM4X1JqUFZwUElvTWM0UEM5RlJZajJUdTZyZDNwdWloZ3RUOUFCM1M5c3ZzQ19VVjNqeUU0MmFrRl9EUWZQQjVZa2RTanZyd0k1V0VfdlBGQ1RqbHBfVVllNEVEckhPVUFBZmdB?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Baylor",
@@ -3071,7 +3529,7 @@
      }
     ],
     "win_pct": 40,
-    "news": null
+    "news": []
    }
   },
   {
@@ -3120,7 +3578,28 @@
      }
     ],
     "win_pct": 24,
-    "news": null
+    "news": [
+     {
+      "text": "NC State has introduced Philip Rivers as its new head football coach.",
+      "sources": [
+       {
+        "title": "Former Wolfpack football greats endorse hiring of Philip Rivers at NC State",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdklVTGYxYlFuVURsa2dqNHZ0YXFHZ1F1cUNLeXluY01GYTdkSEtUeF82V3N3elVOQTQ3WTRWUENCeUF2TkoxQmxYY0poWEJRbXEyTDhtaEVmMkNtUmtoZ3kyYTB6LVdvS1VUelVBTHg1Qkh5UzBXQzlhTlY2TzJXd25SNkRQakp6NU9FWE5GdWtNQQ?oc=5"
+       },
+       {
+        "title": "Nunc coepi: Wolfpack begin again under Rivers",
+        "source": "The North State Journal",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFhhdVBFY1NNWTFURVhxRS1fVjJleWxodkZla1h1THBFZjZJd2h4dFE4alBZdjlkSXFOZXFKT0thLVo5QTZhSXRpZGxzMnR5c1VGcjRnbERBOHJMUmtIYVZfNEY1UWRSMjk4MFZDWUNoSzBzbjAzb0EzMlhFZlV6bWZFbE5hWjQwV0pN?oc=5"
+       },
+       {
+        "title": "Coach Philip Rivers | NC State introduces former Wolfpack QB as new head football coach",
+        "source": "ABC11 News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTJLU3c3Ny1BUXJ5c2ZONkYwX3g3blkxOEh6bTJPNTNUVnE2cXp4dE5jRlJSYWhkLXdXWVRMNThoRjZJZTBKamE5d1RwQXN4ZlBxME52ZVRUWnZKTmVQVFM1ZVg2Mk8xaGdFem03RTZBeGVsNGtKTWxEOUFQTElYUGVVZFplUVJoRFdnVU53U2xfOFRCSXNneVJkRnVNeWp0ZGRUVXkyd2NkR1VWSmfSAbMBQVVfeXFMT0NuT2FPUGtFWU53LUQzRzhDbm9LQ0xQRVJZQWNkUmIxLVdFNjk2dm90VkdlQmJqRk1KZzBxMlpvMUtwd0lfSVlMU3RsU2tsSlZGWGpjei1ma3pwMVV4UlMxUTVQM3k2VWNQNTVqa3FsOC1TVHk2bUNWVmRoX3U1UklXR09OZVFNSjJhdlZSVUxsSkNKY1NSYUJYMm5nMWxLWkZvWHd0NTViUEdNYTZhYmQyU0k?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Florida State",
@@ -3150,7 +3629,48 @@
      }
     ],
     "win_pct": 76,
-    "news": null
+    "news": [
+     {
+      "text": "Florida State is dealing with an extremely thin and emptying running back room.",
+      "sources": [
+       {
+        "title": "A name to watch as Florida State seeks to aid extremely thin running back room",
+        "source": "On3",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd1g1eFF5aEdiT3RuV1hNNloweXhkZGRxcUVEc0dUYVlZZ3RCbHZGcVBoQ0hNTGgxeUNCaXgxeGxmZGpTaDFFeEJTMTh3WGNrMTBfWnc2SWNVR1Q2dXRRSXZjdWZrYndlNjhKamU2S0x2NWJQSnh4X0VjbmFvSmJSdVNnX3BLUGRBSE83TC1BZlpiSmlDc1JF?oc=5"
+       },
+       {
+        "title": "FSU football scrambles as running back room empties",
+        "source": "Tallahassee Democrat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRzVWeDRIdi1rTjVjcVhSb0ZEU0FDWnJxMHNCeTcwckV6S2huODU1aFFzME43aFhlN2J2Ml82T3VfdTRjbHU4QnZGR2cycTlGTF9rMzlWRWRvdnNsNkdoS2dGWjdCVURxMGoyMFVNRG56YUkwOGd6TzYzcU5RbEdjSnZ1TF82eVJpd3czYlp2ZDJMNy1fR09JQTFCbHVDdTJiUkVSejU3bmFvNlljMVB4RXQxQVRZUGQ2XzVFdWpKWVp6OVozbjN2OUh6VmZZLXp4b083VjVDbGc5cVYwLWIwVU1vQVVDWXpCSnc?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Rick Stockstill provided an injury update ahead of the game against NC State.",
+      "sources": [
+       {
+        "title": "Rick Stockstill Gives Injury Update Ahead of FSU Football vs. NC State",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeTVrbERaWmpiQ1c3LTh5a1ZUbE5PV3hQb25XNnBKaFVKbEdURXV2OTJrWFlISVRwUFdyeDl2SXBCdDlTa1VPM2xWWjY3SmdUMktjUE5vYmZkWlY4TTFvNkQwblVLQjFNOFVvRHFqWmk5Y010TU5TSkZLUmZndkJnbTRkdV9EaEh1c205RGNLZERiSGFiWDZZa1lTUDFoendKR01JVUx5bWdaQVhudG81N0MybWVWdE5yOUtDLVdRZlljakc2U2liNFVn?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "A potential reunion with Jimbo Fisher appears to be gaining momentum as the coaching search heats up.",
+      "sources": [
+       {
+        "title": "Jimbo Fisher, Florida State football reunion appears to be gaining momentum",
+        "source": "The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2pWbTBZRVNlem5NLTJmLU9PWkJXUVRoUTM0VXlESmo0dnNZTHVkNF8tQ1l5ek9GcmpGNkFxczFXTklWazFsSU1mVnZNSWxNaGxCR3h6dDlfUFVMRzJqYzVFM3EtcEdBeWJWdkJWXzh0ZURDUm1KYWszMjV4MWZjWUowM0U3REJSYkNKVzBialBtVXcwdTY2TlkzQ1M?oc=5"
+       },
+       {
+        "title": "Florida State intel: Top names to know as Seminoles’ coaching search heats up",
+        "source": "On3",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3I1Sm5BOWNJWnhaNjR2d1F0azBXcDZpam5UTEJLZWxKY0JGS1hTa19MS1gyQkVzMUF1eHRwZlMwLVVfa0g3bTZVRlNsZEc3M05wazRGVWFURkJaZ0J6MzF3dEZOTVlDVDUzamdUQl91dm5fY1Q0SVEwYy1jNXRZUmVOMjAzVlE4ZzJiZDNWanpkcFFMTEJzeXY0TUxwUW5PbzdVQllFWS1JSUJlQ3JPUXFfYlBZdkVjc0U3WWNobnZELVZVNnRtanNBbw?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3200,7 +3720,7 @@
      }
     ],
     "win_pct": 62,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Michigan",
@@ -3230,7 +3750,18 @@
      }
     ],
     "win_pct": 38,
-    "news": null
+    "news": [
+     {
+      "text": "Accuracy issues have plagued Michigan quarterback Tommy Carr in recent starts.",
+      "sources": [
+       {
+        "title": "Accuracy issues plague Michigan QB Tommy Carr in recent starts",
+        "source": "MLive.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmV0SGxOV05hVFRCaWU4VjR0eVZvdTV3aWZMWjg5Y1hNb3NSR2pVQ25XOFlKQ3VJQU9lZy1iVjU0NDA3d01ULXlxSHFJQTF6ejlCZTd5TWtWVmlwWUJZQy1YUWVSZ0tfOVE0bkNOVm5ndl85YVdUY3VkUE1DWmpiMjFuQ0Y5QWdPbmJlMmNaU1RqMXplTlpidjZ4RVJGbGJfVDhKQWFvaFZIZFV5cmJpMGdWaWctRFFq0gHMAUFVX3lxTE1nZHRQS2FTNW8xZkZDbjZsbDBwZHZ1X29jUTh0aU0waUFvb1dlbU9kUUlSa3VvcFFrOC1rel9ZT0FfNUYydUpiTF93aHczUDduX2dXUk1aQVZNdnBnSHlnd0pVQnlpajg1dUdYbnpWdkNBR0V3OTN3MFNSUGFLR0hoZlhHRnJnUE03c1VucU1FR3pQTmFsZUV5VTR1RC1fMExuVThKaFJ3ZUJlMkY1Rk9JZVF3LXZCamUzUVZqVVFycGFJVEpJZTIzT0tRVQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3277,7 +3808,7 @@
      }
     ],
     "win_pct": 7,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Penn State",
@@ -3307,7 +3838,28 @@
      }
     ],
     "win_pct": 93,
-    "news": null
+    "news": [
+     {
+      "text": "Penn State football head coach Matt Campbell talked about player health and roster building.",
+      "sources": [
+       {
+        "title": "Penn State Football: Matt Campbell Talks Player Health, Roster Building",
+        "source": "Nittany Central",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1F4aklOYjdGSXZjZmI3cmg5Tkc3RU5GZWU4RndGVFVrSVBGYklFVGxwQVMtcWZKODRSR3kwTnkyb1U3WmcyZVBtRFJBaS1jMG0ydFpRdVpOVFJBbnlHR1REUGdDdm5KZEVLTmxld2VPcXVBYXByODg1aS10Z2FoREdFX3F0dkw5c0FpRGdCVUFmNnM?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "There are questions regarding whether the top Penn State running back will play against Rutgers.",
+      "sources": [
+       {
+        "title": "Will the top Penn State football running back play vs Rutgers?",
+        "source": "York Daily Record",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOem1lQU5kSjBYVi1YYW5xblh6UGlsNW5LUUJhUERCaE4zZWpzVnBrTVQtSmEyVEdWbldySVloQktRbTBRbVQ3UVNaWTBVTWJhWlBjY1hEcEFjNE16TkpURGFwTjhsTldNOTZmZ0NHZXRMY2YzUDlydmppZ0RLNWhTY2lNTjRqRmhBSGhiYXMwV0p2VmcyUmpOSnRLcklBYVhnUTNEZUlOT0JFa0xGRzFiS2c2RXdZd3phSUtNWmcyVVp4WDlnQnMxeU9RcEVMOXBoejRLM0ZhZHBNa3RZQlBsUQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3357,7 +3909,7 @@
      }
     ],
     "win_pct": 51,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Tennessee",
@@ -3387,7 +3939,23 @@
      }
     ],
     "win_pct": 49,
-    "news": null
+    "news": [
+     {
+      "text": "LSU has an opportunity to exploit a unique Tennessee weakness in their upcoming matchup.",
+      "sources": [
+       {
+        "title": "'You will get your ass kicked in' - Urban Meyer drops strong statement on the matchup between LSU and Tennessee",
+        "source": "A to Z Sports",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG1sMndhQ052YlNOWUNyY28xM2JZajRRTUNJWk8zd2FVUTdWTDF6WTk3WWMtbzNZOGlyR3JRbnNGOHVSNk43a1FlZjlxUWl1NVB3ZE1Xd2hId3E2ZzZSNmc0M09OUGpza2dMa2tRUXE1aVFhTkcydzlESUpROUpndlp2eVlITWlUdXhyVllpSUl1Y0ZRcFRRWlEycjhPaVlPT3VTUlRacG55WlJmb0pRZGZIX08?oc=5"
+       },
+       {
+        "title": "LSU Has an Opportunity to Exploit a Unique Tennessee Weakness",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0pMekROMzZPcF9ydE1aS3IxMWRTUURHbXpNLVpYQl90ZlBlZ1A2dUc2UnVONnJxajZHX0dHdkJWS1NkTVJSdXBrQ09QYURZNmFEU1pXVGxtelQ3cjNNaGVmUTluX0UzWlJBNVFqcXh4UDFrX2RRYm5sOG9iVkdHQnA3TVA3TUp3S0lmZURDby1CUTNHaE5INWJuRkg?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3436,7 +4004,7 @@
      }
     ],
     "win_pct": 10,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Texas",
@@ -3466,7 +4034,18 @@
      }
     ],
     "win_pct": 90,
-    "news": null
+    "news": [
+     {
+      "text": "Steve Sarkisian and Texas received season-ending injury news following the LSU win.",
+      "sources": [
+       {
+        "title": "Steve Sarkisian, Texas Receive Season-Ending Injury News After LSU Win",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW9sWTd3cHdMdEVybHo5dHg1UjBpUmlxOG8wR2xST1VqNWUzaTVZTE1BRV9XenlnQ3FscFZRRXBJeXZvbXJhcFFpeTJ4ZkVId0Y0djJvYllRSlhsb3JOUzY5eWJ0VHdSaFlGWWtob1Bkem8xRXpPZnY5R2F1aFpybHVWMmFMcWR2SmhadXVB?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3516,7 +4095,7 @@
      }
     ],
     "win_pct": 19,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "UConn",
@@ -3546,7 +4125,7 @@
      }
     ],
     "win_pct": 81,
-    "news": null
+    "news": []
    }
   },
   {
@@ -3595,7 +4174,18 @@
      }
     ],
     "win_pct": 73,
-    "news": null
+    "news": [
+     {
+      "text": "Coach Curt Cignetti made remarks about an Indiana quarterback change.",
+      "sources": [
+       {
+        "title": "‘These guys get paid’: Curt Cignetti gets brutally honest about Indiana’s quarterback change",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkN3eVc5bFhGaWhwQkRiQ3hhcXBxRUVHQ3lQSldqN2JCbDhyNXdkVzlBbTQ2ZVNmcU5zOURQaFRLUTM2dlBYNmQ5MVhPR25COEg0cE1tYjQzVWkwYVRXSTllbnRfOVdMTF9objc4YkN0WUV1SHNsWlVsV0pIRFg1N2lkOA?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Washington",
@@ -3625,7 +4215,18 @@
      }
     ],
     "win_pct": 27,
-    "news": null
+    "news": [
+     {
+      "text": "An injured running back for the Washington Huskies could potentially return in the team's final game.",
+      "sources": [
+       {
+        "title": "Washington Huskies Football: Injured Running Back Could Return in Team's Final Game",
+        "source": "roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnlCckxLaVo5VnkzRFFQX3VCTkNEZXNacFBja0ttaWFraWkzdDFJS0c3ZGtTM3d3Vnc1S3QteUptaG00NHE0V21DbHZsUFRkRGRQX2hVN2lfVllPZkZzRWlVbXJKTVMyS3JzZTIyLXN2akpYdkJXV3JOMDFmZ3ZxMF9pWjIxaUM5UmxEdjhpZzJTZW53bWxSWlp0R2txUmFIN3hqeDFfM1BFdV95ZEVHREd1UXVQeDE0MFFmMWNLYVlLcDNmOFQ5cmV3LUpBVE5h?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3672,7 +4273,7 @@
      }
     ],
     "win_pct": 28,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Oklahoma",
@@ -3702,7 +4303,18 @@
      }
     ],
     "win_pct": 72,
-    "news": null
+    "news": [
+     {
+      "text": "Brent Venables stated that Oklahoma's new offensive coordinator will have the ability to make staff changes.",
+      "sources": [
+       {
+        "title": "Brent Venables Says Oklahoma's New Offensive Coordinator Will Have Ability to Make Staff Changes",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEZsR1N2LVpoSllWRW8tbEtkRVI3dU51MnJlbHZHYXNCMDhjQlVfSXFlSUM5a21rci1IalRGaUR5Y0JfTmc4VGs3cEtjUk10U3duUlZZQ0RHMTRnSHBzR24xMENsT2Q4ajdIX2VkZ3RtVjFrYnBRWkREdF9JR0ZaSktoWERIdWRVQ2xpUUpnTHQyeUxyZkZqNzdOTVY2c3A1bk9BYnZvcHdfLXVseWJaLXc0RGZyTTIyanQ1Nk0xQXNweXZZU25qVnRNa1Rsc2VqZEVKUUtCcVpjWHBOeG1UVk02OHM0X1hFYWc?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3752,7 +4364,7 @@
      }
     ],
     "win_pct": 50,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Marshall",
@@ -3782,7 +4394,28 @@
      }
     ],
     "win_pct": 50,
-    "news": null
+    "news": [
+     {
+      "text": "Marshall fired offensive coordinator Rod Smith and named Gunter Brewer as interim offensive coordinator.",
+      "sources": [
+       {
+        "title": "Marshall football: Rod Smith fired, Gunter Brewer to serve as interim OC",
+        "source": "herald-dispatch.com",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZjZvMkNVWVhsYzRSV1RhLXlfdTlNVzN1VDAzS3FkX0t2d053dWphZ1pYQ0QwVUNjT3dvdUdkR25mLVFwNDJwVWVEazhWaEM5b1lPQ3JSZ2pETVVEWkJoM3VUbEJidGljWWdqbFNGQm45cTFaNEdxY2VJUEEyRjVtb3RmcjQ2MkVtU0YzSXhtaEtCZVU4RkVZdHY4NFk1cUNXUlhpRWc3X3RGQ3BLZHIzV0plZGlQSkRUZ1NIcjVCTjluY3FJR3hEWHVMNFVGb3Z2LS1NZ2hvSlk0UG5heWVNenBNNDFoY0lsd0FqQUdiNkJ2UUczSjJIQ3pxUWQteEJib1ZKdTNn?oc=5"
+       },
+       {
+        "title": "Marshall football fires offensive coordinator Rod Smith",
+        "source": "WCHS",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2VNY1duSElPUGdHeFpNQ0ZUcG40eHoyTk1CMnFhLXNxd3hHaHFkQURRb2FJVUE0YWt5UnNLWVRfUXhOYjhmZEZDMDZ0akc0emp0SGtfUGdmOTFVY2RUVDRCam42MHB5dU5xTEUyYWtUMGJiWHBFUUh1NzdzdU52WnFLV21hTzhSMkZ1cHA5ZlRrMUJ2YzRN?oc=5"
+       },
+       {
+        "title": "Marshall football makes key coaching change with bowl hopes on the line",
+        "source": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVN1eEJ6N3MxMmFKeDNCWjFkU0FmUVVGVDE0SHQtbHBnTmczV2ZwMmxpUGFVNG5ndmt5UF9EaUF5V1l4dHd1VkJfOWppczFfY2hJY1FhZ0dFbVFSYlBnQ1RnVjE3UExFakhaQ1JOU0RHdzBLaTQ5ZGd6dy1mcDRUU0ZwSnU3MmF0Q0g3MVRCaWI3RzA0clFibmU2ZnYwc0dxVTRUS2duT2hHMEdKeUJaeHgwc20zcEFoV1oxN181YlBVR1htbjVsRkFSbUNBNlozVDM5Rm93ZS1vQ0E?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3829,7 +4462,7 @@
      }
     ],
     "win_pct": 6,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "North Dakota State",
@@ -3859,7 +4492,18 @@
      }
     ],
     "win_pct": 94,
-    "news": null
+    "news": [
+     {
+      "text": "The NDSU Bison football trip to Hawaii was delayed by 13 hours.",
+      "sources": [
+       {
+        "title": "NDSU Bison football trip to Hawaii delayed 13 hours",
+        "source": "kvrr.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLWFqR1NJLVc5cXZBVk9Qa052ancxWkhCMEVnNm52ZTdndEdLd001akZKcEFqRV9Fcl9PMEdNdnhlMGtBa1RHUjQ3ekxTTjFWNjBIYm0xZDVUb3ZxQk5pbURrUF9FN1N2R2dkeTkyQVAwNmMxcVM0WHBUWVNodDVzMEFlQjBIWjFZTm8wMHkyMGxsMjI3NldCay1ZaVJ1eGFIaXFxX0tuMmtmd2h3QmIwSnVaVTAyODRlM1h5Zi1rbFIxaXdMd1hpaGpIVlRBQQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3908,7 +4552,7 @@
      }
     ],
     "win_pct": 62,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Southern Miss",
@@ -3938,7 +4582,7 @@
      }
     ],
     "win_pct": 38,
-    "news": null
+    "news": []
    }
   },
   {
@@ -3985,7 +4629,7 @@
      }
     ],
     "win_pct": 73,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Troy",
@@ -4015,7 +4659,18 @@
      }
     ],
     "win_pct": 27,
-    "news": null
+    "news": [
+     {
+      "text": "Troy is battling internal issues amid a late-season slide.",
+      "sources": [
+       {
+        "title": "Troy battling internal issues amid late-season slide",
+        "source": "The Troy Messenger",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWlNcjZWMjhkNEI4WVcwQVA3SU0xMGpKNVdGUnZrSk02d0VOVGhSLXhTSzBWMkhOZVV0LXVwa2RyWFJlc25udWVsNl9lUlJveDJITllVa0pQeHUzdmRJa0dZclhobkk4MVJtSWNhU0tGZ0pESmJtM2N6cXp5NkowTjd6WVFrQTE2M0M4dktxZU5YNE9GZUJzcnByUFE2cENV?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4062,7 +4717,18 @@
      }
     ],
     "win_pct": 22,
-    "news": null
+    "news": [
+     {
+      "text": "Kirby Moore hinted at changes to Washington State's rushing attack following a record-setting performance.",
+      "sources": [
+       {
+        "title": "Kirby Moore hints at changes to Washington State's rushing attack after record-setting performance",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlA2bnU4WWhGcjF3eTk3TEx5YkFpcGRKSGR4WlEyVUxCQzloSjMxeHpiVXlQTHRENWpCQmcyV2hWYnRyLUdCaGhpZGczbFVGV2l3WlF3SFNXY0dNWU14a01MRGt2QllaWnhjcWtrd0lhZjhpVFpJc2lRNDFwa0ViSUgxcHFJOGdha0xrWmVR?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Texas State",
@@ -4092,7 +4758,7 @@
      }
     ],
     "win_pct": 78,
-    "news": null
+    "news": []
    }
   },
   {
@@ -4141,7 +4807,23 @@
      }
     ],
     "win_pct": 14,
-    "news": null
+    "news": [
+     {
+      "text": "Maryland is led by interim coach Aazaar Abdul-Rahim as they prepare to face the USC Trojans.",
+      "sources": [
+       {
+        "title": "Maryland Football: Abdul-Rahim Recaps Wisconsin Win, QB Status and USC Prep",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeUxKbmVWQnJjU0YybGQ2bVVXY0htSUdYOGxQTWoyUmxPcjhqOW1ldjN5WHM0SmN1UDJuVFpISi14UHFNbjljbGNFdGtjYWxCZVZnUmpkV3FtTWEtcTBrd1FrazczZXhrby1ndG9GSjI1MGpRcU5OOUZoaGxyb3hYWWJqZmdwamxPbXFNWUt3?oc=5"
+       },
+       {
+        "title": "Maryland Interim Coach Aazaar Abdul-Rahim Details USC Trojans' Strengths",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnktRlpTUGljVlJBS29RTzlZT3Z2T25uWDIxckh4ZzRoeDdzQmdWUEpSeEROM1BLMFN6TmVEMGQzdGhpZ21PRTZMaGMtc1BSMmdWYzU0X0lvYWZHajktRV8xdGdvUTF1MWZRc2ptTksxcktSU2U5dmwyVkIwV283NXNhLWl1MU1KYmMtdA?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "USC",
@@ -4171,7 +4853,7 @@
      }
     ],
     "win_pct": 86,
-    "news": null
+    "news": []
    }
   },
   {
@@ -4220,7 +4902,7 @@
      }
     ],
     "win_pct": 71,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Kansas State",
@@ -4250,7 +4932,7 @@
      }
     ],
     "win_pct": 29,
-    "news": null
+    "news": []
    }
   },
   {
@@ -4297,7 +4979,58 @@
      }
     ],
     "win_pct": 18,
-    "news": null
+    "news": [
+     {
+      "text": "Arkansas State fired head coach Butch Jones amid a 4-6 record in his sixth season.",
+      "sources": [
+       {
+        "title": "Did Hugh Freeze Get Butch Jones Fired? Suspiciously Timed Media Tour Implies Calculated Ouster",
+        "source": "BroBible",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXBOS2RRSUVLZGc0N0g3YXhXZURlSzZrS0s5TXVHazgyMGtEWC12em9ldjRPTFVqWWxxUkhSUTBJcm5TQzY5bnNDTTllQUZOVkJQd1RkdVBibHBvQXVJMlFURWxVNDdmOWwwRF9vWmtOSHhCaEE2OUp0ZHQydmR4RW5ZaGVZT1p1dGcxMEhWaGlXaWtnUzF5MllUWlRlVExZ?oc=5"
+       },
+       {
+        "title": "Butch Jones fired as Arkansas State head football coach",
+        "source": "Wynne Progress",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDd0NmJHem1jQ2VYV1RCUEE0U3lFdjh6eDVxdVJHdV91WTZCaDZvTXM5SWxHalJSS1hJTjVsZlgwemxxUm8wd0lQTzU0TE9TWjVWc0FvTExZZHd1dlNHZ0hiX1p5QnNQNF9SeFVCdHdiNFZHRGc3THhURnNXU1JTZE1HbjBFZFNUaXVzNkdn?oc=5"
+       },
+       {
+        "title": "Butch Jones Out at Arkansas State",
+        "source": "Arkansas Money & Politics",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Od1EwUXBrcGlSWVdVcEhUSE5mRU43WURnTTdfVDIwMTdUcmE1YzlHUlAzblVkZ2hZOE1XaDM1WlpzUzd1NWUtd05IR3JpSzNSRGRZeUI3LXBvQ2xBZVJZcUZabkw4MGM?oc=5"
+       },
+       {
+        "title": "Arkansas State fires Butch Jones: Red Wolves part with veteran coach amid 4-6 record in sixth season",
+        "source": "BVM Sports",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUDR4M1NleGxUZHJSLXAzdDhfdG1iYmlCa2pZNXRScXRCODlHN05OUTVqWjhzbHpxZmVEN2I3aUN5VGs2dDhJRHJJMWhPLUxfVHZMWnV6TjVEcHI5S0RxcWN3VktBS0FWX3lVQk1FWGNJWEF1bnlkNlFSbkdrMHA3RnMtSlpUakpqTVNmVDFRV0piYWFSM1VaQlhETVkyZVpIZHgyZ2dJT0JISk5lM2pkS3laTWZUeXpYTUFNWmFoTjR0U3FCUk5VWUxnbTBCZw?oc=5"
+       },
+       {
+        "title": "Butch Jones Fired: Arkansas State Football Head Coach Departs After Nearly Six Seasons as Red Wolves Struggle at 4-6",
+        "source": "The Sunday Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWl9XUXdQVVBHTFl0ckhTMmM2ZWIzLWFmUnBCR0dIZzkwZ3p6bU5DVkJHX3dxNmxQQnYxdW1sQTZhZWdJal9YemU5anBfTVptejg4VGg0dU85dkNrV3RBTlAzX0lYdFVMb19RXy05VlBLWXJQelhMZGFBd29QeG4wOVdDek1UWWI2Q1d0NnExSmFOV3JRdDNmWVZBVGw4MTRacXR4bVdKODhOUU5rN21SZmN4TjVTbEtvMmV0LUF5bW96VTJLUTFvSjhPQnlnVnkyQ2VVZmFjbFo5clZDYnpIeXBoZmZrYlp1OEkzQlZvbk5JUFnSAfgBQVVfeXFMTXZkSlg0emlHRjBrRTJFdVVaeVhYc2ZzdG5mdTFsR3owN2syQU0tZkJQQ0xSVVA5SnBYaUhEZ1hBX0FCZ1FfOFhtOVdYODdrRDlITm16X0ZjX2doNzJvX1A5SWtZNFBFRVNib25BSTZCLVhYUFU1am1ac296TDFuNV8yWGZQSVdyNUE2YmdKWFRUR1RjNUl6UUVMLUJCbnlKTlU2Rl9UdF9GUndfaUhxQVg4MjBPVWlhQWFHRTU4SlQ3MkVFX3lfRDcxVS1kbk13dnNheDlQVjVydHBEcmYyS0hLZW12cWVIaFppenotUnVyVkpIZzdEYlY?oc=5"
+       },
+       {
+        "title": "Arkansas State to oust Butch Jones amid 4-6 start",
+        "source": "National Football Post",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFh3YlI3eUd6UjhmdUQ3VXFsTVo0OTlNQXFWYi1mc28yUVpCc0FxTEpUaDBTR2NfN19BV2RUejk0eXBjd1lPdzJTWERfRXlmZThuYkhodFVzenZrLWxlcGlUNmJxcHkzMVNkNUJxRlAySEs0VFp4ZWpDODNlS0R0WHNXQUJ0U0pVZ21MdFFnMA?oc=5"
+       },
+       {
+        "title": "Arkansas State Red Wolves head coach Butch Jones walks down the sideline during the college football game between the Southern",
+        "source": "The Lufkin Daily News",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUG5NQ2lnQVhHbDg4LXlZeXVWWERQMGNIYXVYVlRCeUlCWk5fM292MkU3ZEdSdkFISm1yLVc1Zkd3bEtVdTQwOEtyc1d6SG5hR2ZNdF9fVm1kbGZGTDRiandPNUtmRGpwb29nTngzWkJENTVlQlRCYUYzVzkwOEpEYkNPMjJaSnViVlhIQmZrNmY2UUlyQVExVEs2Q0VkQktwNFFVVzlBTXBKbklMbGYzaWZ4ZnExRHl6QjJ5Z2c4M0FqMFpDUFAxSVF1TlRTTUxYVXZJaVowTGtFMUlOcGVlOUVRTzVYQ3VIalp5MEU5UmExSHZPclY4MmtSUW9fUXh2a2dlVnMtMkQxS0lFOTlpa0FhVjVUdw?oc=5"
+       },
+       {
+        "title": "Sources: Arkansas State tells Butch Jones he's out at end of year",
+        "source": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDNkVWZVODhOenI5eDNCRGk5blY5eXRhSFZJLWRxZTlPSVk5OGppX1hvWTUxbUpLZmlLblJlRWZYUmI2ZnlkRS1PUTljTExMc3ZySUVaaktvT1F3T2YtZmZFRHo2Y1JQeWxhU2tzOVpndlFQWmZWYjN3Z2VRR2dFanhHUFJZVDF6RXJVbFpVRkZDSWp0MTVtQmJ5eWM3Q0E?oc=5"
+       },
+       {
+        "title": "Arkansas State Fires Former Tennessee Head Coach Butch Jones",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXNTTi1MUHFIU2N0VDE3RVQtYTdnenA3dHlFSDN2SjZjeEdheURwaHpYblV1VHVtNmoxSG80eVRna3E1MXpMMXBQbWtoWEdOang2VnJkT1pYejBrNzRyV0prR1J1blhsdmw4dmFlSS1SV1VZMXl4b1ByS203TmdNMzF5TmwxZlZlQm5MTE5hUXhMZkd0NHQ1R2dtSGsteGJxN2w4bkR4WUJCbHFQNGNFTWZkWmFmVDFrdkJ3?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Louisiana Tech",
@@ -4327,7 +5060,7 @@
      }
     ],
     "win_pct": 82,
-    "news": null
+    "news": []
    }
   },
   {
@@ -4376,7 +5109,7 @@
      }
     ],
     "win_pct": 10,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Miami",
@@ -4406,7 +5139,33 @@
      }
     ],
     "win_pct": 90,
-    "news": null
+    "news": [
+     {
+      "text": "Malachi Toney's injury update raises anticipation for the Miami star's eventual return.",
+      "sources": [
+       {
+        "title": "Malachi Toney's injury update raises anticipation for the Miami star's eventual return",
+        "source": "Canes Warning",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDlBdFAwZTg4d2hzbEhoQmMzbDFwUHJtT0ZfbXZxbzB1TTB0blRheXUwNThiQVRKM01iV3hMMUZSeFA4dWFDdU1MZllVenYtazM4b2JSVjA1ZEc0TFBOcEQwa19EalBrNlg0MDREdGZnSjhwd05OMnFXb2xxSFFlX0swcnMxZzAyRlpMMWxZWUxzMW9HNTBCWUIwZ3Rvcy0tWXZveXJYM21PcFJhcWNFTA?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Miami needs more production from a crucial transfer to help its playoff run.",
+      "sources": [
+       {
+        "title": "Monday Musings: Adaptation is key; Miami needs more from a key transfer",
+        "source": "State of The U",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWxsYlV2OTMxejZrVDlnem5TLVd1cUt1Ym1ZOExDX2lWeEVETXRkSURqS0lBaG5YanBCUm1pMVF0V2hfbGxoUzRxMFcwajhnZnB5ZUJPbm4tQ2I0aVhOeUROckRMRjItWV90M2R0UG83MUdpeXp1cXRScVhSWkpnVnlQaU1KTUt0cmpWSHNUOFVHMDQ0YkNCeHBlN1kteTBTN3RwLTNNbmQwaGIwZm9YU0otaXBwS2I3V0ZPdmEtOHRZZ0J2b1ZyM3BhMUxCTy10QmlYY1RR?oc=5"
+       },
+       {
+        "title": "The Miami Hurricanes are getting next to nothing from a crucial transfer, and his turnaround is key to a playoff run",
+        "source": "A to Z Sports",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbXpOdTgzYXJueE04SjZNakg1MXFING50WFR4cTVTcjNxVnU3b1UtOHN3SHBYMlFrZ21UMXZYaXJTVGdnb056clA5c0NwR3B2dXFod091cFBHYUhkTWI0UkdZUU4xSDZCSTZkSUhMdUhUcEQ3OTBDV092RkdaSEtYZ3FzLWEzc3VjV3ZhdVRfNl9Ib2htRVhiT1A1bTJ6aW5IcnNDcFZFY3NvRWxndlRRMnNrQnpVblNOQnhQV1h1ZEdFcEptRlFZVU44RU9wMWJ3OGNBVm1keGVTTFFLYkJNag?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4455,7 +5214,7 @@
      }
     ],
     "win_pct": 69,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "San José State",
@@ -4485,7 +5244,7 @@
      }
     ],
     "win_pct": 31,
-    "news": null
+    "news": []
    }
   },
   {
@@ -4534,7 +5293,7 @@
      }
     ],
     "win_pct": 54,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "California",
@@ -4564,7 +5323,18 @@
      }
     ],
     "win_pct": 46,
-    "news": null
+    "news": [
+     {
+      "text": "Tosh Lupoi faces a Big Game coaching debut.",
+      "sources": [
+       {
+        "title": "Can Tosh Lupoi Overcome History in Big Game Coaching Debut?",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTVEQ2hZVHpmLVhDS0hUbDJKLTg1VENjQmxDOEY0MEx0aUZvTVYzWU5NallkdHpITW14ZGh6bUtSLWRGdjFHam9NcjZxRERFMmdyZERLZTZRWktPYkJ4WkU4US1jTDhzeXotb1J0ZExmOUNaR1FWbmVhdXdTZmtua2JZLUNEWDB6VzRzQVZBTEEwUUJsZ2JveWZQY0E3blhXbF9CM3J0bEI5eHFGU1pCcQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4613,7 +5383,33 @@
      }
     ],
     "win_pct": 10,
-    "news": null
+    "news": [
+     {
+      "text": "Colorado State suffered a 73-7 loss, leading to coach Jim Mora making critical comments about the program.",
+      "sources": [
+       {
+        "title": "Jim Mora Jr. says Colorado State people don’t know how to win after 73-7 loss",
+        "source": "SuperWest Sports",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVFoWnNzZHVscGxJaW5FZkgyaFV3YXJCa0tVeGF2S19MZ0ZfbjFpR2FrNXJUMWZaaV9udENWWFhmQ0dkcmp4S3M3QXNJZk9iZFEta05PMm91SkVoanAxTElSVEp3Slp1Ml90d2l6SmFOWUh4bGhYS1dfOHUxOWhRT2w3TnNZVkZTTlhQeDJXdVNhSGV2bjZtWlRZU2ZwYWVSeUQ5ellidw?oc=5"
+       },
+       {
+        "title": "Jim Mora basically calls Colorado State a loser football program after 73-7 loss",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUxYQldYUEhScWlUaVJPTFBBb21lUWxQaV9ka29fUllnamJTR05RaHlYTzJPdHZ3QWk2ZjRfYjUyOU54eFd6UjNRWEs4OHJ3YWRxWEtQSHA1R0hMejhoN1J1UHpDN0xDQW9WS29xMTAtU0JQSHRGUTlfMGFaalJUZG9RUUljM0RCX2c?oc=5"
+       },
+       {
+        "title": "Colorado State’s Jim Mora compares new job to UConn after 73-7 loss",
+        "source": "SuperWest Sports",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmtLLU5OV0JPR1lHejhoSXF0SUNyWlFVLXc0N1JIN2tnQWRMNmNGN0tKTmFLNTRrQmJBRVJtaUdmX2FXSlNUd0J1OF8yZFhtZ1dEdUVYOV9TVUppQjJOQ1luM1RrdDZEaGQ2N1JJRGNoQ2VIWkRZNmxNQ1hRbWJZdm9BTkZDaXVuaFF5QkdhVzhoSnpReHBxNDMzVQ?oc=5"
+       },
+       {
+        "title": "Former UConn Football Coach Compares New Job to Old Job After Terrible Loss",
+        "source": "roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjJCVUUyVlZXYXlOWWpaN0ZIUlhqLTJzY1RpYVMyZUpIQTgxdEpuSi15eHNiRTBqSVhyS0R5R1JrTFR0a1F4Qkt5UHktV1ZWSXFIRmgwX0tUdHZQV2lVRVVYUHBaQ0F5aDl4UEhmZEVNZHFjdTB5aHBRdVNGSE9pbTIzUEtJeEJiRENfOFBZY3A2MWFsY1lMNVlEaG9mT0FrdDhjdHFuMlRMVHdqZENMbnRQVloyT3NBN3VQQ0lKQWFRZw?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Fresno State",
@@ -4643,7 +5439,7 @@
      }
     ],
     "win_pct": 90,
-    "news": null
+    "news": []
    }
   },
   {
@@ -4692,7 +5488,7 @@
      }
     ],
     "win_pct": 18,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Louisville",
@@ -4722,7 +5518,7 @@
      }
     ],
     "win_pct": 82,
-    "news": null
+    "news": []
    }
   },
   {
@@ -4772,7 +5568,23 @@
      }
     ],
     "win_pct": 34,
-    "news": null
+    "news": [
+     {
+      "text": "Kentucky's offensive staff is seeking solutions to address ongoing self-inflicted mistakes following a loss to Florida.",
+      "sources": [
+       {
+        "title": "Kentucky's offensive staff is looking for solutions to self-inflicted mistakes",
+        "source": "On3",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZXaTRvblkxbEpTdFRUYncwZVNOZUpSMmpyVXpka2llWHZQazg5d3QxTGRYWE1IWGxVVDkwT1RxZ3hrQ2ViNS0xVEt6N190VG9IZ0xGZVo5dlNJSkEyblVsMnFtMzFMUl9QVDNkcHgyOG1xWnUteUlUMFpMT0Qzc1FSMkVBSEQ2c25LaDlvOA?oc=5"
+       },
+       {
+        "title": "Kentucky Football Faces Defining Moment After Florida Loss As Will Stein Looks For Answers",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnJnak1KTlB2SFZleEZjZXJaWmFDb29BUlIzVWk0S2U4VGQzNDZjTjVMME4yRmRxbldUdk9ETm5ENHdmbGQxR2JiaDljUG1aVDhZeXhPYVd3VzVvRFlZNkxDckN6b2RnSWIzeVBybkZMTU04V21qVG5RTjdHNFRvWVVSN0pET0FsT2w3Y2VFVllSdw?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Missouri",
@@ -4802,7 +5614,18 @@
      }
     ],
     "win_pct": 66,
-    "news": null
+    "news": [
+     {
+      "text": "Missouri's rushing attack has taken a concerning turn in recent weeks.",
+      "sources": [
+       {
+        "title": "Mizzou Football's Rushing Attack Has Taken a Concerning Turn in Recent Weeks",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2YtRTNfMnI3X2NMZlg3S0VEbzBNdS11VWVTNlF5aXItTWdlc2wzTl9HTG5VSzUybWdZeTZIbXp4cTNXaTVJamJUQ1FmR1QxTXRwQzAtQ1A2ZGVfZXRNNHhfZW91UDdmMGVaWGRnRnJvb2hIb0pfQjlwdDk4a3l2UTFaMDhQWjdJZE5YZ1IzYzgzZnA4dGFDZlFTV1djVDJLd3VXNFNxRXFBdXlkLWhPOXpxRW5zOUtHZzZKWVBvejhaMXktZjJV?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4851,7 +5674,18 @@
      }
     ],
     "win_pct": 9,
-    "news": null
+    "news": [
+     {
+      "text": "An injury report and depth charts are available for the SMU Mustangs ahead of their game against Notre Dame.",
+      "sources": [
+       {
+        "title": "NOTRE DAME FOOTBALL: Injury report and depth charts for SMU Mustangs",
+        "source": "One Foot Down",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFRxY0VrVHRlRHhsVXd3SUNkUDVWZXIwOWlrdmp4TVQ2UWxFRno5TUl4UGF1RWVlZkItdVFoR1o4RGpMUU8zVzJsT05GRXEzMkxtbFMxbGpyekM4LUxnNHd5QjNRVm05SWZnS1dseGllcnNjc2t0U09DSW9CYXFZZUdScUh5Yi1BSVZsNk4ydkJsN2NSWXYtcHEyWTJCZDF1blZaV0hIcjVLUmprQjNyR3hfcU1aZFY2OFNxekdKaEo2U2gzS09xNTJfZFM3cTU5Mnc?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Notre Dame",
@@ -4881,7 +5715,38 @@
      }
     ],
     "win_pct": 91,
-    "news": null
+    "news": [
+     {
+      "text": "Notre Dame injuries have allowed the team to redefine its identity.",
+      "sources": [
+       {
+        "title": "Notre Dame injuries have allowed them to redefine its identity",
+        "source": "A to Z Sports",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTEtMeHhqRlN5eEw3WTQtRTEzc0hjSkpTM2NBNEVDcFYyNS01R2x4QTZxTjh4S3lMaU9yU2ZJZkJ6aEV3SGk5a05XWGR4d3gwNHlFWmJLTDVLQjN3dWZUQ2UwVllmTDFEdG5xRGFoUXQ4amlHejVXS1F0cl9UZ2JIZUwzbUQyaE9iMk9BWlN3UUo2eG5Ka1JqWjhwYW83ZzBEZEFBMEtyaGh6eVFEVWRwWVFULUlFX0ROZVV3OWkzb3JyWlk4cmpNbDl2Vlc1VFVzcjFzeVppVUtTaVJSSDRLa0hsZ1N4MGtDTkZvWTNUbWtRRkp3NmlvWHlXSUVXZl9zMTN5QWxYZHExZ0ppajdxNnIwZ0JVZGRnQ21YeWVzMFRsczU2MXVTRmxBbVhuZTk1SHpEU284NXRrcUJvWjZ6SmhKbFR3ZTJLY1NkODlyMU0?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Irish head coach Marcus Freeman provided an update on lineman Charles Jagusah.",
+      "sources": [
+       {
+        "title": "Irish HC Marcus Freeman provides update on lineman Charles Jagusah",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzZCNl9WeTFzVjlBc3p0S0VhR2FPMGFWc1JRRVBQbHdxNEV6RGNkY3ExeXdoTWYwSC0wVWhkSkRMSWFtMUw4LWYzbFk1UnhrOS1EZ0QyMDVqVER0OGpfOERLbTVKdVdzakU1cGJhZ3JzWXo1QUJVaU9Fc0RiOG5KZWoxNXFWQXpq?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Notre Dame received positive injury news during a busy Monday.",
+      "sources": [
+       {
+        "title": "Recapping a busy Monday for Notre Dame, including insane recruiting momentum, positive injury news, and Brian Kelly",
+        "source": "A to Z Sports",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOQnBkVHpobVdHOHRBbHRTQi1TcmZ4djdrWl9BTHAzT2hFd29tcWtva29SQTJUeWNUQ09Qbi1SRUxvWjl4RXZNZ0dDbVNjSWtvWHNQaFVQUC1OYVlQNjNGZ0hfdDJDMXVZejc2M0FRdVhDNllCT21RcWdXU1B0R0FTMUoyN0h1N1pNRVM0dkFJd25vZW5wMTJtVVhBRFhGUFNCN0FfbzJPSkkxTFZJaEgzQ2ZLNUdyd3B6ODZZanZUSDFNY1FtOFl2X3daalNZTVJ4Y1o3QWJjVzc3Q194N2c4MjlrZ0g1X2lxSHFaalVwdFIyU2FOUVF3Rm1rMnVpb3B5NWZkdTFRd0lwZjhBamFacTd5SnF2cEx6Vy0tbzF0Y1NyV3VSbElNaVd2ZTQ2LTA?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4931,7 +5796,7 @@
      }
     ],
     "win_pct": 86,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "South Carolina",
@@ -4961,7 +5826,7 @@
      }
     ],
     "win_pct": 14,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5008,7 +5873,7 @@
      }
     ],
     "win_pct": 68,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "UAB",
@@ -5038,7 +5903,7 @@
      }
     ],
     "win_pct": 32,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5088,7 +5953,7 @@
      }
     ],
     "win_pct": 70,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "TCU",
@@ -5118,7 +5983,7 @@
      }
     ],
     "win_pct": 30,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5168,7 +6033,18 @@
      }
     ],
     "win_pct": 14,
-    "news": null
+    "news": [
+     {
+      "text": "A weather forecast is noted for the November 21 game between Boise State and San Diego State.",
+      "sources": [
+       {
+        "title": "Boise State Football Weather Forecast: Nov. 21 vs. San Diego State",
+        "source": "sports.betmgm.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm5RVVAtdW5obERuV3RCLVRmNkFCLWxMTENFcGkycjJ5MnZWR3NUY0VtbHZJNUI5T0tEbEtQUmF2amhXcDBaT0FFbXpwRV82SlF2dmxqREhkU09oMVdIOGFYUG1lcGVMNjR3VHkyUjdmNDhJTFBCdmllam9YWEF1aEd0ellZTmEyZ3RfNm8yRHA1T2Q1bl9ieUxFYzdfbDZ3cHZuSzFVUnQzNkl0eDBNY2o0dW15UEFBUHFtbw?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Boise State",
@@ -5198,7 +6074,23 @@
      }
     ],
     "win_pct": 86,
-    "news": null
+    "news": [
+     {
+      "text": "The Boise State defense continues to look for answers after giving up 41 points and 506 yards.",
+      "sources": [
+       {
+        "title": "Embattled Boise State defense could have a bounce-back performance against San Diego State",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHNaUGVIUkRYcUVGa0NJRUVLeU9HZ3BiMDF3SnVLNVZmOS15VTFxblpoci1FTnJnUnU3NmFGRjk1RXhVNDBOeUlJbHJQSy16V09HUVZENlFfVnFhQXhpUG9zazh2RTBqVVhpbGZYdkNtcDVEX2pSSWlxZkN2emE4ZFE1UzU4UDUxU2Z3UA?oc=5"
+       },
+       {
+        "title": "Broncos continue to look for answers on defense after giving up 41 points, 506 yards",
+        "source": "Idaho Press",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORTlWYkc2NEFTekxRMm1yWnNSaUFhQ2ZDUFBLMHJCVEdrWm95Z0NFYlhZSE5ZMWJkVlhiYW5FMlgzd3ZwMWFoU0xzNVpnRGRNb2hhVHJhRzhzeHJ0N0R5dTNoelgyX0dYTzVKWS0wRE84Nm5DYW9kazh6WWZPNHZNQl9HYVU5QmQ0azlncS1jMmZyOWxkMXNscHB5Q3gzZXNVQ2E1dDBmY3ZHMmxQTnRzY0Q4VXl6UkdEaXFmZUJyZW1iV2Qyc3lxWHk0NXExbVF6UWVQQWd4QUlaRm5NTVptNzlQbXZ2T29IMUdVbUt0TVB3WHNvNEQ1RHd0NUNoOEtRYk1XR0NvaVh3dmhmWi0tXzhB?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5247,7 +6139,18 @@
      }
     ],
     "win_pct": 58,
-    "news": null
+    "news": [
+     {
+      "text": "Eric Morris provided an encouraging update regarding Drew Mestemaker.",
+      "sources": [
+       {
+        "title": "Eric Morris Gives Encouraging Update on Drew Mestemaker",
+        "source": "roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTV4ZkQxSEZ1THlNYzl0ejNDRUV4Z1I3dzE5Nnp3ZHZReWVDUmtVTTRjYzVuR0dsaG0wTGhZYURxd0Z0cG92RUtRYlpqRWp3cVJ5TUt6VHBGYXdnU1dnZHhHMmROc0I0bUdNOGxkVW1CQU1LdVA3bHpfSm0wcWlTUG9CUVJ1WGxvRG92b2RlcUpUNmEwOFBVSm5SQVJjd05JWU5YMnZpUERRNnVHeWNmQ0p4cw?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Arizona State",
@@ -5277,7 +6180,7 @@
      }
     ],
     "win_pct": 42,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5324,7 +6227,7 @@
      }
     ],
     "win_pct": 37,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Nevada",
@@ -5354,7 +6257,28 @@
      }
     ],
     "win_pct": 63,
-    "news": null
+    "news": [
+     {
+      "text": "AJ Bianco will remain Nevada's starting quarterback.",
+      "sources": [
+       {
+        "title": "AJ Bianco to remain Nevada's starting quarterback; OC Brett Bartolone moves to field level",
+        "source": "Nevada Sports Net",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUFxcGw5eDdnMDlRWTNueUY0RHhoZ3dxTUNUT096Wng0T25neE1qaXBYMldqRy1SWUY3RDczY3FnSVBUUUgxdHlManBIMm9idkh3RzcxMkVjalgyNmpOTnJRalBrUnpROHNuUHJPdXQxdTlHTjFRNE9QeWhzUmYtcVJqekNJMjBETXllVlRkTmd5Y05IdXFrUkxGZ3N4LW0wMkZEMWExQi10WFUyWWdkd3NVMTNraXVsR1haejNTUWFiamQ1TTJrTy1Pdw?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Offensive coordinator Brett Bartolone is moving to the field level.",
+      "sources": [
+       {
+        "title": "AJ Bianco to remain Nevada's starting quarterback; OC Brett Bartolone moves to field level",
+        "source": "Nevada Sports Net",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUFxcGw5eDdnMDlRWTNueUY0RHhoZ3dxTUNUT096Wng0T25neE1qaXBYMldqRy1SWUY3RDczY3FnSVBUUUgxdHlManBIMm9idkh3RzcxMkVjalgyNmpOTnJRalBrUnpROHNuUHJPdXQxdTlHTjFRNE9QeWhzUmYtcVJqekNJMjBETXllVlRkTmd5Y05IdXFrUkxGZ3N4LW0wMkZEMWExQi10WFUyWWdkd3NVMTNraXVsR1haejNTUWFiamQ1TTJrTy1Pdw?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5403,7 +6327,7 @@
      }
     ],
     "win_pct": 25,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Oregon State",
@@ -5433,7 +6357,28 @@
      }
     ],
     "win_pct": 75,
-    "news": null
+    "news": [
+     {
+      "text": "Vadrawale's absence leaves the Oregon State secondary shorthanded.",
+      "sources": [
+       {
+        "title": "Vadrawale's absence leaves OSU secondary shorthanded",
+        "source": "OregonLive.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE1YbUFuVFhyZFUwejhEVzRyS3J6d2VQYk9aazc2S2h1OFg2dUlNcS1JUk8zb3BuS1pJcTN1MDBNakRyUnBuLTcwUUlpdmNuMEo4YkdrbktnaG9BN3B2VUZEYXFzMm90WkstNXl0VlVFVW1PNnNMZnFtNHhhUG1pcm51UVdfSjJ5djlrRlQxZjR0V0diV1BlSkdTN2hNMEJzek04Q2U4UUZFbS1WcUc4bVZOeXlaQ3BiaVpmZVBYVlhPR25IN2s0WQ?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "The Beavers' quarterback situation is murky ahead of the Utah State game.",
+      "sources": [
+       {
+        "title": "Beavers' QB situation murky ahead of Utah State game",
+        "source": "OregonLive.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaU5yTTVfNEVwRWxLamZzMGJrS1NVcExxVmNQWU1peVNjWXVha3pUdXkzSlF0NzA2TWFfd0lHczQ2RG4yc3VhczUwSmJxUm5YaHhoUEI3WnQ4RkVuRXJmc3BpOGh5VUkydlRtU3VpendnQWxUbnEtc0xBYV84MHdMTVlFR2NpVzZtN0RoUjBrTWtYRTY5RUlLVXBrRmMxdEVLaTZkU1VxNzVSNjhOUFJMY2tuUjFwUQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   }
  ]
