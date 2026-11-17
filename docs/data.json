@@ -3,9 +3,10 @@
  "week": 12,
  "season_type": "regular",
  "title": "Week 12",
- "generated_at": "2026-11-17T20:04:47.817279+00:00",
- "generated_label": "Tue, Nov 17 at 2:04 PM CT",
+ "generated_at": "2026-11-17T21:06:41.908004+00:00",
+ "generated_label": "Tue, Nov 17 at 3:06 PM CT",
  "news_status": "140 of 140 teams checked",
+ "sp_teams": 138,
  "games": [
   {
    "id": 401866465,
@@ -30,26 +31,31 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 128,
+     "offense": 129,
+     "defense": 113
+    },
     "last": [
      {
       "result": "L 7–35",
       "opponent": "vs Central Michigan (neutral)",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #113)"
      },
      {
       "result": "L 20–24",
       "opponent": "at Ohio",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #82)"
      },
      {
       "result": "L 14–34",
       "opponent": "vs Toledo",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #54)"
      },
      {
       "result": "W 25–23",
       "opponent": "at Akron",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #135)"
      }
     ],
     "win_pct": 16,
@@ -60,41 +66,35 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 68,
+     "offense": 83,
+     "defense": 49
+    },
     "last": [
      {
       "result": "W 42–14",
       "opponent": "at Akron",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #135)"
      },
      {
       "result": "W 23–10",
       "opponent": "vs Bowling Green",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #127)"
      },
      {
       "result": "L 38–45",
       "opponent": "at Toledo",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #54)"
      },
      {
       "result": "W 21–14",
       "opponent": "at Central Michigan",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #113)"
      }
     ],
     "win_pct": 84,
-    "news": [
-     {
-      "text": "Western Michigan arrives at the game coming off a win.",
-      "sources": [
-       {
-        "title": "Eastern Michigan vs. Western Michigan Preview: Broncos Arrive off a Win While the Eagles Are Looking to Bounce Back",
-        "source": "Athlon Sports",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVczbWl4R192WEpDZUlBX2FrN1ItZnk5QTRCSHlNdzhQT1kyMTNZYXkwVm1jejFuTlVqakYwaTA2cFhqeTliQmd5S1lLdnpUT19iQU1uT0V5akNoTHYtMFRTQTJpWnRublFzZUE1TGpMbGVZRHI3aWRrREF1RTVDbWdNc09yU3p6Y3JwamFiNGJuWDZRVkY1b0RpUUxDZGpDaTA2Y0pEUlRHWmJlZ2NKWFNMZUpZd0YydmFGNDZ1R2lFa19DVVlPbHdrREstZw?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": []
    }
   },
   {
@@ -111,33 +111,38 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "40°F · Wind 6 mph · Rain or snow 0%",
+   "weather": "41°F · Wind 6 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Miami (OH)",
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 85,
+     "offense": 86,
+     "defense": 77
+    },
     "last": [
      {
       "result": "W 34–17",
       "opponent": "vs Ohio",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #82)"
      },
      {
       "result": "L 31–34",
       "opponent": "vs Buffalo",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #105)"
      },
      {
       "result": "W 28–27",
       "opponent": "at Central Michigan",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #113)"
      },
      {
       "result": "W 34–14",
       "opponent": "vs Akron",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #135)"
      }
     ],
     "win_pct": 75,
@@ -148,26 +153,31 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 132,
+     "offense": 135,
+     "defense": 121
+    },
     "last": [
      {
       "result": "L 28–33",
       "opponent": "at Bowling Green",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #127)"
      },
      {
       "result": "L 10–31",
       "opponent": "at Sacramento State",
-      "opp_record": "(2–9)"
+      "opp_record": "(2–9, SP+ #137)"
      },
      {
       "result": "W 35–20",
       "opponent": "vs Akron",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #135)"
      },
      {
       "result": "L 2–29",
       "opponent": "at South Florida",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #60)"
      }
     ],
     "win_pct": 25,
@@ -188,33 +198,38 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "43°F · Wind 5 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Ball State",
     "rank": "",
     "record": "3–7",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 130,
+     "offense": 121,
+     "defense": 132
+    },
     "last": [
      {
       "result": "L 7–28",
       "opponent": "vs Buffalo",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #105)"
      },
      {
       "result": "L 30–31",
       "opponent": "at Massachusetts",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #109)"
      },
      {
       "result": "W 34–17",
       "opponent": "vs Sacramento State",
-      "opp_record": "(2–9)"
+      "opp_record": "(2–9, SP+ #137)"
      },
      {
       "result": "W 32–31",
       "opponent": "at Bowling Green",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #127)"
      }
     ],
     "win_pct": 23,
@@ -225,26 +240,31 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 82,
+     "offense": 91,
+     "defense": 71
+    },
     "last": [
      {
       "result": "L 17–34",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #85)"
      },
      {
       "result": "W 28–20",
       "opponent": "at Akron",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #135)"
      },
      {
       "result": "W 24–20",
       "opponent": "vs Eastern Michigan",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #128)"
      },
      {
       "result": "W 48–7",
       "opponent": "at Sacramento State",
-      "opp_record": "(2–9)"
+      "opp_record": "(2–9, SP+ #137)"
      }
     ],
     "win_pct": 77,
@@ -265,7 +285,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "44°F · Wind 6 mph · Rain or snow 0%",
+   "weather": "45°F · Wind 5 mph · Rain or snow 0%",
    "flags": [
     "Massachusetts: one win from bowl eligibility"
    ],
@@ -274,26 +294,31 @@
     "rank": "",
     "record": "1–9",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 135,
+     "offense": 132,
+     "defense": 135
+    },
     "last": [
      {
       "result": "L 14–42",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #68)"
      },
      {
       "result": "L 20–28",
       "opponent": "vs Ohio",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #82)"
      },
      {
       "result": "L 20–35",
       "opponent": "at Kent State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #132)"
      },
      {
       "result": "L 14–34",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #85)"
      }
     ],
     "win_pct": 41,
@@ -304,26 +329,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 109,
+     "offense": 118,
+     "defense": 93
+    },
     "last": [
      {
       "result": "L 0–24",
       "opponent": "at Toledo",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #54)"
      },
      {
       "result": "W 31–30",
       "opponent": "vs Ball State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #130)"
      },
      {
       "result": "L 16–35",
       "opponent": "at UConn",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #70)"
      },
      {
       "result": "L 18–25",
       "opponent": "at Buffalo",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #105)"
      }
     ],
     "win_pct": 59,
@@ -344,7 +374,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 6 mph · Rain or snow 0%",
+   "weather": "43°F · Wind 6 mph · Rain or snow 0%",
    "flags": [
     "Central Michigan: one win from bowl eligibility"
    ],
@@ -353,26 +383,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 113,
+     "offense": 120,
+     "defense": 87
+    },
     "last": [
      {
       "result": "W 28–7",
       "opponent": "vs Sacramento State",
-      "opp_record": "(2–9)"
+      "opp_record": "(2–9, SP+ #137)"
      },
      {
       "result": "W 35–7",
       "opponent": "vs Eastern Michigan (neutral)",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #128)"
      },
      {
       "result": "L 27–28",
       "opponent": "vs Miami (OH)",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #85)"
      },
      {
       "result": "L 14–21",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #68)"
      }
     ],
     "win_pct": 48,
@@ -383,26 +418,31 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 105,
+     "offense": 118,
+     "defense": 85
+    },
     "last": [
      {
       "result": "W 28–7",
       "opponent": "at Ball State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #130)"
      },
      {
       "result": "W 34–31",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #85)"
      },
      {
       "result": "W 31–24",
       "opponent": "vs Bowling Green",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #127)"
      },
      {
       "result": "W 25–18",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #109)"
      }
     ],
     "win_pct": 52,
@@ -433,26 +473,31 @@
     "rank": "",
     "record": "1–9",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 126,
+     "offense": 115,
+     "defense": 123
+    },
     "last": [
      {
       "result": "L 17–20",
       "opponent": "vs Tulane",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #112)"
      },
      {
       "result": "L 23–52",
       "opponent": "at North Texas",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #67)"
      },
      {
       "result": "L 49–51",
       "opponent": "at Florida Atlantic",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #86)"
      },
      {
       "result": "L 17–38",
       "opponent": "vs Tulsa",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #64)"
      }
     ],
     "win_pct": 43,
@@ -463,26 +508,31 @@
     "rank": "",
     "record": "2–8",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 115,
+     "offense": 97,
+     "defense": 124
+    },
     "last": [
      {
       "result": "L 10–36",
       "opponent": "vs UAB",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #95)"
      },
      {
       "result": "L 35–42",
       "opponent": "at Navy",
-      "opp_record": "(3–6)"
+      "opp_record": "(3–6, SP+ #88)"
      },
      {
       "result": "L 9–17",
       "opponent": "at East Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #88)"
      },
      {
       "result": "L 31–38",
       "opponent": "vs Charlotte",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #134)"
      }
     ],
     "win_pct": 57,
@@ -503,7 +553,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 4 mph · Rain 78%",
+   "weather": "71°F · Wind 4 mph · Rain 79%",
    "flags": [
     "Iowa State: one win from bowl eligibility",
     "UCF: one win from bowl eligibility"
@@ -513,26 +563,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 4–5–1",
+    "sp": {
+     "overall": 74,
+     "offense": 59,
+     "defense": 89
+    },
     "last": [
      {
       "result": "W 41–13",
       "opponent": "vs Cincinnati",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      },
      {
       "result": "L 31–42",
       "opponent": "at Baylor",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "W 51–49",
       "opponent": "vs Oklahoma State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #25)"
      },
      {
       "result": "L 3–39",
       "opponent": "at Arizona",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #20)"
      }
     ],
     "win_pct": 46,
@@ -543,26 +598,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 72,
+     "offense": 74,
+     "defense": 69
+    },
     "last": [
      {
       "result": "L 13–26",
       "opponent": "vs Arizona State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #62)"
      },
      {
       "result": "W 33–32",
       "opponent": "at Kansas",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #50)"
      },
      {
       "result": "L 9–41",
       "opponent": "vs Baylor",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "W 39–31",
       "opponent": "vs BYU",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #15)"
      }
     ],
     "win_pct": 54,
@@ -601,32 +661,37 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 68,
+     "offense": 110,
+     "defense": 28
+    },
     "last": [
      {
       "result": "L 6–20",
       "opponent": "vs Georgia Tech",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #97)"
      },
      {
       "result": "W 18–13",
       "opponent": "at Syracuse",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #83)"
      },
      {
       "result": "W 36–24",
       "opponent": "at Florida State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #48)"
      },
      {
       "result": "L 16–20",
       "opponent": "vs Virginia Tech",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #59)"
      }
     ],
     "win_pct": 20,
     "news": [
      {
-      "text": "Clemson has hope in its third-string quarterback entering the Duke matchup.",
+      "text": "Clemson has hope in its third-string quarterback entering the upcoming matchup against Duke.",
       "sources": [
        {
         "title": "Why Clemson Tigers Have Hope in Third-String QB Entering Duke Matchup",
@@ -642,26 +707,31 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 8–2",
+    "sp": {
+     "overall": 28,
+     "offense": 33,
+     "defense": 31
+    },
     "last": [
      {
       "result": "L 25–36",
       "opponent": "at Miami",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #3)"
      },
      {
       "result": "W 41–3",
       "opponent": "at NC State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #78)"
      },
      {
       "result": "W 47–2",
       "opponent": "vs Boston College",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #103)"
      },
      {
       "result": "W 19–16",
       "opponent": "at Virginia",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #56)"
      }
     ],
     "win_pct": 80,
@@ -689,26 +759,31 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 127,
+     "offense": 127,
+     "defense": 116
+    },
     "last": [
      {
       "result": "W 33–28",
       "opponent": "vs Kent State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #132)"
      },
      {
       "result": "L 10–23",
       "opponent": "at Western Michigan",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #68)"
      },
      {
       "result": "L 24–31",
       "opponent": "at Buffalo",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #105)"
      },
      {
       "result": "L 31–32",
       "opponent": "vs Ball State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #130)"
      }
     ],
     "win_pct": 15,
@@ -719,26 +794,31 @@
     "rank": "",
     "record": "8–2",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 54,
+     "offense": 67,
+     "defense": 42
+    },
     "last": [
      {
       "result": "W 24–0",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #109)"
      },
      {
       "result": "W 20–17",
       "opponent": "at Sacramento State",
-      "opp_record": "(2–9)"
+      "opp_record": "(2–9, SP+ #137)"
      },
      {
       "result": "W 45–38",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #68)"
      },
      {
       "result": "W 34–14",
       "opponent": "at Eastern Michigan",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #128)"
      }
     ],
     "win_pct": 85,
@@ -759,49 +839,49 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 5 mph · Rain or snow 1%",
+   "weather": "42°F · Wind 5 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "UTEP",
     "rank": "",
     "record": "1–9",
     "ats": "ATS 2–8",
+    "sp": {
+     "overall": 135,
+     "offense": 137,
+     "defense": 131
+    },
     "last": [
      {
       "result": "L 15–27",
       "opponent": "vs Wyoming",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #90)"
      },
      {
       "result": "L 14–17",
       "opponent": "vs Hawai'i",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #109)"
      },
      {
       "result": "L 7–31",
       "opponent": "at North Dakota State",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #31)"
      },
      {
       "result": "L 11–24",
       "opponent": "vs San José State",
-      "opp_record": "(5–6)"
+      "opp_record": "(5–6, SP+ #118)"
      }
     ],
     "win_pct": 8,
     "news": [
      {
-      "text": "UTEP fired head coach Scotty Walden after a 6-28 record across three seasons.",
+      "text": "UTEP fired head coach Scotty Walden following a 6-28 record across three seasons.",
       "sources": [
        {
         "title": "UTEP Fires Head Coach Scotty Walden After 6-28 Record Across Three Seasons",
         "source": "The Hype Magazine",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnlrUkdhT0dHRjJWZzdpckpnSTRKMWtyYm9hR0hfLTNXV0N5VWxKMlItUmlYOFMtSU9pTENNNGZ1WDR4LU5hdlEwME1HVFZVRWRRc2d1Q3dGT1lJazRob0x4cWY5RGU4V3oxV0VNczlfVm5Yd3hJT2dWVzdQWVhTZDk4UTFVTUE?oc=5"
-       },
-       {
-        "title": "Scotty Walden's hype couldn't overcome reality for UTEP football",
-        "source": "El Paso Times",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUDRPZnJSWDlDMlJmdzlEVjZTeXVLUUpUWVRJOXpHVEdQR3h6M3A4N1Z1ajlXZnp1VXBPZVczejV5UzdZaS12RjJfcHVheFRRWEF0c1dzXzlHMWF6TFhVSTE0VGNWZ3U3RmFEN3dkUXZpTzQ5RU1FNFRra2txaXN6dTlFQ3FIWnBBYlAzdTFYS3lsUzAydHJIYm50UTBRS2hYY0Y1ZXZ2MkZENXROTDdXR0FMVXB3eDdVNjVOQmtnNkhvYUJRdTJPVVJ4TzEwREpHdGc?oc=5"
        },
        {
         "title": "UTEP AD Jim Senter explains Scotty Walden firing after Miners’ 6-28 run under him",
@@ -837,26 +917,31 @@
     "rank": "",
     "record": "8–2",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 65,
+     "offense": 62,
+     "defense": 63
+    },
     "last": [
      {
       "result": "W 24–3",
       "opponent": "vs San José State",
-      "opp_record": "(5–6)"
+      "opp_record": "(5–6, SP+ #118)"
      },
      {
       "result": "W 24–21",
       "opponent": "at Army",
-      "opp_record": "(5–4)"
+      "opp_record": "(5–4, SP+ #79)"
      },
      {
       "result": "W 35–26",
       "opponent": "vs UConn",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #70)"
      },
      {
       "result": "L 14–28",
       "opponent": "at Wyoming",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #90)"
      }
     ],
     "win_pct": 92,
@@ -886,26 +971,31 @@
     "rank": "#16",
     "record": "7–3",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 14,
+     "offense": 20,
+     "defense": 20
+    },
     "last": [
      {
       "result": "W 31–7",
       "opponent": "vs Michigan",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #43)"
      },
      {
       "result": "W 41–28",
       "opponent": "at Ohio State",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #4)"
      },
      {
       "result": "W 34–26",
       "opponent": "vs Northwestern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "L 10–21",
       "opponent": "at Illinois",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #44)"
      }
     ],
     "win_pct": 85,
@@ -916,42 +1006,42 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 86,
+     "offense": 108,
+     "defense": 56
+    },
     "last": [
      {
       "result": "L 14–21",
       "opponent": "vs Washington",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #37)"
      },
      {
       "result": "W 15–6",
       "opponent": "at Michigan",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #43)"
      },
      {
       "result": "L 10–28",
       "opponent": "at UCLA",
-      "opp_record": "(10–0)"
+      "opp_record": "(10–0, SP+ #12)"
      },
      {
       "result": "L 21–24",
       "opponent": "vs Northwestern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      }
     ],
     "win_pct": 15,
     "news": [
      {
-      "text": "Michigan State has a quarterback question and a latest injury update regarding starting quarterback Alessio Milivojevic before facing Oregon.",
+      "text": "There is a latest injury update and status available for Michigan State starting quarterback Alessio Milivojevic.",
       "sources": [
        {
         "title": "Latest injury update, status on MSU starting QB Alessio Milivojevic",
         "source": "Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHZHU2o0UDVTenN4WGMway1ZRzJLUmlCMjZRaU1ud2JLMF9NYURRMnRZWnBTMWRkb2tkVkFQakljdlQzdTg2ZHNBMDdKTF9UUjhrSHZjQjlGZzFtRHJSTGVUZ1RnMDRMTlMzRVdZMlJSX21fT2hFYUN6aEFsU2lLUVhPbzE0RTZrNnc?oc=5"
-       },
-       {
-        "title": "Michigan State Has a Quarterback Question Before Oregon Visits",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0RRWEVrdEZOUkZMVVJlT01NcllIX3hyYjlONEZFT09KUEZldkRIa3VKS1NUVGJ2cDhCUC1Gcng2TEVhVWNZZEp1alM5X1lxWl94SWhDaFZPWmNYdWJjWjBvUFQtdGdyMW8waDhORE01SVpnbXBXSmpXUjYzV0lXR3FkejZjT2ZWNkl2ZC1zczZxekE?oc=5"
        }
       ]
      }
@@ -972,33 +1062,38 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "30°F · Wind 7 mph · Rain or snow 6%",
+   "weather": "30°F · Wind 7 mph · Rain or snow 4%",
    "flags": [],
    "away": {
     "name": "New Mexico",
     "rank": "",
     "record": "8–2",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 23,
+     "offense": 66,
+     "defense": 11
+    },
     "last": [
      {
       "result": "L 17–21",
       "opponent": "vs UNLV",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #84)"
      },
      {
       "result": "W 31–3",
       "opponent": "at Nevada",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #92)"
      },
      {
       "result": "W 21–16",
       "opponent": "at San José State",
-      "opp_record": "(5–6)"
+      "opp_record": "(5–6, SP+ #118)"
      },
      {
       "result": "W 21–16",
       "opponent": "vs North Dakota State",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #31)"
      }
     ],
     "win_pct": 72,
@@ -1009,32 +1104,37 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 90,
+     "offense": 103,
+     "defense": 59
+    },
     "last": [
      {
       "result": "W 27–15",
       "opponent": "at UTEP",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #135)"
      },
      {
       "result": "W 41–35",
       "opponent": "at UNLV",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #84)"
      },
      {
       "result": "W 28–14",
       "opponent": "vs Air Force",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #65)"
      },
      {
       "result": "W 41–23",
       "opponent": "vs Northern Illinois",
-      "opp_record": "(0–10)"
+      "opp_record": "(0–10, SP+ #138)"
      }
     ],
     "win_pct": 28,
     "news": [
      {
-      "text": "A weather forecast is reported for the Wyoming football game against New Mexico in Laramie.",
+      "text": "A weather forecast is noted for Wyoming's upcoming game against New Mexico in Laramie.",
       "sources": [
        {
         "title": "Wyoming Football Weather Forecast vs. New Mexico – Laramie (Nov. 20)",
@@ -1070,26 +1170,31 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 88,
+     "offense": 111,
+     "defense": 51
+    },
     "last": [
      {
       "result": "W 17–16",
       "opponent": "at Charlotte",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #134)"
      },
      {
       "result": "W 20–17",
       "opponent": "vs South Florida",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #60)"
      },
      {
       "result": "W 17–9",
       "opponent": "vs Temple",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #115)"
      },
      {
       "result": "L 34–41",
       "opponent": "at Memphis",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #36)"
      }
     ],
     "win_pct": 34,
@@ -1100,33 +1205,43 @@
     "rank": "",
     "record": "5–4",
     "ats": "ATS 3–5–1",
+    "sp": {
+     "overall": 79,
+     "offense": 46,
+     "defense": 108
+    },
     "last": [
      {
       "result": "L 21–24",
       "opponent": "vs Air Force",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #65)"
      },
      {
       "result": "L 22–49",
       "opponent": "at Memphis",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #36)"
      },
      {
       "result": "W 38–35",
       "opponent": "at Tulsa",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #64)"
      },
      {
       "result": "W 56–24",
       "opponent": "vs Florida Atlantic",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #86)"
      }
     ],
     "win_pct": 66,
     "news": [
      {
-      "text": "Sources indicate that Furman is targeting Army offensive coordinator Cody Worley.",
+      "text": "Army offensive coordinator Cody Worley is set to become the head coach at Furman.",
       "sources": [
+       {
+        "title": "Sources -- Army OC Cody Worley to be Furman head coach",
+        "source": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWQxSnczaUp0M19uWWd4U0lVY2lSSlBkODN4S1BLWVRLUWtXX0o1LU9jdTQ2TWhfQnk4TE9wa1gzM1puU1RWTGsyb09KZ0hDcExMUkJWbzlDR2g1S2tMcnFRbU8wc1JSUUdXblg5bEszVlB6Ui0xTnNaWUJuR0JaZkxZU1BGbEZVak9qdU9RSHBjS3JtRTV5Ng?oc=5"
+       },
        {
         "title": "Sources: Furman is targeting Army OC Cody Worley as the...",
         "source": "ESPN",
@@ -1160,26 +1275,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 83,
+     "offense": 75,
+     "defense": 90
+    },
     "last": [
      {
       "result": "W 34–31",
       "opponent": "at NC State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #78)"
      },
      {
       "result": "L 13–18",
       "opponent": "vs Clemson",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #68)"
      },
      {
       "result": "W 30–27",
       "opponent": "vs SMU",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      },
      {
       "result": "W 31–30",
       "opponent": "at North Carolina",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #50)"
      }
     ],
     "win_pct": 55,
@@ -1190,33 +1310,43 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 103,
+     "offense": 105,
+     "defense": 91
+    },
     "last": [
      {
       "result": "L 7–41",
       "opponent": "at Notre Dame",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #2)"
      },
      {
       "result": "L 24–31",
       "opponent": "vs Florida State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #48)"
      },
      {
       "result": "L 2–47",
       "opponent": "at Duke",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      },
      {
       "result": "W 49–27",
       "opponent": "at Georgia Tech",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #97)"
      }
     ],
     "win_pct": 45,
     "news": [
      {
-      "text": "A Boston College starting linebacker has been ruled out for the season.",
+      "text": "Boston College linebacker Bodie Kahoun has been ruled out for the season.",
       "sources": [
+       {
+        "title": "Boston College Football Linebacker Bodie Kahoun Ruled out for Season",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTDljWjAwa2VONW9ZMHVaQ2M1ZThBRkRNNlF6Y2lURkh3Vm5GclFmWTN2Y2p6NU9VUzRPdURYUlYwVWtnZ1o5bmQwV0RIVEgxbjlLbkc2X2xRSklVSEl0bTFQOC12czhDOFBqRWFPNlhhQjctZDJ6OE5EUEU2ZWF0bDRSbWxYdlZFaWRXbmN1RFo?oc=5"
+       },
        {
         "title": "Boston College Football Starting Linebacker Ruled Out for Season",
         "source": "Sports Illustrated",
@@ -1241,7 +1371,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 3 mph · Rain or snow 3%",
+   "weather": "59°F · Wind 3 mph · Rain or snow 5%",
    "flags": [
     "Cincinnati: one win from bowl eligibility"
    ],
@@ -1250,26 +1380,31 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 3–6–1",
+    "sp": {
+     "overall": 93,
+     "offense": 88,
+     "defense": 81
+    },
     "last": [
      {
       "result": "W 42–32",
       "opponent": "vs Houston",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #25)"
      },
      {
       "result": "L 10–20",
       "opponent": "at Arizona State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #62)"
      },
      {
       "result": "W 27–24",
       "opponent": "vs Kansas State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #52)"
      },
      {
       "result": "L 24–57",
       "opponent": "at Oklahoma State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #25)"
      }
     ],
     "win_pct": 41,
@@ -1280,32 +1415,37 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 72,
+     "offense": 31,
+     "defense": 110
+    },
     "last": [
      {
       "result": "L 13–41",
       "opponent": "at Iowa State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #74)"
      },
      {
       "result": "L 24–31",
       "opponent": "at Houston",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #25)"
      },
      {
       "result": "L 25–49",
       "opponent": "vs Utah",
-      "opp_record": "(10–0)"
+      "opp_record": "(10–0, SP+ #10)"
      },
      {
       "result": "W 37–24",
       "opponent": "vs Texas Tech",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #13)"
      }
     ],
     "win_pct": 59,
     "news": [
      {
-      "text": "Scott Satterfield is firmly on the hot seat at Cincinnati.",
+      "text": "Scott Satterfield faces pressure as he remains firmly on the hot seat at Cincinnati.",
       "sources": [
        {
         "title": "Scott Satterfield Faces Latest Home Test While Firmly on Hot Seat at Cincinnati",
@@ -1331,7 +1471,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 9 mph · Rain 32%",
+   "weather": "71°F · Wind 9 mph · Rain 29%",
    "flags": [
     "Florida: ranked #23 (AP)"
    ],
@@ -1340,82 +1480,66 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 80,
+     "offense": 86,
+     "defense": 79
+    },
     "last": [
      {
       "result": "L 6–21",
       "opponent": "vs Alabama",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #6)"
      },
      {
       "result": "W 25–23",
       "opponent": "at Mississippi State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #71)"
      },
      {
       "result": "L 17–34",
       "opponent": "at Kentucky",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #42)"
      },
      {
       "result": "L 21–31",
       "opponent": "vs Arkansas",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #76)"
      }
     ],
     "win_pct": 19,
-    "news": [
-     {
-      "text": "Coach Clark Lea discussed Vanderbilt's sense of urgency to make a bowl game.",
-      "sources": [
-       {
-        "title": "Clark Lea Talks About Vanderbilt Football’s Sense of Urgency to Make a Bowl Game",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2hfQ0loZS1waFZub2xNLXF3d3ZkSkZSd29UblhoSUxHV1UwX0RlUlFxQXNjSGpkbnRFdXdQVF9sN2FPdXhBWWp5eE5UeUhNenlRc2F2TDFsTWozeUpjOURZLVp3X191YURVYS1iNHIwZlVLdE5MYXIwYjI2QjZYNXdXNHpmaUdYWkhOOGZWcmdTUV9pMDRZcGl0TkZhZk1xaDV1RDcwYTI5QlQyUzM5NFV3ZkVaSk0xR0JGRWFrZ2szcDcxOFE?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Quarterback Jared Curtis took a big hit against Alabama and injury updates were provided ahead of the Florida game.",
-      "sources": [
-       {
-        "title": "Jared Curtis Took Big Hit Against Alabama, How Has He Responded for Vanderbilt Football?",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUI1MHZ0Q0puOERCZjVGMGp0Vmcwb3UwY3ZoVDJHWG9GMmQxZS1PamVRbS1Ob1c1ZlJJbzh5Y1pZbkFkbHhGbTdVZ1JpdFlMY25Nc3JULXdvbXROckg2TzJKN19IeWRxWTNHekhTVXp0RWxaUU5FZ1BQalVadkRXVkdjaEVxTmVhbldzX2pPeWNTbmkwYzVJckYzandWUnNOMDgwZlJLSjlfWjZVRVRDZUxucGgtWFNBX0F2eVZSTTRtMktaWFo4RU02clFCdw?oc=5"
-       },
-       {
-        "title": "Jared Curtis injury update for Vanderbilt football vs Florida",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2Y5MWdwV1NqYWI2dGs5TG9jOWlTQUxSYUJDMzRlaTlCRmstTk83TTN2eDRhRThkNmdsNEhURTEyVDdVcUxsQnRLQVByY3RxU0lacnByc0RnRTBublowNFBzX3pjeGphbGRoWE9CWGVBTkFPMmJxRzVXdVFYNUo3dXg2dmN5WUVWbzNsYlpjeW9YZw?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": []
    },
    "home": {
     "name": "Florida",
     "rank": "#23",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 47,
+     "offense": 46,
+     "defense": 51
+    },
     "last": [
      {
       "result": "W 21–14",
       "opponent": "at Kentucky",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #42)"
      },
      {
       "result": "L 7–23",
       "opponent": "vs Oklahoma",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #41)"
      },
      {
       "result": "L 8–27",
       "opponent": "vs Georgia (neutral)",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #1)"
      },
      {
       "result": "W 27–24",
       "opponent": "at Texas",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #8)"
      }
     ],
     "win_pct": 81,
@@ -1436,7 +1560,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 12 mph · Rain 22%",
+   "weather": "64°F · Wind 12 mph · Rain 26%",
    "flags": [
     "Wake Forest: ranked #13 (CFP)"
    ],
@@ -1445,11 +1569,16 @@
     "rank": "#13",
     "record": "9–1",
     "ats": "ATS 8–2",
+    "sp": {
+     "overall": 7,
+     "offense": 9,
+     "defense": 18
+    },
     "last": [
      {
       "result": "W 49–7",
       "opponent": "at SMU",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      },
      {
       "result": "W 77–0",
@@ -1459,12 +1588,12 @@
      {
       "result": "W 51–7",
       "opponent": "vs Virginia",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #56)"
      },
      {
       "result": "W 41–7",
       "opponent": "at California",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #119)"
      }
     ],
     "win_pct": 90,
@@ -1475,32 +1604,37 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 2–8",
+    "sp": {
+     "overall": 97,
+     "offense": 83,
+     "defense": 99
+    },
     "last": [
      {
       "result": "W 20–6",
       "opponent": "at Clemson",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #68)"
      },
      {
       "result": "L 17–44",
       "opponent": "vs Louisville",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #17)"
      },
      {
       "result": "L 11–34",
       "opponent": "at Pittsburgh",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #38)"
      },
      {
       "result": "L 27–49",
       "opponent": "vs Boston College",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #103)"
      }
     ],
     "win_pct": 10,
     "news": [
      {
-      "text": "Georgia Tech is evaluating whether they can be successful using two quarterbacks ahead of their game against Wake Forest.",
+      "text": "Georgia Tech is considering whether they can be successful using two quarterbacks in their upcoming game against Wake Forest.",
       "sources": [
        {
         "title": "Three Storylines To Watch On Saturday vs. Wake Forest: Can The Yellow Jackets Be Successful With Two QBs?",
@@ -1535,26 +1669,31 @@
     "rank": "#10",
     "record": "8–2",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 15,
+     "offense": 24,
+     "defense": 18
+    },
     "last": [
      {
       "result": "W 28–7",
       "opponent": "vs Baylor",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "L 20–28",
       "opponent": "at Utah",
-      "opp_record": "(10–0)"
+      "opp_record": "(10–0, SP+ #10)"
      },
      {
       "result": "W 27–20",
       "opponent": "vs Arizona State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #62)"
      },
      {
       "result": "L 31–39",
       "opponent": "at UCF",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      }
     ],
     "win_pct": 66,
@@ -1566,11 +1705,6 @@
         "title": "Aaron Roderick Explains Why LJ Martin Sat Second Half vs Baylor",
         "source": "Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemg4OVpBNjdyUnZGUTVOV21zLU42eWpudUp2M2NiRnJrSnYwT2t0VzlISFJyaWZITExZNGt3ZmJmWHlXNTh4c1BiTkVLdmU0Z2dreVlPVVkteTVTQUJNQVNzcWV0aFRuVmdiN2lqemJMUTIxeXNIQjBzTkcteFB5TER1ZnhrQnF6NEpBd1c4RW9nVE51X0RQNWNWdVRoOEVUMWdOZWlB?oc=5"
-       },
-       {
-        "title": "BYU football offense report: Cougars' struggles still enough for a 21-point victory over Baylor",
-        "source": "Lawless Republic",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkt3dTlTRmpUSE1yQmltSl9GU19NYzFUcnE5REo3UWxDQ3lvNWpiYUJITndrenhkQUc4dFdJTGhrNVExT1AySm5zNG1BV2J5WTdKdlJUczRveGp5SVJYdnZYY1JqUGQ5c05IaUN3c2dlM1VzYzh6NWpJS1VjQmpNbTI0VzQ1dHlUUVdyQ2RQNGNoSm5EUllOY0JwdEVTZGpXd3JUcEg3TXRpQlhCUkNLeU1POGgyNEY1OHhpU2h3?oc=5"
        }
       ]
      }
@@ -1581,41 +1715,35 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 50,
+     "offense": 56,
+     "defense": 53
+    },
     "last": [
      {
       "result": "W 37–14",
       "opponent": "at West Virginia",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #81)"
      },
      {
       "result": "L 32–33",
       "opponent": "vs UCF",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      },
      {
       "result": "L 16–22",
       "opponent": "at TCU",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #40)"
      },
      {
       "result": "W 25–24",
       "opponent": "vs Baylor",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      }
     ],
     "win_pct": 34,
-    "news": [
-     {
-      "text": "Kansas provided an injury update regarding Kohl Rosario ahead of the upcoming game.",
-      "sources": [
-       {
-        "title": "Kansas Jayhawks news: Kohl Rosario injury update, Kansas volleyball sweeps No. 17 TCU and more",
-        "source": "Through the Phog",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTRvX0FKUGQ2Ny1rTmlMYWZHbmR1cHowZGgwRmE4Tmg3MGxzQng3Q0R6bUduSERkUklUUWcxRkdVTWtBRndCRDZYS0M1Zll4VEhtV0dxQ0FobWJBTTlBSFVtdURrOE84cXB3YWI2R0k0N3NxdkVETm1yVTNESE9NcnUyMUVIRzUyV2lZOXlWUnE4dFF4R1lCQWw3bkR6RFhLb09xdnNnWlJpZFpTajcya3RLSlBLckh0NlE?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": []
    }
   },
   {
@@ -1632,7 +1760,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 9 mph · Rain 59%",
+   "weather": "58°F · Wind 9 mph · Rain 63%",
    "flags": [
     "Minnesota: one win from bowl eligibility"
    ],
@@ -1641,26 +1769,31 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 32,
+     "offense": 36,
+     "defense": 32
+    },
     "last": [
      {
       "result": "L 19–28",
       "opponent": "at Ohio State",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #4)"
      },
      {
       "result": "L 10–24",
       "opponent": "vs Iowa",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #16)"
      },
      {
       "result": "L 26–34",
       "opponent": "at Oregon",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #14)"
      },
      {
       "result": "W 42–14",
       "opponent": "vs Rutgers",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #114)"
      }
     ],
     "win_pct": 58,
@@ -1671,32 +1804,37 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 77,
+     "offense": 109,
+     "defense": 40
+    },
     "last": [
      {
       "result": "L 14–42",
       "opponent": "at Penn State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #27)"
      },
      {
       "result": "L 20–34",
       "opponent": "vs UCLA",
-      "opp_record": "(10–0)"
+      "opp_record": "(10–0, SP+ #12)"
      },
      {
       "result": "L 16–23",
       "opponent": "at Indiana",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #5)"
      },
      {
       "result": "W 13–10",
       "opponent": "vs Iowa",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #16)"
      }
     ],
     "win_pct": 42,
     "news": [
      {
-      "text": "Head coach PJ Fleck fired offensive coordinator Harbaugh.",
+      "text": "Head coach PJ Fleck fired their offensive coordinator.",
       "sources": [
        {
         "title": "PJ Fleck, Gophers Lose Two Recruits After Firing OC",
@@ -1727,7 +1865,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 3 mph · Rain or snow 1%",
+   "weather": "58°F · Wind 3 mph · Rain or snow 0%",
    "flags": [
     "Memphis: ranked #24 (AP)",
     "Navy: off a bye week"
@@ -1737,26 +1875,31 @@
     "rank": "#24",
     "record": "8–2",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 36,
+     "offense": 14,
+     "defense": 80
+    },
     "last": [
      {
       "result": "W 52–41",
       "opponent": "at South Florida",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #60)"
      },
      {
       "result": "W 49–22",
       "opponent": "vs Army",
-      "opp_record": "(5–4)"
+      "opp_record": "(5–4, SP+ #79)"
      },
      {
       "result": "W 41–34",
       "opponent": "vs East Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #88)"
      },
      {
       "result": "L 17–31",
       "opponent": "at Tulane",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #112)"
      }
     ],
     "win_pct": 60,
@@ -1767,26 +1910,31 @@
     "rank": "",
     "record": "3–6",
     "ats": "ATS 3–6",
+    "sp": {
+     "overall": 88,
+     "offense": 43,
+     "defense": 115
+    },
     "last": [
      {
       "result": "W 42–35",
       "opponent": "vs Temple",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #115)"
      },
      {
       "result": "L 13–35",
       "opponent": "vs Notre Dame (neutral)",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #2)"
      },
      {
       "result": "L 39–49",
       "opponent": "vs North Texas",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #67)"
      },
      {
       "result": "L 34–38",
       "opponent": "at UTSA",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #61)"
      }
     ],
     "win_pct": 40,
@@ -1807,7 +1955,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 14 mph · Rain 33%",
+   "weather": "60°F · Wind 14 mph · Rain 44%",
    "flags": [
     "Ohio State: ranked #20 (CFP)"
    ],
@@ -1816,32 +1964,37 @@
     "rank": "#20",
     "record": "7–3",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 4,
+     "offense": 10,
+     "defense": 8
+    },
     "last": [
      {
       "result": "W 28–19",
       "opponent": "vs Northwestern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "L 28–41",
       "opponent": "vs Oregon",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #14)"
      },
      {
       "result": "L 18–30",
       "opponent": "at USC",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #21)"
      },
      {
       "result": "W 19–15",
       "opponent": "at Indiana",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #5)"
      }
     ],
     "win_pct": 59,
     "news": [
      {
-      "text": "Head coach Ryan Day provided an injury update indicating it does not look good for an injured starter to return this season.",
+      "text": "Head coach Ryan Day provided a negative injury update regarding the chances of an injured starter returning this year.",
       "sources": [
        {
         "title": "Ohio State HC Ryan Day gives injury update that doesn’t sound good for Buckeyes’ chances of getting an injured starter back this year",
@@ -1857,26 +2010,31 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 18,
+     "offense": 40,
+     "defense": 9
+    },
     "last": [
      {
       "result": "W 31–0",
       "opponent": "at Rutgers",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #114)"
      },
      {
       "result": "L 13–24",
       "opponent": "at Illinois",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #44)"
      },
      {
       "result": "L 10–17",
       "opponent": "vs Washington",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #37)"
      },
      {
       "result": "L 14–17",
       "opponent": "at Oregon",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #14)"
      }
     ],
     "win_pct": 41,
@@ -1897,7 +2055,7 @@
    "line_source": "",
    "tossup": false,
    "prob_source": null,
-   "weather": "64°F · Wind 8 mph · Rain or snow 5%",
+   "weather": "64°F · Wind 8 mph · Rain or snow 4%",
    "flags": [
     "Wofford: off a bye week",
     "Ole Miss: ranked #19 (CFP)"
@@ -1907,11 +2065,12 @@
     "rank": "",
     "record": "5–6",
     "ats": "ATS 0–1",
+    "sp": null,
     "last": [
      {
       "result": "L 15–36",
       "opponent": "at Kent State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #132)"
      }
     ],
     "win_pct": null,
@@ -1922,30 +2081,46 @@
     "rank": "#19",
     "record": "6–4",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 24,
+     "offense": 18,
+     "defense": 48
+    },
     "last": [
      {
       "result": "L 17–24",
       "opponent": "at Oklahoma",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #41)"
      },
      {
       "result": "L 7–42",
       "opponent": "vs Georgia",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #1)"
      },
      {
       "result": "W 45–15",
       "opponent": "vs Auburn",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #49)"
      },
      {
       "result": "L 27–34",
       "opponent": "at Texas",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #8)"
      }
     ],
     "win_pct": null,
-    "news": []
+    "news": [
+     {
+      "text": "Ole Miss is monitoring the potential return of three injured running backs.",
+      "sources": [
+       {
+        "title": "Which of Ole Miss football's 3 injured RBs Pete Golding said could return",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUVQU2VOa09sZV9scmNwRlhzdmkzTVk3T01Fc2FxeWpMMXQyemJkNTJjaFdKVXBXZ21SOHF3Z0dWYlk2RkFEek1KZllIRTlTeFBqYkE2WXZrdU1UUlFyeDZBVWRjLWw2WTdwTXM2aEJYclNqRlZFX3pVQUVaZzJhMllnNA?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1962,94 +2137,73 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 7 mph · Rain or snow 5%",
+   "weather": "60°F · Wind 7 mph · Rain or snow 6%",
    "flags": [],
    "away": {
     "name": "Wisconsin",
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 39,
+     "offense": 91,
+     "defense": 16
+    },
     "last": [
      {
       "result": "L 21–24",
       "opponent": "at Maryland",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #75)"
      },
      {
       "result": "W 31–10",
       "opponent": "vs Rutgers",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #114)"
      },
      {
       "result": "L 0–30",
       "opponent": "at Iowa",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #16)"
      },
      {
       "result": "W 24–7",
       "opponent": "vs USC",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #21)"
      }
     ],
     "win_pct": 66,
-    "news": [
-     {
-      "text": "Wisconsin's quarterback situation has grown more complicated following their loss to Maryland.",
-      "sources": [
-       {
-        "title": "Wisconsin’s Quarterback Situation Just Got More Complicated After Maryland Loss",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMk1McFRsT21FLUsyeEp1OU1icGlpU1BGUVBuRF9ILWZUaU44b1E4enJOQlp6cUVuaDBFWnZSM0phMlVjdlJVQWgxVF9hRGFSUGtFRURCY0VqWDBKY0ppeDNxTEFMMDMyWklFTkpuaGc0dE9YTFp0TjRUVFg2WEUwQVdLVXBvYzBNVk1IM0NRaVliM3R5OGN5MmgwbzQzWjlFQzU2NVBrTktjanIxeHlUMlEzYzdoTFo1cXJrV19EZWdFNHM?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Wisconsin's secondary is currently facing trouble as they prepare for Purdue.",
-      "sources": [
-       {
-        "title": "Wisconsin Football's Secondary is in Trouble—And Purdue Could Easily Take Advantage",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGtRX3ZDd0F1eS1COFVVSncwVlB1by1ha2doQ3hnSEFndUpZNTEtX082SktYMmpRYjdoQmppWEc2RXB0V3NQc19GM1BjaGEzaUlPZUUyU0FHRHhubW5JbnEyOGpzSE5jUVpsWldWcTNrQmtkX0dhX1poYVV6dXpfS2RKOHNpMXhDcEUxNzRteGJYcVdmcWdjN2dCcUh0NEQydG45V3dLNU90S0NoT2U2WGdVMU5WOVRBU2Z5TkpRRzZDS1I1RkE?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Coach Luke Fickell addressed the team's offensive struggles and uncertain identity.",
-      "sources": [
-       {
-        "title": "What Luke Fickell said about Wisconsin football's offensive struggles and uncertain identity",
-        "source": "Dillon Graff",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjVIUUVURy1vT2l0bUNCaVhfS1U5ODJPN0I3SVNzcjBuMnBVUHREaTFoLWtTSlRuTWZUVlpIWmpNdVVuVDY3Ynl5MGE4NS1jSHdMQnI4WTlBU09ubk1ONDBseXdmdFVPVW1qeUEzb3NPeUlmc3ViX21GSHNramRNM2NiMUpFcjRFT0NvcTRsVQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": []
    },
    "home": {
     "name": "Purdue",
     "rank": "",
     "record": "3–7",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 91,
+     "offense": 64,
+     "defense": 108
+    },
     "last": [
      {
       "result": "L 7–28",
       "opponent": "at Iowa",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #16)"
      },
      {
       "result": "L 29–34",
       "opponent": "vs Maryland",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #75)"
      },
      {
       "result": "L 17–31",
       "opponent": "at Penn State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #27)"
      },
      {
       "result": "L 26–38",
       "opponent": "vs Washington",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #37)"
      }
     ],
     "win_pct": 34,
@@ -2079,32 +2233,37 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 67,
+     "offense": 17,
+     "defense": 118
+    },
     "last": [
      {
       "result": "L 16–35",
       "opponent": "at UTSA",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #61)"
      },
      {
       "result": "W 52–23",
       "opponent": "vs Rice",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #126)"
      },
      {
       "result": "W 48–41",
       "opponent": "vs Florida Atlantic",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #86)"
      },
      {
       "result": "W 49–39",
       "opponent": "at Navy",
-      "opp_record": "(3–6)"
+      "opp_record": "(3–6, SP+ #88)"
      }
     ],
     "win_pct": 68,
     "news": [
      {
-      "text": "North Texas quarterback Tayven Jackson may be done for the year.",
+      "text": "North Texas quarterback Tayven Jackson may be out for the remainder of the season.",
       "sources": [
        {
         "title": "North Texas quarterback Tayven Jackson may be done for the year",
@@ -2120,26 +2279,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 112,
+     "offense": 116,
+     "defense": 101
+    },
     "last": [
      {
       "result": "W 20–17",
       "opponent": "at Rice",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #126)"
      },
      {
       "result": "L 10–60",
       "opponent": "vs Tulsa",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #64)"
      },
      {
       "result": "W 38–31",
       "opponent": "at Charlotte",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #134)"
      },
      {
       "result": "L 19–42",
       "opponent": "vs UTSA",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #61)"
      }
     ],
     "win_pct": 32,
@@ -2170,32 +2334,37 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 50,
+     "offense": 57,
+     "defense": 46
+    },
     "last": [
      {
       "result": "L 14–16",
       "opponent": "vs Louisville",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #17)"
      },
      {
       "result": "W 38–21",
       "opponent": "at UConn",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #70)"
      },
      {
       "result": "L 35–38",
       "opponent": "vs Miami",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #3)"
      },
      {
       "result": "L 30–31",
       "opponent": "vs Syracuse",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #83)"
      }
     ],
     "win_pct": 48,
     "news": [
      {
-      "text": "A wrist injury will sideline UNC's Neo Avdalas.",
+      "text": "Neo Avdalas will be sidelined for the upcoming game due to a wrist injury.",
       "sources": [
        {
         "title": "What Neo Avdalas' Injury Means for UNC Moving Forward",
@@ -2216,30 +2385,46 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 4–5–1",
+    "sp": {
+     "overall": 56,
+     "offense": 79,
+     "defense": 37
+    },
     "last": [
      {
       "result": "W 36–7",
       "opponent": "vs California",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #119)"
      },
      {
       "result": "L 7–51",
       "opponent": "at Wake Forest",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #7)"
      },
      {
       "result": "L 16–19",
       "opponent": "vs Duke",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      },
      {
       "result": "L 13–23",
       "opponent": "at SMU",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      }
     ],
     "win_pct": 52,
-    "news": []
+    "news": [
+     {
+      "text": "Virginia is seeking bowl eligibility in their upcoming game against North Carolina.",
+      "sources": [
+       {
+        "title": "Three big story lines for Saturday as Virginia seeks bowl eligibility against UNC",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaU52V2lqbXpBTG5MdmxTVHZ4Y3FLRE1lMXV6NlIweW16c3U2clJ3dDFIQ2ZyUGdHZzRLVXJpa3psX2NDWkhlbDJGZ19ldFpNQUZZRVUyUzlQVHlmQjZMYlFZclJvUGJsVm1UT2FPTTh4MnJjN00zZ09VbXl3Q3g1XzF4LWtmOGlPTko2N3VkX2s3dUdWY0x3aGxNb0xuNklQdFlvbkpqUnFEaUU0OUlQX1U4MlZBTUFqQWhpa1h5UVR1anc1UXFTRGpVRERxUWxxLVNqa2lB?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -2256,7 +2441,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 7 mph · Rain or snow 4%",
+   "weather": "60°F · Wind 7 mph · Rain or snow 3%",
    "flags": [
     "Liberty: ranked #22 (AP)"
    ],
@@ -2265,26 +2450,31 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 116,
+     "offense": 102,
+     "defense": 117
+    },
     "last": [
      {
       "result": "W 34–24",
       "opponent": "vs Jacksonville State",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #65)"
      },
      {
       "result": "L 42–51",
       "opponent": "at Middle Tennessee",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #122)"
      },
      {
       "result": "L 21–35",
       "opponent": "vs Delaware",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #99)"
      },
      {
       "result": "W 16–3",
       "opponent": "at Sam Houston",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #131)"
      }
     ],
     "win_pct": 14,
@@ -2295,26 +2485,31 @@
     "rank": "#22",
     "record": "9–1",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 19,
+     "offense": 28,
+     "defense": 21
+    },
     "last": [
      {
       "result": "W 28–23",
       "opponent": "vs Middle Tennessee",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #122)"
      },
      {
       "result": "W 30–14",
       "opponent": "at New Mexico State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #125)"
      },
      {
       "result": "W 49–10",
       "opponent": "vs Florida International",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #108)"
      },
      {
       "result": "W 34–6",
       "opponent": "at Kennesaw State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #102)"
      }
     ],
     "win_pct": 86,
@@ -2342,11 +2537,12 @@
     "rank": "",
     "record": "9–2",
     "ats": "ATS 0–0",
+    "sp": null,
     "last": [],
     "win_pct": null,
     "news": [
      {
-      "text": "AJ Swann's injury status remains unclear ahead of Tennessee Tech.",
+      "text": "The injury status of AJ Swann remains unclear heading into the upcoming game.",
       "sources": [
        {
         "title": "Why AJ Swann's Injury Status Remains Unclear Ahead of Tennessee Tech",
@@ -2362,32 +2558,37 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 71,
+     "offense": 67,
+     "defense": 74
+    },
     "last": [
      {
       "result": "L 9–41",
       "opponent": "vs Auburn",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #49)"
      },
      {
       "result": "L 23–25",
       "opponent": "vs Vanderbilt",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #80)"
      },
      {
       "result": "L 3–31",
       "opponent": "at Texas",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #8)"
      },
      {
       "result": "L 15–23",
       "opponent": "vs Oklahoma",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #41)"
      }
     ],
     "win_pct": null,
     "news": [
      {
-      "text": "AJ Swann's injury status remains unclear ahead of the upcoming game.",
+      "text": "Quarterback AJ Swann's injury status remains unclear for the upcoming game against Tennessee Tech.",
       "sources": [
        {
         "title": "Why AJ Swann's Injury Status Remains Unclear Ahead of Tennessee Tech",
@@ -2397,17 +2598,7 @@
       ]
      },
      {
-      "text": "Coach Jeff Lebby addressed his job security amid the team's losing streak.",
-      "sources": [
-       {
-        "title": "Jeff Lebby Addresses Job Security Amid Mississippi State's Losing Streak",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGtfX3FBVzZES0Rzdmswa28ybGJidXJzRFI3WXdXNk04cDVBektrZTlvRkM2eTBZdTIzelZqYkJpWHU2d2hLRW04WTlBd29SQkRYdDJDdkJpTFRmcU5ZNkFIY3R5b21ZSUZBQk9FTEZZeDd0LUpWSVdWemV0Y0VENEpCUmw4WUhuSnRzSnRIcENjdGFJSFJUMk8tRGNVOWZIZEdkVkdLR1FoYjFJYzVNNUcwRHIwbnBiNWd3RGRNa25OcEU?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Coach Jeff Lebby fired two Mississippi State assistant coaches.",
+      "text": "Head coach Jeff Lebby fired two assistant coaches following the team's recent performance.",
       "sources": [
        {
         "title": "Why Jeff Lebby Fired Two Mississippi State Assistants After Saying He Would Wait",
@@ -2438,7 +2629,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 2 mph · Rain or snow 1%",
+   "weather": "64°F · Wind 2 mph · Rain or snow 0%",
    "flags": [
     "Houston: ranked #14 (CFP)",
     "West Virginia: one win from bowl eligibility"
@@ -2448,37 +2639,42 @@
     "rank": "#14",
     "record": "7–3",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 25,
+     "offense": 13,
+     "defense": 61
+    },
     "last": [
      {
       "result": "L 32–42",
       "opponent": "at Colorado",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #93)"
      },
      {
       "result": "W 31–24",
       "opponent": "vs Cincinnati",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      },
      {
       "result": "L 13–21",
       "opponent": "at Utah",
-      "opp_record": "(10–0)"
+      "opp_record": "(10–0, SP+ #10)"
      },
      {
       "result": "W 35–32",
       "opponent": "vs Oklahoma State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #25)"
      }
     ],
     "win_pct": 73,
     "news": [
      {
-      "text": "Houston faces a tough decision at the quarterback position between Weigman and Keisean Henderson.",
+      "text": "Linebacker Carmycah Glass will miss the remainder of the season due to injury.",
       "sources": [
        {
-        "title": "DILEMMA? Houston Cougars \"Face \"Tough Weigman vs Keisean Henderson DECISION for QB Spot",
-        "source": "wtsp.com",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa09lOWV5bWJkakE4dGM5LTljUjE4LTNzbUdHREEtWmdoZ0owRUNPTDgxNFlseWc2VlBuT1l4YmZDLXh1TGpJVVpuUE5hZFBsTXJQTHpKS0lUTTZka3dyVGxubzhOZWtqUzJKOHhjWjVqTnF1TGFMWUV5T0F6RmNRdlI0RTdNUkpyTUZJNmVRQlc5TVJYMmdwcGJET2REVWpBMmhNTU1fLTIxMmY2bVM5Sm5rLVN5bXpIMVQ0YXNrMW82STVaYUhGUjd4cnBoSXdVM0UwWG5MUEVIZm81b2R1bm1pbGVuSDZMVGVmdXFMUVR0bVBCSlRiLTFNdFVMWmU1Mm11VEVCalFlMFJDN2tSd09EZnM1Y2ZZLVkw?oc=5"
+        "title": "University of Houston football notes: Linebacker Carmycah Glass out for rest of season",
+        "source": "Houston Chronicle",
+        "url": "https://www.msn.com/en-us/news/other/university-of-houston-football-notes-linebacker-carmycah-glass-out-for-rest-of-season/ar-AA2hyDLK"
        }
       ]
      }
@@ -2489,52 +2685,57 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 81,
+     "offense": 28,
+     "defense": 127
+    },
     "last": [
      {
       "result": "L 14–37",
       "opponent": "vs Kansas",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #50)"
      },
      {
       "result": "L 48–53",
       "opponent": "at Texas Tech",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #13)"
      },
      {
       "result": "W 24–20",
       "opponent": "at TCU",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #40)"
      },
      {
       "result": "W 45–42",
       "opponent": "vs Cincinnati",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      }
     ],
     "win_pct": 27,
     "news": [
      {
-      "text": "WVU quarterback Mike Hawkins Jr. is considered questionable for the upcoming game against Houston.",
+      "text": "Quarterback Mike Hawkins Jr. is listed as questionable for the upcoming game against Houston.",
       "sources": [
+       {
+        "title": "WVU’s Michael Hawkins Injury Update Puts QB Scotty Fox Jr. in Line to Start",
+        "source": "Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFpMTWw0WGRSUlBnV3F6X1JBcmoydEdaaXpJc3RhUUZzalJLbS1fbTJuMUdSbTRZTmlCU3E5ekM4Y3FlMG9sY0Fub2tTbWRFeFgyWkhVb1RFZl82VHNwVVBLWWE0SHNURHZhZ2loc3o1WVBVeXNneFVJMnVGS0RRSkV6SFlKc2p1OGFzQ2w1b1V3bkhMNlFXNktiYjhMSk5uM2NOaVFGcG5oVkVBWXBHbi1NZUZsUQ?oc=5"
+       },
        {
         "title": "WVU QB Mike Hawkins Jr. Considered \"Questionable\" for Houston Game",
         "source": "Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnFCOGhyMUhYU1RmU3A1Nmp6R0JvX3FzQ05mbnZVcWJhMkN0MmJld1VseVFGeTJtVVM3Vl84WkFYUmgxVEtGQXZYRDdKVHJ5QmQwcHdYSnBmN2JlSVZRLVdpLWM4V2J2QkQ1M1B5ZktLS21OVUc3VjhDS25WZk12SC1fT1dXemNQRWxZZFVyQkVrdndHZ1c5c2tyaE1ERU85Wi1DRGNGWC1hQndKeElDWWxB?oc=5"
-       },
-       {
-        "title": "WVU Doesn't Have to Choose Between Mike Hawkins Jr. and Fixing Its Defense — It Can Do Both",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekhjUTBQdnU3RkVqY1lVeXB4UUMyMTduOVQ3QXYzQmN4V0JkZkUzWEI5dE1wVDVLQnIyZUtmNjUwTzZCV0lBV3R2eTRaMWRLYlUzNXFCSVVlVW1ZdlFYeWNoWmhWYW4ybUcyTUJiT05MdHIzV1BxSWxwRlNGMmxhblVoS1RQb0JtQkZBa3FGUUVkUWlzMFdSeTRWSkI1QzlGNjlsR3hpamduX2o3WG5CdGZEUUhSTUo2dDNOYUVTWjU5MTctNjFsa1VFX18zX2lqVEk0?oc=5"
        }
       ]
      },
      {
-      "text": "West Virginia wide receiver Jaden Bray has been ruled out for the remainder of the season due to an injury.",
+      "text": "Scotty Fox Jr. is in line to start at quarterback if Michael Hawkins Jr. is unable to play.",
       "sources": [
        {
-        "title": "WVU WR Jaden Bray Ruled Out for the Remainder of the Season",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUFmQjZrVkc5RnROaG1vNzFRTlBpWFJZcHlhd3JrQkZ5UTlQcE14WEkyeGNTLWJ0Njc5Zld5SnBBWVJHd2pGWWNOV0k4cTZwU1N1bzZNTzNUUk1sMXM1ODQtdjJaZWhBUUM3Nm5Rb0VZSzFBbUJMcFB2Q1phb2FkX210SXdkdThpR2NCZlhpODJ2WmhUYWJ2aWVCWTJYWHIycGNWQkNmSEdQZy1z?oc=5"
+        "title": "WVU’s Michael Hawkins Injury Update Puts QB Scotty Fox Jr. in Line to Start",
+        "source": "Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFpMTWw0WGRSUlBnV3F6X1JBcmoydEdaaXpJc3RhUUZzalJLbS1fbTJuMUdSbTRZTmlCU3E5ekM4Y3FlMG9sY0Fub2tTbWRFeFgyWkhVb1RFZl82VHNwVVBLWWE0SHNURHZhZ2loc3o1WVBVeXNneFVJMnVGS0RRSkV6SFlKc2p1OGFzQ2w1b1V3bkhMNlFXNktiYjhMSk5uM2NOaVFGcG5oVkVBWXBHbi1NZUZsUQ?oc=5"
        }
       ]
      }
@@ -2555,7 +2756,7 @@
    "line_source": "",
    "tossup": false,
    "prob_source": null,
-   "weather": "66°F · Wind 6 mph · Rain or snow 10%",
+   "weather": "66°F · Wind 6 mph · Rain or snow 9%",
    "flags": [
     "Alabama: ranked #3 (CFP)"
    ],
@@ -2564,46 +2765,41 @@
     "rank": "",
     "record": "7–4",
     "ats": "ATS 0–0",
+    "sp": null,
     "last": [],
     "win_pct": null,
-    "news": [
-     {
-      "text": "Chattanooga punter Heath Jehu was named the SoCon Special Teams Player of the Week.",
-      "sources": [
-       {
-        "title": "Chattanooga Mocs punter Heath Jehu named SoCon Special Teams Player of the Week",
-        "source": "Local 3 News",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTUVfQ3Q5X1o4OFpjNm5jaE85OF84RXdRVUE0LVJXNUl2aE1ZZ0U5NGlYOFRZT0FMRFY1bldJVEg4WEM3ejYwb3A4SlVhS3B3RUNVc2NlZF9FWk5BWWRZUm5GeW5VWG5HT0RVd0JCMUdjbldZUlJRX0JJa3FtelNXeXdMY0VpN2plOHg2eXk3c1ZTMExnMHQxTjBNTEZzRFc1QURrRFRCV3BoakVzTDNXeWM2TlY0c0xZb1hya1NPa0FMLTJDeVdaMmlWcWlDSFgzQXVQb2VFWHIxSEJrOFRQaDdGaHNNNFEtdDdHUzRfeE1rT1FySElpUnFEa0NiUQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": []
    },
    "home": {
     "name": "Alabama",
     "rank": "#3",
     "record": "8–2",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 6,
+     "offense": 16,
+     "defense": 11
+    },
     "last": [
      {
       "result": "W 21–6",
       "opponent": "at Vanderbilt",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #80)"
      },
      {
       "result": "W 31–13",
       "opponent": "at LSU",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #9)"
      },
      {
       "result": "W 31–20",
       "opponent": "vs Texas A&M",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #44)"
      },
      {
       "result": "L 10–26",
       "opponent": "at Tennessee",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #11)"
      }
     ],
     "win_pct": null,
@@ -2624,33 +2820,38 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "72°F · Wind 8 mph · Rain or snow 15%",
+   "weather": "72°F · Wind 8 mph · Rain 20%",
    "flags": [],
    "away": {
     "name": "Missouri State",
     "rank": "",
     "record": "4–6",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 121,
+     "offense": 113,
+     "defense": 111
+    },
     "last": [
      {
       "result": "W 27–21",
       "opponent": "vs New Mexico State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #125)"
      },
      {
       "result": "L 20–23",
       "opponent": "at Florida International",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #108)"
      },
      {
       "result": "W 24–3",
       "opponent": "vs Sam Houston",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #131)"
      },
      {
       "result": "L 38–61",
       "opponent": "at Delaware",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #99)"
      }
     ],
     "win_pct": 23,
@@ -2661,30 +2862,46 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 65,
+     "offense": 63,
+     "defense": 62
+    },
     "last": [
      {
       "result": "L 24–34",
       "opponent": "at Western Kentucky",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #116)"
      },
      {
       "result": "W 47–14",
       "opponent": "vs Sam Houston",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #131)"
      },
      {
       "result": "W 24–0",
       "opponent": "at New Mexico State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #125)"
      },
      {
       "result": "W 27–24",
       "opponent": "vs Florida International",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #108)"
      }
     ],
     "win_pct": 77,
-    "news": []
+    "news": [
+     {
+      "text": "Jacksonville State coach Rich Rodriguez anticipates the return of injured offensive linemen for the upcoming game.",
+      "sources": [
+       {
+        "title": "Jax State's Kelly anticipates return of injured offensive linemen",
+        "source": "The Anniston Star",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0lOMDdPYlZ0UTVXZnl0RUhyczZDcGl3NnctTENhYmhHa2xEM1A2UFdBcnAwaFNvUG5SbUg4U2ZLUUZVNnp5X1ZmWXNKZThBcllJQkxNZlZrQjVfYnlYU1QwMDVvQnBteDRXOGotRmx4Vk9uNGNYNVlSN1JldG1pNTliVDBtbko2elNvNU5rRDFqdjNTd2xNbWRSX3lpbGttMEl3eFVJMlNMMThTVmRZSzdwZWJkNGhjakFRSEZyT3d4d1NYTnBGREhSYVRVSExEeHJwSUg0dktKMllFTHA0NGxn?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -2701,7 +2918,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "74°F · Wind 6 mph · Rain or snow 2%",
+   "weather": "74°F · Wind 6 mph · Rain or snow 1%",
    "flags": [
     "Middle Tennessee: one win from bowl eligibility"
    ],
@@ -2710,26 +2927,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 122,
+     "offense": 99,
+     "defense": 129
+    },
     "last": [
      {
       "result": "L 23–28",
       "opponent": "at Liberty",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #19)"
      },
      {
       "result": "W 51–42",
       "opponent": "vs Western Kentucky",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #116)"
      },
      {
       "result": "L 28–44",
       "opponent": "vs Kennesaw State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #102)"
      },
      {
       "result": "W 26–23",
       "opponent": "at Florida International",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #108)"
      }
     ],
     "win_pct": 66,
@@ -2740,26 +2962,31 @@
     "rank": "",
     "record": "1–9",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 131,
+     "offense": 136,
+     "defense": 114
+    },
     "last": [
      {
       "result": "L 7–26",
       "opponent": "vs Kennesaw State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #102)"
      },
      {
       "result": "L 14–47",
       "opponent": "at Jacksonville State",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #65)"
      },
      {
       "result": "L 3–24",
       "opponent": "at Missouri State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #121)"
      },
      {
       "result": "L 24–30",
       "opponent": "vs New Mexico State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #125)"
      }
     ],
     "win_pct": 34,
@@ -2780,33 +3007,38 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "70°F · Wind 14 mph · Rain or snow 11%",
+   "weather": "70°F · Wind 14 mph · Rain or snow 10%",
    "flags": [],
    "away": {
     "name": "Charlotte",
     "rank": "",
     "record": "1–9",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 134,
+     "offense": 130,
+     "defense": 136
+    },
     "last": [
      {
       "result": "L 16–17",
       "opponent": "vs East Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #88)"
      },
      {
       "result": "L 12–23",
       "opponent": "at UAB",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #95)"
      },
      {
       "result": "L 31–38",
       "opponent": "vs Tulane",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #112)"
      },
      {
       "result": "W 38–31",
       "opponent": "at Temple",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #115)"
      }
     ],
     "win_pct": 8,
@@ -2817,26 +3049,31 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 64,
+     "offense": 45,
+     "defense": 75
+    },
     "last": [
      {
       "result": "W 38–21",
       "opponent": "vs Florida Atlantic",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #86)"
      },
      {
       "result": "W 60–10",
       "opponent": "at Tulane",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #112)"
      },
      {
       "result": "L 35–38",
       "opponent": "vs Army",
-      "opp_record": "(5–4)"
+      "opp_record": "(5–4, SP+ #79)"
      },
      {
       "result": "W 38–17",
       "opponent": "at Rice",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #126)"
      }
     ],
     "win_pct": 92,
@@ -2857,33 +3094,38 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "54°F · Wind 7 mph · Rain or snow 14%",
+   "weather": "54°F · Wind 7 mph · Rain or snow 17%",
    "flags": [],
    "away": {
     "name": "UL Monroe",
     "rank": "",
     "record": "2–8",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 133,
+     "offense": 128,
+     "defense": 134
+    },
     "last": [
      {
       "result": "L 21–42",
       "opponent": "vs Louisiana",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #54)"
      },
      {
       "result": "W 19–17",
       "opponent": "at Arkansas State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #100)"
      },
      {
       "result": "L 21–35",
       "opponent": "vs Southern Miss",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #128)"
      },
      {
       "result": "W 21–14",
       "opponent": "at Troy",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #123)"
      }
     ],
     "win_pct": 17,
@@ -2894,26 +3136,31 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 94,
+     "offense": 95,
+     "defense": 86
+    },
     "last": [
      {
       "result": "W 20–16",
       "opponent": "at Marshall",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #116)"
      },
      {
       "result": "L 23–39",
       "opponent": "vs Georgia State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #104)"
      },
      {
       "result": "L 3–19",
       "opponent": "at Georgia Southern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #62)"
      },
      {
       "result": "W 34–31",
       "opponent": "vs James Madison",
-      "opp_record": "(8–3)"
+      "opp_record": "(8–3, SP+ #35)"
      }
     ],
     "win_pct": 83,
@@ -2934,33 +3181,38 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "84°F · Wind 12 mph · Rain 31%",
+   "weather": "84°F · Wind 12 mph · Rain 40%",
    "flags": [],
    "away": {
     "name": "South Florida",
     "rank": "",
     "record": "6–4",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 60,
+     "offense": 69,
+     "defense": 54
+    },
     "last": [
      {
       "result": "L 41–52",
       "opponent": "vs Memphis",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #36)"
      },
      {
       "result": "L 17–20",
       "opponent": "at East Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #88)"
      },
      {
       "result": "W 30–10",
       "opponent": "vs UAB",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #95)"
      },
      {
       "result": "W 29–2",
       "opponent": "vs Kent State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #132)"
      }
     ],
     "win_pct": 51,
@@ -2971,26 +3223,31 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 86,
+     "offense": 35,
+     "defense": 126
+    },
     "last": [
      {
       "result": "L 21–38",
       "opponent": "at Tulsa",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #64)"
      },
      {
       "result": "W 60–29",
       "opponent": "vs UTSA",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #61)"
      },
      {
       "result": "L 41–48",
       "opponent": "at North Texas",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #67)"
      },
      {
       "result": "W 51–49",
       "opponent": "vs Rice",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #126)"
      }
     ],
     "win_pct": 49,
@@ -3011,7 +3268,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 7 mph · Rain or snow 7%",
+   "weather": "60°F · Wind 7 mph · Rain or snow 6%",
    "flags": [
     "Iowa: ranked #15 (CFP)"
    ],
@@ -3020,26 +3277,31 @@
     "rank": "#15",
     "record": "8–2",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 16,
+     "offense": 52,
+     "defense": 4
+    },
     "last": [
      {
       "result": "W 28–7",
       "opponent": "vs Purdue",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #91)"
      },
      {
       "result": "W 24–10",
       "opponent": "at Northwestern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "W 30–0",
       "opponent": "vs Wisconsin",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #39)"
      },
      {
       "result": "L 10–13",
       "opponent": "at Minnesota",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #77)"
      }
     ],
     "win_pct": 73,
@@ -3050,32 +3312,37 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 44,
+     "offense": 52,
+     "defense": 43
+    },
     "last": [
      {
       "result": "L 14–22",
       "opponent": "at UCLA",
-      "opp_record": "(10–0)"
+      "opp_record": "(10–0, SP+ #12)"
      },
      {
       "result": "W 24–13",
       "opponent": "vs Nebraska",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #18)"
      },
      {
       "result": "W 20–17",
       "opponent": "at Maryland",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #75)"
      },
      {
       "result": "W 21–10",
       "opponent": "vs Oregon",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #14)"
      }
     ],
     "win_pct": 27,
     "news": [
      {
-      "text": "Illinois wide receiver Hudson Clement will miss the rest of the season due to an injury.",
+      "text": "Illinois wide receiver Hudson Clement is out for the remainder of the season.",
       "sources": [
        {
         "title": "Illinois WR Hudson Clement out for season",
@@ -3101,63 +3368,84 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 9 mph · Rain or snow 12%",
+   "weather": "69°F · Wind 9 mph · Rain or snow 13%",
    "flags": [],
    "away": {
     "name": "Florida International",
     "rank": "",
     "record": "4–6",
     "ats": "ATS 3–6–1",
+    "sp": {
+     "overall": 108,
+     "offense": 123,
+     "defense": 72
+    },
     "last": [
      {
       "result": "L 16–24",
       "opponent": "at Delaware",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #99)"
      },
      {
       "result": "W 23–20",
       "opponent": "vs Missouri State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #121)"
      },
      {
       "result": "L 10–49",
       "opponent": "at Liberty",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #19)"
      },
      {
       "result": "L 23–26",
       "opponent": "vs Middle Tennessee",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #122)"
      }
     ],
     "win_pct": 40,
-    "news": []
+    "news": [
+     {
+      "text": "Florida International is scheduled to play Kennesaw State on November 21.",
+      "sources": [
+       {
+        "title": "Kennesaw State vs. Florida International Football Game Tickets, Venue, Start Time – Nov. 21",
+        "source": "Bleacher Nation",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLW9WWWVQMl9ZdHZPOVF6Rm1Pd3RqRVdaTEJKQ24zbkdOU1pVUlhudU5meUg5Y3V1V2VBc1hfekZ1Wm5xOGRGa0xITjZCMnlRTmFWdkRxYUhvWkZNdTVpNnpFbXQtRlhHd09ZT0pGQUwyQlFia093RHZkTWtDZ3NOZHJ0cnlXMkpUQWlGLVF3bklScHVTWEFkZVpLbEtrRDdPNmZVMWFJbEdjU2FoX21RemRXSkdORTE3QjRaSVJFRndodEhJQUxmYVgzWWh0dFd2cWc?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Kennesaw State",
     "rank": "",
     "record": "4–6",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 102,
+     "offense": 101,
+     "defense": 96
+    },
     "last": [
      {
       "result": "W 26–7",
       "opponent": "at Sam Houston",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #131)"
      },
      {
       "result": "W 42–40",
       "opponent": "vs Delaware",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #99)"
      },
      {
       "result": "W 44–28",
       "opponent": "at Middle Tennessee",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #122)"
      },
      {
       "result": "L 6–34",
       "opponent": "vs Liberty",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #19)"
      }
     ],
     "win_pct": 60,
@@ -3185,26 +3473,31 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 101,
+     "offense": 96,
+     "defense": 103
+    },
     "last": [
      {
       "result": "W 28–21",
       "opponent": "vs Arkansas State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #100)"
      },
      {
       "result": "L 8–21",
       "opponent": "vs Old Dominion",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #124)"
      },
      {
       "result": "W 31–20",
       "opponent": "at Georgia State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #104)"
      },
      {
       "result": "L 32–35",
       "opponent": "vs App State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #94)"
      }
     ],
     "win_pct": 23,
@@ -3215,32 +3508,37 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 6–3–1",
+    "sp": {
+     "overall": 54,
+     "offense": 42,
+     "defense": 67
+    },
     "last": [
      {
       "result": "W 42–21",
       "opponent": "at UL Monroe",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #133)"
      },
      {
       "result": "W 28–26",
       "opponent": "vs South Alabama",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #107)"
      },
      {
       "result": "L 31–35",
       "opponent": "at Southern Miss",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #128)"
      },
      {
       "result": "W 33–6",
       "opponent": "vs Troy",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #123)"
      }
     ],
     "win_pct": 77,
     "news": [
      {
-      "text": "University of Louisiana football player Ashley Williams was carted off the field during the game against ULM.",
+      "text": "Louisiana player Ashley Williams was carted off the field during the game against ULM.",
       "sources": [
        {
         "title": "University of Louisiana Football Player Ashley Williams Carted Off the Field in Terrifying Scene",
@@ -3280,26 +3578,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 99,
+     "offense": 70,
+     "defense": 119
+    },
     "last": [
      {
       "result": "W 24–16",
       "opponent": "vs Florida International",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #108)"
      },
      {
       "result": "L 40–42",
       "opponent": "at Kennesaw State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #102)"
      },
      {
       "result": "W 35–21",
       "opponent": "at Western Kentucky",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #116)"
      },
      {
       "result": "W 61–38",
       "opponent": "vs Missouri State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #121)"
      }
     ],
     "win_pct": 60,
@@ -3310,47 +3613,42 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 125,
+     "offense": 126,
+     "defense": 104
+    },
     "last": [
      {
       "result": "L 21–27",
       "opponent": "at Missouri State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #121)"
      },
      {
       "result": "L 14–30",
       "opponent": "vs Liberty",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #19)"
      },
      {
       "result": "L 0–24",
       "opponent": "vs Jacksonville State",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #65)"
      },
      {
       "result": "W 30–24",
       "opponent": "at Sam Houston",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #131)"
      }
     ],
     "win_pct": 40,
     "news": [
      {
-      "text": "A New Mexico State player returned to the team after being stretchered off in the previous game against Missouri State.",
+      "text": "A New Mexico State player has returned to the team after being stretchered off the field during the Missouri State game.",
       "sources": [
        {
         "title": "New Mexico State player back with team after being stretchered off vs Missouri State",
         "source": "Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkZIcE4tRk93bWpRdnJTaEpWWTZXcllUSXNnd3BuWDFacGJyMFF6bnp5T0drTVY1dDVWWG1Kckh2aF9RQVRWdS1sc1hWVzI5ZDlody1lbEpUYTdlR0IzSGVpWkRZSV9Wb19XcW5GVkxQc25JMjRHTkQtdXJ1alU2V3FPQlc?oc=5"
-       },
-       {
-        "title": "How Missouri State football won its first home OT game in history",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDB5NzNPYThVOGIzYTNlaFZrblRSaDVhSGpVMVh4Wk1tdzB6XzY5QVhIaWdRVHhJNV9XRkpBN1ZwQUJTUEszaTlWVXJlNk80UDhYOEgtUlY0alFxeHlRYXdDalhhQkY4eDk3SXhPNHZ1M2hBNzczWlZSdFpOelBFTWk2eHJSWUlxSHc?oc=5"
-       },
-       {
-        "title": "Missouri State 27-21 New Mexico State (Nov 14, 2026) Game Recap",
-        "source": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZDFTZGJOSjlfUVdKV2pjeV9jaktGV1p4ZnJ5YVo0MHpCd1hsQnlJWVpYVGdna2hyTnlObkNkM2Y1NnBhdGFQNmtYY3lHS0JSMjNNMWxaQUZVN3NSWjhNNkZKRElUWmVZUDlqWA?oc=5"
        }
       ]
      }
@@ -3380,11 +3678,12 @@
     "rank": "",
     "record": "4–7",
     "ats": "ATS 1–0",
+    "sp": null,
     "last": [
      {
       "result": "L 14–33",
       "opponent": "at UAB",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #95)"
      }
     ],
     "win_pct": null,
@@ -3395,32 +3694,37 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 49,
+     "offense": 73,
+     "defense": 33
+    },
     "last": [
      {
       "result": "W 41–9",
       "opponent": "at Mississippi State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #71)"
      },
      {
       "result": "W 26–23",
       "opponent": "vs Arkansas",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #76)"
      },
      {
       "result": "L 15–45",
       "opponent": "at Ole Miss",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #24)"
      },
      {
       "result": "L 17–38",
       "opponent": "vs LSU",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #9)"
      }
     ],
     "win_pct": null,
     "news": [
      {
-      "text": "Head coach Alex Golesh detailed changes made during recent travel issues and a rescheduled kickoff.",
+      "text": "Head coach Alex Golesh addressed recent travel issues and a rescheduled kickoff time.",
       "sources": [
        {
         "title": "Auburn HC Alex Golesh Details Changes During Travel Issues, Rescheduled Kickoff",
@@ -3455,42 +3759,37 @@
     "rank": "#12",
     "record": "9–1",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 13,
+     "offense": 6,
+     "defense": 33
+    },
     "last": [
      {
       "result": "W 52–27",
       "opponent": "at Oklahoma State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #25)"
      },
      {
       "result": "W 53–48",
       "opponent": "vs West Virginia",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #81)"
      },
      {
       "result": "W 34–26",
       "opponent": "vs Arizona",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #20)"
      },
      {
       "result": "L 24–37",
       "opponent": "at Cincinnati",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      }
     ],
     "win_pct": 60,
     "news": [
      {
-      "text": "There is an injury update regarding Thomas Castellanos.",
-      "sources": [
-       {
-        "title": "Thomas Castellanos Injury Update | Leftwich Being Targeted For A HC Job?! | Texas Tech Football News",
-        "source": "BVM Sports",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3lxQ3h0Mm1mVllIV0NzWDNQeXpjb0tSS3hreGRpWEl2aE5CdWdHVlJyQW0xRzFxSDZ6czhRUFE4YjdLMFNYX0dNbVlscTFiemlaTU96YnlYUjZMdzY3NzRpVDM4X1JqUFZwUElvTWM0UEM5RlJZajJUdTZyZDNwdWloZ3RUOUFCM1M5c3ZzQ19VVjNqeUU0MmFrRl9EUWZQQjVZa2RTanZyd0k1V0VfdlBGQ1RqbHBfVVllNEVEckhPVUFBZmdB?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Leftwich is being targeted for a head coaching job.",
+      "text": "Thomas Castellanos is dealing with an injury ahead of this week's game.",
       "sources": [
        {
         "title": "Thomas Castellanos Injury Update | Leftwich Being Targeted For A HC Job?! | Texas Tech Football News",
@@ -3506,26 +3805,31 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 32,
+     "offense": 51,
+     "defense": 25
+    },
     "last": [
      {
       "result": "L 7–28",
       "opponent": "at BYU",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #15)"
      },
      {
       "result": "W 42–31",
       "opponent": "vs Iowa State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #74)"
      },
      {
       "result": "W 41–9",
       "opponent": "at UCF",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      },
      {
       "result": "L 24–25",
       "opponent": "at Kansas",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #50)"
      }
     ],
     "win_pct": 40,
@@ -3546,7 +3850,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 8 mph · Rain or snow 18%",
+   "weather": "71°F · Wind 8 mph · Rain or snow 17%",
    "flags": [
     "Florida State: one win from bowl eligibility"
    ],
@@ -3555,37 +3859,47 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 3–6–1",
+    "sp": {
+     "overall": 78,
+     "offense": 54,
+     "defense": 105
+    },
     "last": [
      {
       "result": "L 31–34",
       "opponent": "vs Syracuse",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #83)"
      },
      {
       "result": "L 3–41",
       "opponent": "vs Duke",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      },
      {
       "result": "W 31–10",
       "opponent": "vs California",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #119)"
      },
      {
       "result": "L 28–31",
       "opponent": "at Stanford",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #106)"
      }
     ],
     "win_pct": 24,
     "news": [
      {
-      "text": "NC State has introduced Philip Rivers as its new head football coach.",
+      "text": "Philip Rivers has been introduced as the new head football coach for NC State.",
       "sources": [
        {
-        "title": "Former Wolfpack football greats endorse hiring of Philip Rivers at NC State",
+        "title": "Philip Rivers drops ‘this is home’ admission on new NC State football gig",
         "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdklVTGYxYlFuVURsa2dqNHZ0YXFHZ1F1cUNLeXluY01GYTdkSEtUeF82V3N3elVOQTQ3WTRWUENCeUF2TkoxQmxYY0poWEJRbXEyTDhtaEVmMkNtUmtoZ3kyYTB6LVdvS1VUelVBTHg1Qkh5UzBXQzlhTlY2TzJXd25SNkRQakp6NU9FWE5GdWtNQQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVVQdlpsdjk1WVFXMEIwa3U2ZGRBRFlNd1VUT1R1dEpROENDdEVoNVVWOXFNbzJLOERwR09LSWhlejZzbUVpQVI0RUc0UkJDYVI0SU9xeS1LdEdWTDMyRVRsSEVqbHVaWkRPeVFoYXZ4STc1cFliUjM5eFFhNEJ1WUdNZGpxNWowRGF3?oc=5"
+       },
+       {
+        "title": "Philip Rivers targets ACC title and playoff berth at NC State introduction",
+        "source": "ACC Sports Journal",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cnVtcE1yX3J4dnVCRllSdXFXYmNsOC04MklKeXRMNjNaLWJXd3FXRWZfX3o3dzR1dnRjRG5MNTZLSGNUTWpkZDB3TDhCZVc2YmhHcmJjTGVfeDFYWEJaQ1ptcHRPZWNISGo2TFR4ZUZ0RkZsSGc?oc=5"
        },
        {
         "title": "Nunc coepi: Wolfpack begin again under Rivers",
@@ -3598,6 +3912,16 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTJLU3c3Ny1BUXJ5c2ZONkYwX3g3blkxOEh6bTJPNTNUVnE2cXp4dE5jRlJSYWhkLXdXWVRMNThoRjZJZTBKamE5d1RwQXN4ZlBxME52ZVRUWnZKTmVQVFM1ZVg2Mk8xaGdFem03RTZBeGVsNGtKTWxEOUFQTElYUGVVZFplUVJoRFdnVU53U2xfOFRCSXNneVJkRnVNeWp0ZGRUVXkyd2NkR1VWSmfSAbMBQVVfeXFMT0NuT2FPUGtFWU53LUQzRzhDbm9LQ0xQRVJZQWNkUmIxLVdFNjk2dm90VkdlQmJqRk1KZzBxMlpvMUtwd0lfSVlMU3RsU2tsSlZGWGpjei1ma3pwMVV4UlMxUTVQM3k2VWNQNTVqa3FsOC1TVHk2bUNWVmRoX3U1UklXR09OZVFNSjJhdlZSVUxsSkNKY1NSYUJYMm5nMWxLWkZvWHd0NTViUEdNYTZhYmQyU0k?oc=5"
        }
       ]
+     },
+     {
+      "text": "Dave Doeren has been fired as the head coach of the NC State football team.",
+      "sources": [
+       {
+        "title": "$100M Philip Rivers Breaks Silence After Settling for Half of Fired Dave Doeren’s Pay in NC State Deal",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcktRUU9udWJ6eGRmX3FWbGRmendFcEVOYTJjdThSMkN3VXpMMWgxTXc2RmtBNDJwSzZHS3BybXpxR2VraEh5RmtZLTlnTnZ3bnozdy1ybjZWN3JJVEpfdHdwWGxPZ01zV0x3TUdEZFhWMkZaVk9fbkthUHBfMll4OWRFRHRlVEh2S2c?oc=5"
+       }
+      ]
      }
     ]
    },
@@ -3606,32 +3930,37 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 48,
+     "offense": 36,
+     "defense": 66
+    },
     "last": [
      {
       "result": "W 16–10",
       "opponent": "at Pittsburgh",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #38)"
      },
      {
       "result": "W 31–24",
       "opponent": "at Boston College",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #103)"
      },
      {
       "result": "L 24–36",
       "opponent": "vs Clemson",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #68)"
      },
      {
       "result": "L 35–43",
       "opponent": "at Miami",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #3)"
      }
     ],
     "win_pct": 76,
     "news": [
      {
-      "text": "Florida State is dealing with an extremely thin and emptying running back room.",
+      "text": "Florida State is dealing with an extremely thin running back room.",
       "sources": [
        {
         "title": "A name to watch as Florida State seeks to aid extremely thin running back room",
@@ -3646,27 +3975,12 @@
       ]
      },
      {
-      "text": "Rick Stockstill provided an injury update ahead of the game against NC State.",
+      "text": "Coach Rick Stockstill provided an injury update ahead of the game against NC State.",
       "sources": [
        {
         "title": "Rick Stockstill Gives Injury Update Ahead of FSU Football vs. NC State",
         "source": "Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeTVrbERaWmpiQ1c3LTh5a1ZUbE5PV3hQb25XNnBKaFVKbEdURXV2OTJrWFlISVRwUFdyeDl2SXBCdDlTa1VPM2xWWjY3SmdUMktjUE5vYmZkWlY4TTFvNkQwblVLQjFNOFVvRHFqWmk5Y010TU5TSkZLUmZndkJnbTRkdV9EaEh1c205RGNLZERiSGFiWDZZa1lTUDFoendKR01JVUx5bWdaQVhudG81N0MybWVWdE5yOUtDLVdRZlljakc2U2liNFVn?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "A potential reunion with Jimbo Fisher appears to be gaining momentum as the coaching search heats up.",
-      "sources": [
-       {
-        "title": "Jimbo Fisher, Florida State football reunion appears to be gaining momentum",
-        "source": "The Big Lead",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2pWbTBZRVNlem5NLTJmLU9PWkJXUVRoUTM0VXlESmo0dnNZTHVkNF8tQ1l5ek9GcmpGNkFxczFXTklWazFsSU1mVnZNSWxNaGxCR3h6dDlfUFVMRzJqYzVFM3EtcEdBeWJWdkJWXzh0ZURDUm1KYWszMjV4MWZjWUowM0U3REJSYkNKVzBialBtVXcwdTY2TlkzQ1M?oc=5"
-       },
-       {
-        "title": "Florida State intel: Top names to know as Seminoles’ coaching search heats up",
-        "source": "On3",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3I1Sm5BOWNJWnhaNjR2d1F0azBXcDZpam5UTEJLZWxKY0JGS1hTa19MS1gyQkVzMUF1eHRwZlMwLVVfa0g3bTZVRlNsZEc3M05wazRGVWFURkJaZ0J6MzF3dEZOTVlDVDUzamdUQl91dm5fY1Q0SVEwYy1jNXRZUmVOMjAzVlE4ZzJiZDNWanpkcFFMTEJzeXY0TUxwUW5PbzdVQllFWS1JSUJlQ3JPUXFfYlBZdkVjc0U3WWNobnZELVZVNnRtanNBbw?oc=5"
        }
       ]
      }
@@ -3687,7 +4001,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 8 mph · Rain or snow 6%",
+   "weather": "59°F · Wind 8 mph · Rain or snow 5%",
    "flags": [
     "UCLA: ranked #4 (CFP)",
     "Michigan: one win from bowl eligibility"
@@ -3697,26 +4011,31 @@
     "rank": "#4",
     "record": "10–0",
     "ats": "ATS 9–1",
+    "sp": {
+     "overall": 12,
+     "offense": 27,
+     "defense": 3
+    },
     "last": [
      {
       "result": "W 22–14",
       "opponent": "vs Illinois",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #44)"
      },
      {
       "result": "W 34–20",
       "opponent": "at Minnesota",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #77)"
      },
      {
       "result": "W 27–0",
       "opponent": "vs Nevada",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #92)"
      },
      {
       "result": "W 28–10",
       "opponent": "vs Michigan State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #86)"
      }
     ],
     "win_pct": 62,
@@ -3727,41 +4046,35 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 43,
+     "offense": 103,
+     "defense": 7
+    },
     "last": [
      {
       "result": "L 7–31",
       "opponent": "at Oregon",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #14)"
      },
      {
       "result": "L 6–15",
       "opponent": "vs Michigan State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #86)"
      },
      {
       "result": "W 28–21",
       "opponent": "at Rutgers",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #114)"
      },
      {
       "result": "L 6–13",
       "opponent": "vs Indiana",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #5)"
      }
     ],
     "win_pct": 38,
-    "news": [
-     {
-      "text": "Accuracy issues have plagued Michigan quarterback Tommy Carr in recent starts.",
-      "sources": [
-       {
-        "title": "Accuracy issues plague Michigan QB Tommy Carr in recent starts",
-        "source": "MLive.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmV0SGxOV05hVFRCaWU4VjR0eVZvdTV3aWZMWjg5Y1hNb3NSR2pVQ25XOFlKQ3VJQU9lZy1iVjU0NDA3d01ULXlxSHFJQTF6ejlCZTd5TWtWVmlwWUJZQy1YUWVSZ0tfOVE0bkNOVm5ndl85YVdUY3VkUE1DWmpiMjFuQ0Y5QWdPbmJlMmNaU1RqMXplTlpidjZ4RVJGbGJfVDhKQWFvaFZIZFV5cmJpMGdWaWctRFFq0gHMAUFVX3lxTE1nZHRQS2FTNW8xZkZDbjZsbDBwZHZ1X29jUTh0aU0waUFvb1dlbU9kUUlSa3VvcFFrOC1rel9ZT0FfNUYydUpiTF93aHczUDduX2dXUk1aQVZNdnBnSHlnd0pVQnlpajg1dUdYbnpWdkNBR0V3OTN3MFNSUGFLR0hoZlhHRnJnUE03c1VucU1FR3pQTmFsZUV5VTR1RC1fMExuVThKaFJ3ZUJlMkY1Rk9JZVF3LXZCamUzUVZqVVFycGFJVEpJZTIzT0tRVQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": []
    }
   },
   {
@@ -3785,26 +4098,31 @@
     "rank": "",
     "record": "2–8",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 114,
+     "offense": 93,
+     "defense": 125
+    },
     "last": [
      {
       "result": "L 0–31",
       "opponent": "vs Nebraska",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #18)"
      },
      {
       "result": "L 10–31",
       "opponent": "at Wisconsin",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #39)"
      },
      {
       "result": "L 21–28",
       "opponent": "vs Michigan",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #43)"
      },
      {
       "result": "L 14–42",
       "opponent": "at Northwestern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      }
     ],
     "win_pct": 7,
@@ -3815,42 +4133,37 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 27,
+     "offense": 41,
+     "defense": 22
+    },
     "last": [
      {
       "result": "W 42–14",
       "opponent": "vs Minnesota",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #77)"
      },
      {
       "result": "W 28–25",
       "opponent": "at Washington",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #37)"
      },
      {
       "result": "W 31–17",
       "opponent": "vs Purdue",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #91)"
      },
      {
       "result": "L 18–21",
       "opponent": "at Michigan",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #43)"
      }
     ],
     "win_pct": 93,
     "news": [
      {
-      "text": "Penn State football head coach Matt Campbell talked about player health and roster building.",
-      "sources": [
-       {
-        "title": "Penn State Football: Matt Campbell Talks Player Health, Roster Building",
-        "source": "Nittany Central",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1F4aklOYjdGSXZjZmI3cmg5Tkc3RU5GZWU4RndGVFVrSVBGYklFVGxwQVMtcWZKODRSR3kwTnkyb1U3WmcyZVBtRFJBaS1jMG0ydFpRdVpOVFJBbnlHR1REUGdDdm5KZEVLTmxld2VPcXVBYXByODg1aS10Z2FoREdFX3F0dkw5c0FpRGdCVUFmNnM?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "There are questions regarding whether the top Penn State running back will play against Rutgers.",
+      "text": "The status of Penn State's top running back for the upcoming game against Rutgers remains uncertain.",
       "sources": [
        {
         "title": "Will the top Penn State football running back play vs Rutgers?",
@@ -3876,7 +4189,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "67°F · Wind 2 mph · Rain or snow 6%",
+   "weather": "67°F · Wind 2 mph · Rain or snow 9%",
    "flags": [
     "LSU: ranked #21 (CFP)",
     "Tennessee: ranked #8 (CFP)"
@@ -3886,68 +4199,94 @@
     "rank": "#21",
     "record": "6–4",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 9,
+     "offense": 15,
+     "defense": 10
+    },
     "last": [
      {
       "result": "L 21–22",
       "opponent": "vs Texas",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #8)"
      },
      {
       "result": "L 13–31",
       "opponent": "vs Alabama",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #6)"
      },
      {
       "result": "W 38–17",
       "opponent": "at Auburn",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #49)"
      },
      {
       "result": "W 31–0",
       "opponent": "vs Mississippi State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #71)"
      }
     ],
     "win_pct": 51,
-    "news": []
+    "news": [
+     {
+      "text": "LSU players provided insights ahead of their upcoming Week 12 matchup against Tennessee.",
+      "sources": [
+       {
+        "title": "Inside the Locker Room: 12 key quotes from LSU football players ahead of Tennessee in Week 12",
+        "source": "247Sports",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbjY0V1IwdFlhT0xFS1hfR0FRa2tEMm5Bd3ZRSFRvVmlLMVdfMHo1UmRvNFpBWjZ0WFJEVmpQZHdlRFV5MExBYjYwVHlySDZ3WklyMDY3WVY4cGhoV1NTeDNRN3Fxd1haaU1lWnYxVTRBSUhKYm50VUhxVmNnVTA4WmdLS2lKVHJLZFpsazhwX1lmSXhXZTJ0ekQ3U0g0SEtKekpFcXE4YUpMYmxQREUzbWl5T2xNUThCWnVFVTdMODlrSVVEM0pBb3c3aThKX2JOU0wtcHZ2Y3hHOW1sZmM3c3l6dENJTEtVbDlnSmFrcVJYTEE?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Tennessee",
     "rank": "#8",
     "record": "8–2",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 11,
+     "offense": 23,
+     "defense": 6
+    },
     "last": [
      {
       "result": "W 22–7",
       "opponent": "at Texas A&M",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #44)"
      },
      {
       "result": "W 34–6",
       "opponent": "vs Kentucky",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #42)"
      },
      {
       "result": "L 24–27",
       "opponent": "at South Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #30)"
      },
      {
       "result": "W 26–10",
       "opponent": "vs Alabama",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #6)"
      }
     ],
     "win_pct": 49,
     "news": [
      {
-      "text": "LSU has an opportunity to exploit a unique Tennessee weakness in their upcoming matchup.",
+      "text": "Tennessee has made an interesting choice regarding its wide receiver rotation over the last two games.",
       "sources": [
        {
-        "title": "'You will get your ass kicked in' - Urban Meyer drops strong statement on the matchup between LSU and Tennessee",
-        "source": "A to Z Sports",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG1sMndhQ052YlNOWUNyY28xM2JZajRRTUNJWk8zd2FVUTdWTDF6WTk3WWMtbzNZOGlyR3JRbnNGOHVSNk43a1FlZjlxUWl1NVB3ZE1Xd2hId3E2ZzZSNmc0M09OUGpza2dMa2tRUXE1aVFhTkcydzlESUpROUpndlp2eVlITWlUdXhyVllpSUl1Y0ZRcFRRWlEycjhPaVlPT3VTUlRacG55WlJmb0pRZGZIX08?oc=5"
-       },
+        "title": "The Tennessee Vols have quietly made an interesting choice with its wide receivers over the last couple of games",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFZoLXgxTWdKVlpBUkhabEtJcmlJYzZGLWJLU0pvVVpvNzhGMUVBNUJkbUxoZC05LXB3dXBlOHhyaUsxMDFYZ2dGM2dNTTNXQkdzdHdJdksyU3VEX0w3VFV0aEpxUUNIZzR5Z25aQm5sODhzUXdzZnFKQ2pjcG82UGJtS2h4X3o2aUJKeGVtQTVudw?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "LSU has an opportunity to exploit a unique weakness in the Tennessee team.",
+      "sources": [
        {
         "title": "LSU Has an Opportunity to Exploit a Unique Tennessee Weakness",
         "source": "Sports Illustrated",
@@ -3981,26 +4320,31 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 76,
+     "offense": 81,
+     "defense": 73
+    },
     "last": [
      {
       "result": "W 34–6",
       "opponent": "vs South Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #30)"
      },
      {
       "result": "L 23–26",
       "opponent": "at Auburn",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #49)"
      },
      {
       "result": "L 10–34",
       "opponent": "vs Missouri",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "W 31–21",
       "opponent": "at Vanderbilt",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #80)"
      }
     ],
     "win_pct": 10,
@@ -4011,37 +4355,52 @@
     "rank": "#6",
     "record": "8–2",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 8,
+     "offense": 22,
+     "defense": 5
+    },
     "last": [
      {
       "result": "W 22–21",
       "opponent": "at LSU",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #9)"
      },
      {
       "result": "W 34–20",
       "opponent": "at Missouri",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "W 31–3",
       "opponent": "vs Mississippi State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #71)"
      },
      {
       "result": "W 34–27",
       "opponent": "vs Ole Miss",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #24)"
      }
     ],
     "win_pct": 90,
     "news": [
      {
-      "text": "Steve Sarkisian and Texas received season-ending injury news following the LSU win.",
+      "text": "Texas received season-ending injury news following the victory against LSU.",
       "sources": [
        {
         "title": "Steve Sarkisian, Texas Receive Season-Ending Injury News After LSU Win",
         "source": "Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW9sWTd3cHdMdEVybHo5dHg1UjBpUmlxOG8wR2xST1VqNWUzaTVZTE1BRV9XenlnQ3FscFZRRXBJeXZvbXJhcFFpeTJ4ZkVId0Y0djJvYllRSlhsb3JOUzY5eWJ0VHdSaFlGWWtob1Bkem8xRXpPZnY5R2F1aFpybHVWMmFMcWR2SmhadXVB?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Head coach Steve Sarkisian warned that the team is currently in a dangerous spot.",
+      "sources": [
+       {
+        "title": "Steve Sarkisian Warns Texas Is in a 'Dangerous Spot' After LSU Victory",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmNuR21kcENCYUZ4enlkTVNnT3NuZUJ2Vk5xMXBaNnlqQ1dwNkZCeXNybHdhMmJXRWdXOTVkMXE1N3FFVlh0c1ZNN3gtc2RyelNxenR2akxFN2duVDJzRjRKRnNvcFlITlUxc0pTcmNoMUpkLWV5UlAxa0RibGlSdVQzQUNQVXBqR3VqTzdrbWx4VndqV0plOEF3cC1CSTlLMTk4S200QnJzOE53?oc=5"
        }
       ]
      }
@@ -4072,26 +4431,31 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 2–8",
+    "sp": {
+     "overall": 124,
+     "offense": 133,
+     "defense": 81
+    },
     "last": [
      {
       "result": "W 21–8",
       "opponent": "at Coastal Carolina",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #101)"
      },
      {
       "result": "L 23–36",
       "opponent": "vs Marshall",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #116)"
      },
      {
       "result": "L 0–26",
       "opponent": "at Louisiana Tech",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #53)"
      },
      {
       "result": "L 15–23",
       "opponent": "vs Georgia Southern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #62)"
      }
     ],
     "win_pct": 19,
@@ -4102,30 +4466,46 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 70,
+     "offense": 38,
+     "defense": 99
+    },
     "last": [
      {
       "result": "W 46–22",
       "opponent": "vs James Madison",
-      "opp_record": "(8–3)"
+      "opp_record": "(8–3, SP+ #35)"
      },
      {
       "result": "L 21–38",
       "opponent": "vs North Carolina",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #50)"
      },
      {
       "result": "L 26–35",
       "opponent": "at Air Force",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #65)"
      },
      {
       "result": "W 35–16",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #109)"
      }
     ],
     "win_pct": 81,
-    "news": []
+    "news": [
+     {
+      "text": "Kick-off and television information has been officially announced for the upcoming game against Wyoming.",
+      "sources": [
+       {
+        "title": "Kick-Off and TV Info Announced for Wyoming Game",
+        "source": "University of Connecticut Athletics",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUt4RGk0M1h6bE1nTFpua1lZcUlpeHZRUXJULUV3R2ZFamRLb2FOcWdRaDA2dlVEbTdQLWZVVGxkc2I0bXpvczJZODh4Wlc3MkVMSWdpZGRXcFNFdDhPRHNrTmg3b3pXM0xUemYyd29IY2VHVnJXWVFSQ0VsNmhkekZpRU5qMkp2aWxxOVZmY0Z2bWhPV29XZXVPM05RUQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4142,7 +4522,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "47°F · Wind 0 mph · Rain 21%",
+   "weather": "47°F · Wind 0 mph · Rain 23%",
    "flags": [
     "Indiana: ranked #9 (CFP)"
    ],
@@ -4151,78 +4531,77 @@
     "rank": "#9",
     "record": "9–1",
     "ats": "ATS 2–8",
+    "sp": {
+     "overall": 5,
+     "offense": 25,
+     "defense": 2
+    },
     "last": [
      {
       "result": "W 27–13",
       "opponent": "vs USC",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #21)"
      },
      {
       "result": "W 23–16",
       "opponent": "vs Minnesota",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #77)"
      },
      {
       "result": "W 13–6",
       "opponent": "at Michigan",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #43)"
      },
      {
       "result": "L 15–19",
       "opponent": "vs Ohio State",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #4)"
      }
     ],
     "win_pct": 73,
-    "news": [
-     {
-      "text": "Coach Curt Cignetti made remarks about an Indiana quarterback change.",
-      "sources": [
-       {
-        "title": "‘These guys get paid’: Curt Cignetti gets brutally honest about Indiana’s quarterback change",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkN3eVc5bFhGaWhwQkRiQ3hhcXBxRUVHQ3lQSldqN2JCbDhyNXdkVzlBbTQ2ZVNmcU5zOURQaFRLUTM2dlBYNmQ5MVhPR25COEg0cE1tYjQzVWkwYVRXSTllbnRfOVdMTF9objc4YkN0WUV1SHNsWlVsV0pIRFg1N2lkOA?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": []
    },
    "home": {
     "name": "Washington",
     "rank": "",
     "record": "6–4",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 37,
+     "offense": 57,
+     "defense": 26
+    },
     "last": [
      {
       "result": "W 21–14",
       "opponent": "at Michigan State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #86)"
      },
      {
       "result": "L 25–28",
       "opponent": "vs Penn State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #27)"
      },
      {
       "result": "W 17–10",
       "opponent": "at Nebraska",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #18)"
      },
      {
       "result": "W 38–26",
       "opponent": "at Purdue",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #91)"
      }
     ],
     "win_pct": 27,
     "news": [
      {
-      "text": "An injured running back for the Washington Huskies could potentially return in the team's final game.",
+      "text": "An injured running back for the Washington Huskies could potentially return for the team's final game.",
       "sources": [
        {
         "title": "Washington Huskies Football: Injured Running Back Could Return in Team's Final Game",
-        "source": "roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnlCckxLaVo5VnkzRFFQX3VCTkNEZXNacFBja0ttaWFraWkzdDFJS0c3ZGtTM3d3Vnc1S3QteUptaG00NHE0V21DbHZsUFRkRGRQX2hVN2lfVllPZkZzRWlVbXJKTVMyS3JzZTIyLXN2akpYdkJXV3JOMDFmZ3ZxMF9pWjIxaUM5UmxEdjhpZzJTZW53bWxSWlp0R2txUmFIN3hqeDFfM1BFdV95ZEVHREd1UXVQeDE0MFFmMWNLYVlLcDNmOFQ5cmV3LUpBVE5h?oc=5"
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXpfd0x6aTRRV0FhQ09XYVQ5RHBNeXYwZHRucGM0enlXZHJqdmRkUC14aWE4UjZsT1N1ZnN0VVNWSTJKZE9SX280UFg0UUNEX2NnQktNdldILVZkbXFCcGs4SkFNbG11d1RwYUNsemg4TEotSEZGa0RybUJHclNmVngzeDIwUHg0SlIxTXFWaGRTRmNOcl9J?oc=5"
        }
       ]
      }
@@ -4243,28 +4622,33 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 21 mph · Rain or snow 11%",
+   "weather": "69°F · Wind 21 mph · Rain or snow 18%",
    "flags": [],
    "away": {
     "name": "Texas A&M",
     "rank": "",
     "record": "4–6",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 44,
+     "offense": 77,
+     "defense": 29
+    },
     "last": [
      {
       "result": "L 7–22",
       "opponent": "vs Tennessee",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #11)"
      },
      {
       "result": "L 9–17",
       "opponent": "at South Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #30)"
      },
      {
       "result": "L 20–31",
       "opponent": "at Alabama",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #6)"
      },
      {
       "result": "W 41–0",
@@ -4273,39 +4657,65 @@
      }
     ],
     "win_pct": 28,
-    "news": []
+    "news": [
+     {
+      "text": "Mike Elko acknowledged that the team is facing a major roster problem following their recent loss.",
+      "sources": [
+       {
+        "title": "Mike Elko Acknowledges a Major Texas A&M Roster Problem After Tennessee Loss",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVZacUpXYUtkNllLdUZMTkZWZ3RTV3lhN0g4TFVFbWtoUVVrOTBscHE3U3k4VkE3WU9zWDVYZHRhN0psaTdpeXZaTVlvMklzTVpNMkliOEdJbHVMOVN5N3NQT3V6ajZxTnQ1YUNza1NSZGo4Z3dMcGpKa2tfUEtIb2VhQ0s0NTh1aGVId1BzU1FsRFBiazdRS0psZ0syc0VCakJGMnhQbDFHb2hWazdxOG53TEE?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Former wide receiver Jerome Myles has made a decision regarding the transfer portal.",
+      "sources": [
+       {
+        "title": "Former Texas A&M WR Jerome Myles Makes Transfer Portal Decision",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0M0azNqQ1ZxTjdVUmdUTzY4VlEwRDI0NWpHb0ltRnljY3JsTlVtcTZmUHNETFZDU3g5cjFtbU50LW1ta2U0ZWwzOXJTdG5XeEtrM0FOdVlfVGdkTURtdU4wSUZDaHdOeHp6QzJwb1phampseThmTTdjWk85RFRqMlpmOVM0a243eDZQa0lfTnBJV2pFNVI4eUhaNjB3TEwxUkdrZWZn?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Oklahoma",
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 41,
+     "offense": 98,
+     "defense": 15
+    },
     "last": [
      {
       "result": "W 24–17",
       "opponent": "vs Ole Miss",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #24)"
      },
      {
       "result": "W 23–7",
       "opponent": "at Florida",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #47)"
      },
      {
       "result": "L 25–42",
       "opponent": "vs South Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #30)"
      },
      {
       "result": "W 23–15",
       "opponent": "at Mississippi State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #71)"
      }
     ],
     "win_pct": 72,
     "news": [
      {
-      "text": "Brent Venables stated that Oklahoma's new offensive coordinator will have the ability to make staff changes.",
+      "text": "Brent Venables stated that the new offensive coordinator will have the authority to make changes to the coaching staff.",
       "sources": [
        {
         "title": "Brent Venables Says Oklahoma's New Offensive Coordinator Will Have Ability to Make Staff Changes",
@@ -4331,7 +4741,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 3 mph · Rain or snow 3%",
+   "weather": "64°F · Wind 3 mph · Rain or snow 4%",
    "flags": [
     "Georgia State: one win from bowl eligibility",
     "Marshall: one win from bowl eligibility"
@@ -4341,26 +4751,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 104,
+     "offense": 78,
+     "defense": 122
+    },
     "last": [
      {
       "result": "L 17–34",
       "opponent": "vs Georgia Southern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #62)"
      },
      {
       "result": "W 39–23",
       "opponent": "at App State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #94)"
      },
      {
       "result": "L 20–31",
       "opponent": "vs Coastal Carolina",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #101)"
      },
      {
       "result": "L 32–38",
       "opponent": "at Arkansas State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #100)"
      }
     ],
     "win_pct": 50,
@@ -4371,32 +4786,37 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 116,
+     "offense": 99,
+     "defense": 119
+    },
     "last": [
      {
       "result": "L 16–20",
       "opponent": "vs App State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #94)"
      },
      {
       "result": "L 13–49",
       "opponent": "at Georgia Southern",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #62)"
      },
      {
       "result": "W 36–23",
       "opponent": "at Old Dominion",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #124)"
      },
      {
       "result": "W 20–13",
       "opponent": "vs South Alabama",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #107)"
      }
     ],
     "win_pct": 50,
     "news": [
      {
-      "text": "Marshall fired offensive coordinator Rod Smith and named Gunter Brewer as interim offensive coordinator.",
+      "text": "Marshall has fired offensive coordinator Rod Smith.",
       "sources": [
        {
         "title": "Marshall football: Rod Smith fired, Gunter Brewer to serve as interim OC",
@@ -4407,11 +4827,16 @@
         "title": "Marshall football fires offensive coordinator Rod Smith",
         "source": "WCHS",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2VNY1duSElPUGdHeFpNQ0ZUcG40eHoyTk1CMnFhLXNxd3hHaHFkQURRb2FJVUE0YWt5UnNLWVRfUXhOYjhmZEZDMDZ0akc0emp0SGtfUGdmOTFVY2RUVDRCam42MHB5dU5xTEUyYWtUMGJiWHBFUUh1NzdzdU52WnFLV21hTzhSMkZ1cHA5ZlRrMUJ2YzRN?oc=5"
-       },
+       }
+      ]
+     },
+     {
+      "text": "Gunter Brewer will serve as the interim offensive coordinator for the team.",
+      "sources": [
        {
-        "title": "Marshall football makes key coaching change with bowl hopes on the line",
-        "source": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVN1eEJ6N3MxMmFKeDNCWjFkU0FmUVVGVDE0SHQtbHBnTmczV2ZwMmxpUGFVNG5ndmt5UF9EaUF5V1l4dHd1VkJfOWppczFfY2hJY1FhZ0dFbVFSYlBnQ1RnVjE3UExFakhaQ1JOU0RHdzBLaTQ5ZGd6dy1mcDRUU0ZwSnU3MmF0Q0g3MVRCaWI3RzA0clFibmU2ZnYwc0dxVTRUS2duT2hHMEdKeUJaeHgwc20zcEFoV1oxN181YlBVR1htbjVsRkFSbUNBNlozVDM5Rm93ZS1vQ0E?oc=5"
+        "title": "Marshall football: Rod Smith fired, Gunter Brewer to serve as interim OC",
+        "source": "herald-dispatch.com",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZjZvMkNVWVhsYzRSV1RhLXlfdTlNVzN1VDAzS3FkX0t2d053dWphZ1pYQ0QwVUNjT3dvdUdkR25mLVFwNDJwVWVEazhWaEM5b1lPQ3JSZ2pETVVEWkJoM3VUbEJidGljWWdqbFNGQm45cTFaNEdxY2VJUEEyRjVtb3RmcjQ2MkVtU0YzSXhtaEtCZVU4RkVZdHY4NFk1cUNXUlhpRWc3X3RGQ3BLZHIzV0plZGlQSkRUZ1NIcjVCTjluY3FJR3hEWHVMNFVGb3Z2LS1NZ2hvSlk0UG5heWVNenBNNDFoY0lsd0FqQUdiNkJ2UUczSjJIQ3pxUWQteEJib1ZKdTNn?oc=5"
        }
       ]
      }
@@ -4439,26 +4864,31 @@
     "rank": "",
     "record": "0–10",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 138,
+     "offense": 134,
+     "defense": 137
+    },
     "last": [
      {
       "result": "L 7–28",
       "opponent": "vs Nevada",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #92)"
      },
      {
       "result": "L 19–30",
       "opponent": "at San José State",
-      "opp_record": "(5–6)"
+      "opp_record": "(5–6, SP+ #118)"
      },
      {
       "result": "L 24–31",
       "opponent": "at UNLV",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #84)"
      },
      {
       "result": "L 21–56",
       "opponent": "vs Hawai'i",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #109)"
      }
     ],
     "win_pct": 6,
@@ -4469,32 +4899,37 @@
     "rank": "",
     "record": "8–2",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 31,
+     "offense": 81,
+     "defense": 13
+    },
     "last": [
      {
       "result": "W 21–13",
       "opponent": "at Hawai'i",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #109)"
      },
      {
       "result": "W 31–7",
       "opponent": "vs UTEP",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #135)"
      },
      {
       "result": "L 16–21",
       "opponent": "at New Mexico",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #23)"
      },
      {
       "result": "W 31–17",
       "opponent": "vs Nevada",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #92)"
      }
     ],
     "win_pct": 94,
     "news": [
      {
-      "text": "The NDSU Bison football trip to Hawaii was delayed by 13 hours.",
+      "text": "The NDSU football team experienced a 13-hour delay during their recent trip to Hawaii.",
       "sources": [
        {
         "title": "NDSU Bison football trip to Hawaii delayed 13 hours",
@@ -4529,26 +4964,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 107,
+     "offense": 71,
+     "defense": 129
+    },
     "last": [
      {
       "result": "W 27–14",
       "opponent": "vs Troy",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #123)"
      },
      {
       "result": "L 26–28",
       "opponent": "at Louisiana",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #54)"
      },
      {
       "result": "L 20–35",
       "opponent": "vs Louisiana Tech",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #53)"
      },
      {
       "result": "L 13–20",
       "opponent": "at Marshall",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #116)"
      }
     ],
     "win_pct": 62,
@@ -4559,30 +4999,51 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 128,
+     "offense": 105,
+     "defense": 132
+    },
     "last": [
      {
       "result": "L 31–63",
       "opponent": "at Louisiana Tech",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #53)"
      },
      {
       "result": "L 23–54",
       "opponent": "vs James Madison",
-      "opp_record": "(8–3)"
+      "opp_record": "(8–3, SP+ #35)"
      },
      {
       "result": "W 35–21",
       "opponent": "at UL Monroe",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #133)"
      },
      {
       "result": "W 35–31",
       "opponent": "vs Louisiana",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #54)"
      }
     ],
     "win_pct": 38,
-    "news": []
+    "news": [
+     {
+      "text": "Head coach Blake Anderson has confirmed that he will not make any changes to the Southern Miss coaching staff.",
+      "sources": [
+       {
+        "title": "Why Blake Anderson won't make changes to Southern Miss football coaching staff",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2dJWFhsTTdKNlRUZUtLcHhvUG1iTGtZU2NGTXdEQk1YeHJXakFmUEwzUDVJVVhfeTgzYmI0NFFTc2pudE8yQkI2Zm1KRVlOLVNsTHZFRk80c0FFTkFZdjAzcTRucmZoRTlSbTFGQjBSXzB6S0NjRXhfZ3I2ZFZDMl9QWThQNVk?oc=5"
+       },
+       {
+        "title": "'I'm Not Firing Staff': Blake Anderson Plans to Retain Southern Miss Staff, Explains Why",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1dLYi1FMDAxRWpOVEhXR3VLTXU1d0JuOFpwMWptMW5KdWFSUkRTT3U4bnJrWkZHNlhUS3RJT0ZxLTJWeW90b2pwUzd5ZmcwUzI3YzdMN1BmUDJRREdHUmhGQTJIUi0xNnQzOVB6SVo5Y2I2Qmw0TjFfeXN6WE9tYlpiQlhvVWFTTjd5ci05enAwODBiWFhxQUU4UkVLdDd5bmg3amR6U3Z4TlI5MWt4RUd2emhwLWs4bXdPRkFTYkFzQQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4599,33 +5060,38 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 8 mph · Rain or snow 9%",
+   "weather": "71°F · Wind 8 mph · Rain or snow 11%",
    "flags": [],
    "away": {
     "name": "Georgia Southern",
     "rank": "",
     "record": "6–4",
     "ats": "ATS 9–1",
+    "sp": {
+     "overall": 62,
+     "offense": 64,
+     "defense": 54
+    },
     "last": [
      {
       "result": "W 34–17",
       "opponent": "at Georgia State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #104)"
      },
      {
       "result": "W 49–13",
       "opponent": "vs Marshall",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #116)"
      },
      {
       "result": "W 19–3",
       "opponent": "vs App State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #94)"
      },
      {
       "result": "W 23–15",
       "opponent": "at Old Dominion",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #124)"
      }
     ],
     "win_pct": 73,
@@ -4636,32 +5102,37 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 123,
+     "offense": 125,
+     "defense": 97
+    },
     "last": [
      {
       "result": "L 14–27",
       "opponent": "at South Alabama",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #107)"
      },
      {
       "result": "L 17–41",
       "opponent": "vs Louisiana Tech",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #53)"
      },
      {
       "result": "W 24–21",
       "opponent": "at James Madison",
-      "opp_record": "(8–3)"
+      "opp_record": "(8–3, SP+ #35)"
      },
      {
       "result": "L 14–21",
       "opponent": "vs UL Monroe",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #133)"
      }
     ],
     "win_pct": 27,
     "news": [
      {
-      "text": "Troy is battling internal issues amid a late-season slide.",
+      "text": "The Troy football team is currently dealing with internal issues during their late-season slide.",
       "sources": [
        {
         "title": "Troy battling internal issues amid late-season slide",
@@ -4687,39 +5158,44 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "68°F · Wind 7 mph · Rain or snow 5%",
+   "weather": "68°F · Wind 7 mph · Rain or snow 4%",
    "flags": [],
    "away": {
     "name": "Washington State",
     "rank": "",
     "record": "2–8",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 111,
+     "offense": 117,
+     "defense": 91
+    },
     "last": [
      {
       "result": "W 73–7",
       "opponent": "vs Colorado State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #120)"
      },
      {
       "result": "L 20–26",
       "opponent": "at San Diego State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #96)"
      },
      {
       "result": "L 10–31",
       "opponent": "vs Boise State",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #22)"
      },
      {
       "result": "L 30–48",
       "opponent": "at Oregon State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #58)"
      }
     ],
     "win_pct": 22,
     "news": [
      {
-      "text": "Kirby Moore hinted at changes to Washington State's rushing attack following a record-setting performance.",
+      "text": "Offensive coordinator Kirby Moore is considering adjustments to the team's rushing attack following their recent performance.",
       "sources": [
        {
         "title": "Kirby Moore hints at changes to Washington State's rushing attack after record-setting performance",
@@ -4735,30 +5211,46 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 46,
+     "offense": 11,
+     "defense": 101
+    },
     "last": [
      {
       "result": "W 37–35",
       "opponent": "vs Fresno State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #56)"
      },
      {
       "result": "W 42–21",
       "opponent": "at Oregon State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #58)"
      },
      {
       "result": "L 45–46",
       "opponent": "at Boise State",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #22)"
      },
      {
       "result": "W 20–17",
       "opponent": "vs Utah State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #98)"
      }
     ],
     "win_pct": 78,
-    "news": []
+    "news": [
+     {
+      "text": "Texas State features a dangerous dual-threat quarterback heading into the matchup against Washington State.",
+      "sources": [
+       {
+        "title": "Washington State faces another dangerous dual-threat quarterback in Texas State showdown",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUWc4NXhKWFE0MnNJUzRwS1BsVEJiVjZvM01TdE9hdjVpNWd3ZUV5d1RxNEVrSUxwWmVWOXZVZlpXRlhiNlB5QkY2WlJLakRfNmN3TDNJaXZzXzhQQzJaVlFVMXp0X2RkUks3TXdjTndHM092dFZHd1ozdkxjazVMWldYandRamtxWlM1bTFnQ2RrbHo0YnpKcG9Bcm5tX212WjBJd2ItdEtWeXVZNHZxZGR0RElQZjBuemxHa1RSZ1RHQUV3c25jMGZNN25oMlJzMGRXRzBOdlk?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4784,32 +5276,37 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 75,
+     "offense": 71,
+     "defense": 81
+    },
     "last": [
      {
       "result": "W 24–21",
       "opponent": "vs Wisconsin",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #39)"
      },
      {
       "result": "W 34–29",
       "opponent": "at Purdue",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #91)"
      },
      {
       "result": "L 17–20",
       "opponent": "vs Illinois",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #44)"
      },
      {
       "result": "L 30–37",
       "opponent": "vs Rutgers",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #114)"
      }
     ],
     "win_pct": 14,
     "news": [
      {
-      "text": "Maryland is led by interim coach Aazaar Abdul-Rahim as they prepare to face the USC Trojans.",
+      "text": "Interim coach Aazaar Abdul-Rahim is managing the team's preparation for the upcoming USC matchup.",
       "sources": [
        {
         "title": "Maryland Football: Abdul-Rahim Recaps Wisconsin Win, QB Status and USC Prep",
@@ -4830,30 +5327,46 @@
     "rank": "#18",
     "record": "7–3",
     "ats": "ATS 3–7",
+    "sp": {
+     "overall": 21,
+     "offense": 18,
+     "defense": 35
+    },
     "last": [
      {
       "result": "L 13–27",
       "opponent": "at Indiana",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #5)"
      },
      {
       "result": "W 30–18",
       "opponent": "vs Ohio State",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #4)"
      },
      {
       "result": "L 7–24",
       "opponent": "at Wisconsin",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #39)"
      },
      {
       "result": "W 31–23",
       "opponent": "at Penn State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #27)"
      }
     ],
     "win_pct": 86,
-    "news": []
+    "news": [
+     {
+      "text": "Quarterback Jayden Maiava's performance has negatively impacted the USC offense.",
+      "sources": [
+       {
+        "title": "How USC Quarterback Jayden Maiava Has Hampered the Trojans' Offense",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0tpM0VnQ0h5ZGpFTW1NYlRsdXAwM3NVZ2FTWFA1a3U0UDlKZGNxOElmVVlVeWFYNXFFeHdVZjU5VVdramVYeGVvWU1QS0ptOGx0YmhBTW1MUDNuWWFxSnZ5bkI0TUMxNnlfZ080VnRKSUI0bTJvYmZJNFJueFdlcjRwdnotUU1yZkdQYTZRWmk?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4870,7 +5383,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 8 mph · Rain 34%",
+   "weather": "60°F · Wind 8 mph · Rain 46%",
    "flags": [
     "Arizona: ranked #23 (CFP)"
    ],
@@ -4879,26 +5392,31 @@
     "rank": "#23",
     "record": "7–3",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 20,
+     "offense": 12,
+     "defense": 38
+    },
     "last": [
      {
       "result": "L 39–40",
       "opponent": "vs Utah",
-      "opp_record": "(10–0)"
+      "opp_record": "(10–0, SP+ #10)"
      },
      {
       "result": "W 29–28",
       "opponent": "vs TCU",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #40)"
      },
      {
       "result": "L 26–34",
       "opponent": "at Texas Tech",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #13)"
      },
      {
       "result": "W 39–3",
       "opponent": "vs Iowa State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #74)"
      }
     ],
     "win_pct": 71,
@@ -4909,26 +5427,31 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 4–5–1",
+    "sp": {
+     "overall": 52,
+     "offense": 48,
+     "defense": 63
+    },
     "last": [
      {
       "result": "L 10–20",
       "opponent": "at TCU",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #40)"
      },
      {
       "result": "L 28–66",
       "opponent": "vs Oklahoma State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #25)"
      },
      {
       "result": "L 24–27",
       "opponent": "at Colorado",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #93)"
      },
      {
       "result": "L 17–28",
       "opponent": "at Arizona State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #62)"
      }
     ],
     "win_pct": 29,
@@ -4956,38 +5479,38 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 100,
+     "offense": 83,
+     "defense": 106
+    },
     "last": [
      {
       "result": "L 21–28",
       "opponent": "at Coastal Carolina",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #101)"
      },
      {
       "result": "L 17–19",
       "opponent": "vs UL Monroe",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #133)"
      },
      {
       "result": "W 38–32",
       "opponent": "vs Georgia State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #104)"
      },
      {
       "result": "W 23–13",
       "opponent": "at Southern Miss",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #128)"
      }
     ],
     "win_pct": 18,
     "news": [
      {
-      "text": "Arkansas State fired head coach Butch Jones amid a 4-6 record in his sixth season.",
+      "text": "Arkansas State has fired head football coach Butch Jones.",
       "sources": [
-       {
-        "title": "Did Hugh Freeze Get Butch Jones Fired? Suspiciously Timed Media Tour Implies Calculated Ouster",
-        "source": "BroBible",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXBOS2RRSUVLZGc0N0g3YXhXZURlSzZrS0s5TXVHazgyMGtEWC12em9ldjRPTFVqWWxxUkhSUTBJcm5TQzY5bnNDTTllQUZOVkJQd1RkdVBibHBvQXVJMlFURWxVNDdmOWwwRF9vWmtOSHhCaEE2OUp0ZHQydmR4RW5ZaGVZT1p1dGcxMEhWaGlXaWtnUzF5MllUWlRlVExZ?oc=5"
-       },
        {
         "title": "Butch Jones fired as Arkansas State head football coach",
         "source": "Wynne Progress",
@@ -4999,6 +5522,11 @@
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Od1EwUXBrcGlSWVdVcEhUSE5mRU43WURnTTdfVDIwMTdUcmE1YzlHUlAzblVkZ2hZOE1XaDM1WlpzUzd1NWUtd05IR3JpSzNSRGRZeUI3LXBvQ2xBZVJZcUZabkw4MGM?oc=5"
        },
        {
+        "title": "Arkansas State to oust Butch Jones amid 4-6 start",
+        "source": "Mahoning Matters",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11NEdSV3VVVHVHdDJfNE9VZDlLd3ZBT2h0Uk1sOFVUOEk0RnFheDlscDViemx0UFBNa21KS0MzVVhYcjR5d2dCaXpsV1RvaFhKRERvQWRBSmVTQk0xRmJ4bGRpVXU0OXc5QVBWLUdDaHdHaHFPU2R3?oc=5"
+       },
+       {
         "title": "Arkansas State fires Butch Jones: Red Wolves part with veteran coach amid 4-6 record in sixth season",
         "source": "BVM Sports",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUDR4M1NleGxUZHJSLXAzdDhfdG1iYmlCa2pZNXRScXRCODlHN05OUTVqWjhzbHpxZmVEN2I3aUN5VGs2dDhJRHJJMWhPLUxfVHZMWnV6TjVEcHI5S0RxcWN3VktBS0FWX3lVQk1FWGNJWEF1bnlkNlFSbkdrMHA3RnMtSlpUakpqTVNmVDFRV0piYWFSM1VaQlhETVkyZVpIZHgyZ2dJT0JISk5lM2pkS3laTWZUeXpYTUFNWmFoTjR0U3FCUk5VWUxnbTBCZw?oc=5"
@@ -5007,16 +5535,6 @@
         "title": "Butch Jones Fired: Arkansas State Football Head Coach Departs After Nearly Six Seasons as Red Wolves Struggle at 4-6",
         "source": "The Sunday Guardian",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWl9XUXdQVVBHTFl0ckhTMmM2ZWIzLWFmUnBCR0dIZzkwZ3p6bU5DVkJHX3dxNmxQQnYxdW1sQTZhZWdJal9YemU5anBfTVptejg4VGg0dU85dkNrV3RBTlAzX0lYdFVMb19RXy05VlBLWXJQelhMZGFBd29QeG4wOVdDek1UWWI2Q1d0NnExSmFOV3JRdDNmWVZBVGw4MTRacXR4bVdKODhOUU5rN21SZmN4TjVTbEtvMmV0LUF5bW96VTJLUTFvSjhPQnlnVnkyQ2VVZmFjbFo5clZDYnpIeXBoZmZrYlp1OEkzQlZvbk5JUFnSAfgBQVVfeXFMTXZkSlg0emlHRjBrRTJFdVVaeVhYc2ZzdG5mdTFsR3owN2syQU0tZkJQQ0xSVVA5SnBYaUhEZ1hBX0FCZ1FfOFhtOVdYODdrRDlITm16X0ZjX2doNzJvX1A5SWtZNFBFRVNib25BSTZCLVhYUFU1am1ac296TDFuNV8yWGZQSVdyNUE2YmdKWFRUR1RjNUl6UUVMLUJCbnlKTlU2Rl9UdF9GUndfaUhxQVg4MjBPVWlhQWFHRTU4SlQ3MkVFX3lfRDcxVS1kbk13dnNheDlQVjVydHBEcmYyS0hLZW12cWVIaFppenotUnVyVkpIZzdEYlY?oc=5"
-       },
-       {
-        "title": "Arkansas State to oust Butch Jones amid 4-6 start",
-        "source": "National Football Post",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFh3YlI3eUd6UjhmdUQ3VXFsTVo0OTlNQXFWYi1mc28yUVpCc0FxTEpUaDBTR2NfN19BV2RUejk0eXBjd1lPdzJTWERfRXlmZThuYkhodFVzenZrLWxlcGlUNmJxcHkzMVNkNUJxRlAySEs0VFp4ZWpDODNlS0R0WHNXQUJ0U0pVZ21MdFFnMA?oc=5"
-       },
-       {
-        "title": "Arkansas State Red Wolves head coach Butch Jones walks down the sideline during the college football game between the Southern",
-        "source": "The Lufkin Daily News",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUG5NQ2lnQVhHbDg4LXlZeXVWWERQMGNIYXVYVlRCeUlCWk5fM292MkU3ZEdSdkFISm1yLVc1Zkd3bEtVdTQwOEtyc1d6SG5hR2ZNdF9fVm1kbGZGTDRiandPNUtmRGpwb29nTngzWkJENTVlQlRCYUYzVzkwOEpEYkNPMjJaSnViVlhIQmZrNmY2UUlyQVExVEs2Q0VkQktwNFFVVzlBTXBKbklMbGYzaWZ4ZnExRHl6QjJ5Z2c4M0FqMFpDUFAxSVF1TlRTTUxYVXZJaVowTGtFMUlOcGVlOUVRTzVYQ3VIalp5MEU5UmExSHZPclY4MmtSUW9fUXh2a2dlVnMtMkQxS0lFOTlpa0FhVjVUdw?oc=5"
        },
        {
         "title": "Sources: Arkansas State tells Butch Jones he's out at end of year",
@@ -5037,26 +5555,31 @@
     "rank": "",
     "record": "8–2",
     "ats": "ATS 9–1",
+    "sp": {
+     "overall": 53,
+     "offense": 48,
+     "defense": 59
+    },
     "last": [
      {
       "result": "W 63–31",
       "opponent": "vs Southern Miss",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #128)"
      },
      {
       "result": "W 41–17",
       "opponent": "at Troy",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #123)"
      },
      {
       "result": "W 35–20",
       "opponent": "at South Alabama",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #107)"
      },
      {
       "result": "W 26–0",
       "opponent": "vs Old Dominion",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #124)"
      }
     ],
     "win_pct": 82,
@@ -5077,7 +5600,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "79°F · Wind 12 mph · Rain 23%",
+   "weather": "79°F · Wind 12 mph · Rain 31%",
    "flags": [
     "Miami: ranked #7 (CFP)"
    ],
@@ -5086,62 +5609,83 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 59,
+     "offense": 44,
+     "defense": 69
+    },
     "last": [
      {
       "result": "L 22–40",
       "opponent": "vs Stanford",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #106)"
      },
      {
       "result": "L 28–51",
       "opponent": "at SMU",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      },
      {
       "result": "W 20–16",
       "opponent": "at Clemson",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #68)"
      },
      {
       "result": "W 34–24",
       "opponent": "vs Georgia Tech",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #97)"
      }
     ],
     "win_pct": 10,
-    "news": []
+    "news": [
+     {
+      "text": "The Virginia Tech football team is holding candid conversations to regroup before their upcoming game against Miami.",
+      "sources": [
+       {
+        "title": "Virginia Tech football turns to candid conversations to regroup before Miami test",
+        "source": "Roanoke Times",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM09HRE83R3drRGtqQTlvSzNRa1pueUdLb1l0c2VNeUttd2xsNXdITnBTLXVaMW1kQ0JEaHBTN2RVMkU0SlhESE1IaUxCano4LUZlWVZiM2thdW5uci1abXgxTzZ6bm9WVldyWTQtTFlVOE1VZmFrX2dTVURnU3R0NGxvYVFSLThzRVJQalVyMHpXcGpnU3N6NzR3MUdwNU5CQTZNRTA0ZXFZNHhQY1FWaGdPV3c?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Miami",
     "rank": "#7",
     "record": "9–1",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 3,
+     "offense": 1,
+     "defense": 26
+    },
     "last": [
      {
       "result": "W 36–25",
       "opponent": "vs Duke",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      },
      {
       "result": "L 24–31",
       "opponent": "at Notre Dame",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #2)"
      },
      {
       "result": "W 38–35",
       "opponent": "at North Carolina",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #50)"
      },
      {
       "result": "W 52–23",
       "opponent": "vs Pittsburgh",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #38)"
      }
     ],
     "win_pct": 90,
     "news": [
      {
-      "text": "Malachi Toney's injury update raises anticipation for the Miami star's eventual return.",
+      "text": "Malachi Toney is currently dealing with an injury, with anticipation building for his eventual return to the field.",
       "sources": [
        {
         "title": "Malachi Toney's injury update raises anticipation for the Miami star's eventual return",
@@ -5151,7 +5695,7 @@
       ]
      },
      {
-      "text": "Miami needs more production from a crucial transfer to help its playoff run.",
+      "text": "The team is currently receiving minimal production from a key transfer player, whose performance turnaround is considered crucial.",
       "sources": [
        {
         "title": "Monday Musings: Adaptation is key; Miami needs more from a key transfer",
@@ -5182,7 +5726,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "57°F · Wind 5 mph · Rain 35%",
+   "weather": "57°F · Wind 5 mph · Rain 27%",
    "flags": [
     "San José State: one win from bowl eligibility"
    ],
@@ -5191,56 +5735,92 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 84,
+     "offense": 80,
+     "defense": 88
+    },
     "last": [
      {
       "result": "W 21–17",
       "opponent": "at New Mexico",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #23)"
      },
      {
       "result": "L 35–41",
       "opponent": "vs Wyoming",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #90)"
      },
      {
       "result": "W 31–24",
       "opponent": "vs Northern Illinois",
-      "opp_record": "(0–10)"
+      "opp_record": "(0–10, SP+ #138)"
      },
      {
       "result": "L 31–41",
       "opponent": "at Air Force",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #65)"
      }
     ],
     "win_pct": 69,
-    "news": []
+    "news": [
+     {
+      "text": "Quarterback Jackson Arnold was honored by the Earl Campbell Award following his three-touchdown performance.",
+      "sources": [
+       {
+        "title": "Jackson Action: QB Honored Again By Earl Campbell Award",
+        "source": "University of Nevada Las Vegas Athletics",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDR3Nmp2YkZkLVpDRmJ4M2s4WWpJaVRLLXYtdWpBcmdmNV9scDhnUVJHS0ZvTzl5RHA0RnAzOFVGS0F3Z3FiY2xzWXNSdUJCaGh4UHdmUnZuTm5wUHNWcW5PRUtGaE8tY25zT0ZjR3VLNS1RSGNkZWNSQkMwTWxUdG4tN3hoamxld1dVYU13SEN5VDRpVDBZclF5RDhjbDR2aEsycQ?oc=5"
+       },
+       {
+        "title": "One week after being benched, Jackson Arnold responds with 3 TDs in UNLV win",
+        "source": "Las Vegas Review-Journal",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYXdsNlc3aHd1dWtuVDdkbklDRnJkSVM1Y2FKLTMxZVVFQ0ZIYTl2YUJGbDBXUDlIMm1JYl9SV0NjZkpYOWFhVmJJWEtjdlBOM29qajI4ZTc5eWc5Zi1VcGxHZEZsSVRLaUZuNjZ2clRIOHBPa1RxLXVJdW14eUFDT25BQ2YwMV9uS3NFcGpKUDF3ZXhlN1pkdjV3bXVIcVVFdVMzVjV0NVJpQlViOW84SEY4YWplQ0hfalhpVVF0MXNXWTg0ZzlCdF9fOW9KbG5qTjU4SGE0cw?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "The Rebels are traveling to San Jose State for their final road game of the season.",
+      "sources": [
+       {
+        "title": "GAME 11: Rebs Off To San Jose State For Road Finale",
+        "source": "University of Nevada Las Vegas Athletics",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmZBX0FBYTJ1XzZLNVh4YVItdUZsYlZfdkg2ako4RWpWSlV4dGtQTkg1bVN0SFh0WTZxU2wtUVNMa0NYOGJSc2cxMUVnczQ5NFdrVnRYQWEzUXJzZ29YSnBnd2MwbktONmlBckdkcG1mZWEtQUJMblRESzZtOG9ybTRTS3hiMUExY282Y1lFNkcwNEYzdkdMZTRiVnFocTQ?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "San José State",
     "rank": "",
     "record": "5–6",
     "ats": "ATS 5–6",
+    "sp": {
+     "overall": 118,
+     "offense": 131,
+     "defense": 67
+    },
     "last": [
      {
       "result": "L 3–24",
       "opponent": "at Air Force",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #65)"
      },
      {
       "result": "W 30–19",
       "opponent": "vs Northern Illinois",
-      "opp_record": "(0–10)"
+      "opp_record": "(0–10, SP+ #138)"
      },
      {
       "result": "L 16–21",
       "opponent": "vs New Mexico",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #23)"
      },
      {
       "result": "L 13–28",
       "opponent": "at Nevada",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #92)"
      }
     ],
     "win_pct": 31,
@@ -5261,7 +5841,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "55°F · Wind 7 mph · Rain 66%",
+   "weather": "55°F · Wind 7 mph · Rain 56%",
    "flags": [
     "Stanford: one win from bowl eligibility"
    ],
@@ -5270,21 +5850,26 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 106,
+     "offense": 94,
+     "defense": 112
+    },
     "last": [
      {
       "result": "W 40–22",
       "opponent": "at Virginia Tech",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #59)"
      },
      {
       "result": "L 24–52",
       "opponent": "at Louisville",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #17)"
      },
      {
       "result": "W 31–28",
       "opponent": "vs NC State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #78)"
      },
      {
       "result": "W 34–7",
@@ -5300,32 +5885,37 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 2–8",
+    "sp": {
+     "overall": 119,
+     "offense": 114,
+     "defense": 107
+    },
     "last": [
      {
       "result": "L 7–36",
       "opponent": "at Virginia",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #56)"
      },
      {
       "result": "L 10–31",
       "opponent": "at NC State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #78)"
      },
      {
       "result": "L 20–59",
       "opponent": "at SMU",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #28)"
      },
      {
       "result": "L 7–41",
       "opponent": "vs Wake Forest",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #7)"
      }
     ],
     "win_pct": 46,
     "news": [
      {
-      "text": "Tosh Lupoi faces a Big Game coaching debut.",
+      "text": "Tosh Lupoi is making his coaching debut for the Big Game.",
       "sources": [
        {
         "title": "Can Tosh Lupoi Overcome History in Big Game Coaching Debut?",
@@ -5351,7 +5941,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 2 mph · Rain or snow 2%",
+   "weather": "58°F · Wind 2 mph · Rain or snow 1%",
    "flags": [
     "Fresno State: one win from bowl eligibility"
    ],
@@ -5360,33 +5950,43 @@
     "rank": "",
     "record": "3–7",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 120,
+     "offense": 55,
+     "defense": 138
+    },
     "last": [
      {
       "result": "L 7–73",
       "opponent": "at Washington State",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #111)"
      },
      {
       "result": "L 38–64",
       "opponent": "vs Boise State",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #22)"
      },
      {
       "result": "L 14–31",
       "opponent": "at Utah State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #98)"
      },
      {
       "result": "W 56–49",
       "opponent": "vs San Diego State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #96)"
      }
     ],
     "win_pct": 10,
     "news": [
      {
-      "text": "Colorado State suffered a 73-7 loss, leading to coach Jim Mora making critical comments about the program.",
+      "text": "Following a 73-7 loss, there is public speculation regarding the future of head coach Jim Mora.",
       "sources": [
+       {
+        "title": "Keeler: Jim Mora talking his way into early CSU Rams exit",
+        "source": "The Denver Post",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjRhN3pmdVdXVGhrdUM4UkZLaUZGR2tXdFdUQUtSSnIyRmhPaDFKelRqR1lXSXVhV3I3WW0ydVl5TXpRaERwdnYtX1NjOVR1RW5adHlUSnNxaUpaaXQzVmlSRUZILVJGMVdpcEFvcWJRbTVlZlhLYURUZ3RDLUpoZFI1S1dqcTlkb2FoRzlub0xiV1h2OVE?oc=5"
+       },
        {
         "title": "Jim Mora Jr. says Colorado State people don’t know how to win after 73-7 loss",
         "source": "SuperWest Sports",
@@ -5416,26 +6016,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 56,
+     "offense": 59,
+     "defense": 58
+    },
     "last": [
      {
       "result": "L 35–37",
       "opponent": "at Texas State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #46)"
      },
      {
       "result": "L 10–17",
       "opponent": "at Utah State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #98)"
      },
      {
       "result": "W 38–22",
       "opponent": "vs Oregon State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #58)"
      },
      {
       "result": "L 23–26",
       "opponent": "at San Diego State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #96)"
      }
     ],
     "win_pct": 90,
@@ -5456,7 +6061,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "61°F · Wind 4 mph · Rain or snow 8%",
+   "weather": "61°F · Wind 4 mph · Rain or snow 9%",
    "flags": [
     "Louisville: ranked #21 (AP)"
    ],
@@ -5465,26 +6070,31 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 38,
+     "offense": 61,
+     "defense": 29
+    },
     "last": [
      {
       "result": "L 10–16",
       "opponent": "vs Florida State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #48)"
      },
      {
       "result": "W 34–11",
       "opponent": "vs Georgia Tech",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #97)"
      },
      {
       "result": "L 23–52",
       "opponent": "at Miami",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #3)"
      },
      {
       "result": "L 21–27",
       "opponent": "at Boston College",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #103)"
      }
     ],
     "win_pct": 18,
@@ -5495,26 +6105,31 @@
     "rank": "#21",
     "record": "7–3",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 17,
+     "offense": 4,
+     "defense": 40
+    },
     "last": [
      {
       "result": "W 16–14",
       "opponent": "at North Carolina",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #50)"
      },
      {
       "result": "W 44–17",
       "opponent": "at Georgia Tech",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #97)"
      },
      {
       "result": "W 52–24",
       "opponent": "vs Stanford",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #106)"
      },
      {
       "result": "W 34–26",
       "opponent": "at Syracuse",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #83)"
      }
     ],
     "win_pct": 82,
@@ -5535,7 +6150,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 10 mph · Rain or snow 17%",
+   "weather": "60°F · Wind 10 mph · Rain or snow 10%",
    "flags": [
     "Kentucky: ranked #11 (CFP)",
     "Missouri: ranked #22 (CFP)"
@@ -5545,32 +6160,37 @@
     "rank": "#11",
     "record": "7–3",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 42,
+     "offense": 39,
+     "defense": 45
+    },
     "last": [
      {
       "result": "L 14–21",
       "opponent": "vs Florida",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #47)"
      },
      {
       "result": "L 6–34",
       "opponent": "at Tennessee",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #11)"
      },
      {
       "result": "W 34–17",
       "opponent": "vs Vanderbilt",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #80)"
      },
      {
       "result": "W 21–13",
       "opponent": "at Oklahoma",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #41)"
      }
     ],
     "win_pct": 34,
     "news": [
      {
-      "text": "Kentucky's offensive staff is seeking solutions to address ongoing self-inflicted mistakes following a loss to Florida.",
+      "text": "The Kentucky offensive staff is currently searching for solutions to address recent self-inflicted mistakes.",
       "sources": [
        {
         "title": "Kentucky's offensive staff is looking for solutions to self-inflicted mistakes",
@@ -5591,32 +6211,37 @@
     "rank": "#22",
     "record": "6–4",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 32,
+     "offense": 48,
+     "defense": 24
+    },
     "last": [
      {
       "result": "L 21–48",
       "opponent": "at Georgia",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #1)"
      },
      {
       "result": "L 20–34",
       "opponent": "vs Texas",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #8)"
      },
      {
       "result": "W 34–10",
       "opponent": "at Arkansas",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #76)"
      },
      {
       "result": "L 3–31",
       "opponent": "at Ole Miss",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #24)"
      }
     ],
     "win_pct": 66,
     "news": [
      {
-      "text": "Missouri's rushing attack has taken a concerning turn in recent weeks.",
+      "text": "Missouri's rushing attack has shown a concerning decline in performance over recent weeks.",
       "sources": [
        {
         "title": "Mizzou Football's Rushing Attack Has Taken a Concerning Turn in Recent Weeks",
@@ -5642,7 +6267,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "54°F · Wind 9 mph · Rain or snow 7%",
+   "weather": "54°F · Wind 9 mph · Rain or snow 8%",
    "flags": [
     "Notre Dame: ranked #5 (CFP)"
    ],
@@ -5651,32 +6276,47 @@
     "rank": "",
     "record": "7–3",
     "ats": "ATS 3–5–2",
+    "sp": {
+     "overall": 28,
+     "offense": 20,
+     "defense": 43
+    },
     "last": [
      {
       "result": "L 7–49",
       "opponent": "vs Wake Forest",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #7)"
      },
      {
       "result": "W 51–28",
       "opponent": "vs Virginia Tech",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #59)"
      },
      {
       "result": "L 27–30",
       "opponent": "at Syracuse",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #83)"
      },
      {
       "result": "W 59–20",
       "opponent": "vs California",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #119)"
      }
     ],
     "win_pct": 9,
     "news": [
      {
-      "text": "An injury report and depth charts are available for the SMU Mustangs ahead of their game against Notre Dame.",
+      "text": "The game against Notre Dame will be played under specific weather conditions.",
+      "sources": [
+       {
+        "title": "WEATHER REPORT: Notre Dame Fighting Irish VS SMU Mustangs",
+        "source": "One Foot Down",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0dvcUVQZ3k0eWx4X05ZNzBHVFRqdnFtU01xMWR0cXVDTFJBZ2tuYW9kMm1LSGRIMjZ5SEFUVkN4dHBGUzBXZzg0WnZEaHVycTVoM2pERkhpektXdzJWSTA2Vk5oZ2FzaXNhaWhwZ0xQTTkzQUVTSE5qZWw2c0JscThUZjRuZWdNbzR5Z3F0T1hoUUEzblB2eEFaYlJRMDJWY29RZ2h0MVVJUnNaX3BDNjZDY0xENmZPc2wyVUhJZnNvN1E?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "An injury report and updated depth charts are available for the SMU Mustangs ahead of the matchup.",
       "sources": [
        {
         "title": "NOTRE DAME FOOTBALL: Injury report and depth charts for SMU Mustangs",
@@ -5692,32 +6332,37 @@
     "rank": "#5",
     "record": "9–1",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 2,
+     "offense": 3,
+     "defense": 14
+    },
     "last": [
      {
       "result": "W 41–7",
       "opponent": "vs Boston College",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #103)"
      },
      {
       "result": "W 31–24",
       "opponent": "vs Miami",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #3)"
      },
      {
       "result": "W 35–13",
       "opponent": "vs Navy (neutral)",
-      "opp_record": "(3–6)"
+      "opp_record": "(3–6, SP+ #88)"
      },
      {
       "result": "L 24–28",
       "opponent": "at BYU",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #15)"
      }
     ],
     "win_pct": 91,
     "news": [
      {
-      "text": "Notre Dame injuries have allowed the team to redefine its identity.",
+      "text": "Notre Dame is managing various injuries that have forced the team to redefine its identity.",
       "sources": [
        {
         "title": "Notre Dame injuries have allowed them to redefine its identity",
@@ -5727,7 +6372,7 @@
       ]
      },
      {
-      "text": "Irish head coach Marcus Freeman provided an update on lineman Charles Jagusah.",
+      "text": "Head coach Marcus Freeman provided an update regarding the status of lineman Charles Jagusah.",
       "sources": [
        {
         "title": "Irish HC Marcus Freeman provides update on lineman Charles Jagusah",
@@ -5737,7 +6382,7 @@
       ]
      },
      {
-      "text": "Notre Dame received positive injury news during a busy Monday.",
+      "text": "Recent reports indicate there is positive injury news surrounding the team.",
       "sources": [
        {
         "title": "Recapping a busy Monday for Notre Dame, including insane recruiting momentum, positive injury news, and Brian Kelly",
@@ -5763,7 +6408,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "57°F · Wind 16 mph · Rain 25%",
+   "weather": "57°F · Wind 16 mph · Rain 28%",
    "flags": [
     "Georgia: ranked #1 (CFP)",
     "South Carolina: ranked #17 (CFP)"
@@ -5773,26 +6418,31 @@
     "rank": "#1",
     "record": "9–1",
     "ats": "ATS 8–2",
+    "sp": {
+     "overall": 1,
+     "offense": 2,
+     "defense": 1
+    },
     "last": [
      {
       "result": "W 48–21",
       "opponent": "vs Missouri",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #32)"
      },
      {
       "result": "W 42–7",
       "opponent": "at Ole Miss",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #24)"
      },
      {
       "result": "W 27–8",
       "opponent": "vs Florida (neutral)",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #47)"
      },
      {
       "result": "L 24–27",
       "opponent": "vs Auburn",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #49)"
      }
     ],
     "win_pct": 86,
@@ -5803,30 +6453,46 @@
     "rank": "#17",
     "record": "6–4",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 30,
+     "offense": 33,
+     "defense": 36
+    },
     "last": [
      {
       "result": "L 6–34",
       "opponent": "at Arkansas",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #76)"
      },
      {
       "result": "W 17–9",
       "opponent": "vs Texas A&M",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #44)"
      },
      {
       "result": "W 42–25",
       "opponent": "at Oklahoma",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #41)"
      },
      {
       "result": "W 27–24",
       "opponent": "vs Tennessee",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #11)"
      }
     ],
     "win_pct": 14,
-    "news": []
+    "news": [
+     {
+      "text": "Shane Beamer stated specific requirements for quarterback LaNorris Sellers to be cleared to play in the upcoming game against Georgia.",
+      "sources": [
+       {
+        "title": "What Shane Beamer said South Carolina QB LaNorris Sellers must do to play vs Georgia",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0FnX2NZLWRnYmo0N0FEMVVjcy12WnVRWUMwcGV3Z01ubkp2MzBWcG1hQ0xxd0lheWtqa0htRFl5d2tMNWZQVy1BSnl2UWJ5X0V1QTh2RVJKb3RpYVlDVjJJcWgzRFZkcFpKdldhUXRibEp1bHRqcEJGZDY1YnJ2ZENqQzBQeEpK?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5850,26 +6516,31 @@
     "rank": "",
     "record": "8–2",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 61,
+     "offense": 32,
+     "defense": 95
+    },
     "last": [
      {
       "result": "W 35–16",
       "opponent": "vs North Texas",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #67)"
      },
      {
       "result": "L 29–60",
       "opponent": "at Florida Atlantic",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #86)"
      },
      {
       "result": "W 42–19",
       "opponent": "at Tulane",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #112)"
      },
      {
       "result": "W 38–34",
       "opponent": "vs Navy",
-      "opp_record": "(3–6)"
+      "opp_record": "(3–6, SP+ #88)"
      }
     ],
     "win_pct": 68,
@@ -5880,30 +6551,56 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 5–4–1",
+    "sp": {
+     "overall": 95,
+     "offense": 105,
+     "defense": 65
+    },
     "last": [
      {
       "result": "W 36–10",
       "opponent": "at Temple",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #115)"
      },
      {
       "result": "W 23–12",
       "opponent": "vs Charlotte",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #134)"
      },
      {
       "result": "L 10–30",
       "opponent": "at South Florida",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #60)"
      },
      {
       "result": "W 30–17",
       "opponent": "vs East Carolina",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #88)"
      }
     ],
     "win_pct": 32,
-    "news": []
+    "news": [
+     {
+      "text": "UAB will host UTSA for Senior Day at Protective Stadium.",
+      "sources": [
+       {
+        "title": "Blazers Turn Attention to UTSA for Senior Day at Protective Stadium",
+        "source": "UAB Athletics",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaURmbTFjRExRMUhYc2NCY216OU1MU0tjN1V6WHJxc2FtMXdpMnZDR0h1UWJJYk5fY2xwaWN2UTBvSG5ONFFUY2xQaFdGakxWYWRHaUhmYzZuYzJTUmNHYWFUTlNFZ2F6ZXFoMFRwNkpnREFrRF9YWkFUdTZxd3VVTG0yWFlnVjFDaGlBcXllZkx5bk5XcGotc2tEUl9qanpYS2RvUWd2SnRXYTFWazlIOV9UZTA?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "The UAB game against UTSA is scheduled for a 7 p.m. kickoff on ESPNU.",
+      "sources": [
+       {
+        "title": "UAB Announces 7 p.m. Kickoff Against UTSA on ESPNU",
+        "source": "UAB Athletics",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHlWMXRfRzFXYlBVWmtRcGZsa1pnc2E2aDJPbVk4RVBJV3ZuLUVtM1NfckdIdjVIVGRWcG52N25WMHBEQ3FmUkJIMGlYZm8yazZ2Q0RtcVBXdDJwczNTdHB3TDBfSlZYRHBqcVlJV2lCUFcyVjdabnFYbm11UEtyREhMcnZlNm5GWDhQbzZ3NkNTU2U1bEE5MlUtUQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5920,7 +6617,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "68°F · Wind 13 mph · Rain or snow 7%",
+   "weather": "68°F · Wind 13 mph · Rain or snow 9%",
    "flags": [
     "Utah: ranked #2 (CFP)",
     "TCU: one win from bowl eligibility"
@@ -5930,26 +6627,31 @@
     "rank": "#2",
     "record": "10–0",
     "ats": "ATS 8–2",
+    "sp": {
+     "overall": 10,
+     "offense": 4,
+     "defense": 23
+    },
     "last": [
      {
       "result": "W 40–39",
       "opponent": "at Arizona",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #20)"
      },
      {
       "result": "W 28–20",
       "opponent": "vs BYU",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #15)"
      },
      {
       "result": "W 49–25",
       "opponent": "at Cincinnati",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      },
      {
       "result": "W 21–13",
       "opponent": "vs Houston",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #25)"
      }
     ],
     "win_pct": 70,
@@ -5960,26 +6662,31 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 40,
+     "offense": 88,
+     "defense": 16
+    },
     "last": [
      {
       "result": "W 20–10",
       "opponent": "vs Kansas State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #52)"
      },
      {
       "result": "L 28–29",
       "opponent": "at Arizona",
-      "opp_record": "(7–3)"
+      "opp_record": "(7–3, SP+ #20)"
      },
      {
       "result": "W 22–16",
       "opponent": "vs Kansas",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #50)"
      },
      {
       "result": "L 20–24",
       "opponent": "vs West Virginia",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #81)"
      }
     ],
     "win_pct": 30,
@@ -6000,7 +6707,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 7 mph · Rain 20%",
+   "weather": "42°F · Wind 7 mph · Rain or snow 19%",
    "flags": [
     "San Diego State: one win from bowl eligibility",
     "Boise State: ranked #24 (CFP)"
@@ -6010,32 +6717,72 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 4–6",
+    "sp": {
+     "overall": 96,
+     "offense": 88,
+     "defense": 97
+    },
     "last": [
      {
       "result": "W 30–13",
       "opponent": "vs Utah State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #98)"
      },
      {
       "result": "W 26–20",
       "opponent": "vs Washington State",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #111)"
      },
      {
       "result": "L 49–56",
       "opponent": "at Colorado State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #120)"
      },
      {
       "result": "W 26–23",
       "opponent": "vs Fresno State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #56)"
      }
     ],
     "win_pct": 14,
+    "news": []
+   },
+   "home": {
+    "name": "Boise State",
+    "rank": "#24",
+    "record": "9–1",
+    "ats": "ATS 5–5",
+    "sp": {
+     "overall": 22,
+     "offense": 6,
+     "defense": 77
+    },
+    "last": [
+     {
+      "result": "W 46–41",
+      "opponent": "vs Oregon State",
+      "opp_record": "(5–5, SP+ #58)"
+     },
+     {
+      "result": "W 64–38",
+      "opponent": "at Colorado State",
+      "opp_record": "(3–7, SP+ #120)"
+     },
+     {
+      "result": "W 46–45",
+      "opponent": "vs Texas State",
+      "opp_record": "(6–4, SP+ #46)"
+     },
+     {
+      "result": "W 31–10",
+      "opponent": "at Washington State",
+      "opp_record": "(2–8, SP+ #111)"
+     }
+    ],
+    "win_pct": 86,
     "news": [
      {
-      "text": "A weather forecast is noted for the November 21 game between Boise State and San Diego State.",
+      "text": "The weather forecast for the upcoming game against San Diego State on November 21 is available.",
       "sources": [
        {
         "title": "Boise State Football Weather Forecast: Nov. 21 vs. San Diego State",
@@ -6043,50 +6790,14 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm5RVVAtdW5obERuV3RCLVRmNkFCLWxMTENFcGkycjJ5MnZWR3NUY0VtbHZJNUI5T0tEbEtQUmF2amhXcDBaT0FFbXpwRV82SlF2dmxqREhkU09oMVdIOGFYUG1lcGVMNjR3VHkyUjdmNDhJTFBCdmllam9YWEF1aEd0ellZTmEyZ3RfNm8yRHA1T2Q1bl9ieUxFYzdfbDZ3cHZuSzFVUnQzNkl0eDBNY2o0dW15UEFBUHFtbw?oc=5"
        }
       ]
-     }
-    ]
-   },
-   "home": {
-    "name": "Boise State",
-    "rank": "#24",
-    "record": "9–1",
-    "ats": "ATS 5–5",
-    "last": [
-     {
-      "result": "W 46–41",
-      "opponent": "vs Oregon State",
-      "opp_record": "(5–5)"
      },
      {
-      "result": "W 64–38",
-      "opponent": "at Colorado State",
-      "opp_record": "(3–7)"
-     },
-     {
-      "result": "W 46–45",
-      "opponent": "vs Texas State",
-      "opp_record": "(6–4)"
-     },
-     {
-      "result": "W 31–10",
-      "opponent": "at Washington State",
-      "opp_record": "(2–8)"
-     }
-    ],
-    "win_pct": 86,
-    "news": [
-     {
-      "text": "The Boise State defense continues to look for answers after giving up 41 points and 506 yards.",
+      "text": "The Boise State defense is described as embattled heading into the matchup against San Diego State.",
       "sources": [
        {
         "title": "Embattled Boise State defense could have a bounce-back performance against San Diego State",
         "source": "Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHNaUGVIUkRYcUVGa0NJRUVLeU9HZ3BiMDF3SnVLNVZmOS15VTFxblpoci1FTnJnUnU3NmFGRjk1RXhVNDBOeUlJbHJQSy16V09HUVZENlFfVnFhQXhpUG9zazh2RTBqVVhpbGZYdkNtcDVEX2pSSWlxZkN2emE4ZFE1UzU4UDUxU2Z3UA?oc=5"
-       },
-       {
-        "title": "Broncos continue to look for answers on defense after giving up 41 points, 506 yards",
-        "source": "Idaho Press",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORTlWYkc2NEFTekxRMm1yWnNSaUFhQ2ZDUFBLMHJCVEdrWm95Z0NFYlhZSE5ZMWJkVlhiYW5FMlgzd3ZwMWFoU0xzNVpnRGRNb2hhVHJhRzhzeHJ0N0R5dTNoelgyX0dYTzVKWS0wRE84Nm5DYW9kazh6WWZPNHZNQl9HYVU5QmQ0azlncS1jMmZyOWxkMXNscHB5Q3gzZXNVQ2E1dDBmY3ZHMmxQTnRzY0Q4VXl6UkdEaXFmZUJyZW1iV2Qyc3lxWHk0NXExbVF6UWVQQWd4QUlaRm5NTVptNzlQbXZ2T29IMUdVbUt0TVB3WHNvNEQ1RHd0NUNoOEtRYk1XR0NvaVh3dmhmWi0tXzhB?oc=5"
        }
       ]
      }
@@ -6116,37 +6827,52 @@
     "rank": "#25",
     "record": "6–4",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 25,
+     "offense": 8,
+     "defense": 81
+    },
     "last": [
      {
       "result": "L 27–52",
       "opponent": "vs Texas Tech",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #13)"
      },
      {
       "result": "W 66–28",
       "opponent": "at Kansas State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #52)"
      },
      {
       "result": "L 49–51",
       "opponent": "at Iowa State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #74)"
      },
      {
       "result": "W 57–24",
       "opponent": "vs Colorado",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #93)"
      }
     ],
     "win_pct": 58,
     "news": [
      {
-      "text": "Eric Morris provided an encouraging update regarding Drew Mestemaker.",
+      "text": "Quarterback Drew Mestemaker is expected to be okay following a shoulder injury.",
       "sources": [
        {
-        "title": "Eric Morris Gives Encouraging Update on Drew Mestemaker",
-        "source": "roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTV4ZkQxSEZ1THlNYzl0ejNDRUV4Z1I3dzE5Nnp3ZHZReWVDUmtVTTRjYzVuR0dsaG0wTGhZYURxd0Z0cG92RUtRYlpqRWp3cVJ5TUt6VHBGYXdnU1dnZHhHMmROc0I0bUdNOGxkVW1CQU1LdVA3bHpfSm0wcWlTUG9CUVJ1WGxvRG92b2RlcUpUNmEwOFBVSm5SQVJjd05JWU5YMnZpUERRNnVHeWNmQ0p4cw?oc=5"
+        "title": "Drew Mestemaker injury update: Oklahoma State football QB's shoulder 'gonna be OK'",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2d1bER2QW5uak1fZHJwblQxQmlsajhuNGluRWRiTmlDSngtU3VSTzFGdGZMTEdCNzRLNjkyUFdDVkozWDlldnR2YXZRY1I3Y0Z6akR0X3ZzWDUxYWIxX3REWGx2MDRKMlItanRIQUVwUFpXY3NwYjZ6N1QyQUNqelg2YWNvcW9BaXFpSy0xZw?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Safety Evan Jackson and the Oklahoma State secondary are currently struggling.",
+      "sources": [
+       {
+        "title": "Oklahoma State football safety Evan Jackson, secondary struggling for Cowboys",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3F2V1MtLWV0ZndNdThpZTVrSVZPNXJSSWhfNUpYcHJQOS1lcmptdUU1NU1WMDhDcGJyd0lQRmNOWkhmU1Ffa2VVVEJpZkljdEs0dFU1R1ltVi11QzF6THNqcUVqbXZnMlloX20zeHhyaWRYb1lqR0VVejFLQmtlZC1UcDJXY2tnSTk3Ng?oc=5"
        }
       ]
      }
@@ -6157,30 +6883,46 @@
     "rank": "",
     "record": "6–4",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 62,
+     "offense": 75,
+     "defense": 46
+    },
     "last": [
      {
       "result": "W 26–13",
       "opponent": "at UCF",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #72)"
      },
      {
       "result": "W 20–10",
       "opponent": "vs Colorado",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #93)"
      },
      {
       "result": "L 20–27",
       "opponent": "at BYU",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #15)"
      },
      {
       "result": "W 28–17",
       "opponent": "vs Kansas State",
-      "opp_record": "(4–6)"
+      "opp_record": "(4–6, SP+ #52)"
      }
     ],
     "win_pct": 42,
-    "news": []
+    "news": [
+     {
+      "text": "Arizona State's Tuesday practice was shortened due to hail and weather conditions.",
+      "sources": [
+       {
+        "title": "Kenny Dillingham Talks After Lightning-Shortened Tuesday Practice: Oklahoma State Prep, Hail and Weather",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeDFheWY5UW5BVzlHWVVGeVYzdWlDMkMzUUx0SlNmLUpET2lRQkt6cXNDZmMzZGlPR3plRGdQUVM5azVndTVFMnJvTzZhLWF4YXF0dU1jS21DX2JUb0c4WDZyMTd5QlpNQ2ItRllEcWJRZEVLS1hBR1hOcUZxYXBaTzhTSm82UG8zaGZWdjFISkY5ZEFxZ3FRNkJ0ekgzaVVvX1FUQXc5Y1hnZ1ZYb1JlbEd4LXMwa1FYNUxSanREN0FrUWgyMTE0enhneXk4VktxX2N6QVZUUWhBa21xRTRYZVhuc2tIRThHX2swd05ZNFA3Rm0xMjhF?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -6197,33 +6939,38 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "24°F · Wind 6 mph · Rain 24%",
+   "weather": "24°F · Wind 6 mph · Rain or snow 19%",
    "flags": [],
    "away": {
     "name": "Hawai'i",
     "rank": "",
     "record": "3–7",
     "ats": "ATS 5–5",
+    "sp": {
+     "overall": 109,
+     "offense": 124,
+     "defense": 76
+    },
     "last": [
      {
       "result": "L 13–21",
       "opponent": "vs North Dakota State",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #31)"
      },
      {
       "result": "W 17–14",
       "opponent": "at UTEP",
-      "opp_record": "(1–9)"
+      "opp_record": "(1–9, SP+ #135)"
      },
      {
       "result": "W 56–21",
       "opponent": "at Northern Illinois",
-      "opp_record": "(0–10)"
+      "opp_record": "(0–10, SP+ #138)"
      },
      {
       "result": "L 10–21",
       "opponent": "vs New Mexico",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #23)"
      }
     ],
     "win_pct": 37,
@@ -6234,32 +6981,37 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 92,
+     "offense": 112,
+     "defense": 56
+    },
     "last": [
      {
       "result": "W 28–7",
       "opponent": "at Northern Illinois",
-      "opp_record": "(0–10)"
+      "opp_record": "(0–10, SP+ #138)"
      },
      {
       "result": "L 3–31",
       "opponent": "vs New Mexico",
-      "opp_record": "(8–2)"
+      "opp_record": "(8–2, SP+ #23)"
      },
      {
       "result": "L 0–27",
       "opponent": "at UCLA",
-      "opp_record": "(10–0)"
+      "opp_record": "(10–0, SP+ #12)"
      },
      {
       "result": "W 28–13",
       "opponent": "vs San José State",
-      "opp_record": "(5–6)"
+      "opp_record": "(5–6, SP+ #118)"
      }
     ],
     "win_pct": 63,
     "news": [
      {
-      "text": "AJ Bianco will remain Nevada's starting quarterback.",
+      "text": "AJ Bianco will remain the starting quarterback for Nevada.",
       "sources": [
        {
         "title": "AJ Bianco to remain Nevada's starting quarterback; OC Brett Bartolone moves to field level",
@@ -6269,7 +7021,7 @@
       ]
      },
      {
-      "text": "Offensive coordinator Brett Bartolone is moving to the field level.",
+      "text": "Offensive coordinator Brett Bartolone is moving to field level for the upcoming game.",
       "sources": [
        {
         "title": "AJ Bianco to remain Nevada's starting quarterback; OC Brett Bartolone moves to field level",
@@ -6304,26 +7056,31 @@
     "rank": "",
     "record": "4–6",
     "ats": "ATS 6–4",
+    "sp": {
+     "overall": 98,
+     "offense": 121,
+     "defense": 49
+    },
     "last": [
      {
       "result": "L 13–30",
       "opponent": "at San Diego State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #96)"
      },
      {
       "result": "W 17–10",
       "opponent": "vs Fresno State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #56)"
      },
      {
       "result": "W 31–14",
       "opponent": "vs Colorado State",
-      "opp_record": "(3–7)"
+      "opp_record": "(3–7, SP+ #120)"
      },
      {
       "result": "L 17–20",
       "opponent": "at Texas State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #46)"
      }
     ],
     "win_pct": 25,
@@ -6334,51 +7091,35 @@
     "rank": "",
     "record": "5–5",
     "ats": "ATS 7–3",
+    "sp": {
+     "overall": 58,
+     "offense": 26,
+     "defense": 94
+    },
     "last": [
      {
       "result": "L 41–46",
       "opponent": "at Boise State",
-      "opp_record": "(9–1)"
+      "opp_record": "(9–1, SP+ #22)"
      },
      {
       "result": "L 21–42",
       "opponent": "vs Texas State",
-      "opp_record": "(6–4)"
+      "opp_record": "(6–4, SP+ #46)"
      },
      {
       "result": "L 22–38",
       "opponent": "at Fresno State",
-      "opp_record": "(5–5)"
+      "opp_record": "(5–5, SP+ #56)"
      },
      {
       "result": "W 48–30",
       "opponent": "vs Washington State",
-      "opp_record": "(2–8)"
+      "opp_record": "(2–8, SP+ #111)"
      }
     ],
     "win_pct": 75,
-    "news": [
-     {
-      "text": "Vadrawale's absence leaves the Oregon State secondary shorthanded.",
-      "sources": [
-       {
-        "title": "Vadrawale's absence leaves OSU secondary shorthanded",
-        "source": "OregonLive.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE1YbUFuVFhyZFUwejhEVzRyS3J6d2VQYk9aazc2S2h1OFg2dUlNcS1JUk8zb3BuS1pJcTN1MDBNakRyUnBuLTcwUUlpdmNuMEo4YkdrbktnaG9BN3B2VUZEYXFzMm90WkstNXl0VlVFVW1PNnNMZnFtNHhhUG1pcm51UVdfSjJ5djlrRlQxZjR0V0diV1BlSkdTN2hNMEJzek04Q2U4UUZFbS1WcUc4bVZOeXlaQ3BiaVpmZVBYVlhPR25IN2s0WQ?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "The Beavers' quarterback situation is murky ahead of the Utah State game.",
-      "sources": [
-       {
-        "title": "Beavers' QB situation murky ahead of Utah State game",
-        "source": "OregonLive.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaU5yTTVfNEVwRWxLamZzMGJrS1NVcExxVmNQWU1peVNjWXVha3pUdXkzSlF0NzA2TWFfd0lHczQ2RG4yc3VhczUwSmJxUm5YaHhoUEI3WnQ4RkVuRXJmc3BpOGh5VUkydlRtU3VpendnQWxUbnEtc0xBYV84MHdMTVlFR2NpVzZtN0RoUjBrTWtYRTY5RUlLVXBrRmMxdEVLaTZkU1VxNzVSNjhOUFJMY2tuUjFwUQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": []
    }
   }
  ]
