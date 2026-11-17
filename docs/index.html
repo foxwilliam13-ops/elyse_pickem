@@ -12,7 +12,7 @@
   :root {
     --ground: #F4F5F2; --card: #FFFFFF; --line: #DADDD6; --rule: #ECEEE9;
     --ink: #14171A; --quiet: #565C63; --green: #17603A; --green-tint: #E6F0EA;
-    --orange-ink: #8A3B00; --orange-tint: #FDEBD3; --covered: #1D4ED8; --missed: #9A3412;
+    --orange-ink: #8A3B00; --orange-tint: #FDEBD3;
     --display: 'Barlow Condensed', 'Arial Narrow', sans-serif;
   }
   * { box-sizing: border-box; }
@@ -75,12 +75,13 @@
   .history ul { list-style: none; margin: 0; padding: 0; }
   .history li { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; padding: 8px 0; border-top: 1px solid var(--rule); font-size: 13px; line-height: 1.35; }
   .history .opp-rec { color: var(--quiet); }
-  .history .ats { font-weight: 600; white-space: nowrap; }
-  .ats.Covered { color: var(--covered); } .ats.Missed { color: var(--missed); } .ats.Push, .ats.No { color: var(--quiet); }
   .notes { padding: 12px 14px; border: 1px dashed #BFC4BC; border-radius: 10px; }
   .notes p { margin: 6px 0 0; font-size: 14px; }
   .notes .none { color: var(--quiet); }
-  .empty { padding: 32px; background: var(--card); border: 1px solid var(--line); border-radius: 16px; }
+  .news-team { font-weight: 700; }
+  .news ul { margin: 4px 0 0; padding-left: 20px; font-size: 14px; }
+  .news li { margin: 4px 0; }
+  .news .src a { margin-right: 4px; font-size: 12px; white-space: nowrap; }  .empty { padding: 32px; background: var(--card); border: 1px solid var(--line); border-radius: 16px; }
   footer { font-size: 13px; color: var(--quiet); }
 </style>
 </head>
@@ -96,6 +97,7 @@
     <span><strong>Spreads shown are the market line.</strong> Yahoo's can differ, so pick against Yahoo's number.</span>
     <span><span class="badge">Toss-up</span> spread under 3 points</span>
     <span><strong>ATS</strong> = record against the spread</span>
+    <span><strong>"In the news"</strong> notes are AI summaries of headlines. Click the source to check.</span>
   </div>
 
   <div class="layout">
@@ -110,7 +112,8 @@
   </div>
 
   <footer>
-    Data: CollegeFootballData.com (games, lines, records, rankings) and Open-Meteo (weather).
+    Data: CollegeFootballData.com (games, lines, records, rankings), Open-Meteo (weather),
+    and Google News headlines summarized by Gemini (news notes).
     Updates Thursday and Friday mornings. This page helps with research; it never makes the pick.
   </footer>
 </div>
@@ -160,8 +163,7 @@ function history(team) {
     el('h3', { class: 'label' }, `${team.name} · last ${team.last.length}`),
     team.last.length
       ? el('ul', {}, team.last.map(r => el('li', {},
-          el('span', {}, el('strong', {}, r.result), ` ${r.opponent} `, el('span', { class: 'opp-rec' }, r.opp_record)),
-          el('span', { class: `ats ${r.ats.split(' ')[0]}` }, r.ats))))
+          el('span', {}, el('strong', {}, r.result), ` ${r.opponent} `, el('span', { class: 'opp-rec' }, r.opp_record)))))
       : el('p', { class: 'rec' }, 'No games played yet'));
 }
 
@@ -190,7 +192,23 @@ function card(g, notes) {
     el('div', { class: 'history' }, history(g.away), history(g.home)),
     el('div', { class: 'notes' },
       el('p', { class: 'label' }, 'Notes'),
-      gameNotes.length ? gameNotes.map(n => el('p', {}, n)) : el('p', { class: 'none' }, 'Nothing notable yet.')));
+      gameNotes.length ? gameNotes.map(n => el('p', {}, n)) : null,
+      newsBlock(g.away), newsBlock(g.home),
+      !gameNotes.length && !Array.isArray(g.away.news) && !Array.isArray(g.home.news)
+        ? el('p', { class: 'none' }, 'Nothing notable yet.') : null));
+}
+
+// AI news notes. news is null when the team wasn't checked, [] when nothing turned up.
+function newsBlock(team) {
+  if (!Array.isArray(team.news)) return null;
+  if (!team.news.length) return el('p', { class: 'none' }, `${team.name}: nothing notable in the news this week.`);
+  return el('div', { class: 'news' },
+    el('p', { class: 'news-team' }, `${team.name} in the news`),
+    el('ul', {}, team.news.map(n => el('li', {},
+      n.text, ' ',
+      el('span', { class: 'src' }, n.sources.filter(s => /^https:\/\//.test(s.url)).map((s, i) =>
+        el('a', { href: s.url, target: '_blank', rel: 'noopener noreferrer', title: s.title },
+          `[${s.source || 'source'}${n.sources.length > 1 ? ` ${i + 1}` : ''}]`)))))));
 }
 
 function buildList(games) {

@@ -33,6 +33,7 @@ jobs:
         if: github.event_name != 'push'
         env:
           CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # optional: turns on AI news notes
         run: python scripts/build_data.py
 
       - name: Save data.json to the repository

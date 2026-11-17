@@ -7,6 +7,7 @@ CollegeFootballData.com and kickoff weather from Open-Meteo. It uses only
 Python's standard library, so there is nothing to install.
 
 Needs one secret: CFBD_API_KEY (your free CollegeFootballData key).
+Optional secret: GEMINI_API_KEY (free) turns on the AI news notes in news.py.
 Optional overrides: SEASON=2026, WEEK=13, SEASON_TYPE=regular (or postseason).
 """
 
@@ -21,6 +22,8 @@ import urllib.request
 from collections import defaultdict
 from pathlib import Path
 from zoneinfo import ZoneInfo
+
+from news import team_news
 
 CFBD_BASE = "https://api.collegefootballdata.com"
 WEATHER_BASE = "https://api.open-meteo.com/v1/forecast"
@@ -312,12 +315,10 @@ def build_team(name, is_fbs, game, ctx):
         opponent = g["away"] if is_home else g["home"]
         where = "vs" if is_home or g["neutral"] else "at"
         opp_record = ctx["records"].get(opponent)
-        line = ctx["lines"].get(g["id"])
         recent.append({
             "result": f"{'W' if us > them else 'L' if us < them else 'T'} {us}–{them}",
             "opponent": f"{where} {opponent}" + (" (neutral)" if g["neutral"] else ""),
             "opp_record": f"({record_text(*opp_record)})" if opp_record else "",
-            "ats": ats_result(is_home, g["home_pts"], g["away_pts"], line["spread"]) if line else "No line",
         })
     ats_text = f"ATS {ats['Covered']}–{ats['Missed']}" + (f"–{ats['Push']}" if ats["Push"] else "")
 
@@ -420,6 +421,19 @@ def main():
     this_week = [g for g in games if g["week"] == week and g["season_type"] == season_type and g["start"]]
     this_week.sort(key=lambda g: (g["start"], g["home"] or ""))
     cards = [build_game(g, ctx, now) for g in this_week]
+
+    # Phase 2: AI news notes for teams that haven't played this week's game yet.
+    mascots = {t.get("school"): t.get("mascot") for t in cfbd("/teams", year=year) or [] if t.get("school")}
+    upcoming = {}
+    for card in cards:
+        if not card["final"]:
+            for side in ("away", "home"):
+                name = card[side]["name"]
+                upcoming[name] = f"{name} {mascots[name]}" if mascots.get(name) else name
+    news = team_news(upcoming)
+    for card in cards:
+        for side in ("away", "home"):
+            card[side]["news"] = news.get(card[side]["name"])   # None = not checked
 
     stamp = now.astimezone(CENTRAL)
     data = {

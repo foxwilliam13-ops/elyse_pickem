@@ -1,0 +1,35 @@
+# Pick'em Prep (elyse_pickem)
+
+A free research dashboard for Elyse's weekly Yahoo College Pick'em. She picks **against the spread** from a set list of games Yahoo gives her. The dashboard collects information in one place; it must never recommend or make picks.
+
+Live page: https://foxwilliam13-ops.github.io/elyse_pickem/
+
+## Hard rules
+- **$0 budget.** Only free services. No paid APIs, no paid tiers. The owner is on the Claude Pro plan, which has no API credits, so do not add Claude API calls and never set ANTHROPIC_API_KEY.
+- The repo is public. Keys live only in GitHub Secrets (`CFBD_API_KEY`), never in files or the page.
+- Keep it simple: build features one small step at a time.
+
+## How it works
+1. `.github/workflows/update.yml` runs Thu and Fri at 13:07 UTC (about 7 AM Central), on "Run workflow", and on push.
+   - Scheduled and manual runs: run `scripts/build_data.py`, commit `docs/data.json`, deploy Pages.
+   - Push runs: only redeploy `docs/` (so edits to notes go live quickly).
+2. `scripts/build_data.py` (Python standard library only) pulls from CollegeFootballData.com API v2 (about 6 calls a run; free tier is 1,000 a month) and Open-Meteo (free, no key). Writes `docs/data.json`.
+3. `docs/index.html` is plain HTML/CSS/JS. It reads `data.json` and `notes.txt`. It builds DOM with the `el()` helper; never use innerHTML with data.
+4. `docs/notes.txt`: hand-typed notes, one per line, `Team name: note`.
+
+## What each game card shows (v1)
+Kickoff (Central time), home team, AP/CFP rank, record, season ATS record, spread (preferred book: consensus, then DraftKings, ESPN Bet, Bovada) with a toss-up flag under 3 points, win probability (from moneylines, else estimated from the spread), last 4 games per team (score, opponent and their record; per-game covered/missed was removed on purpose), kickoff weather (skipped for domes), stakes flags (ranked; one win from bowl eligibility), rest flags (off a bye; short week), notes. Left sidebar lists all games with a find-a-team box.
+
+## Testing locally
+- `CFBD_API_KEY` as a terminal environment variable only, then `python scripts/build_data.py`.
+- Serve with `python -m http.server 8000 --directory docs` (opening the file directly won't load data).
+- On Windows, `pip install tzdata` first (needed for Central time).
+- Always `git pull` before pushing: the workflow commits `data.json` twice a week.
+
+## Roadmap
+- **Phase 2: AI-written notes (built, in `scripts/news.py`).** For teams whose game isn't final: Google News RSS (search "School Mascot" football, last 7 days, top 10) → Gemini free tier (`GEMINI_MODEL`, default `gemini-2.5-flash-lite`) returns JSON notes citing headline numbers. Notes citing nothing are dropped; links come from RSS, never from Gemini. Stored as `team.news` in data.json: `null` = not checked, `[]` = nothing notable. Paced at about 5 s per Gemini call, so a full slate takes several minutes. Key in Secrets as `GEMINI_API_KEY`; without it the run still works and simply skips news.
+- Backlog: filter to her Yahoo slate, projected score. (Line movement and TV channel were dropped; don't add them.)
+
+## Known caveats
+- Yahoo sets its own spread; the dashboard shows the market line. She should pick against Yahoo's number.
+- GitHub pauses scheduled workflows on repos with no recent activity; re-enable before the 2027 season.
