@@ -3,8 +3,9 @@
  "week": 12,
  "season_type": "regular",
  "title": "Week 12",
- "generated_at": "2026-11-17T18:58:24.881646+00:00",
- "generated_label": "Tue, Nov 17 at 12:58 PM CT",
+ "generated_at": "2026-11-17T19:32:11.977428+00:00",
+ "generated_label": "Tue, Nov 17 at 1:32 PM CT",
+ "news_status": "0 of 140 teams checked, stopped early: Gemini busy or down",
  "games": [
   {
    "id": 401866465,
@@ -20,7 +21,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "46°F · Wind 6 mph · Rain or snow 0%",
+   "weather": "Weather unavailable",
    "flags": [
     "Eastern Michigan: off a bye week"
    ],

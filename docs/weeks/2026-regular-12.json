@@ -1,0 +1,5440 @@
+{
+ "season": 2026,
+ "week": 12,
+ "season_type": "regular",
+ "title": "Week 12",
+ "generated_at": "2026-11-17T19:32:11.977428+00:00",
+ "generated_label": "Tue, Nov 17 at 1:32 PM CT",
+ "news_status": "0 of 140 teams checked, stopped early: Gemini busy or down",
+ "games": [
+  {
+   "id": 401866465,
+   "anchor": "game-401866465",
+   "start": "2026-11-17T23:00:00+00:00",
+   "day": "Tuesday, Nov 17",
+   "time": "5:00 PM CT",
+   "kickoff": "Tue, Nov 17 · 5:00 PM CT",
+   "neutral": false,
+   "venue": "Waldo Stadium, Kalamazoo, MI",
+   "final": null,
+   "spread": "Western Michigan −14.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "Weather unavailable",
+   "flags": [
+    "Eastern Michigan: off a bye week"
+   ],
+   "away": {
+    "name": "Eastern Michigan",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 7–35",
+      "opponent": "vs Central Michigan (neutral)",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 20–24",
+      "opponent": "at Ohio",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 14–34",
+      "opponent": "vs Toledo",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 25–23",
+      "opponent": "at Akron",
+      "opp_record": "(1–9)"
+     }
+    ],
+    "win_pct": 16,
+    "news": null
+   },
+   "home": {
+    "name": "Western Michigan",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "W 42–14",
+      "opponent": "at Akron",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "W 23–10",
+      "opponent": "vs Bowling Green",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 38–45",
+      "opponent": "at Toledo",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 21–14",
+      "opponent": "at Central Michigan",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 84,
+    "news": null
+   }
+  },
+  {
+   "id": 401866466,
+   "anchor": "game-401866466",
+   "start": "2026-11-18T00:00:00+00:00",
+   "day": "Tuesday, Nov 17",
+   "time": "6:00 PM CT",
+   "kickoff": "Tue, Nov 17 · 6:00 PM CT",
+   "neutral": false,
+   "venue": "Dix Stadium, Kent, OH",
+   "final": null,
+   "spread": "Miami (OH) −9.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "40°F · Wind 6 mph · Rain or snow 0%",
+   "flags": [],
+   "away": {
+    "name": "Miami (OH)",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 34–17",
+      "opponent": "vs Ohio",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 31–34",
+      "opponent": "vs Buffalo",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 28–27",
+      "opponent": "at Central Michigan",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 34–14",
+      "opponent": "vs Akron",
+      "opp_record": "(1–9)"
+     }
+    ],
+    "win_pct": 75,
+    "news": null
+   },
+   "home": {
+    "name": "Kent State",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 28–33",
+      "opponent": "at Bowling Green",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 10–31",
+      "opponent": "at Sacramento State",
+      "opp_record": "(2–9)"
+     },
+     {
+      "result": "W 35–20",
+      "opponent": "vs Akron",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "L 2–29",
+      "opponent": "at South Florida",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 25,
+    "news": null
+   }
+  },
+  {
+   "id": 401866464,
+   "anchor": "game-401866464",
+   "start": "2026-11-18T00:00:00+00:00",
+   "day": "Tuesday, Nov 17",
+   "time": "6:00 PM CT",
+   "kickoff": "Tue, Nov 17 · 6:00 PM CT",
+   "neutral": false,
+   "venue": "Peden Stadium, Athens, OH",
+   "final": null,
+   "spread": "Ohio −10",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "42°F · Wind 5 mph · Rain or snow 0%",
+   "flags": [],
+   "away": {
+    "name": "Ball State",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "L 7–28",
+      "opponent": "vs Buffalo",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 30–31",
+      "opponent": "at Massachusetts",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 34–17",
+      "opponent": "vs Sacramento State",
+      "opp_record": "(2–9)"
+     },
+     {
+      "result": "W 32–31",
+      "opponent": "at Bowling Green",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 23,
+    "news": null
+   },
+   "home": {
+    "name": "Ohio",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 17–34",
+      "opponent": "at Miami (OH)",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 28–20",
+      "opponent": "at Akron",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "W 24–20",
+      "opponent": "vs Eastern Michigan",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 48–7",
+      "opponent": "at Sacramento State",
+      "opp_record": "(2–9)"
+     }
+    ],
+    "win_pct": 77,
+    "news": null
+   }
+  },
+  {
+   "id": 401866467,
+   "anchor": "game-401866467",
+   "start": "2026-11-19T00:00:00+00:00",
+   "day": "Wednesday, Nov 18",
+   "time": "6:00 PM CT",
+   "kickoff": "Wed, Nov 18 · 6:00 PM CT",
+   "neutral": false,
+   "venue": "Warren McGuirk Alumni Stadium, Hadley, MA",
+   "final": null,
+   "spread": "Massachusetts −3",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "44°F · Wind 6 mph · Rain or snow 0%",
+   "flags": [
+    "Massachusetts: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Akron",
+    "rank": "",
+    "record": "1–9",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 14–42",
+      "opponent": "vs Western Michigan",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 20–28",
+      "opponent": "vs Ohio",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 20–35",
+      "opponent": "at Kent State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 14–34",
+      "opponent": "at Miami (OH)",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 41,
+    "news": null
+   },
+   "home": {
+    "name": "Massachusetts",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 0–24",
+      "opponent": "at Toledo",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 31–30",
+      "opponent": "vs Ball State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 16–35",
+      "opponent": "at UConn",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 18–25",
+      "opponent": "at Buffalo",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 59,
+    "news": null
+   }
+  },
+  {
+   "id": 401866469,
+   "anchor": "game-401866469",
+   "start": "2026-11-19T00:30:00+00:00",
+   "day": "Wednesday, Nov 18",
+   "time": "6:30 PM CT",
+   "kickoff": "Wed, Nov 18 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "UB Stadium, Amherst, NY",
+   "final": null,
+   "spread": "Buffalo −1.5",
+   "line_source": "DraftKings",
+   "tossup": true,
+   "prob_source": "betting odds",
+   "weather": "42°F · Wind 6 mph · Rain or snow 0%",
+   "flags": [
+    "Central Michigan: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Central Michigan",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 28–7",
+      "opponent": "vs Sacramento State",
+      "opp_record": "(2–9)"
+     },
+     {
+      "result": "W 35–7",
+      "opponent": "vs Eastern Michigan (neutral)",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 27–28",
+      "opponent": "vs Miami (OH)",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 14–21",
+      "opponent": "vs Western Michigan",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 48,
+    "news": null
+   },
+   "home": {
+    "name": "Buffalo",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 28–7",
+      "opponent": "at Ball State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 34–31",
+      "opponent": "at Miami (OH)",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–24",
+      "opponent": "vs Bowling Green",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 25–18",
+      "opponent": "vs Massachusetts",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 52,
+    "news": null
+   }
+  },
+  {
+   "id": 401862830,
+   "anchor": "game-401862830",
+   "start": "2026-11-20T00:30:00+00:00",
+   "day": "Thursday, Nov 19",
+   "time": "6:30 PM CT",
+   "kickoff": "Thu, Nov 19 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "Lincoln Financial Field, Philadelphia, PA",
+   "final": null,
+   "spread": "Temple −3",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "56°F · Wind 4 mph · Rain or snow 0%",
+   "flags": [
+    "Rice: short week (played Sat)",
+    "Temple: short week (played Sat)"
+   ],
+   "away": {
+    "name": "Rice",
+    "rank": "",
+    "record": "1–9",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 17–20",
+      "opponent": "vs Tulane",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 23–52",
+      "opponent": "at North Texas",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 49–51",
+      "opponent": "at Florida Atlantic",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 17–38",
+      "opponent": "vs Tulsa",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 43,
+    "news": null
+   },
+   "home": {
+    "name": "Temple",
+    "rank": "",
+    "record": "2–8",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "L 10–36",
+      "opponent": "vs UAB",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 35–42",
+      "opponent": "at Navy",
+      "opp_record": "(3–6)"
+     },
+     {
+      "result": "L 9–17",
+      "opponent": "at East Carolina",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 31–38",
+      "opponent": "vs Charlotte",
+      "opp_record": "(1–9)"
+     }
+    ],
+    "win_pct": 57,
+    "news": null
+   }
+  },
+  {
+   "id": 401856869,
+   "anchor": "game-401856869",
+   "start": "2026-11-20T23:00:00+00:00",
+   "day": "Friday, Nov 20",
+   "time": "5:00 PM CT",
+   "kickoff": "Fri, Nov 20 · 5:00 PM CT",
+   "neutral": false,
+   "venue": "FBC Mortgage Stadium, Orlando, FL",
+   "final": null,
+   "spread": "UCF −2.5",
+   "line_source": "DraftKings",
+   "tossup": true,
+   "prob_source": "betting odds",
+   "weather": "71°F · Wind 4 mph · Rain 78%",
+   "flags": [
+    "Iowa State: one win from bowl eligibility",
+    "UCF: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Iowa State",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 4–5–1",
+    "last": [
+     {
+      "result": "W 41–13",
+      "opponent": "vs Cincinnati",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 31–42",
+      "opponent": "at Baylor",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 51–49",
+      "opponent": "vs Oklahoma State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 3–39",
+      "opponent": "at Arizona",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 46,
+    "news": null
+   },
+   "home": {
+    "name": "UCF",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "L 13–26",
+      "opponent": "vs Arizona State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 33–32",
+      "opponent": "at Kansas",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 9–41",
+      "opponent": "vs Baylor",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 39–31",
+      "opponent": "vs BYU",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 54,
+    "news": null
+   }
+  },
+  {
+   "id": 401858303,
+   "anchor": "game-401858303",
+   "start": "2026-11-21T00:30:00+00:00",
+   "day": "Friday, Nov 20",
+   "time": "6:30 PM CT",
+   "kickoff": "Fri, Nov 20 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "Wallace Wade Stadium, Durham, NC",
+   "final": null,
+   "spread": "Duke −12.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "57°F · Wind 5 mph · Rain or snow 1%",
+   "flags": [],
+   "away": {
+    "name": "Clemson",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 6–20",
+      "opponent": "vs Georgia Tech",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 18–13",
+      "opponent": "at Syracuse",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 36–24",
+      "opponent": "at Florida State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 16–20",
+      "opponent": "vs Virginia Tech",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 20,
+    "news": null
+   },
+   "home": {
+    "name": "Duke",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 8–2",
+    "last": [
+     {
+      "result": "L 25–36",
+      "opponent": "at Miami",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 41–3",
+      "opponent": "at NC State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 47–2",
+      "opponent": "vs Boston College",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 19–16",
+      "opponent": "at Virginia",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 80,
+    "news": null
+   }
+  },
+  {
+   "id": 401866468,
+   "anchor": "game-401866468",
+   "start": "2026-11-21T00:30:00+00:00",
+   "day": "Friday, Nov 20",
+   "time": "6:30 PM CT",
+   "kickoff": "Fri, Nov 20 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "Glass Bowl, Toledo, OH",
+   "final": null,
+   "spread": "Toledo −15.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "55°F · Wind 5 mph · Rain or snow 0%",
+   "flags": [],
+   "away": {
+    "name": "Bowling Green",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 33–28",
+      "opponent": "vs Kent State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 10–23",
+      "opponent": "at Western Michigan",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 24–31",
+      "opponent": "at Buffalo",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 31–32",
+      "opponent": "vs Ball State",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 15,
+    "news": null
+   },
+   "home": {
+    "name": "Toledo",
+    "rank": "",
+    "record": "8–2",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "W 24–0",
+      "opponent": "vs Massachusetts",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 20–17",
+      "opponent": "at Sacramento State",
+      "opp_record": "(2–9)"
+     },
+     {
+      "result": "W 45–38",
+      "opponent": "vs Western Michigan",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 34–14",
+      "opponent": "at Eastern Michigan",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 85,
+    "news": null
+   }
+  },
+  {
+   "id": 401864545,
+   "anchor": "game-401864545",
+   "start": "2026-11-21T01:00:00+00:00",
+   "day": "Friday, Nov 20",
+   "time": "7:00 PM CT",
+   "kickoff": "Fri, Nov 20 · 7:00 PM CT",
+   "neutral": false,
+   "venue": "Falcon Stadium, Colorado Springs, CO",
+   "final": null,
+   "spread": "Air Force −22.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "42°F · Wind 5 mph · Rain or snow 1%",
+   "flags": [],
+   "away": {
+    "name": "UTEP",
+    "rank": "",
+    "record": "1–9",
+    "ats": "ATS 2–8",
+    "last": [
+     {
+      "result": "L 15–27",
+      "opponent": "vs Wyoming",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 14–17",
+      "opponent": "vs Hawai'i",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 7–31",
+      "opponent": "at North Dakota State",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 11–24",
+      "opponent": "vs San José State",
+      "opp_record": "(5–6)"
+     }
+    ],
+    "win_pct": 8,
+    "news": null
+   },
+   "home": {
+    "name": "Air Force",
+    "rank": "",
+    "record": "8–2",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "W 24–3",
+      "opponent": "vs San José State",
+      "opp_record": "(5–6)"
+     },
+     {
+      "result": "W 24–21",
+      "opponent": "at Army",
+      "opp_record": "(5–4)"
+     },
+     {
+      "result": "W 35–26",
+      "opponent": "vs UConn",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 14–28",
+      "opponent": "at Wyoming",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 92,
+    "news": null
+   }
+  },
+  {
+   "id": 401858529,
+   "anchor": "game-401858529",
+   "start": "2026-11-21T01:00:00+00:00",
+   "day": "Friday, Nov 20",
+   "time": "7:00 PM CT",
+   "kickoff": "Fri, Nov 20 · 7:00 PM CT",
+   "neutral": false,
+   "venue": "Spartan Stadium, East Lansing, MI",
+   "final": null,
+   "spread": "Oregon −16.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "50°F · Wind 8 mph · Rain or snow 1%",
+   "flags": [
+    "Oregon: ranked #16 (CFP)"
+   ],
+   "away": {
+    "name": "Oregon",
+    "rank": "#16",
+    "record": "7–3",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 31–7",
+      "opponent": "vs Michigan",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 41–28",
+      "opponent": "at Ohio State",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 34–26",
+      "opponent": "vs Northwestern",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 10–21",
+      "opponent": "at Illinois",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 85,
+    "news": null
+   },
+   "home": {
+    "name": "Michigan State",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "L 14–21",
+      "opponent": "vs Washington",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 15–6",
+      "opponent": "at Michigan",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 10–28",
+      "opponent": "at UCLA",
+      "opp_record": "(10–0)"
+     },
+     {
+      "result": "L 21–24",
+      "opponent": "vs Northwestern",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 15,
+    "news": null
+   }
+  },
+  {
+   "id": 401864542,
+   "anchor": "game-401864542",
+   "start": "2026-11-21T02:00:00+00:00",
+   "day": "Friday, Nov 20",
+   "time": "8:00 PM CT",
+   "kickoff": "Fri, Nov 20 · 8:00 PM CT",
+   "neutral": false,
+   "venue": "War Memorial Stadium, Laramie, WY",
+   "final": null,
+   "spread": "New Mexico −7.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "30°F · Wind 7 mph · Rain or snow 6%",
+   "flags": [],
+   "away": {
+    "name": "New Mexico",
+    "rank": "",
+    "record": "8–2",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "L 17–21",
+      "opponent": "vs UNLV",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–3",
+      "opponent": "at Nevada",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 21–16",
+      "opponent": "at San José State",
+      "opp_record": "(5–6)"
+     },
+     {
+      "result": "W 21–16",
+      "opponent": "vs North Dakota State",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 72,
+    "news": null
+   },
+   "home": {
+    "name": "Wyoming",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 27–15",
+      "opponent": "at UTEP",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "W 41–35",
+      "opponent": "at UNLV",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 28–14",
+      "opponent": "vs Air Force",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 41–23",
+      "opponent": "vs Northern Illinois",
+      "opp_record": "(0–10)"
+     }
+    ],
+    "win_pct": 28,
+    "news": null
+   }
+  },
+  {
+   "id": 401862831,
+   "anchor": "game-401862831",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Michie Stadium, West Point, NY",
+   "final": null,
+   "spread": "Army −5.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "58°F · Wind 4 mph · Rain or snow 0%",
+   "flags": [
+    "Army: one win from bowl eligibility",
+    "Army: off a bye week"
+   ],
+   "away": {
+    "name": "East Carolina",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 17–16",
+      "opponent": "at Charlotte",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "W 20–17",
+      "opponent": "vs South Florida",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 17–9",
+      "opponent": "vs Temple",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "L 34–41",
+      "opponent": "at Memphis",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 34,
+    "news": null
+   },
+   "home": {
+    "name": "Army",
+    "rank": "",
+    "record": "5–4",
+    "ats": "ATS 3–5–1",
+    "last": [
+     {
+      "result": "L 21–24",
+      "opponent": "vs Air Force",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 22–49",
+      "opponent": "at Memphis",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 38–35",
+      "opponent": "at Tulsa",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 56–24",
+      "opponent": "vs Florida Atlantic",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 66,
+    "news": null
+   }
+  },
+  {
+   "id": 401858309,
+   "anchor": "game-401858309",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Alumni Stadium (Chestnut Hill, MA), Chestnut Hill, MA",
+   "final": null,
+   "spread": "Syracuse −2.5",
+   "line_source": "DraftKings",
+   "tossup": true,
+   "prob_source": "betting odds",
+   "weather": "59°F · Wind 3 mph · Rain or snow 0%",
+   "flags": [
+    "Syracuse: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Syracuse",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "W 34–31",
+      "opponent": "at NC State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 13–18",
+      "opponent": "vs Clemson",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 30–27",
+      "opponent": "vs SMU",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 31–30",
+      "opponent": "at North Carolina",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 55,
+    "news": null
+   },
+   "home": {
+    "name": "Boston College",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 7–41",
+      "opponent": "at Notre Dame",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 24–31",
+      "opponent": "vs Florida State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 2–47",
+      "opponent": "at Duke",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 49–27",
+      "opponent": "at Georgia Tech",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 45,
+    "news": null
+   }
+  },
+  {
+   "id": 401856867,
+   "anchor": "game-401856867",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Nippert Stadium, Cincinnati, OH",
+   "final": null,
+   "spread": "Cincinnati −3",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "59°F · Wind 3 mph · Rain or snow 3%",
+   "flags": [
+    "Cincinnati: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Colorado",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 3–6–1",
+    "last": [
+     {
+      "result": "W 42–32",
+      "opponent": "vs Houston",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 10–20",
+      "opponent": "at Arizona State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 27–24",
+      "opponent": "vs Kansas State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 24–57",
+      "opponent": "at Oklahoma State",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 41,
+    "news": null
+   },
+   "home": {
+    "name": "Cincinnati",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 13–41",
+      "opponent": "at Iowa State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 24–31",
+      "opponent": "at Houston",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 25–49",
+      "opponent": "vs Utah",
+      "opp_record": "(10–0)"
+     },
+     {
+      "result": "W 37–24",
+      "opponent": "vs Texas Tech",
+      "opp_record": "(9–1)"
+     }
+    ],
+    "win_pct": 59,
+    "news": null
+   }
+  },
+  {
+   "id": 401856748,
+   "anchor": "game-401856748",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Ben Hill Griffin Stadium, Gainesville, FL",
+   "final": null,
+   "spread": "Florida −13.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "71°F · Wind 9 mph · Rain 32%",
+   "flags": [
+    "Florida: ranked #23 (AP)"
+   ],
+   "away": {
+    "name": "Vanderbilt",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 6–21",
+      "opponent": "vs Alabama",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 25–23",
+      "opponent": "at Mississippi State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 17–34",
+      "opponent": "at Kentucky",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 21–31",
+      "opponent": "vs Arkansas",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 19,
+    "news": null
+   },
+   "home": {
+    "name": "Florida",
+    "rank": "#23",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 21–14",
+      "opponent": "at Kentucky",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 7–23",
+      "opponent": "vs Oklahoma",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 8–27",
+      "opponent": "vs Georgia (neutral)",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 27–24",
+      "opponent": "at Texas",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 81,
+    "news": null
+   }
+  },
+  {
+   "id": 401858310,
+   "anchor": "game-401858310",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Bobby Dodd Stadium, Atlanta, GA",
+   "final": null,
+   "spread": "Wake Forest −21",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "64°F · Wind 12 mph · Rain 22%",
+   "flags": [
+    "Wake Forest: ranked #13 (CFP)"
+   ],
+   "away": {
+    "name": "Wake Forest",
+    "rank": "#13",
+    "record": "9–1",
+    "ats": "ATS 8–2",
+    "last": [
+     {
+      "result": "W 49–7",
+      "opponent": "at SMU",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 77–0",
+      "opponent": "vs Merrimack",
+      "opp_record": "(5–6)"
+     },
+     {
+      "result": "W 51–7",
+      "opponent": "vs Virginia",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 41–7",
+      "opponent": "at California",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 90,
+    "news": null
+   },
+   "home": {
+    "name": "Georgia Tech",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 2–8",
+    "last": [
+     {
+      "result": "W 20–6",
+      "opponent": "at Clemson",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 17–44",
+      "opponent": "vs Louisville",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 11–34",
+      "opponent": "at Pittsburgh",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 27–49",
+      "opponent": "vs Boston College",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 10,
+    "news": null
+   }
+  },
+  {
+   "id": 401856866,
+   "anchor": "game-401856866",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Memorial Stadium, Lawrence, KS",
+   "final": null,
+   "spread": "BYU −5.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "64°F · Wind 22 mph · Rain or snow 7%",
+   "flags": [
+    "BYU: ranked #10 (CFP)"
+   ],
+   "away": {
+    "name": "BYU",
+    "rank": "#10",
+    "record": "8–2",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "W 28–7",
+      "opponent": "vs Baylor",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 20–28",
+      "opponent": "at Utah",
+      "opp_record": "(10–0)"
+     },
+     {
+      "result": "W 27–20",
+      "opponent": "vs Arizona State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 31–39",
+      "opponent": "at UCF",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 66,
+    "news": null
+   },
+   "home": {
+    "name": "Kansas",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "W 37–14",
+      "opponent": "at West Virginia",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 32–33",
+      "opponent": "vs UCF",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 16–22",
+      "opponent": "at TCU",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 25–24",
+      "opponent": "vs Baylor",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 34,
+    "news": null
+   }
+  },
+  {
+   "id": 401858530,
+   "anchor": "game-401858530",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Huntington Bank Stadium, Minneapolis, MN",
+   "final": null,
+   "spread": "Northwestern −3",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "58°F · Wind 9 mph · Rain 59%",
+   "flags": [
+    "Minnesota: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Northwestern",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "L 19–28",
+      "opponent": "at Ohio State",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 10–24",
+      "opponent": "vs Iowa",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 26–34",
+      "opponent": "at Oregon",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 42–14",
+      "opponent": "vs Rutgers",
+      "opp_record": "(2–8)"
+     }
+    ],
+    "win_pct": 58,
+    "news": null
+   },
+   "home": {
+    "name": "Minnesota",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "L 14–42",
+      "opponent": "at Penn State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 20–34",
+      "opponent": "vs UCLA",
+      "opp_record": "(10–0)"
+     },
+     {
+      "result": "L 16–23",
+      "opponent": "at Indiana",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 13–10",
+      "opponent": "vs Iowa",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 42,
+    "news": null
+   }
+  },
+  {
+   "id": 401862834,
+   "anchor": "game-401862834",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Navy-Marine Corps Memorial Stadium, Annapolis, MD",
+   "final": null,
+   "spread": "Memphis −3.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "58°F · Wind 3 mph · Rain or snow 1%",
+   "flags": [
+    "Memphis: ranked #24 (AP)",
+    "Navy: off a bye week"
+   ],
+   "away": {
+    "name": "Memphis",
+    "rank": "#24",
+    "record": "8–2",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 52–41",
+      "opponent": "at South Florida",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 49–22",
+      "opponent": "vs Army",
+      "opp_record": "(5–4)"
+     },
+     {
+      "result": "W 41–34",
+      "opponent": "vs East Carolina",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 17–31",
+      "opponent": "at Tulane",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 60,
+    "news": null
+   },
+   "home": {
+    "name": "Navy",
+    "rank": "",
+    "record": "3–6",
+    "ats": "ATS 3–6",
+    "last": [
+     {
+      "result": "W 42–35",
+      "opponent": "vs Temple",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "L 13–35",
+      "opponent": "vs Notre Dame (neutral)",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 39–49",
+      "opponent": "vs North Texas",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 34–38",
+      "opponent": "at UTSA",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 40,
+    "news": null
+   }
+  },
+  {
+   "id": 401858531,
+   "anchor": "game-401858531",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Memorial Stadium (Lincoln, NE), Lincoln, NE",
+   "final": null,
+   "spread": "Ohio State −3",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "60°F · Wind 14 mph · Rain 33%",
+   "flags": [
+    "Ohio State: ranked #20 (CFP)"
+   ],
+   "away": {
+    "name": "Ohio State",
+    "rank": "#20",
+    "record": "7–3",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 28–19",
+      "opponent": "vs Northwestern",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 28–41",
+      "opponent": "vs Oregon",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 18–30",
+      "opponent": "at USC",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 19–15",
+      "opponent": "at Indiana",
+      "opp_record": "(9–1)"
+     }
+    ],
+    "win_pct": 59,
+    "news": null
+   },
+   "home": {
+    "name": "Nebraska",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "W 31–0",
+      "opponent": "at Rutgers",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "L 13–24",
+      "opponent": "at Illinois",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 10–17",
+      "opponent": "vs Washington",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 14–17",
+      "opponent": "at Oregon",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 41,
+    "news": null
+   }
+  },
+  {
+   "id": 401856749,
+   "anchor": "game-401856749",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Vaught-Hemingway Stadium, Oxford, MS",
+   "final": null,
+   "spread": "No line yet",
+   "line_source": "",
+   "tossup": false,
+   "prob_source": null,
+   "weather": "64°F · Wind 8 mph · Rain or snow 5%",
+   "flags": [
+    "Wofford: off a bye week",
+    "Ole Miss: ranked #19 (CFP)"
+   ],
+   "away": {
+    "name": "Wofford",
+    "rank": "",
+    "record": "5–6",
+    "ats": "ATS 0–1",
+    "last": [
+     {
+      "result": "L 15–36",
+      "opponent": "at Kent State",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": null,
+    "news": null
+   },
+   "home": {
+    "name": "Ole Miss",
+    "rank": "#19",
+    "record": "6–4",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 17–24",
+      "opponent": "at Oklahoma",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 7–42",
+      "opponent": "vs Georgia",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 45–15",
+      "opponent": "vs Auburn",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 27–34",
+      "opponent": "at Texas",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": null,
+    "news": null
+   }
+  },
+  {
+   "id": 401858533,
+   "anchor": "game-401858533",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Ross-Ade Stadium, West Lafayette, IN",
+   "final": null,
+   "spread": "Wisconsin −6",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "60°F · Wind 7 mph · Rain or snow 5%",
+   "flags": [],
+   "away": {
+    "name": "Wisconsin",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 21–24",
+      "opponent": "at Maryland",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 31–10",
+      "opponent": "vs Rutgers",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "L 0–30",
+      "opponent": "at Iowa",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 24–7",
+      "opponent": "vs USC",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 66,
+    "news": null
+   },
+   "home": {
+    "name": "Purdue",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 7–28",
+      "opponent": "at Iowa",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 29–34",
+      "opponent": "vs Maryland",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 17–31",
+      "opponent": "at Penn State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 26–38",
+      "opponent": "vs Washington",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 34,
+    "news": null
+   }
+  },
+  {
+   "id": 401862835,
+   "anchor": "game-401862835",
+   "start": "2026-11-21T17:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:00 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:00 AM CT",
+   "neutral": false,
+   "venue": "Yulman Stadium, New Orleans, LA",
+   "final": null,
+   "spread": "North Texas −6",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "66°F · Wind 10 mph · Rain or snow 3%",
+   "flags": [
+    "Tulane: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "North Texas",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "L 16–35",
+      "opponent": "at UTSA",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 52–23",
+      "opponent": "vs Rice",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "W 48–41",
+      "opponent": "vs Florida Atlantic",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 49–39",
+      "opponent": "at Navy",
+      "opp_record": "(3–6)"
+     }
+    ],
+    "win_pct": 68,
+    "news": null
+   },
+   "home": {
+    "name": "Tulane",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "W 20–17",
+      "opponent": "at Rice",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "L 10–60",
+      "opponent": "vs Tulsa",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 38–31",
+      "opponent": "at Charlotte",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "L 19–42",
+      "opponent": "vs UTSA",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 32,
+    "news": null
+   }
+  },
+  {
+   "id": 401858305,
+   "anchor": "game-401858305",
+   "start": "2026-11-21T17:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "11:30 AM CT",
+   "kickoff": "Sat, Nov 21 · 11:30 AM CT",
+   "neutral": false,
+   "venue": "Scott Stadium, Charlottesville, VA",
+   "final": null,
+   "spread": "Virginia −1.5",
+   "line_source": "DraftKings",
+   "tossup": true,
+   "prob_source": "betting odds",
+   "weather": "60°F · Wind 4 mph · Rain or snow 3%",
+   "flags": [
+    "North Carolina: one win from bowl eligibility",
+    "Virginia: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "North Carolina",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "L 14–16",
+      "opponent": "vs Louisville",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 38–21",
+      "opponent": "at UConn",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 35–38",
+      "opponent": "vs Miami",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 30–31",
+      "opponent": "vs Syracuse",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 48,
+    "news": null
+   },
+   "home": {
+    "name": "Virginia",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 4–5–1",
+    "last": [
+     {
+      "result": "W 36–7",
+      "opponent": "vs California",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 7–51",
+      "opponent": "at Wake Forest",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 16–19",
+      "opponent": "vs Duke",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 13–23",
+      "opponent": "at SMU",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 52,
+    "news": null
+   }
+  },
+  {
+   "id": 401871080,
+   "anchor": "game-401871080",
+   "start": "2026-11-21T18:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "12:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 12:00 PM CT",
+   "neutral": false,
+   "venue": "Williams Stadium (VA), Lynchburg, VA",
+   "final": null,
+   "spread": "Liberty −17.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "60°F · Wind 7 mph · Rain or snow 4%",
+   "flags": [
+    "Liberty: ranked #22 (AP)"
+   ],
+   "away": {
+    "name": "Western Kentucky",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 34–24",
+      "opponent": "vs Jacksonville State",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 42–51",
+      "opponent": "at Middle Tennessee",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 21–35",
+      "opponent": "vs Delaware",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 16–3",
+      "opponent": "at Sam Houston",
+      "opp_record": "(1–9)"
+     }
+    ],
+    "win_pct": 14,
+    "news": null
+   },
+   "home": {
+    "name": "Liberty",
+    "rank": "#22",
+    "record": "9–1",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "W 28–23",
+      "opponent": "vs Middle Tennessee",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 30–14",
+      "opponent": "at New Mexico State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 49–10",
+      "opponent": "vs Florida International",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 34–6",
+      "opponent": "at Kennesaw State",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 86,
+    "news": null
+   }
+  },
+  {
+   "id": 401856750,
+   "anchor": "game-401856750",
+   "start": "2026-11-21T18:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "12:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 12:00 PM CT",
+   "neutral": false,
+   "venue": "Davis Wade Stadium, Starkville, MS",
+   "final": null,
+   "spread": "No line yet",
+   "line_source": "",
+   "tossup": false,
+   "prob_source": null,
+   "weather": "61°F · Wind 6 mph · Rain or snow 5%",
+   "flags": [],
+   "away": {
+    "name": "Tennessee Tech",
+    "rank": "",
+    "record": "9–2",
+    "ats": "ATS 0–0",
+    "last": [],
+    "win_pct": null,
+    "news": null
+   },
+   "home": {
+    "name": "Mississippi State",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 9–41",
+      "opponent": "vs Auburn",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 23–25",
+      "opponent": "vs Vanderbilt",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 3–31",
+      "opponent": "at Texas",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 15–23",
+      "opponent": "vs Oklahoma",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": null,
+    "news": null
+   }
+  },
+  {
+   "id": 401856868,
+   "anchor": "game-401856868",
+   "start": "2026-11-21T18:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "12:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 12:00 PM CT",
+   "neutral": false,
+   "venue": "Milan Puskar Stadium, Morgantown, WV",
+   "final": null,
+   "spread": "Houston −8.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "64°F · Wind 2 mph · Rain or snow 1%",
+   "flags": [
+    "Houston: ranked #14 (CFP)",
+    "West Virginia: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Houston",
+    "rank": "#14",
+    "record": "7–3",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 32–42",
+      "opponent": "at Colorado",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 31–24",
+      "opponent": "vs Cincinnati",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 13–21",
+      "opponent": "at Utah",
+      "opp_record": "(10–0)"
+     },
+     {
+      "result": "W 35–32",
+      "opponent": "vs Oklahoma State",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 73,
+    "news": null
+   },
+   "home": {
+    "name": "West Virginia",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "L 14–37",
+      "opponent": "vs Kansas",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 48–53",
+      "opponent": "at Texas Tech",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 24–20",
+      "opponent": "at TCU",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 45–42",
+      "opponent": "vs Cincinnati",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 27,
+    "news": null
+   }
+  },
+  {
+   "id": 401856746,
+   "anchor": "game-401856746",
+   "start": "2026-11-21T19:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "1:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 1:00 PM CT",
+   "neutral": false,
+   "venue": "Bryant-Denny Stadium, Tuscaloosa, AL",
+   "final": null,
+   "spread": "No line yet",
+   "line_source": "",
+   "tossup": false,
+   "prob_source": null,
+   "weather": "66°F · Wind 6 mph · Rain or snow 10%",
+   "flags": [
+    "Alabama: ranked #3 (CFP)"
+   ],
+   "away": {
+    "name": "Chattanooga",
+    "rank": "",
+    "record": "7–4",
+    "ats": "ATS 0–0",
+    "last": [],
+    "win_pct": null,
+    "news": null
+   },
+   "home": {
+    "name": "Alabama",
+    "rank": "#3",
+    "record": "8–2",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 21–6",
+      "opponent": "at Vanderbilt",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 31–13",
+      "opponent": "at LSU",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–20",
+      "opponent": "vs Texas A&M",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 10–26",
+      "opponent": "at Tennessee",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": null,
+    "news": null
+   }
+  },
+  {
+   "id": 401871079,
+   "anchor": "game-401871079",
+   "start": "2026-11-21T19:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "1:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 1:00 PM CT",
+   "neutral": false,
+   "venue": "AmFirst Stadium, Jacksonville, AL",
+   "final": null,
+   "spread": "Jacksonville State −10.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "72°F · Wind 8 mph · Rain or snow 15%",
+   "flags": [],
+   "away": {
+    "name": "Missouri State",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 27–21",
+      "opponent": "vs New Mexico State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 20–23",
+      "opponent": "at Florida International",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 24–3",
+      "opponent": "vs Sam Houston",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "L 38–61",
+      "opponent": "at Delaware",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 23,
+    "news": null
+   },
+   "home": {
+    "name": "Jacksonville State",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "L 24–34",
+      "opponent": "at Western Kentucky",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 47–14",
+      "opponent": "vs Sam Houston",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "W 24–0",
+      "opponent": "at New Mexico State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 27–24",
+      "opponent": "vs Florida International",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 77,
+    "news": null
+   }
+  },
+  {
+   "id": 401871081,
+   "anchor": "game-401871081",
+   "start": "2026-11-21T19:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "1:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 1:00 PM CT",
+   "neutral": false,
+   "venue": "Elliott T. Bowers Stadium, Huntsville, TX",
+   "final": null,
+   "spread": "Middle Tennessee −5.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "74°F · Wind 6 mph · Rain or snow 2%",
+   "flags": [
+    "Middle Tennessee: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Middle Tennessee",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "L 23–28",
+      "opponent": "at Liberty",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 51–42",
+      "opponent": "vs Western Kentucky",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 28–44",
+      "opponent": "vs Kennesaw State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 26–23",
+      "opponent": "at Florida International",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 66,
+    "news": null
+   },
+   "home": {
+    "name": "Sam Houston",
+    "rank": "",
+    "record": "1–9",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 7–26",
+      "opponent": "vs Kennesaw State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 14–47",
+      "opponent": "at Jacksonville State",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 3–24",
+      "opponent": "at Missouri State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 24–30",
+      "opponent": "vs New Mexico State",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 34,
+    "news": null
+   }
+  },
+  {
+   "id": 401862832,
+   "anchor": "game-401862832",
+   "start": "2026-11-21T19:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "1:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 1:00 PM CT",
+   "neutral": false,
+   "venue": "Chapman Stadium, Tulsa, OK",
+   "final": null,
+   "spread": "Tulsa −22.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "70°F · Wind 14 mph · Rain or snow 11%",
+   "flags": [],
+   "away": {
+    "name": "Charlotte",
+    "rank": "",
+    "record": "1–9",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 16–17",
+      "opponent": "vs East Carolina",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 12–23",
+      "opponent": "at UAB",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 31–38",
+      "opponent": "vs Tulane",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 38–31",
+      "opponent": "at Temple",
+      "opp_record": "(2–8)"
+     }
+    ],
+    "win_pct": 8,
+    "news": null
+   },
+   "home": {
+    "name": "Tulsa",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 38–21",
+      "opponent": "vs Florida Atlantic",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 60–10",
+      "opponent": "at Tulane",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 35–38",
+      "opponent": "vs Army",
+      "opp_record": "(5–4)"
+     },
+     {
+      "result": "W 38–17",
+      "opponent": "at Rice",
+      "opp_record": "(1–9)"
+     }
+    ],
+    "win_pct": 92,
+    "news": null
+   }
+  },
+  {
+   "id": 401869929,
+   "anchor": "game-401869929",
+   "start": "2026-11-21T19:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "1:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 1:30 PM CT",
+   "neutral": false,
+   "venue": "Kidd Brewer Stadium, Boone, NC",
+   "final": null,
+   "spread": "App State −14",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "54°F · Wind 7 mph · Rain or snow 14%",
+   "flags": [],
+   "away": {
+    "name": "UL Monroe",
+    "rank": "",
+    "record": "2–8",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 21–42",
+      "opponent": "vs Louisiana",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 19–17",
+      "opponent": "at Arkansas State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 21–35",
+      "opponent": "vs Southern Miss",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 21–14",
+      "opponent": "at Troy",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 17,
+    "news": null
+   },
+   "home": {
+    "name": "App State",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 20–16",
+      "opponent": "at Marshall",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 23–39",
+      "opponent": "vs Georgia State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 3–19",
+      "opponent": "at Georgia Southern",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 34–31",
+      "opponent": "vs James Madison",
+      "opp_record": "(8–3)"
+     }
+    ],
+    "win_pct": 83,
+    "news": null
+   }
+  },
+  {
+   "id": 401862833,
+   "anchor": "game-401862833",
+   "start": "2026-11-21T19:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "1:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 1:30 PM CT",
+   "neutral": false,
+   "venue": "FAU Stadium, Boca Raton, FL",
+   "final": null,
+   "spread": "South Florida −1.5",
+   "line_source": "DraftKings",
+   "tossup": true,
+   "prob_source": "betting odds",
+   "weather": "84°F · Wind 12 mph · Rain 31%",
+   "flags": [],
+   "away": {
+    "name": "South Florida",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 41–52",
+      "opponent": "vs Memphis",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 17–20",
+      "opponent": "at East Carolina",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 30–10",
+      "opponent": "vs UAB",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 29–2",
+      "opponent": "vs Kent State",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 51,
+    "news": null
+   },
+   "home": {
+    "name": "Florida Atlantic",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "L 21–38",
+      "opponent": "at Tulsa",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 60–29",
+      "opponent": "vs UTSA",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 41–48",
+      "opponent": "at North Texas",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 51–49",
+      "opponent": "vs Rice",
+      "opp_record": "(1–9)"
+     }
+    ],
+    "win_pct": 49,
+    "news": null
+   }
+  },
+  {
+   "id": 401858527,
+   "anchor": "game-401858527",
+   "start": "2026-11-21T19:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "1:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 1:30 PM CT",
+   "neutral": false,
+   "venue": "Memorial Stadium (Champaign, IL), Champaign, IL",
+   "final": null,
+   "spread": "Iowa −8.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "60°F · Wind 7 mph · Rain or snow 7%",
+   "flags": [
+    "Iowa: ranked #15 (CFP)"
+   ],
+   "away": {
+    "name": "Iowa",
+    "rank": "#15",
+    "record": "8–2",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "W 28–7",
+      "opponent": "vs Purdue",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 24–10",
+      "opponent": "at Northwestern",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 30–0",
+      "opponent": "vs Wisconsin",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 10–13",
+      "opponent": "at Minnesota",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 73,
+    "news": null
+   },
+   "home": {
+    "name": "Illinois",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "L 14–22",
+      "opponent": "at UCLA",
+      "opp_record": "(10–0)"
+     },
+     {
+      "result": "W 24–13",
+      "opponent": "vs Nebraska",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 20–17",
+      "opponent": "at Maryland",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 21–10",
+      "opponent": "vs Oregon",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 27,
+    "news": null
+   }
+  },
+  {
+   "id": 401871078,
+   "anchor": "game-401871078",
+   "start": "2026-11-21T20:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:00 PM CT",
+   "neutral": false,
+   "venue": "Fifth Third Stadium, Kennesaw, GA",
+   "final": null,
+   "spread": "Kennesaw State −3.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "69°F · Wind 9 mph · Rain or snow 12%",
+   "flags": [],
+   "away": {
+    "name": "Florida International",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 3–6–1",
+    "last": [
+     {
+      "result": "L 16–24",
+      "opponent": "at Delaware",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 23–20",
+      "opponent": "vs Missouri State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 10–49",
+      "opponent": "at Liberty",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 23–26",
+      "opponent": "vs Middle Tennessee",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 40,
+    "news": null
+   },
+   "home": {
+    "name": "Kennesaw State",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "W 26–7",
+      "opponent": "at Sam Houston",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "W 42–40",
+      "opponent": "vs Delaware",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 44–28",
+      "opponent": "at Middle Tennessee",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 6–34",
+      "opponent": "vs Liberty",
+      "opp_record": "(9–1)"
+     }
+    ],
+    "win_pct": 60,
+    "news": null
+   }
+  },
+  {
+   "id": 401869946,
+   "anchor": "game-401869946",
+   "start": "2026-11-21T20:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:00 PM CT",
+   "neutral": false,
+   "venue": "Cajun Field, Lafayette, LA",
+   "final": null,
+   "spread": "Louisiana −10.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "70°F · Wind 7 mph · Rain or snow 1%",
+   "flags": [],
+   "away": {
+    "name": "Coastal Carolina",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 28–21",
+      "opponent": "vs Arkansas State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 8–21",
+      "opponent": "vs Old Dominion",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 31–20",
+      "opponent": "at Georgia State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 32–35",
+      "opponent": "vs App State",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 23,
+    "news": null
+   },
+   "home": {
+    "name": "Louisiana",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 6–3–1",
+    "last": [
+     {
+      "result": "W 42–21",
+      "opponent": "at UL Monroe",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "W 28–26",
+      "opponent": "vs South Alabama",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 31–35",
+      "opponent": "at Southern Miss",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 33–6",
+      "opponent": "vs Troy",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 77,
+    "news": null
+   }
+  },
+  {
+   "id": 401871077,
+   "anchor": "game-401871077",
+   "start": "2026-11-21T20:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:00 PM CT",
+   "neutral": false,
+   "venue": "Aggie Memorial Stadium, Las Cruces, NM",
+   "final": null,
+   "spread": "Delaware −3.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "61°F · Wind 19 mph · Rain or snow 0%",
+   "flags": [
+    "Delaware: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Delaware",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 24–16",
+      "opponent": "vs Florida International",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 40–42",
+      "opponent": "at Kennesaw State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 35–21",
+      "opponent": "at Western Kentucky",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 61–38",
+      "opponent": "vs Missouri State",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 60,
+    "news": null
+   },
+   "home": {
+    "name": "New Mexico State",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 21–27",
+      "opponent": "at Missouri State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 14–30",
+      "opponent": "vs Liberty",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 0–24",
+      "opponent": "vs Jacksonville State",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 30–24",
+      "opponent": "at Sam Houston",
+      "opp_record": "(1–9)"
+     }
+    ],
+    "win_pct": 40,
+    "news": null
+   }
+  },
+  {
+   "id": 401856747,
+   "anchor": "game-401856747",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "Jordan-Hare Stadium, Auburn, AL",
+   "final": null,
+   "spread": "No line yet",
+   "line_source": "",
+   "tossup": false,
+   "prob_source": null,
+   "weather": "72°F · Wind 8 mph · Rain or snow 11%",
+   "flags": [
+    "Samford: off a bye week"
+   ],
+   "away": {
+    "name": "Samford",
+    "rank": "",
+    "record": "4–7",
+    "ats": "ATS 1–0",
+    "last": [
+     {
+      "result": "L 14–33",
+      "opponent": "at UAB",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": null,
+    "news": null
+   },
+   "home": {
+    "name": "Auburn",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "W 41–9",
+      "opponent": "at Mississippi State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 26–23",
+      "opponent": "vs Arkansas",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 15–45",
+      "opponent": "at Ole Miss",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 17–38",
+      "opponent": "vs LSU",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": null,
+    "news": null
+   }
+  },
+  {
+   "id": 401856871,
+   "anchor": "game-401856871",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "McLane Stadium, Waco, TX",
+   "final": null,
+   "spread": "Texas Tech −3.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "75°F · Wind 13 mph · Rain or snow 3%",
+   "flags": [
+    "Texas Tech: ranked #12 (CFP)"
+   ],
+   "away": {
+    "name": "Texas Tech",
+    "rank": "#12",
+    "record": "9–1",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 52–27",
+      "opponent": "at Oklahoma State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 53–48",
+      "opponent": "vs West Virginia",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 34–26",
+      "opponent": "vs Arizona",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 24–37",
+      "opponent": "at Cincinnati",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 60,
+    "news": null
+   },
+   "home": {
+    "name": "Baylor",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "L 7–28",
+      "opponent": "at BYU",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 42–31",
+      "opponent": "vs Iowa State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 41–9",
+      "opponent": "at UCF",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 24–25",
+      "opponent": "at Kansas",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 40,
+    "news": null
+   }
+  },
+  {
+   "id": 401858304,
+   "anchor": "game-401858304",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "Doak Campbell Stadium, Tallahassee, FL",
+   "final": null,
+   "spread": "Florida State −9.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "71°F · Wind 8 mph · Rain or snow 18%",
+   "flags": [
+    "Florida State: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "NC State",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 3–6–1",
+    "last": [
+     {
+      "result": "L 31–34",
+      "opponent": "vs Syracuse",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 3–41",
+      "opponent": "vs Duke",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 31–10",
+      "opponent": "vs California",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 28–31",
+      "opponent": "at Stanford",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 24,
+    "news": null
+   },
+   "home": {
+    "name": "Florida State",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "W 16–10",
+      "opponent": "at Pittsburgh",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–24",
+      "opponent": "at Boston College",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 24–36",
+      "opponent": "vs Clemson",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 35–43",
+      "opponent": "at Miami",
+      "opp_record": "(9–1)"
+     }
+    ],
+    "win_pct": 76,
+    "news": null
+   }
+  },
+  {
+   "id": 401858528,
+   "anchor": "game-401858528",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "Michigan Stadium, Ann Arbor, MI",
+   "final": null,
+   "spread": "UCLA −3.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "59°F · Wind 8 mph · Rain or snow 6%",
+   "flags": [
+    "UCLA: ranked #4 (CFP)",
+    "Michigan: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "UCLA",
+    "rank": "#4",
+    "record": "10–0",
+    "ats": "ATS 9–1",
+    "last": [
+     {
+      "result": "W 22–14",
+      "opponent": "vs Illinois",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 34–20",
+      "opponent": "at Minnesota",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 27–0",
+      "opponent": "vs Nevada",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 28–10",
+      "opponent": "vs Michigan State",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 62,
+    "news": null
+   },
+   "home": {
+    "name": "Michigan",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 7–31",
+      "opponent": "at Oregon",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 6–15",
+      "opponent": "vs Michigan State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 28–21",
+      "opponent": "at Rutgers",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "L 6–13",
+      "opponent": "vs Indiana",
+      "opp_record": "(9–1)"
+     }
+    ],
+    "win_pct": 38,
+    "news": null
+   }
+  },
+  {
+   "id": 401858532,
+   "anchor": "game-401858532",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "Beaver Stadium, University Park, PA",
+   "final": null,
+   "spread": "Penn State −24.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "56°F · Wind 5 mph · Rain or snow 1%",
+   "flags": [],
+   "away": {
+    "name": "Rutgers",
+    "rank": "",
+    "record": "2–8",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 0–31",
+      "opponent": "vs Nebraska",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 10–31",
+      "opponent": "at Wisconsin",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 21–28",
+      "opponent": "vs Michigan",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 14–42",
+      "opponent": "at Northwestern",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 7,
+    "news": null
+   },
+   "home": {
+    "name": "Penn State",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 42–14",
+      "opponent": "vs Minnesota",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 28–25",
+      "opponent": "at Washington",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–17",
+      "opponent": "vs Purdue",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 18–21",
+      "opponent": "at Michigan",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 93,
+    "news": null
+   }
+  },
+  {
+   "id": 401856754,
+   "anchor": "game-401856754",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "Neyland Stadium, Knoxville, TN",
+   "final": null,
+   "spread": "LSU −1.5",
+   "line_source": "DraftKings",
+   "tossup": true,
+   "prob_source": "betting odds",
+   "weather": "67°F · Wind 2 mph · Rain or snow 6%",
+   "flags": [
+    "LSU: ranked #21 (CFP)",
+    "Tennessee: ranked #8 (CFP)"
+   ],
+   "away": {
+    "name": "LSU",
+    "rank": "#21",
+    "record": "6–4",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 21–22",
+      "opponent": "vs Texas",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 13–31",
+      "opponent": "vs Alabama",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 38–17",
+      "opponent": "at Auburn",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–0",
+      "opponent": "vs Mississippi State",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 51,
+    "news": null
+   },
+   "home": {
+    "name": "Tennessee",
+    "rank": "#8",
+    "record": "8–2",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 22–7",
+      "opponent": "at Texas A&M",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 34–6",
+      "opponent": "vs Kentucky",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 24–27",
+      "opponent": "at South Carolina",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 26–10",
+      "opponent": "vs Alabama",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 49,
+    "news": null
+   }
+  },
+  {
+   "id": 401856755,
+   "anchor": "game-401856755",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "DKR-Texas Memorial Stadium, Austin, TX",
+   "final": null,
+   "spread": "Texas −20.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "72°F · Wind 10 mph · Rain or snow 4%",
+   "flags": [
+    "Texas: ranked #6 (CFP)"
+   ],
+   "away": {
+    "name": "Arkansas",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 34–6",
+      "opponent": "vs South Carolina",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 23–26",
+      "opponent": "at Auburn",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 10–34",
+      "opponent": "vs Missouri",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–21",
+      "opponent": "at Vanderbilt",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 10,
+    "news": null
+   },
+   "home": {
+    "name": "Texas",
+    "rank": "#6",
+    "record": "8–2",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 22–21",
+      "opponent": "at LSU",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 34–20",
+      "opponent": "at Missouri",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–3",
+      "opponent": "vs Mississippi State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 34–27",
+      "opponent": "vs Ole Miss",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 90,
+    "news": null
+   }
+  },
+  {
+   "id": 401861968,
+   "anchor": "game-401861968",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "Pratt & Whitney Stadium, East Hartford, CT",
+   "final": null,
+   "spread": "UConn −13.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "60°F · Wind 3 mph · Rain or snow 0%",
+   "flags": [
+    "Old Dominion: off a bye week",
+    "UConn: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Old Dominion",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 2–8",
+    "last": [
+     {
+      "result": "W 21–8",
+      "opponent": "at Coastal Carolina",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 23–36",
+      "opponent": "vs Marshall",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 0–26",
+      "opponent": "at Louisiana Tech",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 15–23",
+      "opponent": "vs Georgia Southern",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 19,
+    "news": null
+   },
+   "home": {
+    "name": "UConn",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 46–22",
+      "opponent": "vs James Madison",
+      "opp_record": "(8–3)"
+     },
+     {
+      "result": "L 21–38",
+      "opponent": "vs North Carolina",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 26–35",
+      "opponent": "at Air Force",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 35–16",
+      "opponent": "vs Massachusetts",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 81,
+    "news": null
+   }
+  },
+  {
+   "id": 401858535,
+   "anchor": "game-401858535",
+   "start": "2026-11-21T20:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:30 PM CT",
+   "neutral": false,
+   "venue": "Husky Stadium, Seattle, WA",
+   "final": null,
+   "spread": "Indiana −7.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "47°F · Wind 0 mph · Rain 21%",
+   "flags": [
+    "Indiana: ranked #9 (CFP)"
+   ],
+   "away": {
+    "name": "Indiana",
+    "rank": "#9",
+    "record": "9–1",
+    "ats": "ATS 2–8",
+    "last": [
+     {
+      "result": "W 27–13",
+      "opponent": "vs USC",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 23–16",
+      "opponent": "vs Minnesota",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 13–6",
+      "opponent": "at Michigan",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 15–19",
+      "opponent": "vs Ohio State",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 73,
+    "news": null
+   },
+   "home": {
+    "name": "Washington",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "W 21–14",
+      "opponent": "at Michigan State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 25–28",
+      "opponent": "vs Penn State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 17–10",
+      "opponent": "at Nebraska",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 38–26",
+      "opponent": "at Purdue",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 27,
+    "news": null
+   }
+  },
+  {
+   "id": 401856752,
+   "anchor": "game-401856752",
+   "start": "2026-11-21T20:45:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "2:45 PM CT",
+   "kickoff": "Sat, Nov 21 · 2:45 PM CT",
+   "neutral": false,
+   "venue": "Memorial Stadium (Norman, OK), Norman, OK",
+   "final": null,
+   "spread": "Oklahoma −7.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "69°F · Wind 21 mph · Rain or snow 11%",
+   "flags": [],
+   "away": {
+    "name": "Texas A&M",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 7–22",
+      "opponent": "vs Tennessee",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 9–17",
+      "opponent": "at South Carolina",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 20–31",
+      "opponent": "at Alabama",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 41–0",
+      "opponent": "vs The Citadel",
+      "opp_record": "(3–8)"
+     }
+    ],
+    "win_pct": 28,
+    "news": null
+   },
+   "home": {
+    "name": "Oklahoma",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 24–17",
+      "opponent": "vs Ole Miss",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 23–7",
+      "opponent": "at Florida",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 25–42",
+      "opponent": "vs South Carolina",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 23–15",
+      "opponent": "at Mississippi State",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 72,
+    "news": null
+   }
+  },
+  {
+   "id": 401869958,
+   "anchor": "game-401869958",
+   "start": "2026-11-21T21:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "3:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 3:00 PM CT",
+   "neutral": false,
+   "venue": "Joan C. Edwards Stadium, Huntington, WV",
+   "final": null,
+   "spread": "Marshall −1.5",
+   "line_source": "DraftKings",
+   "tossup": true,
+   "prob_source": "betting odds",
+   "weather": "64°F · Wind 3 mph · Rain or snow 3%",
+   "flags": [
+    "Georgia State: one win from bowl eligibility",
+    "Marshall: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Georgia State",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "L 17–34",
+      "opponent": "vs Georgia Southern",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 39–23",
+      "opponent": "at App State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 20–31",
+      "opponent": "vs Coastal Carolina",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 32–38",
+      "opponent": "at Arkansas State",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 50,
+    "news": null
+   },
+   "home": {
+    "name": "Marshall",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 16–20",
+      "opponent": "vs App State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 13–49",
+      "opponent": "at Georgia Southern",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 36–23",
+      "opponent": "at Old Dominion",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 20–13",
+      "opponent": "vs South Alabama",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 50,
+    "news": null
+   }
+  },
+  {
+   "id": 401864543,
+   "anchor": "game-401864543",
+   "start": "2026-11-21T21:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "3:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 3:00 PM CT",
+   "neutral": false,
+   "venue": "Fargodome, Fargo, ND",
+   "final": null,
+   "spread": "North Dakota State −25.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "Indoors (dome): weather not a factor",
+   "flags": [],
+   "away": {
+    "name": "Northern Illinois",
+    "rank": "",
+    "record": "0–10",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 7–28",
+      "opponent": "vs Nevada",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 19–30",
+      "opponent": "at San José State",
+      "opp_record": "(5–6)"
+     },
+     {
+      "result": "L 24–31",
+      "opponent": "at UNLV",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 21–56",
+      "opponent": "vs Hawai'i",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 6,
+    "news": null
+   },
+   "home": {
+    "name": "North Dakota State",
+    "rank": "",
+    "record": "8–2",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "W 21–13",
+      "opponent": "at Hawai'i",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 31–7",
+      "opponent": "vs UTEP",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "L 16–21",
+      "opponent": "at New Mexico",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 31–17",
+      "opponent": "vs Nevada",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 94,
+    "news": null
+   }
+  },
+  {
+   "id": 401871101,
+   "anchor": "game-401871101",
+   "start": "2026-11-21T21:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "3:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 3:00 PM CT",
+   "neutral": false,
+   "venue": "M. M. Roberts Stadium, Hattiesburg, MS",
+   "final": null,
+   "spread": "South Alabama −3.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "69°F · Wind 5 mph · Rain or snow 4%",
+   "flags": [
+    "South Alabama: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "South Alabama",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 27–14",
+      "opponent": "vs Troy",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 26–28",
+      "opponent": "at Louisiana",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 20–35",
+      "opponent": "vs Louisiana Tech",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 13–20",
+      "opponent": "at Marshall",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 62,
+    "news": null
+   },
+   "home": {
+    "name": "Southern Miss",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 31–63",
+      "opponent": "at Louisiana Tech",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 23–54",
+      "opponent": "vs James Madison",
+      "opp_record": "(8–3)"
+     },
+     {
+      "result": "W 35–21",
+      "opponent": "at UL Monroe",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "W 35–31",
+      "opponent": "vs Louisiana",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 38,
+    "news": null
+   }
+  },
+  {
+   "id": 401869953,
+   "anchor": "game-401869953",
+   "start": "2026-11-21T21:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "3:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 3:00 PM CT",
+   "neutral": false,
+   "venue": "Veterans Memorial Stadium (AL), Troy, AL",
+   "final": null,
+   "spread": "Georgia Southern −8.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "71°F · Wind 8 mph · Rain or snow 9%",
+   "flags": [],
+   "away": {
+    "name": "Georgia Southern",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 9–1",
+    "last": [
+     {
+      "result": "W 34–17",
+      "opponent": "at Georgia State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 49–13",
+      "opponent": "vs Marshall",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 19–3",
+      "opponent": "vs App State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 23–15",
+      "opponent": "at Old Dominion",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 73,
+    "news": null
+   },
+   "home": {
+    "name": "Troy",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 14–27",
+      "opponent": "at South Alabama",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 17–41",
+      "opponent": "vs Louisiana Tech",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 24–21",
+      "opponent": "at James Madison",
+      "opp_record": "(8–3)"
+     },
+     {
+      "result": "L 14–21",
+      "opponent": "vs UL Monroe",
+      "opp_record": "(2–8)"
+     }
+    ],
+    "win_pct": 27,
+    "news": null
+   }
+  },
+  {
+   "id": 401860920,
+   "anchor": "game-401860920",
+   "start": "2026-11-21T23:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "5:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 5:00 PM CT",
+   "neutral": false,
+   "venue": "Bobcat Stadium (TX), San Marcos, TX",
+   "final": null,
+   "spread": "Texas State −10.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "68°F · Wind 7 mph · Rain or snow 5%",
+   "flags": [],
+   "away": {
+    "name": "Washington State",
+    "rank": "",
+    "record": "2–8",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 73–7",
+      "opponent": "vs Colorado State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 20–26",
+      "opponent": "at San Diego State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 10–31",
+      "opponent": "vs Boise State",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 30–48",
+      "opponent": "at Oregon State",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 22,
+    "news": null
+   },
+   "home": {
+    "name": "Texas State",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 37–35",
+      "opponent": "vs Fresno State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 42–21",
+      "opponent": "at Oregon State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 45–46",
+      "opponent": "at Boise State",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 20–17",
+      "opponent": "vs Utah State",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 78,
+    "news": null
+   }
+  },
+  {
+   "id": 401858534,
+   "anchor": "game-401858534",
+   "start": "2026-11-21T23:15:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "5:15 PM CT",
+   "kickoff": "Sat, Nov 21 · 5:15 PM CT",
+   "neutral": false,
+   "venue": "Los Angeles Memorial Coliseum, Los Angeles, CA",
+   "final": null,
+   "spread": "USC −17.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "66°F · Wind 5 mph · Rain or snow 0%",
+   "flags": [
+    "USC: ranked #18 (CFP)"
+   ],
+   "away": {
+    "name": "Maryland",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "W 24–21",
+      "opponent": "vs Wisconsin",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 34–29",
+      "opponent": "at Purdue",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 17–20",
+      "opponent": "vs Illinois",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 30–37",
+      "opponent": "vs Rutgers",
+      "opp_record": "(2–8)"
+     }
+    ],
+    "win_pct": 14,
+    "news": null
+   },
+   "home": {
+    "name": "USC",
+    "rank": "#18",
+    "record": "7–3",
+    "ats": "ATS 3–7",
+    "last": [
+     {
+      "result": "L 13–27",
+      "opponent": "at Indiana",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 30–18",
+      "opponent": "vs Ohio State",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 7–24",
+      "opponent": "at Wisconsin",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–23",
+      "opponent": "at Penn State",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 86,
+    "news": null
+   }
+  },
+  {
+   "id": 401856865,
+   "anchor": "game-401856865",
+   "start": "2026-11-22T00:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:00 PM CT",
+   "neutral": false,
+   "venue": "Bill Snyder Family Stadium, Manhattan, KS",
+   "final": null,
+   "spread": "Arizona −7",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "60°F · Wind 8 mph · Rain 34%",
+   "flags": [
+    "Arizona: ranked #23 (CFP)"
+   ],
+   "away": {
+    "name": "Arizona",
+    "rank": "#23",
+    "record": "7–3",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 39–40",
+      "opponent": "vs Utah",
+      "opp_record": "(10–0)"
+     },
+     {
+      "result": "W 29–28",
+      "opponent": "vs TCU",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 26–34",
+      "opponent": "at Texas Tech",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 39–3",
+      "opponent": "vs Iowa State",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 71,
+    "news": null
+   },
+   "home": {
+    "name": "Kansas State",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 4–5–1",
+    "last": [
+     {
+      "result": "L 10–20",
+      "opponent": "at TCU",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 28–66",
+      "opponent": "vs Oklahoma State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 24–27",
+      "opponent": "at Colorado",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 17–28",
+      "opponent": "at Arizona State",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 29,
+    "news": null
+   }
+  },
+  {
+   "id": 401869938,
+   "anchor": "game-401869938",
+   "start": "2026-11-22T00:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:00 PM CT",
+   "neutral": false,
+   "venue": "Joe Aillet Stadium, Ruston, LA",
+   "final": null,
+   "spread": "Louisiana Tech −13.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "65°F · Wind 3 mph · Rain or snow 1%",
+   "flags": [],
+   "away": {
+    "name": "Arkansas State",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 21–28",
+      "opponent": "at Coastal Carolina",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 17–19",
+      "opponent": "vs UL Monroe",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "W 38–32",
+      "opponent": "vs Georgia State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 23–13",
+      "opponent": "at Southern Miss",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 18,
+    "news": null
+   },
+   "home": {
+    "name": "Louisiana Tech",
+    "rank": "",
+    "record": "8–2",
+    "ats": "ATS 9–1",
+    "last": [
+     {
+      "result": "W 63–31",
+      "opponent": "vs Southern Miss",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 41–17",
+      "opponent": "at Troy",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 35–20",
+      "opponent": "at South Alabama",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 26–0",
+      "opponent": "vs Old Dominion",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 82,
+    "news": null
+   }
+  },
+  {
+   "id": 401858302,
+   "anchor": "game-401858302",
+   "start": "2026-11-22T00:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:00 PM CT",
+   "neutral": false,
+   "venue": "Hard Rock Stadium, Miami Gardens, FL",
+   "final": null,
+   "spread": "Miami −20.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "79°F · Wind 12 mph · Rain 23%",
+   "flags": [
+    "Miami: ranked #7 (CFP)"
+   ],
+   "away": {
+    "name": "Virginia Tech",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 22–40",
+      "opponent": "vs Stanford",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 28–51",
+      "opponent": "at SMU",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 20–16",
+      "opponent": "at Clemson",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 34–24",
+      "opponent": "vs Georgia Tech",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 10,
+    "news": null
+   },
+   "home": {
+    "name": "Miami",
+    "rank": "#7",
+    "record": "9–1",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 36–25",
+      "opponent": "vs Duke",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 24–31",
+      "opponent": "at Notre Dame",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 38–35",
+      "opponent": "at North Carolina",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 52–23",
+      "opponent": "vs Pittsburgh",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 90,
+    "news": null
+   }
+  },
+  {
+   "id": 401864544,
+   "anchor": "game-401864544",
+   "start": "2026-11-22T00:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:00 PM CT",
+   "neutral": false,
+   "venue": "CEFCU Stadium, San Jose, CA",
+   "final": null,
+   "spread": "UNLV −7",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "57°F · Wind 5 mph · Rain 35%",
+   "flags": [
+    "San José State: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "UNLV",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 21–17",
+      "opponent": "at New Mexico",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 35–41",
+      "opponent": "vs Wyoming",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 31–24",
+      "opponent": "vs Northern Illinois",
+      "opp_record": "(0–10)"
+     },
+     {
+      "result": "L 31–41",
+      "opponent": "at Air Force",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 69,
+    "news": null
+   },
+   "home": {
+    "name": "San José State",
+    "rank": "",
+    "record": "5–6",
+    "ats": "ATS 5–6",
+    "last": [
+     {
+      "result": "L 3–24",
+      "opponent": "at Air Force",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 30–19",
+      "opponent": "vs Northern Illinois",
+      "opp_record": "(0–10)"
+     },
+     {
+      "result": "L 16–21",
+      "opponent": "vs New Mexico",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 13–28",
+      "opponent": "at Nevada",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 31,
+    "news": null
+   }
+  },
+  {
+   "id": 401858308,
+   "anchor": "game-401858308",
+   "start": "2026-11-22T00:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "California Memorial Stadium, Berkeley, CA",
+   "final": null,
+   "spread": "Stanford −2.5",
+   "line_source": "DraftKings",
+   "tossup": true,
+   "prob_source": "betting odds",
+   "weather": "55°F · Wind 7 mph · Rain 66%",
+   "flags": [
+    "Stanford: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Stanford",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "W 40–22",
+      "opponent": "at Virginia Tech",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 24–52",
+      "opponent": "at Louisville",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 31–28",
+      "opponent": "vs NC State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 34–7",
+      "opponent": "vs Elon",
+      "opp_record": "(6–5)"
+     }
+    ],
+    "win_pct": 54,
+    "news": null
+   },
+   "home": {
+    "name": "California",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 2–8",
+    "last": [
+     {
+      "result": "L 7–36",
+      "opponent": "at Virginia",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 10–31",
+      "opponent": "at NC State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 20–59",
+      "opponent": "at SMU",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 7–41",
+      "opponent": "vs Wake Forest",
+      "opp_record": "(9–1)"
+     }
+    ],
+    "win_pct": 46,
+    "news": null
+   }
+  },
+  {
+   "id": 401860918,
+   "anchor": "game-401860918",
+   "start": "2026-11-22T00:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "Valley Children's Stadium, Fresno, CA",
+   "final": null,
+   "spread": "Fresno State −20.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "58°F · Wind 2 mph · Rain or snow 2%",
+   "flags": [
+    "Fresno State: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Colorado State",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 7–73",
+      "opponent": "at Washington State",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "L 38–64",
+      "opponent": "vs Boise State",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 14–31",
+      "opponent": "at Utah State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 56–49",
+      "opponent": "vs San Diego State",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 10,
+    "news": null
+   },
+   "home": {
+    "name": "Fresno State",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "L 35–37",
+      "opponent": "at Texas State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 10–17",
+      "opponent": "at Utah State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 38–22",
+      "opponent": "vs Oregon State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "L 23–26",
+      "opponent": "at San Diego State",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 90,
+    "news": null
+   }
+  },
+  {
+   "id": 401858306,
+   "anchor": "game-401858306",
+   "start": "2026-11-22T00:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "L&N Federal Credit Union Stadium, Louisville, KY",
+   "final": null,
+   "spread": "Louisville −14",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "61°F · Wind 4 mph · Rain or snow 8%",
+   "flags": [
+    "Louisville: ranked #21 (AP)"
+   ],
+   "away": {
+    "name": "Pittsburgh",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 10–16",
+      "opponent": "vs Florida State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 34–11",
+      "opponent": "vs Georgia Tech",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 23–52",
+      "opponent": "at Miami",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 21–27",
+      "opponent": "at Boston College",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 18,
+    "news": null
+   },
+   "home": {
+    "name": "Louisville",
+    "rank": "#21",
+    "record": "7–3",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 16–14",
+      "opponent": "at North Carolina",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 44–17",
+      "opponent": "at Georgia Tech",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 52–24",
+      "opponent": "vs Stanford",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 34–26",
+      "opponent": "at Syracuse",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 82,
+    "news": null
+   }
+  },
+  {
+   "id": 401856751,
+   "anchor": "game-401856751",
+   "start": "2026-11-22T00:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "Memorial Stadium, Columbia, MO",
+   "final": null,
+   "spread": "Missouri −5.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "60°F · Wind 10 mph · Rain or snow 17%",
+   "flags": [
+    "Kentucky: ranked #11 (CFP)",
+    "Missouri: ranked #22 (CFP)"
+   ],
+   "away": {
+    "name": "Kentucky",
+    "rank": "#11",
+    "record": "7–3",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "L 14–21",
+      "opponent": "vs Florida",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 6–34",
+      "opponent": "at Tennessee",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 34–17",
+      "opponent": "vs Vanderbilt",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 21–13",
+      "opponent": "at Oklahoma",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 34,
+    "news": null
+   },
+   "home": {
+    "name": "Missouri",
+    "rank": "#22",
+    "record": "6–4",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "L 21–48",
+      "opponent": "at Georgia",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 20–34",
+      "opponent": "vs Texas",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 34–10",
+      "opponent": "at Arkansas",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 3–31",
+      "opponent": "at Ole Miss",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 66,
+    "news": null
+   }
+  },
+  {
+   "id": 401858307,
+   "anchor": "game-401858307",
+   "start": "2026-11-22T00:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "Notre Dame Stadium, Notre Dame, IN",
+   "final": null,
+   "spread": "Notre Dame −20.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "54°F · Wind 9 mph · Rain or snow 7%",
+   "flags": [
+    "Notre Dame: ranked #5 (CFP)"
+   ],
+   "away": {
+    "name": "SMU",
+    "rank": "",
+    "record": "7–3",
+    "ats": "ATS 3–5–2",
+    "last": [
+     {
+      "result": "L 7–49",
+      "opponent": "vs Wake Forest",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 51–28",
+      "opponent": "vs Virginia Tech",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 27–30",
+      "opponent": "at Syracuse",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 59–20",
+      "opponent": "vs California",
+      "opp_record": "(3–7)"
+     }
+    ],
+    "win_pct": 9,
+    "news": null
+   },
+   "home": {
+    "name": "Notre Dame",
+    "rank": "#5",
+    "record": "9–1",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 41–7",
+      "opponent": "vs Boston College",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 31–24",
+      "opponent": "vs Miami",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 35–13",
+      "opponent": "vs Navy (neutral)",
+      "opp_record": "(3–6)"
+     },
+     {
+      "result": "L 24–28",
+      "opponent": "at BYU",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 91,
+    "news": null
+   }
+  },
+  {
+   "id": 401856753,
+   "anchor": "game-401856753",
+   "start": "2026-11-22T00:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "6:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 6:30 PM CT",
+   "neutral": false,
+   "venue": "Williams-Brice Stadium, Columbia, SC",
+   "final": null,
+   "spread": "Georgia −16.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "57°F · Wind 16 mph · Rain 25%",
+   "flags": [
+    "Georgia: ranked #1 (CFP)",
+    "South Carolina: ranked #17 (CFP)"
+   ],
+   "away": {
+    "name": "Georgia",
+    "rank": "#1",
+    "record": "9–1",
+    "ats": "ATS 8–2",
+    "last": [
+     {
+      "result": "W 48–21",
+      "opponent": "vs Missouri",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 42–7",
+      "opponent": "at Ole Miss",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 27–8",
+      "opponent": "vs Florida (neutral)",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 24–27",
+      "opponent": "vs Auburn",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 86,
+    "news": null
+   },
+   "home": {
+    "name": "South Carolina",
+    "rank": "#17",
+    "record": "6–4",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 6–34",
+      "opponent": "at Arkansas",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 17–9",
+      "opponent": "vs Texas A&M",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 42–25",
+      "opponent": "at Oklahoma",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 27–24",
+      "opponent": "vs Tennessee",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 14,
+    "news": null
+   }
+  },
+  {
+   "id": 401862836,
+   "anchor": "game-401862836",
+   "start": "2026-11-22T01:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "7:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 7:00 PM CT",
+   "neutral": false,
+   "venue": "Protective Stadium, Birmingham, AL",
+   "final": null,
+   "spread": "UTSA −6.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "66°F · Wind 8 mph · Rain or snow 5%",
+   "flags": [],
+   "away": {
+    "name": "UTSA",
+    "rank": "",
+    "record": "8–2",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 35–16",
+      "opponent": "vs North Texas",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "L 29–60",
+      "opponent": "at Florida Atlantic",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 42–19",
+      "opponent": "at Tulane",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 38–34",
+      "opponent": "vs Navy",
+      "opp_record": "(3–6)"
+     }
+    ],
+    "win_pct": 68,
+    "news": null
+   },
+   "home": {
+    "name": "UAB",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 5–4–1",
+    "last": [
+     {
+      "result": "W 36–10",
+      "opponent": "at Temple",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "W 23–12",
+      "opponent": "vs Charlotte",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "L 10–30",
+      "opponent": "at South Florida",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 30–17",
+      "opponent": "vs East Carolina",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 32,
+    "news": null
+   }
+  },
+  {
+   "id": 401856872,
+   "anchor": "game-401856872",
+   "start": "2026-11-22T02:00:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "8:00 PM CT",
+   "kickoff": "Sat, Nov 21 · 8:00 PM CT",
+   "neutral": false,
+   "venue": "Amon G. Carter Stadium, Fort Worth, TX",
+   "final": null,
+   "spread": "Utah −7",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "68°F · Wind 13 mph · Rain or snow 7%",
+   "flags": [
+    "Utah: ranked #2 (CFP)",
+    "TCU: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Utah",
+    "rank": "#2",
+    "record": "10–0",
+    "ats": "ATS 8–2",
+    "last": [
+     {
+      "result": "W 40–39",
+      "opponent": "at Arizona",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 28–20",
+      "opponent": "vs BYU",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 49–25",
+      "opponent": "at Cincinnati",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 21–13",
+      "opponent": "vs Houston",
+      "opp_record": "(7–3)"
+     }
+    ],
+    "win_pct": 70,
+    "news": null
+   },
+   "home": {
+    "name": "TCU",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "W 20–10",
+      "opponent": "vs Kansas State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 28–29",
+      "opponent": "at Arizona",
+      "opp_record": "(7–3)"
+     },
+     {
+      "result": "W 22–16",
+      "opponent": "vs Kansas",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 20–24",
+      "opponent": "vs West Virginia",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 30,
+    "news": null
+   }
+  },
+  {
+   "id": 401860925,
+   "anchor": "game-401860925",
+   "start": "2026-11-22T02:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "8:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 8:30 PM CT",
+   "neutral": false,
+   "venue": "Albertsons Stadium, Boise, ID",
+   "final": null,
+   "spread": "Boise State −16.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "42°F · Wind 7 mph · Rain 20%",
+   "flags": [
+    "San Diego State: one win from bowl eligibility",
+    "Boise State: ranked #24 (CFP)"
+   ],
+   "away": {
+    "name": "San Diego State",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 4–6",
+    "last": [
+     {
+      "result": "W 30–13",
+      "opponent": "vs Utah State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "W 26–20",
+      "opponent": "vs Washington State",
+      "opp_record": "(2–8)"
+     },
+     {
+      "result": "L 49–56",
+      "opponent": "at Colorado State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 26–23",
+      "opponent": "vs Fresno State",
+      "opp_record": "(5–5)"
+     }
+    ],
+    "win_pct": 14,
+    "news": null
+   },
+   "home": {
+    "name": "Boise State",
+    "rank": "#24",
+    "record": "9–1",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "W 46–41",
+      "opponent": "vs Oregon State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 64–38",
+      "opponent": "at Colorado State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "W 46–45",
+      "opponent": "vs Texas State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "W 31–10",
+      "opponent": "at Washington State",
+      "opp_record": "(2–8)"
+     }
+    ],
+    "win_pct": 86,
+    "news": null
+   }
+  },
+  {
+   "id": 401856870,
+   "anchor": "game-401856870",
+   "start": "2026-11-22T03:15:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "9:15 PM CT",
+   "kickoff": "Sat, Nov 21 · 9:15 PM CT",
+   "neutral": false,
+   "venue": "Mountain America Stadium, Tempe, AZ",
+   "final": null,
+   "spread": "Oklahoma State −3",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "64°F · Wind 2 mph · Rain or snow 0%",
+   "flags": [
+    "Oklahoma State: ranked #25 (CFP)"
+   ],
+   "away": {
+    "name": "Oklahoma State",
+    "rank": "#25",
+    "record": "6–4",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "L 27–52",
+      "opponent": "vs Texas Tech",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "W 66–28",
+      "opponent": "at Kansas State",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 49–51",
+      "opponent": "at Iowa State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 57–24",
+      "opponent": "vs Colorado",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 58,
+    "news": null
+   },
+   "home": {
+    "name": "Arizona State",
+    "rank": "",
+    "record": "6–4",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 26–13",
+      "opponent": "at UCF",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 20–10",
+      "opponent": "vs Colorado",
+      "opp_record": "(4–6)"
+     },
+     {
+      "result": "L 20–27",
+      "opponent": "at BYU",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 28–17",
+      "opponent": "vs Kansas State",
+      "opp_record": "(4–6)"
+     }
+    ],
+    "win_pct": 42,
+    "news": null
+   }
+  },
+  {
+   "id": 401864541,
+   "anchor": "game-401864541",
+   "start": "2026-11-22T03:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "9:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 9:30 PM CT",
+   "neutral": false,
+   "venue": "Mackay Stadium, Reno, NV",
+   "final": null,
+   "spread": "Nevada −4",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "24°F · Wind 6 mph · Rain 24%",
+   "flags": [],
+   "away": {
+    "name": "Hawai'i",
+    "rank": "",
+    "record": "3–7",
+    "ats": "ATS 5–5",
+    "last": [
+     {
+      "result": "L 13–21",
+      "opponent": "vs North Dakota State",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "W 17–14",
+      "opponent": "at UTEP",
+      "opp_record": "(1–9)"
+     },
+     {
+      "result": "W 56–21",
+      "opponent": "at Northern Illinois",
+      "opp_record": "(0–10)"
+     },
+     {
+      "result": "L 10–21",
+      "opponent": "vs New Mexico",
+      "opp_record": "(8–2)"
+     }
+    ],
+    "win_pct": 37,
+    "news": null
+   },
+   "home": {
+    "name": "Nevada",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "W 28–7",
+      "opponent": "at Northern Illinois",
+      "opp_record": "(0–10)"
+     },
+     {
+      "result": "L 3–31",
+      "opponent": "vs New Mexico",
+      "opp_record": "(8–2)"
+     },
+     {
+      "result": "L 0–27",
+      "opponent": "at UCLA",
+      "opp_record": "(10–0)"
+     },
+     {
+      "result": "W 28–13",
+      "opponent": "vs San José State",
+      "opp_record": "(5–6)"
+     }
+    ],
+    "win_pct": 63,
+    "news": null
+   }
+  },
+  {
+   "id": 401860919,
+   "anchor": "game-401860919",
+   "start": "2026-11-22T03:30:00+00:00",
+   "day": "Saturday, Nov 21",
+   "time": "9:30 PM CT",
+   "kickoff": "Sat, Nov 21 · 9:30 PM CT",
+   "neutral": false,
+   "venue": "Reser Stadium, Corvallis, OR",
+   "final": null,
+   "spread": "Oregon State −9.5",
+   "line_source": "DraftKings",
+   "tossup": false,
+   "prob_source": "betting odds",
+   "weather": "42°F · Wind 8 mph · Rain 47%",
+   "flags": [
+    "Oregon State: one win from bowl eligibility"
+   ],
+   "away": {
+    "name": "Utah State",
+    "rank": "",
+    "record": "4–6",
+    "ats": "ATS 6–4",
+    "last": [
+     {
+      "result": "L 13–30",
+      "opponent": "at San Diego State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 17–10",
+      "opponent": "vs Fresno State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 31–14",
+      "opponent": "vs Colorado State",
+      "opp_record": "(3–7)"
+     },
+     {
+      "result": "L 17–20",
+      "opponent": "at Texas State",
+      "opp_record": "(6–4)"
+     }
+    ],
+    "win_pct": 25,
+    "news": null
+   },
+   "home": {
+    "name": "Oregon State",
+    "rank": "",
+    "record": "5–5",
+    "ats": "ATS 7–3",
+    "last": [
+     {
+      "result": "L 41–46",
+      "opponent": "at Boise State",
+      "opp_record": "(9–1)"
+     },
+     {
+      "result": "L 21–42",
+      "opponent": "vs Texas State",
+      "opp_record": "(6–4)"
+     },
+     {
+      "result": "L 22–38",
+      "opponent": "at Fresno State",
+      "opp_record": "(5–5)"
+     },
+     {
+      "result": "W 48–30",
+      "opponent": "vs Washington State",
+      "opp_record": "(2–8)"
+     }
+    ],
+    "win_pct": 75,
+    "news": null
+   }
+  }
+ ]
+}
