@@ -3,8 +3,8 @@
  "week": 12,
  "season_type": "regular",
  "title": "Week 12",
- "generated_at": "2026-11-17T17:53:59.333036+00:00",
- "generated_label": "Tue, Nov 17 at 11:53 AM CT",
+ "generated_at": "2026-11-17T18:48:43.099099+00:00",
+ "generated_label": "Tue, Nov 17 at 12:48 PM CT",
  "games": [
   {
    "id": 401866465,
@@ -16,7 +16,7 @@
    "neutral": false,
    "venue": "Waldo Stadium, Kalamazoo, MI",
    "final": null,
-   "spread": "Western Michigan −15.5",
+   "spread": "Western Michigan −14.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
@@ -33,29 +33,26 @@
      {
       "result": "L 7–35",
       "opponent": "vs Central Michigan (neutral)",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 20–24",
       "opponent": "at Ohio",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 14–34",
       "opponent": "vs Toledo",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 25–23",
       "opponent": "at Akron",
-      "opp_record": "(1–9)",
-      "ats": "Missed"
+      "opp_record": "(1–9)"
      }
     ],
-    "win_pct": 16
+    "win_pct": 16,
+    "news": null
    },
    "home": {
     "name": "Western Michigan",
@@ -66,29 +63,26 @@
      {
       "result": "W 42–14",
       "opponent": "at Akron",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "W 23–10",
       "opponent": "vs Bowling Green",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 38–45",
       "opponent": "at Toledo",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 21–14",
       "opponent": "at Central Michigan",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 84
+    "win_pct": 84,
+    "news": null
    }
   },
   {
@@ -105,7 +99,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "39°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "40°F · Wind 6 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Miami (OH)",
@@ -116,29 +110,26 @@
      {
       "result": "W 34–17",
       "opponent": "vs Ohio",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 31–34",
       "opponent": "vs Buffalo",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 28–27",
       "opponent": "at Central Michigan",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 34–14",
       "opponent": "vs Akron",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      }
     ],
-    "win_pct": 75
+    "win_pct": 75,
+    "news": null
    },
    "home": {
     "name": "Kent State",
@@ -149,29 +140,26 @@
      {
       "result": "L 28–33",
       "opponent": "at Bowling Green",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 10–31",
       "opponent": "at Sacramento State",
-      "opp_record": "(2–9)",
-      "ats": "Missed"
+      "opp_record": "(2–9)"
      },
      {
       "result": "W 35–20",
       "opponent": "vs Akron",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "L 2–29",
       "opponent": "at South Florida",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 25
+    "win_pct": 25,
+    "news": null
    }
   },
   {
@@ -188,7 +176,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "41°F · Wind 6 mph · Rain or snow 0%",
+   "weather": "42°F · Wind 5 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Ball State",
@@ -199,29 +187,26 @@
      {
       "result": "L 7–28",
       "opponent": "vs Buffalo",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 30–31",
       "opponent": "at Massachusetts",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 34–17",
       "opponent": "vs Sacramento State",
-      "opp_record": "(2–9)",
-      "ats": "Covered"
+      "opp_record": "(2–9)"
      },
      {
       "result": "W 32–31",
       "opponent": "at Bowling Green",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 23
+    "win_pct": 23,
+    "news": null
    },
    "home": {
     "name": "Ohio",
@@ -232,29 +217,26 @@
      {
       "result": "L 17–34",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 28–20",
       "opponent": "at Akron",
-      "opp_record": "(1–9)",
-      "ats": "Missed"
+      "opp_record": "(1–9)"
      },
      {
       "result": "W 24–20",
       "opponent": "vs Eastern Michigan",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 48–7",
       "opponent": "at Sacramento State",
-      "opp_record": "(2–9)",
-      "ats": "Covered"
+      "opp_record": "(2–9)"
      }
     ],
-    "win_pct": 77
+    "win_pct": 77,
+    "news": null
    }
   },
   {
@@ -284,29 +266,26 @@
      {
       "result": "L 14–42",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 20–28",
       "opponent": "vs Ohio",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 20–35",
       "opponent": "at Kent State",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 14–34",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 41
+    "win_pct": 41,
+    "news": null
    },
    "home": {
     "name": "Massachusetts",
@@ -317,29 +296,26 @@
      {
       "result": "L 0–24",
       "opponent": "at Toledo",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 31–30",
       "opponent": "vs Ball State",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 16–35",
       "opponent": "at UConn",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 18–25",
       "opponent": "at Buffalo",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 59
+    "win_pct": 59,
+    "news": null
    }
   },
   {
@@ -369,29 +345,26 @@
      {
       "result": "W 28–7",
       "opponent": "vs Sacramento State",
-      "opp_record": "(2–9)",
-      "ats": "Covered"
+      "opp_record": "(2–9)"
      },
      {
       "result": "W 35–7",
       "opponent": "vs Eastern Michigan (neutral)",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 27–28",
       "opponent": "vs Miami (OH)",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 14–21",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 48
+    "win_pct": 48,
+    "news": null
    },
    "home": {
     "name": "Buffalo",
@@ -402,29 +375,26 @@
      {
       "result": "W 28–7",
       "opponent": "at Ball State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 34–31",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–24",
       "opponent": "vs Bowling Green",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 25–18",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 52
+    "win_pct": 52,
+    "news": null
    }
   },
   {
@@ -455,29 +425,26 @@
      {
       "result": "L 17–20",
       "opponent": "vs Tulane",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 23–52",
       "opponent": "at North Texas",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 49–51",
       "opponent": "at Florida Atlantic",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 17–38",
       "opponent": "vs Tulsa",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 43
+    "win_pct": 43,
+    "news": null
    },
    "home": {
     "name": "Temple",
@@ -488,29 +455,26 @@
      {
       "result": "L 10–36",
       "opponent": "vs UAB",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 35–42",
       "opponent": "at Navy",
-      "opp_record": "(3–6)",
-      "ats": "Covered"
+      "opp_record": "(3–6)"
      },
      {
       "result": "L 9–17",
       "opponent": "at East Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 31–38",
       "opponent": "vs Charlotte",
-      "opp_record": "(1–9)",
-      "ats": "Missed"
+      "opp_record": "(1–9)"
      }
     ],
-    "win_pct": 57
+    "win_pct": 57,
+    "news": null
    }
   },
   {
@@ -527,7 +491,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 7 mph · Rain 78%",
+   "weather": "71°F · Wind 4 mph · Rain 78%",
    "flags": [
     "Iowa State: one win from bowl eligibility",
     "UCF: one win from bowl eligibility"
@@ -541,29 +505,26 @@
      {
       "result": "W 41–13",
       "opponent": "vs Cincinnati",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 31–42",
       "opponent": "at Baylor",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 51–49",
       "opponent": "vs Oklahoma State",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 3–39",
       "opponent": "at Arizona",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 46
+    "win_pct": 46,
+    "news": null
    },
    "home": {
     "name": "UCF",
@@ -574,29 +535,26 @@
      {
       "result": "L 13–26",
       "opponent": "vs Arizona State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 33–32",
       "opponent": "at Kansas",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 9–41",
       "opponent": "vs Baylor",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 39–31",
       "opponent": "vs BYU",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 54
+    "win_pct": 54,
+    "news": null
    }
   },
   {
@@ -613,7 +571,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 5 mph · Rain or snow 1%",
+   "weather": "57°F · Wind 5 mph · Rain or snow 1%",
    "flags": [],
    "away": {
     "name": "Clemson",
@@ -624,29 +582,26 @@
      {
       "result": "L 6–20",
       "opponent": "vs Georgia Tech",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 18–13",
       "opponent": "at Syracuse",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 36–24",
       "opponent": "at Florida State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 16–20",
       "opponent": "vs Virginia Tech",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 20
+    "win_pct": 20,
+    "news": null
    },
    "home": {
     "name": "Duke",
@@ -657,29 +612,26 @@
      {
       "result": "L 25–36",
       "opponent": "at Miami",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 41–3",
       "opponent": "at NC State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 47–2",
       "opponent": "vs Boston College",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 19–16",
       "opponent": "at Virginia",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 80
+    "win_pct": 80,
+    "news": null
    }
   },
   {
@@ -707,29 +659,26 @@
      {
       "result": "W 33–28",
       "opponent": "vs Kent State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 10–23",
       "opponent": "at Western Michigan",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 24–31",
       "opponent": "at Buffalo",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 31–32",
       "opponent": "vs Ball State",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 15
+    "win_pct": 15,
+    "news": null
    },
    "home": {
     "name": "Toledo",
@@ -740,29 +689,26 @@
      {
       "result": "W 24–0",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 20–17",
       "opponent": "at Sacramento State",
-      "opp_record": "(2–9)",
-      "ats": "Missed"
+      "opp_record": "(2–9)"
      },
      {
       "result": "W 45–38",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 34–14",
       "opponent": "at Eastern Michigan",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 85
+    "win_pct": 85,
+    "news": null
    }
   },
   {
@@ -779,7 +725,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 4 mph · Rain or snow 1%",
+   "weather": "42°F · Wind 5 mph · Rain or snow 1%",
    "flags": [],
    "away": {
     "name": "UTEP",
@@ -790,29 +736,26 @@
      {
       "result": "L 15–27",
       "opponent": "vs Wyoming",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 14–17",
       "opponent": "vs Hawai'i",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 7–31",
       "opponent": "at North Dakota State",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 11–24",
       "opponent": "vs San José State",
-      "opp_record": "(5–6)",
-      "ats": "Missed"
+      "opp_record": "(5–6)"
      }
     ],
-    "win_pct": 8
+    "win_pct": 8,
+    "news": null
    },
    "home": {
     "name": "Air Force",
@@ -823,29 +766,26 @@
      {
       "result": "W 24–3",
       "opponent": "vs San José State",
-      "opp_record": "(5–6)",
-      "ats": "Covered"
+      "opp_record": "(5–6)"
      },
      {
       "result": "W 24–21",
       "opponent": "at Army",
-      "opp_record": "(5–4)",
-      "ats": "Covered"
+      "opp_record": "(5–4)"
      },
      {
       "result": "W 35–26",
       "opponent": "vs UConn",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 14–28",
       "opponent": "at Wyoming",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 92
+    "win_pct": 92,
+    "news": null
    }
   },
   {
@@ -875,29 +815,26 @@
      {
       "result": "W 31–7",
       "opponent": "vs Michigan",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 41–28",
       "opponent": "at Ohio State",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 34–26",
       "opponent": "vs Northwestern",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 10–21",
       "opponent": "at Illinois",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 85
+    "win_pct": 85,
+    "news": null
    },
    "home": {
     "name": "Michigan State",
@@ -908,29 +845,26 @@
      {
       "result": "L 14–21",
       "opponent": "vs Washington",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 15–6",
       "opponent": "at Michigan",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 10–28",
       "opponent": "at UCLA",
-      "opp_record": "(10–0)",
-      "ats": "Missed"
+      "opp_record": "(10–0)"
      },
      {
       "result": "L 21–24",
       "opponent": "vs Northwestern",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 15
+    "win_pct": 15,
+    "news": null
    }
   },
   {
@@ -947,7 +881,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "32°F · Wind 9 mph · Rain or snow 6%",
+   "weather": "30°F · Wind 7 mph · Rain or snow 6%",
    "flags": [],
    "away": {
     "name": "New Mexico",
@@ -958,29 +892,26 @@
      {
       "result": "L 17–21",
       "opponent": "vs UNLV",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–3",
       "opponent": "at Nevada",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 21–16",
       "opponent": "at San José State",
-      "opp_record": "(5–6)",
-      "ats": "Missed"
+      "opp_record": "(5–6)"
      },
      {
       "result": "W 21–16",
       "opponent": "vs North Dakota State",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 72
+    "win_pct": 72,
+    "news": null
    },
    "home": {
     "name": "Wyoming",
@@ -991,29 +922,26 @@
      {
       "result": "W 27–15",
       "opponent": "at UTEP",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "W 41–35",
       "opponent": "at UNLV",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 28–14",
       "opponent": "vs Air Force",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 41–23",
       "opponent": "vs Northern Illinois",
-      "opp_record": "(0–10)",
-      "ats": "Covered"
+      "opp_record": "(0–10)"
      }
     ],
-    "win_pct": 28
+    "win_pct": 28,
+    "news": null
    }
   },
   {
@@ -1030,7 +958,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 4 mph · Rain or snow 0%",
+   "weather": "58°F · Wind 4 mph · Rain or snow 0%",
    "flags": [
     "Army: one win from bowl eligibility",
     "Army: off a bye week"
@@ -1044,29 +972,26 @@
      {
       "result": "W 17–16",
       "opponent": "at Charlotte",
-      "opp_record": "(1–9)",
-      "ats": "Missed"
+      "opp_record": "(1–9)"
      },
      {
       "result": "W 20–17",
       "opponent": "vs South Florida",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 17–9",
       "opponent": "vs Temple",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      },
      {
       "result": "L 34–41",
       "opponent": "at Memphis",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 34
+    "win_pct": 34,
+    "news": null
    },
    "home": {
     "name": "Army",
@@ -1077,29 +1002,26 @@
      {
       "result": "L 21–24",
       "opponent": "vs Air Force",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 22–49",
       "opponent": "at Memphis",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 38–35",
       "opponent": "at Tulsa",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 56–24",
       "opponent": "vs Florida Atlantic",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 66
+    "win_pct": 66,
+    "news": null
    }
   },
   {
@@ -1116,7 +1038,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 2 mph · Rain or snow 0%",
+   "weather": "59°F · Wind 3 mph · Rain or snow 0%",
    "flags": [
     "Syracuse: one win from bowl eligibility"
    ],
@@ -1129,29 +1051,26 @@
      {
       "result": "W 34–31",
       "opponent": "at NC State",
-      "opp_record": "(4–6)",
-      "ats": "Push"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 13–18",
       "opponent": "vs Clemson",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 30–27",
       "opponent": "vs SMU",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 31–30",
       "opponent": "at North Carolina",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 55
+    "win_pct": 55,
+    "news": null
    },
    "home": {
     "name": "Boston College",
@@ -1162,29 +1081,26 @@
      {
       "result": "L 7–41",
       "opponent": "at Notre Dame",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 24–31",
       "opponent": "vs Florida State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 2–47",
       "opponent": "at Duke",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 49–27",
       "opponent": "at Georgia Tech",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 45
+    "win_pct": 45,
+    "news": null
    }
   },
   {
@@ -1201,7 +1117,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 4 mph · Rain or snow 3%",
+   "weather": "59°F · Wind 3 mph · Rain or snow 3%",
    "flags": [
     "Cincinnati: one win from bowl eligibility"
    ],
@@ -1214,29 +1130,26 @@
      {
       "result": "W 42–32",
       "opponent": "vs Houston",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 10–20",
       "opponent": "at Arizona State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 27–24",
       "opponent": "vs Kansas State",
-      "opp_record": "(4–6)",
-      "ats": "Push"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 24–57",
       "opponent": "at Oklahoma State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 41
+    "win_pct": 41,
+    "news": null
    },
    "home": {
     "name": "Cincinnati",
@@ -1247,29 +1160,26 @@
      {
       "result": "L 13–41",
       "opponent": "at Iowa State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 24–31",
       "opponent": "at Houston",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 25–49",
       "opponent": "vs Utah",
-      "opp_record": "(10–0)",
-      "ats": "Missed"
+      "opp_record": "(10–0)"
      },
      {
       "result": "W 37–24",
       "opponent": "vs Texas Tech",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      }
     ],
-    "win_pct": 59
+    "win_pct": 59,
+    "news": null
    }
   },
   {
@@ -1286,7 +1196,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 7 mph · Rain 32%",
+   "weather": "71°F · Wind 9 mph · Rain 32%",
    "flags": [
     "Florida: ranked #23 (AP)"
    ],
@@ -1299,29 +1209,26 @@
      {
       "result": "L 6–21",
       "opponent": "vs Alabama",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 25–23",
       "opponent": "at Mississippi State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 17–34",
       "opponent": "at Kentucky",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 21–31",
       "opponent": "vs Arkansas",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 19
+    "win_pct": 19,
+    "news": null
    },
    "home": {
     "name": "Florida",
@@ -1332,29 +1239,26 @@
      {
       "result": "W 21–14",
       "opponent": "at Kentucky",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 7–23",
       "opponent": "vs Oklahoma",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 8–27",
       "opponent": "vs Georgia (neutral)",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 27–24",
       "opponent": "at Texas",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 81
+    "win_pct": 81,
+    "news": null
    }
   },
   {
@@ -1371,7 +1275,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 10 mph · Rain 22%",
+   "weather": "64°F · Wind 12 mph · Rain 22%",
    "flags": [
     "Wake Forest: ranked #13 (CFP)"
    ],
@@ -1384,29 +1288,26 @@
      {
       "result": "W 49–7",
       "opponent": "at SMU",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 77–0",
       "opponent": "vs Merrimack",
-      "opp_record": "(5–6)",
-      "ats": "Covered"
+      "opp_record": "(5–6)"
      },
      {
       "result": "W 51–7",
       "opponent": "vs Virginia",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 41–7",
       "opponent": "at California",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 90
+    "win_pct": 90,
+    "news": null
    },
    "home": {
     "name": "Georgia Tech",
@@ -1417,29 +1318,26 @@
      {
       "result": "W 20–6",
       "opponent": "at Clemson",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 17–44",
       "opponent": "vs Louisville",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 11–34",
       "opponent": "at Pittsburgh",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 27–49",
       "opponent": "vs Boston College",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 10
+    "win_pct": 10,
+    "news": null
    }
   },
   {
@@ -1456,7 +1354,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 19 mph · Rain or snow 7%",
+   "weather": "64°F · Wind 22 mph · Rain or snow 7%",
    "flags": [
     "BYU: ranked #10 (CFP)"
    ],
@@ -1469,29 +1367,26 @@
      {
       "result": "W 28–7",
       "opponent": "vs Baylor",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 20–28",
       "opponent": "at Utah",
-      "opp_record": "(10–0)",
-      "ats": "Missed"
+      "opp_record": "(10–0)"
      },
      {
       "result": "W 27–20",
       "opponent": "vs Arizona State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 31–39",
       "opponent": "at UCF",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 66
+    "win_pct": 66,
+    "news": null
    },
    "home": {
     "name": "Kansas",
@@ -1502,29 +1397,26 @@
      {
       "result": "W 37–14",
       "opponent": "at West Virginia",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 32–33",
       "opponent": "vs UCF",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 16–22",
       "opponent": "at TCU",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 25–24",
       "opponent": "vs Baylor",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 34
+    "win_pct": 34,
+    "news": null
    }
   },
   {
@@ -1541,7 +1433,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "56°F · Wind 6 mph · Rain 59%",
+   "weather": "58°F · Wind 9 mph · Rain 59%",
    "flags": [
     "Minnesota: one win from bowl eligibility"
    ],
@@ -1554,29 +1446,26 @@
      {
       "result": "L 19–28",
       "opponent": "at Ohio State",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 10–24",
       "opponent": "vs Iowa",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 26–34",
       "opponent": "at Oregon",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 42–14",
       "opponent": "vs Rutgers",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      }
     ],
-    "win_pct": 58
+    "win_pct": 58,
+    "news": null
    },
    "home": {
     "name": "Minnesota",
@@ -1587,29 +1476,26 @@
      {
       "result": "L 14–42",
       "opponent": "at Penn State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 20–34",
       "opponent": "vs UCLA",
-      "opp_record": "(10–0)",
-      "ats": "Missed"
+      "opp_record": "(10–0)"
      },
      {
       "result": "L 16–23",
       "opponent": "at Indiana",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 13–10",
       "opponent": "vs Iowa",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 42
+    "win_pct": 42,
+    "news": null
    }
   },
   {
@@ -1626,7 +1512,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 4 mph · Rain or snow 1%",
+   "weather": "58°F · Wind 3 mph · Rain or snow 1%",
    "flags": [
     "Memphis: ranked #24 (AP)",
     "Navy: off a bye week"
@@ -1640,29 +1526,26 @@
      {
       "result": "W 52–41",
       "opponent": "at South Florida",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 49–22",
       "opponent": "vs Army",
-      "opp_record": "(5–4)",
-      "ats": "Covered"
+      "opp_record": "(5–4)"
      },
      {
       "result": "W 41–34",
       "opponent": "vs East Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 17–31",
       "opponent": "at Tulane",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 60
+    "win_pct": 60,
+    "news": null
    },
    "home": {
     "name": "Navy",
@@ -1673,29 +1556,26 @@
      {
       "result": "W 42–35",
       "opponent": "vs Temple",
-      "opp_record": "(2–8)",
-      "ats": "Missed"
+      "opp_record": "(2–8)"
      },
      {
       "result": "L 13–35",
       "opponent": "vs Notre Dame (neutral)",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 39–49",
       "opponent": "vs North Texas",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 34–38",
       "opponent": "at UTSA",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 40
+    "win_pct": 40,
+    "news": null
    }
   },
   {
@@ -1712,7 +1592,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 11 mph · Rain 33%",
+   "weather": "60°F · Wind 14 mph · Rain 33%",
    "flags": [
     "Ohio State: ranked #20 (CFP)"
    ],
@@ -1725,29 +1605,26 @@
      {
       "result": "W 28–19",
       "opponent": "vs Northwestern",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 28–41",
       "opponent": "vs Oregon",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 18–30",
       "opponent": "at USC",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 19–15",
       "opponent": "at Indiana",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      }
     ],
-    "win_pct": 59
+    "win_pct": 59,
+    "news": null
    },
    "home": {
     "name": "Nebraska",
@@ -1758,29 +1635,26 @@
      {
       "result": "W 31–0",
       "opponent": "at Rutgers",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      },
      {
       "result": "L 13–24",
       "opponent": "at Illinois",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 10–17",
       "opponent": "vs Washington",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 14–17",
       "opponent": "at Oregon",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 41
+    "win_pct": 41,
+    "news": null
    }
   },
   {
@@ -1797,7 +1671,7 @@
    "line_source": "",
    "tossup": false,
    "prob_source": null,
-   "weather": "61°F · Wind 7 mph · Rain or snow 5%",
+   "weather": "64°F · Wind 8 mph · Rain or snow 5%",
    "flags": [
     "Wofford: off a bye week",
     "Ole Miss: ranked #19 (CFP)"
@@ -1811,11 +1685,11 @@
      {
       "result": "L 15–36",
       "opponent": "at Kent State",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": null
+    "win_pct": null,
+    "news": null
    },
    "home": {
     "name": "Ole Miss",
@@ -1826,29 +1700,26 @@
      {
       "result": "L 17–24",
       "opponent": "at Oklahoma",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 7–42",
       "opponent": "vs Georgia",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 45–15",
       "opponent": "vs Auburn",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 27–34",
       "opponent": "at Texas",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": null
+    "win_pct": null,
+    "news": null
    }
   },
   {
@@ -1876,29 +1747,26 @@
      {
       "result": "L 21–24",
       "opponent": "at Maryland",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 31–10",
       "opponent": "vs Rutgers",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      },
      {
       "result": "L 0–30",
       "opponent": "at Iowa",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 24–7",
       "opponent": "vs USC",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 66
+    "win_pct": 66,
+    "news": null
    },
    "home": {
     "name": "Purdue",
@@ -1909,29 +1777,26 @@
      {
       "result": "L 7–28",
       "opponent": "at Iowa",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 29–34",
       "opponent": "vs Maryland",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 17–31",
       "opponent": "at Penn State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 26–38",
       "opponent": "vs Washington",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 34
+    "win_pct": 34,
+    "news": null
    }
   },
   {
@@ -1944,11 +1809,11 @@
    "neutral": false,
    "venue": "Yulman Stadium, New Orleans, LA",
    "final": null,
-   "spread": "North Texas −6.5",
+   "spread": "North Texas −6",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "68°F · Wind 6 mph · Rain or snow 3%",
+   "weather": "66°F · Wind 10 mph · Rain or snow 3%",
    "flags": [
     "Tulane: one win from bowl eligibility"
    ],
@@ -1961,29 +1826,26 @@
      {
       "result": "L 16–35",
       "opponent": "at UTSA",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 52–23",
       "opponent": "vs Rice",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "W 48–41",
       "opponent": "vs Florida Atlantic",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 49–39",
       "opponent": "at Navy",
-      "opp_record": "(3–6)",
-      "ats": "Covered"
+      "opp_record": "(3–6)"
      }
     ],
-    "win_pct": 69
+    "win_pct": 68,
+    "news": null
    },
    "home": {
     "name": "Tulane",
@@ -1994,29 +1856,26 @@
      {
       "result": "W 20–17",
       "opponent": "at Rice",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "L 10–60",
       "opponent": "vs Tulsa",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 38–31",
       "opponent": "at Charlotte",
-      "opp_record": "(1–9)",
-      "ats": "Missed"
+      "opp_record": "(1–9)"
      },
      {
       "result": "L 19–42",
       "opponent": "vs UTSA",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 31
+    "win_pct": 32,
+    "news": null
    }
   },
   {
@@ -2033,7 +1892,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "62°F · Wind 3 mph · Rain or snow 3%",
+   "weather": "60°F · Wind 4 mph · Rain or snow 3%",
    "flags": [
     "North Carolina: one win from bowl eligibility",
     "Virginia: one win from bowl eligibility"
@@ -2047,29 +1906,26 @@
      {
       "result": "L 14–16",
       "opponent": "vs Louisville",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 38–21",
       "opponent": "at UConn",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 35–38",
       "opponent": "vs Miami",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 30–31",
       "opponent": "vs Syracuse",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 48
+    "win_pct": 48,
+    "news": null
    },
    "home": {
     "name": "Virginia",
@@ -2080,29 +1936,26 @@
      {
       "result": "W 36–7",
       "opponent": "vs California",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 7–51",
       "opponent": "at Wake Forest",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 16–19",
       "opponent": "vs Duke",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 13–23",
       "opponent": "at SMU",
-      "opp_record": "(7–3)",
-      "ats": "Push"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 52
+    "win_pct": 52,
+    "news": null
    }
   },
   {
@@ -2119,7 +1972,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 6 mph · Rain or snow 4%",
+   "weather": "60°F · Wind 7 mph · Rain or snow 4%",
    "flags": [
     "Liberty: ranked #22 (AP)"
    ],
@@ -2132,29 +1985,26 @@
      {
       "result": "W 34–24",
       "opponent": "vs Jacksonville State",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 42–51",
       "opponent": "at Middle Tennessee",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 21–35",
       "opponent": "vs Delaware",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 16–3",
       "opponent": "at Sam Houston",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      }
     ],
-    "win_pct": 14
+    "win_pct": 14,
+    "news": null
    },
    "home": {
     "name": "Liberty",
@@ -2165,29 +2015,26 @@
      {
       "result": "W 28–23",
       "opponent": "vs Middle Tennessee",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 30–14",
       "opponent": "at New Mexico State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 49–10",
       "opponent": "vs Florida International",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 34–6",
       "opponent": "at Kennesaw State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 86
+    "win_pct": 86,
+    "news": null
    }
   },
   {
@@ -2204,7 +2051,7 @@
    "line_source": "",
    "tossup": false,
    "prob_source": null,
-   "weather": "66°F · Wind 9 mph · Rain or snow 5%",
+   "weather": "61°F · Wind 6 mph · Rain or snow 5%",
    "flags": [],
    "away": {
     "name": "Tennessee Tech",
@@ -2212,7 +2059,8 @@
     "record": "9–2",
     "ats": "ATS 0–0",
     "last": [],
-    "win_pct": null
+    "win_pct": null,
+    "news": null
    },
    "home": {
     "name": "Mississippi State",
@@ -2223,29 +2071,26 @@
      {
       "result": "L 9–41",
       "opponent": "vs Auburn",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 23–25",
       "opponent": "vs Vanderbilt",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 3–31",
       "opponent": "at Texas",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 15–23",
       "opponent": "vs Oklahoma",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": null
+    "win_pct": null,
+    "news": null
    }
   },
   {
@@ -2262,7 +2107,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "63°F · Wind 3 mph · Rain or snow 1%",
+   "weather": "64°F · Wind 2 mph · Rain or snow 1%",
    "flags": [
     "Houston: ranked #14 (CFP)",
     "West Virginia: one win from bowl eligibility"
@@ -2276,29 +2121,26 @@
      {
       "result": "L 32–42",
       "opponent": "at Colorado",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 31–24",
       "opponent": "vs Cincinnati",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 13–21",
       "opponent": "at Utah",
-      "opp_record": "(10–0)",
-      "ats": "Missed"
+      "opp_record": "(10–0)"
      },
      {
       "result": "W 35–32",
       "opponent": "vs Oklahoma State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 73
+    "win_pct": 73,
+    "news": null
    },
    "home": {
     "name": "West Virginia",
@@ -2309,29 +2151,26 @@
      {
       "result": "L 14–37",
       "opponent": "vs Kansas",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 48–53",
       "opponent": "at Texas Tech",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 24–20",
       "opponent": "at TCU",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 45–42",
       "opponent": "vs Cincinnati",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 27
+    "win_pct": 27,
+    "news": null
    }
   },
   {
@@ -2348,7 +2187,7 @@
    "line_source": "",
    "tossup": false,
    "prob_source": null,
-   "weather": "61°F · Wind 6 mph · Rain or snow 10%",
+   "weather": "66°F · Wind 6 mph · Rain or snow 10%",
    "flags": [
     "Alabama: ranked #3 (CFP)"
    ],
@@ -2358,7 +2197,8 @@
     "record": "7–4",
     "ats": "ATS 0–0",
     "last": [],
-    "win_pct": null
+    "win_pct": null,
+    "news": null
    },
    "home": {
     "name": "Alabama",
@@ -2369,29 +2209,26 @@
      {
       "result": "W 21–6",
       "opponent": "at Vanderbilt",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 31–13",
       "opponent": "at LSU",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–20",
       "opponent": "vs Texas A&M",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 10–26",
       "opponent": "at Tennessee",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": null
+    "win_pct": null,
+    "news": null
    }
   },
   {
@@ -2408,7 +2245,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 7 mph · Rain or snow 15%",
+   "weather": "72°F · Wind 8 mph · Rain or snow 15%",
    "flags": [],
    "away": {
     "name": "Missouri State",
@@ -2419,29 +2256,26 @@
      {
       "result": "W 27–21",
       "opponent": "vs New Mexico State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 20–23",
       "opponent": "at Florida International",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 24–3",
       "opponent": "vs Sam Houston",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "L 38–61",
       "opponent": "at Delaware",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 23
+    "win_pct": 23,
+    "news": null
    },
    "home": {
     "name": "Jacksonville State",
@@ -2452,29 +2286,26 @@
      {
       "result": "L 24–34",
       "opponent": "at Western Kentucky",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 47–14",
       "opponent": "vs Sam Houston",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "W 24–0",
       "opponent": "at New Mexico State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 27–24",
       "opponent": "vs Florida International",
-      "opp_record": "(4–6)",
-      "ats": "Push"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 77
+    "win_pct": 77,
+    "news": null
    }
   },
   {
@@ -2491,7 +2322,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "75°F · Wind 5 mph · Rain or snow 2%",
+   "weather": "74°F · Wind 6 mph · Rain or snow 2%",
    "flags": [
     "Middle Tennessee: one win from bowl eligibility"
    ],
@@ -2504,29 +2335,26 @@
      {
       "result": "L 23–28",
       "opponent": "at Liberty",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 51–42",
       "opponent": "vs Western Kentucky",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 28–44",
       "opponent": "vs Kennesaw State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 26–23",
       "opponent": "at Florida International",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 66
+    "win_pct": 66,
+    "news": null
    },
    "home": {
     "name": "Sam Houston",
@@ -2537,29 +2365,26 @@
      {
       "result": "L 7–26",
       "opponent": "vs Kennesaw State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 14–47",
       "opponent": "at Jacksonville State",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 3–24",
       "opponent": "at Missouri State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 24–30",
       "opponent": "vs New Mexico State",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 34
+    "win_pct": 34,
+    "news": null
    }
   },
   {
@@ -2576,7 +2401,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 13 mph · Rain or snow 11%",
+   "weather": "70°F · Wind 14 mph · Rain or snow 11%",
    "flags": [],
    "away": {
     "name": "Charlotte",
@@ -2587,29 +2412,26 @@
      {
       "result": "L 16–17",
       "opponent": "vs East Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 12–23",
       "opponent": "at UAB",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 31–38",
       "opponent": "vs Tulane",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 38–31",
       "opponent": "at Temple",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      }
     ],
-    "win_pct": 8
+    "win_pct": 8,
+    "news": null
    },
    "home": {
     "name": "Tulsa",
@@ -2620,29 +2442,26 @@
      {
       "result": "W 38–21",
       "opponent": "vs Florida Atlantic",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 60–10",
       "opponent": "at Tulane",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 35–38",
       "opponent": "vs Army",
-      "opp_record": "(5–4)",
-      "ats": "Missed"
+      "opp_record": "(5–4)"
      },
      {
       "result": "W 38–17",
       "opponent": "at Rice",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      }
     ],
-    "win_pct": 92
+    "win_pct": 92,
+    "news": null
    }
   },
   {
@@ -2659,7 +2478,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "48°F · Wind 4 mph · Rain or snow 14%",
+   "weather": "54°F · Wind 7 mph · Rain or snow 14%",
    "flags": [],
    "away": {
     "name": "UL Monroe",
@@ -2670,29 +2489,26 @@
      {
       "result": "L 21–42",
       "opponent": "vs Louisiana",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 19–17",
       "opponent": "at Arkansas State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 21–35",
       "opponent": "vs Southern Miss",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 21–14",
       "opponent": "at Troy",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 17
+    "win_pct": 17,
+    "news": null
    },
    "home": {
     "name": "App State",
@@ -2703,29 +2519,26 @@
      {
       "result": "W 20–16",
       "opponent": "at Marshall",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 23–39",
       "opponent": "vs Georgia State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 3–19",
       "opponent": "at Georgia Southern",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 34–31",
       "opponent": "vs James Madison",
-      "opp_record": "(8–3)",
-      "ats": "Covered"
+      "opp_record": "(8–3)"
      }
     ],
-    "win_pct": 83
+    "win_pct": 83,
+    "news": null
    }
   },
   {
@@ -2742,7 +2555,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "85°F · Wind 10 mph · Rain 31%",
+   "weather": "84°F · Wind 12 mph · Rain 31%",
    "flags": [],
    "away": {
     "name": "South Florida",
@@ -2753,29 +2566,26 @@
      {
       "result": "L 41–52",
       "opponent": "vs Memphis",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 17–20",
       "opponent": "at East Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 30–10",
       "opponent": "vs UAB",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 29–2",
       "opponent": "vs Kent State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 51
+    "win_pct": 51,
+    "news": null
    },
    "home": {
     "name": "Florida Atlantic",
@@ -2786,29 +2596,26 @@
      {
       "result": "L 21–38",
       "opponent": "at Tulsa",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 60–29",
       "opponent": "vs UTSA",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 41–48",
       "opponent": "at North Texas",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 51–49",
       "opponent": "vs Rice",
-      "opp_record": "(1–9)",
-      "ats": "Missed"
+      "opp_record": "(1–9)"
      }
     ],
-    "win_pct": 49
+    "win_pct": 49,
+    "news": null
    }
   },
   {
@@ -2825,7 +2632,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 10 mph · Rain or snow 7%",
+   "weather": "60°F · Wind 7 mph · Rain or snow 7%",
    "flags": [
     "Iowa: ranked #15 (CFP)"
    ],
@@ -2838,29 +2645,26 @@
      {
       "result": "W 28–7",
       "opponent": "vs Purdue",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 24–10",
       "opponent": "at Northwestern",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 30–0",
       "opponent": "vs Wisconsin",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 10–13",
       "opponent": "at Minnesota",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 73
+    "win_pct": 73,
+    "news": null
    },
    "home": {
     "name": "Illinois",
@@ -2871,29 +2675,26 @@
      {
       "result": "L 14–22",
       "opponent": "at UCLA",
-      "opp_record": "(10–0)",
-      "ats": "Covered"
+      "opp_record": "(10–0)"
      },
      {
       "result": "W 24–13",
       "opponent": "vs Nebraska",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 20–17",
       "opponent": "at Maryland",
-      "opp_record": "(4–6)",
-      "ats": "Push"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 21–10",
       "opponent": "vs Oregon",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 27
+    "win_pct": 27,
+    "news": null
    }
   },
   {
@@ -2910,7 +2711,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 11 mph · Rain or snow 12%",
+   "weather": "69°F · Wind 9 mph · Rain or snow 12%",
    "flags": [],
    "away": {
     "name": "Florida International",
@@ -2921,29 +2722,26 @@
      {
       "result": "L 16–24",
       "opponent": "at Delaware",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 23–20",
       "opponent": "vs Missouri State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 10–49",
       "opponent": "at Liberty",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 23–26",
       "opponent": "vs Middle Tennessee",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 40
+    "win_pct": 40,
+    "news": null
    },
    "home": {
     "name": "Kennesaw State",
@@ -2954,29 +2752,26 @@
      {
       "result": "W 26–7",
       "opponent": "at Sam Houston",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "W 42–40",
       "opponent": "vs Delaware",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 44–28",
       "opponent": "at Middle Tennessee",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 6–34",
       "opponent": "vs Liberty",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      }
     ],
-    "win_pct": 60
+    "win_pct": 60,
+    "news": null
    }
   },
   {
@@ -2993,7 +2788,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 4 mph · Rain or snow 1%",
+   "weather": "70°F · Wind 7 mph · Rain or snow 1%",
    "flags": [],
    "away": {
     "name": "Coastal Carolina",
@@ -3004,29 +2799,26 @@
      {
       "result": "W 28–21",
       "opponent": "vs Arkansas State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 8–21",
       "opponent": "vs Old Dominion",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 31–20",
       "opponent": "at Georgia State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 32–35",
       "opponent": "vs App State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 23
+    "win_pct": 23,
+    "news": null
    },
    "home": {
     "name": "Louisiana",
@@ -3037,29 +2829,26 @@
      {
       "result": "W 42–21",
       "opponent": "at UL Monroe",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      },
      {
       "result": "W 28–26",
       "opponent": "vs South Alabama",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 31–35",
       "opponent": "at Southern Miss",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 33–6",
       "opponent": "vs Troy",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 77
+    "win_pct": 77,
+    "news": null
    }
   },
   {
@@ -3076,7 +2865,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "61°F · Wind 23 mph · Rain or snow 0%",
+   "weather": "61°F · Wind 19 mph · Rain or snow 0%",
    "flags": [
     "Delaware: one win from bowl eligibility"
    ],
@@ -3089,29 +2878,26 @@
      {
       "result": "W 24–16",
       "opponent": "vs Florida International",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 40–42",
       "opponent": "at Kennesaw State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 35–21",
       "opponent": "at Western Kentucky",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 61–38",
       "opponent": "vs Missouri State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 60
+    "win_pct": 60,
+    "news": null
    },
    "home": {
     "name": "New Mexico State",
@@ -3122,29 +2908,26 @@
      {
       "result": "L 21–27",
       "opponent": "at Missouri State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 14–30",
       "opponent": "vs Liberty",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 0–24",
       "opponent": "vs Jacksonville State",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 30–24",
       "opponent": "at Sam Houston",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      }
     ],
-    "win_pct": 40
+    "win_pct": 40,
+    "news": null
    }
   },
   {
@@ -3161,7 +2944,7 @@
    "line_source": "",
    "tossup": false,
    "prob_source": null,
-   "weather": "58°F · Wind 11 mph · Rain or snow 11%",
+   "weather": "72°F · Wind 8 mph · Rain or snow 11%",
    "flags": [
     "Samford: off a bye week"
    ],
@@ -3174,11 +2957,11 @@
      {
       "result": "L 14–33",
       "opponent": "at UAB",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": null
+    "win_pct": null,
+    "news": null
    },
    "home": {
     "name": "Auburn",
@@ -3189,29 +2972,26 @@
      {
       "result": "W 41–9",
       "opponent": "at Mississippi State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 26–23",
       "opponent": "vs Arkansas",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 15–45",
       "opponent": "at Ole Miss",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 17–38",
       "opponent": "vs LSU",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": null
+    "win_pct": null,
+    "news": null
    }
   },
   {
@@ -3228,7 +3008,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "75°F · Wind 12 mph · Rain or snow 3%",
+   "weather": "75°F · Wind 13 mph · Rain or snow 3%",
    "flags": [
     "Texas Tech: ranked #12 (CFP)"
    ],
@@ -3241,29 +3021,26 @@
      {
       "result": "W 52–27",
       "opponent": "at Oklahoma State",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 53–48",
       "opponent": "vs West Virginia",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 34–26",
       "opponent": "vs Arizona",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 24–37",
       "opponent": "at Cincinnati",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 60
+    "win_pct": 60,
+    "news": null
    },
    "home": {
     "name": "Baylor",
@@ -3274,29 +3051,26 @@
      {
       "result": "L 7–28",
       "opponent": "at BYU",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 42–31",
       "opponent": "vs Iowa State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 41–9",
       "opponent": "at UCF",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 24–25",
       "opponent": "at Kansas",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 40
+    "win_pct": 40,
+    "news": null
    }
   },
   {
@@ -3313,7 +3087,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 7 mph · Rain or snow 18%",
+   "weather": "71°F · Wind 8 mph · Rain or snow 18%",
    "flags": [
     "Florida State: one win from bowl eligibility"
    ],
@@ -3326,29 +3100,26 @@
      {
       "result": "L 31–34",
       "opponent": "vs Syracuse",
-      "opp_record": "(5–5)",
-      "ats": "Push"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 3–41",
       "opponent": "vs Duke",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 31–10",
       "opponent": "vs California",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 28–31",
       "opponent": "at Stanford",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 24
+    "win_pct": 24,
+    "news": null
    },
    "home": {
     "name": "Florida State",
@@ -3359,29 +3130,26 @@
      {
       "result": "W 16–10",
       "opponent": "at Pittsburgh",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–24",
       "opponent": "at Boston College",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 24–36",
       "opponent": "vs Clemson",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 35–43",
       "opponent": "at Miami",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      }
     ],
-    "win_pct": 76
+    "win_pct": 76,
+    "news": null
    }
   },
   {
@@ -3412,29 +3180,26 @@
      {
       "result": "W 22–14",
       "opponent": "vs Illinois",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 34–20",
       "opponent": "at Minnesota",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 27–0",
       "opponent": "vs Nevada",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 28–10",
       "opponent": "vs Michigan State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 62
+    "win_pct": 62,
+    "news": null
    },
    "home": {
     "name": "Michigan",
@@ -3445,29 +3210,26 @@
      {
       "result": "L 7–31",
       "opponent": "at Oregon",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 6–15",
       "opponent": "vs Michigan State",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 28–21",
       "opponent": "at Rutgers",
-      "opp_record": "(2–8)",
-      "ats": "Missed"
+      "opp_record": "(2–8)"
      },
      {
       "result": "L 6–13",
       "opponent": "vs Indiana",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      }
     ],
-    "win_pct": 38
+    "win_pct": 38,
+    "news": null
    }
   },
   {
@@ -3495,29 +3257,26 @@
      {
       "result": "L 0–31",
       "opponent": "vs Nebraska",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 10–31",
       "opponent": "at Wisconsin",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 21–28",
       "opponent": "vs Michigan",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 14–42",
       "opponent": "at Northwestern",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 7
+    "win_pct": 7,
+    "news": null
    },
    "home": {
     "name": "Penn State",
@@ -3528,29 +3287,26 @@
      {
       "result": "W 42–14",
       "opponent": "vs Minnesota",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 28–25",
       "opponent": "at Washington",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–17",
       "opponent": "vs Purdue",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 18–21",
       "opponent": "at Michigan",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 93
+    "win_pct": 93,
+    "news": null
    }
   },
   {
@@ -3567,7 +3323,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "68°F · Wind 2 mph · Rain or snow 6%",
+   "weather": "67°F · Wind 2 mph · Rain or snow 6%",
    "flags": [
     "LSU: ranked #21 (CFP)",
     "Tennessee: ranked #8 (CFP)"
@@ -3581,29 +3337,26 @@
      {
       "result": "L 21–22",
       "opponent": "vs Texas",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 13–31",
       "opponent": "vs Alabama",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 38–17",
       "opponent": "at Auburn",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–0",
       "opponent": "vs Mississippi State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 51
+    "win_pct": 51,
+    "news": null
    },
    "home": {
     "name": "Tennessee",
@@ -3614,29 +3367,26 @@
      {
       "result": "W 22–7",
       "opponent": "at Texas A&M",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 34–6",
       "opponent": "vs Kentucky",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 24–27",
       "opponent": "at South Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 26–10",
       "opponent": "vs Alabama",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 49
+    "win_pct": 49,
+    "news": null
    }
   },
   {
@@ -3653,7 +3403,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "75°F · Wind 9 mph · Rain or snow 4%",
+   "weather": "72°F · Wind 10 mph · Rain or snow 4%",
    "flags": [
     "Texas: ranked #6 (CFP)"
    ],
@@ -3666,29 +3416,26 @@
      {
       "result": "W 34–6",
       "opponent": "vs South Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 23–26",
       "opponent": "at Auburn",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 10–34",
       "opponent": "vs Missouri",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–21",
       "opponent": "at Vanderbilt",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 10
+    "win_pct": 10,
+    "news": null
    },
    "home": {
     "name": "Texas",
@@ -3699,29 +3446,26 @@
      {
       "result": "W 22–21",
       "opponent": "at LSU",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 34–20",
       "opponent": "at Missouri",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–3",
       "opponent": "vs Mississippi State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 34–27",
       "opponent": "vs Ole Miss",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 90
+    "win_pct": 90,
+    "news": null
    }
   },
   {
@@ -3738,7 +3482,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 4 mph · Rain or snow 0%",
+   "weather": "60°F · Wind 3 mph · Rain or snow 0%",
    "flags": [
     "Old Dominion: off a bye week",
     "UConn: one win from bowl eligibility"
@@ -3752,29 +3496,26 @@
      {
       "result": "W 21–8",
       "opponent": "at Coastal Carolina",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 23–36",
       "opponent": "vs Marshall",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 0–26",
       "opponent": "at Louisiana Tech",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 15–23",
       "opponent": "vs Georgia Southern",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 19
+    "win_pct": 19,
+    "news": null
    },
    "home": {
     "name": "UConn",
@@ -3785,29 +3526,26 @@
      {
       "result": "W 46–22",
       "opponent": "vs James Madison",
-      "opp_record": "(8–3)",
-      "ats": "Covered"
+      "opp_record": "(8–3)"
      },
      {
       "result": "L 21–38",
       "opponent": "vs North Carolina",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 26–35",
       "opponent": "at Air Force",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 35–16",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 81
+    "win_pct": 81,
+    "news": null
    }
   },
   {
@@ -3824,7 +3562,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "48°F · Wind 4 mph · Rain 21%",
+   "weather": "47°F · Wind 0 mph · Rain 21%",
    "flags": [
     "Indiana: ranked #9 (CFP)"
    ],
@@ -3837,29 +3575,26 @@
      {
       "result": "W 27–13",
       "opponent": "vs USC",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 23–16",
       "opponent": "vs Minnesota",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 13–6",
       "opponent": "at Michigan",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 15–19",
       "opponent": "vs Ohio State",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 73
+    "win_pct": 73,
+    "news": null
    },
    "home": {
     "name": "Washington",
@@ -3870,29 +3605,26 @@
      {
       "result": "W 21–14",
       "opponent": "at Michigan State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 25–28",
       "opponent": "vs Penn State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 17–10",
       "opponent": "at Nebraska",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 38–26",
       "opponent": "at Purdue",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 27
+    "win_pct": 27,
+    "news": null
    }
   },
   {
@@ -3909,7 +3641,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 20 mph · Rain or snow 11%",
+   "weather": "69°F · Wind 21 mph · Rain or snow 11%",
    "flags": [],
    "away": {
     "name": "Texas A&M",
@@ -3920,29 +3652,26 @@
      {
       "result": "L 7–22",
       "opponent": "vs Tennessee",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 9–17",
       "opponent": "at South Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 20–31",
       "opponent": "at Alabama",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 41–0",
       "opponent": "vs The Citadel",
-      "opp_record": "(3–8)",
-      "ats": "Missed"
+      "opp_record": "(3–8)"
      }
     ],
-    "win_pct": 28
+    "win_pct": 28,
+    "news": null
    },
    "home": {
     "name": "Oklahoma",
@@ -3953,29 +3682,26 @@
      {
       "result": "W 24–17",
       "opponent": "vs Ole Miss",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 23–7",
       "opponent": "at Florida",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 25–42",
       "opponent": "vs South Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 23–15",
       "opponent": "at Mississippi State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 72
+    "win_pct": 72,
+    "news": null
    }
   },
   {
@@ -3992,7 +3718,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "63°F · Wind 3 mph · Rain or snow 3%",
+   "weather": "64°F · Wind 3 mph · Rain or snow 3%",
    "flags": [
     "Georgia State: one win from bowl eligibility",
     "Marshall: one win from bowl eligibility"
@@ -4006,29 +3732,26 @@
      {
       "result": "L 17–34",
       "opponent": "vs Georgia Southern",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 39–23",
       "opponent": "at App State",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 20–31",
       "opponent": "vs Coastal Carolina",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 32–38",
       "opponent": "at Arkansas State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 50
+    "win_pct": 50,
+    "news": null
    },
    "home": {
     "name": "Marshall",
@@ -4039,29 +3762,26 @@
      {
       "result": "L 16–20",
       "opponent": "vs App State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 13–49",
       "opponent": "at Georgia Southern",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 36–23",
       "opponent": "at Old Dominion",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 20–13",
       "opponent": "vs South Alabama",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 50
+    "win_pct": 50,
+    "news": null
    }
   },
   {
@@ -4089,29 +3809,26 @@
      {
       "result": "L 7–28",
       "opponent": "vs Nevada",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 19–30",
       "opponent": "at San José State",
-      "opp_record": "(5–6)",
-      "ats": "Covered"
+      "opp_record": "(5–6)"
      },
      {
       "result": "L 24–31",
       "opponent": "at UNLV",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 21–56",
       "opponent": "vs Hawai'i",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 6
+    "win_pct": 6,
+    "news": null
    },
    "home": {
     "name": "North Dakota State",
@@ -4122,29 +3839,26 @@
      {
       "result": "W 21–13",
       "opponent": "at Hawai'i",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 31–7",
       "opponent": "vs UTEP",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "L 16–21",
       "opponent": "at New Mexico",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 31–17",
       "opponent": "vs Nevada",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 94
+    "win_pct": 94,
+    "news": null
    }
   },
   {
@@ -4161,7 +3875,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "66°F · Wind 6 mph · Rain or snow 4%",
+   "weather": "69°F · Wind 5 mph · Rain or snow 4%",
    "flags": [
     "South Alabama: one win from bowl eligibility"
    ],
@@ -4174,29 +3888,26 @@
      {
       "result": "W 27–14",
       "opponent": "vs Troy",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 26–28",
       "opponent": "at Louisiana",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 20–35",
       "opponent": "vs Louisiana Tech",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 13–20",
       "opponent": "at Marshall",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 62
+    "win_pct": 62,
+    "news": null
    },
    "home": {
     "name": "Southern Miss",
@@ -4207,29 +3918,26 @@
      {
       "result": "L 31–63",
       "opponent": "at Louisiana Tech",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 23–54",
       "opponent": "vs James Madison",
-      "opp_record": "(8–3)",
-      "ats": "Missed"
+      "opp_record": "(8–3)"
      },
      {
       "result": "W 35–21",
       "opponent": "at UL Monroe",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      },
      {
       "result": "W 35–31",
       "opponent": "vs Louisiana",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 38
+    "win_pct": 38,
+    "news": null
    }
   },
   {
@@ -4246,7 +3954,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 8 mph · Rain or snow 9%",
+   "weather": "71°F · Wind 8 mph · Rain or snow 9%",
    "flags": [],
    "away": {
     "name": "Georgia Southern",
@@ -4257,29 +3965,26 @@
      {
       "result": "W 34–17",
       "opponent": "at Georgia State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 49–13",
       "opponent": "vs Marshall",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 19–3",
       "opponent": "vs App State",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 23–15",
       "opponent": "at Old Dominion",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 73
+    "win_pct": 73,
+    "news": null
    },
    "home": {
     "name": "Troy",
@@ -4290,29 +3995,26 @@
      {
       "result": "L 14–27",
       "opponent": "at South Alabama",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 17–41",
       "opponent": "vs Louisiana Tech",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 24–21",
       "opponent": "at James Madison",
-      "opp_record": "(8–3)",
-      "ats": "Covered"
+      "opp_record": "(8–3)"
      },
      {
       "result": "L 14–21",
       "opponent": "vs UL Monroe",
-      "opp_record": "(2–8)",
-      "ats": "Missed"
+      "opp_record": "(2–8)"
      }
     ],
-    "win_pct": 27
+    "win_pct": 27,
+    "news": null
    }
   },
   {
@@ -4329,7 +4031,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "70°F · Wind 6 mph · Rain or snow 5%",
+   "weather": "68°F · Wind 7 mph · Rain or snow 5%",
    "flags": [],
    "away": {
     "name": "Washington State",
@@ -4340,29 +4042,26 @@
      {
       "result": "W 73–7",
       "opponent": "vs Colorado State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 20–26",
       "opponent": "at San Diego State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 10–31",
       "opponent": "vs Boise State",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 30–48",
       "opponent": "at Oregon State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 22
+    "win_pct": 22,
+    "news": null
    },
    "home": {
     "name": "Texas State",
@@ -4373,29 +4072,26 @@
      {
       "result": "W 37–35",
       "opponent": "vs Fresno State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 42–21",
       "opponent": "at Oregon State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 45–46",
       "opponent": "at Boise State",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 20–17",
       "opponent": "vs Utah State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 78
+    "win_pct": 78,
+    "news": null
    }
   },
   {
@@ -4412,7 +4108,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "67°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "66°F · Wind 5 mph · Rain or snow 0%",
    "flags": [
     "USC: ranked #18 (CFP)"
    ],
@@ -4425,29 +4121,26 @@
      {
       "result": "W 24–21",
       "opponent": "vs Wisconsin",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 34–29",
       "opponent": "at Purdue",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 17–20",
       "opponent": "vs Illinois",
-      "opp_record": "(6–4)",
-      "ats": "Push"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 30–37",
       "opponent": "vs Rutgers",
-      "opp_record": "(2–8)",
-      "ats": "Missed"
+      "opp_record": "(2–8)"
      }
     ],
-    "win_pct": 14
+    "win_pct": 14,
+    "news": null
    },
    "home": {
     "name": "USC",
@@ -4458,29 +4151,26 @@
      {
       "result": "L 13–27",
       "opponent": "at Indiana",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 30–18",
       "opponent": "vs Ohio State",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 7–24",
       "opponent": "at Wisconsin",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–23",
       "opponent": "at Penn State",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 86
+    "win_pct": 86,
+    "news": null
    }
   },
   {
@@ -4497,7 +4187,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "61°F · Wind 7 mph · Rain 34%",
+   "weather": "60°F · Wind 8 mph · Rain 34%",
    "flags": [
     "Arizona: ranked #23 (CFP)"
    ],
@@ -4510,29 +4200,26 @@
      {
       "result": "L 39–40",
       "opponent": "vs Utah",
-      "opp_record": "(10–0)",
-      "ats": "Covered"
+      "opp_record": "(10–0)"
      },
      {
       "result": "W 29–28",
       "opponent": "vs TCU",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 26–34",
       "opponent": "at Texas Tech",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 39–3",
       "opponent": "vs Iowa State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 71
+    "win_pct": 71,
+    "news": null
    },
    "home": {
     "name": "Kansas State",
@@ -4543,29 +4230,26 @@
      {
       "result": "L 10–20",
       "opponent": "at TCU",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 28–66",
       "opponent": "vs Oklahoma State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 24–27",
       "opponent": "at Colorado",
-      "opp_record": "(4–6)",
-      "ats": "Push"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 17–28",
       "opponent": "at Arizona State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 29
+    "win_pct": 29,
+    "news": null
    }
   },
   {
@@ -4582,7 +4266,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 6 mph · Rain or snow 1%",
+   "weather": "65°F · Wind 3 mph · Rain or snow 1%",
    "flags": [],
    "away": {
     "name": "Arkansas State",
@@ -4593,29 +4277,26 @@
      {
       "result": "L 21–28",
       "opponent": "at Coastal Carolina",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 17–19",
       "opponent": "vs UL Monroe",
-      "opp_record": "(2–8)",
-      "ats": "Missed"
+      "opp_record": "(2–8)"
      },
      {
       "result": "W 38–32",
       "opponent": "vs Georgia State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 23–13",
       "opponent": "at Southern Miss",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 18
+    "win_pct": 18,
+    "news": null
    },
    "home": {
     "name": "Louisiana Tech",
@@ -4626,29 +4307,26 @@
      {
       "result": "W 63–31",
       "opponent": "vs Southern Miss",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 41–17",
       "opponent": "at Troy",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 35–20",
       "opponent": "at South Alabama",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 26–0",
       "opponent": "vs Old Dominion",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 82
+    "win_pct": 82,
+    "news": null
    }
   },
   {
@@ -4665,7 +4343,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "81°F · Wind 10 mph · Rain 23%",
+   "weather": "79°F · Wind 12 mph · Rain 23%",
    "flags": [
     "Miami: ranked #7 (CFP)"
    ],
@@ -4678,29 +4356,26 @@
      {
       "result": "L 22–40",
       "opponent": "vs Stanford",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 28–51",
       "opponent": "at SMU",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 20–16",
       "opponent": "at Clemson",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 34–24",
       "opponent": "vs Georgia Tech",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 10
+    "win_pct": 10,
+    "news": null
    },
    "home": {
     "name": "Miami",
@@ -4711,29 +4386,26 @@
      {
       "result": "W 36–25",
       "opponent": "vs Duke",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 24–31",
       "opponent": "at Notre Dame",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 38–35",
       "opponent": "at North Carolina",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 52–23",
       "opponent": "vs Pittsburgh",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 90
+    "win_pct": 90,
+    "news": null
    }
   },
   {
@@ -4750,7 +4422,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "56°F · Wind 6 mph · Rain 35%",
+   "weather": "57°F · Wind 5 mph · Rain 35%",
    "flags": [
     "San José State: one win from bowl eligibility"
    ],
@@ -4763,29 +4435,26 @@
      {
       "result": "W 21–17",
       "opponent": "at New Mexico",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 35–41",
       "opponent": "vs Wyoming",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 31–24",
       "opponent": "vs Northern Illinois",
-      "opp_record": "(0–10)",
-      "ats": "Missed"
+      "opp_record": "(0–10)"
      },
      {
       "result": "L 31–41",
       "opponent": "at Air Force",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 69
+    "win_pct": 69,
+    "news": null
    },
    "home": {
     "name": "San José State",
@@ -4796,29 +4465,26 @@
      {
       "result": "L 3–24",
       "opponent": "at Air Force",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 30–19",
       "opponent": "vs Northern Illinois",
-      "opp_record": "(0–10)",
-      "ats": "Missed"
+      "opp_record": "(0–10)"
      },
      {
       "result": "L 16–21",
       "opponent": "vs New Mexico",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 13–28",
       "opponent": "at Nevada",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 31
+    "win_pct": 31,
+    "news": null
    }
   },
   {
@@ -4835,7 +4501,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "51°F · Wind 1 mph · Rain 66%",
+   "weather": "55°F · Wind 7 mph · Rain 66%",
    "flags": [
     "Stanford: one win from bowl eligibility"
    ],
@@ -4848,29 +4514,26 @@
      {
       "result": "W 40–22",
       "opponent": "at Virginia Tech",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 24–52",
       "opponent": "at Louisville",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 31–28",
       "opponent": "vs NC State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 34–7",
       "opponent": "vs Elon",
-      "opp_record": "(6–5)",
-      "ats": "Missed"
+      "opp_record": "(6–5)"
      }
     ],
-    "win_pct": 54
+    "win_pct": 54,
+    "news": null
    },
    "home": {
     "name": "California",
@@ -4881,29 +4544,26 @@
      {
       "result": "L 7–36",
       "opponent": "at Virginia",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 10–31",
       "opponent": "at NC State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 20–59",
       "opponent": "at SMU",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 7–41",
       "opponent": "vs Wake Forest",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      }
     ],
-    "win_pct": 46
+    "win_pct": 46,
+    "news": null
    }
   },
   {
@@ -4920,7 +4580,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 5 mph · Rain or snow 2%",
+   "weather": "58°F · Wind 2 mph · Rain or snow 2%",
    "flags": [
     "Fresno State: one win from bowl eligibility"
    ],
@@ -4933,29 +4593,26 @@
      {
       "result": "L 7–73",
       "opponent": "at Washington State",
-      "opp_record": "(2–8)",
-      "ats": "Missed"
+      "opp_record": "(2–8)"
      },
      {
       "result": "L 38–64",
       "opponent": "vs Boise State",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 14–31",
       "opponent": "at Utah State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 56–49",
       "opponent": "vs San Diego State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 10
+    "win_pct": 10,
+    "news": null
    },
    "home": {
     "name": "Fresno State",
@@ -4966,29 +4623,26 @@
      {
       "result": "L 35–37",
       "opponent": "at Texas State",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 10–17",
       "opponent": "at Utah State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 38–22",
       "opponent": "vs Oregon State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "L 23–26",
       "opponent": "at San Diego State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 90
+    "win_pct": 90,
+    "news": null
    }
   },
   {
@@ -5018,29 +4672,26 @@
      {
       "result": "L 10–16",
       "opponent": "vs Florida State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 34–11",
       "opponent": "vs Georgia Tech",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 23–52",
       "opponent": "at Miami",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 21–27",
       "opponent": "at Boston College",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 18
+    "win_pct": 18,
+    "news": null
    },
    "home": {
     "name": "Louisville",
@@ -5051,29 +4702,26 @@
      {
       "result": "W 16–14",
       "opponent": "at North Carolina",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 44–17",
       "opponent": "at Georgia Tech",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 52–24",
       "opponent": "vs Stanford",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 34–26",
       "opponent": "at Syracuse",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 82
+    "win_pct": 82,
+    "news": null
    }
   },
   {
@@ -5090,7 +4738,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 11 mph · Rain or snow 17%",
+   "weather": "60°F · Wind 10 mph · Rain or snow 17%",
    "flags": [
     "Kentucky: ranked #11 (CFP)",
     "Missouri: ranked #22 (CFP)"
@@ -5104,29 +4752,26 @@
      {
       "result": "L 14–21",
       "opponent": "vs Florida",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 6–34",
       "opponent": "at Tennessee",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 34–17",
       "opponent": "vs Vanderbilt",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 21–13",
       "opponent": "at Oklahoma",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 34
+    "win_pct": 34,
+    "news": null
    },
    "home": {
     "name": "Missouri",
@@ -5137,29 +4782,26 @@
      {
       "result": "L 21–48",
       "opponent": "at Georgia",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 20–34",
       "opponent": "vs Texas",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 34–10",
       "opponent": "at Arkansas",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 3–31",
       "opponent": "at Ole Miss",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 66
+    "win_pct": 66,
+    "news": null
    }
   },
   {
@@ -5189,29 +4831,26 @@
      {
       "result": "L 7–49",
       "opponent": "vs Wake Forest",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 51–28",
       "opponent": "vs Virginia Tech",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 27–30",
       "opponent": "at Syracuse",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 59–20",
       "opponent": "vs California",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      }
     ],
-    "win_pct": 9
+    "win_pct": 9,
+    "news": null
    },
    "home": {
     "name": "Notre Dame",
@@ -5222,29 +4861,26 @@
      {
       "result": "W 41–7",
       "opponent": "vs Boston College",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 31–24",
       "opponent": "vs Miami",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 35–13",
       "opponent": "vs Navy (neutral)",
-      "opp_record": "(3–6)",
-      "ats": "Missed"
+      "opp_record": "(3–6)"
      },
      {
       "result": "L 24–28",
       "opponent": "at BYU",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 91
+    "win_pct": 91,
+    "news": null
    }
   },
   {
@@ -5261,7 +4897,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 12 mph · Rain 25%",
+   "weather": "57°F · Wind 16 mph · Rain 25%",
    "flags": [
     "Georgia: ranked #1 (CFP)",
     "South Carolina: ranked #17 (CFP)"
@@ -5275,29 +4911,26 @@
      {
       "result": "W 48–21",
       "opponent": "vs Missouri",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 42–7",
       "opponent": "at Ole Miss",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 27–8",
       "opponent": "vs Florida (neutral)",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 24–27",
       "opponent": "vs Auburn",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 86
+    "win_pct": 86,
+    "news": null
    },
    "home": {
     "name": "South Carolina",
@@ -5308,29 +4941,26 @@
      {
       "result": "L 6–34",
       "opponent": "at Arkansas",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 17–9",
       "opponent": "vs Texas A&M",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 42–25",
       "opponent": "at Oklahoma",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 27–24",
       "opponent": "vs Tennessee",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 14
+    "win_pct": 14,
+    "news": null
    }
   },
   {
@@ -5347,7 +4977,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 6 mph · Rain or snow 5%",
+   "weather": "66°F · Wind 8 mph · Rain or snow 5%",
    "flags": [],
    "away": {
     "name": "UTSA",
@@ -5358,29 +4988,26 @@
      {
       "result": "W 35–16",
       "opponent": "vs North Texas",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "L 29–60",
       "opponent": "at Florida Atlantic",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 42–19",
       "opponent": "at Tulane",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 38–34",
       "opponent": "vs Navy",
-      "opp_record": "(3–6)",
-      "ats": "Missed"
+      "opp_record": "(3–6)"
      }
     ],
-    "win_pct": 68
+    "win_pct": 68,
+    "news": null
    },
    "home": {
     "name": "UAB",
@@ -5391,29 +5018,26 @@
      {
       "result": "W 36–10",
       "opponent": "at Temple",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      },
      {
       "result": "W 23–12",
       "opponent": "vs Charlotte",
-      "opp_record": "(1–9)",
-      "ats": "Covered"
+      "opp_record": "(1–9)"
      },
      {
       "result": "L 10–30",
       "opponent": "at South Florida",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 30–17",
       "opponent": "vs East Carolina",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 32
+    "win_pct": 32,
+    "news": null
    }
   },
   {
@@ -5430,7 +5054,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "70°F · Wind 10 mph · Rain or snow 7%",
+   "weather": "68°F · Wind 13 mph · Rain or snow 7%",
    "flags": [
     "Utah: ranked #2 (CFP)",
     "TCU: one win from bowl eligibility"
@@ -5444,29 +5068,26 @@
      {
       "result": "W 40–39",
       "opponent": "at Arizona",
-      "opp_record": "(7–3)",
-      "ats": "Missed"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 28–20",
       "opponent": "vs BYU",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 49–25",
       "opponent": "at Cincinnati",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 21–13",
       "opponent": "vs Houston",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      }
     ],
-    "win_pct": 70
+    "win_pct": 70,
+    "news": null
    },
    "home": {
     "name": "TCU",
@@ -5477,29 +5098,26 @@
      {
       "result": "W 20–10",
       "opponent": "vs Kansas State",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 28–29",
       "opponent": "at Arizona",
-      "opp_record": "(7–3)",
-      "ats": "Covered"
+      "opp_record": "(7–3)"
      },
      {
       "result": "W 22–16",
       "opponent": "vs Kansas",
-      "opp_record": "(4–6)",
-      "ats": "Missed"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 20–24",
       "opponent": "vs West Virginia",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 30
+    "win_pct": 30,
+    "news": null
    }
   },
   {
@@ -5516,7 +5134,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "43°F · Wind 6 mph · Rain 20%",
+   "weather": "42°F · Wind 7 mph · Rain 20%",
    "flags": [
     "San Diego State: one win from bowl eligibility",
     "Boise State: ranked #24 (CFP)"
@@ -5530,29 +5148,26 @@
      {
       "result": "W 30–13",
       "opponent": "vs Utah State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "W 26–20",
       "opponent": "vs Washington State",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      },
      {
       "result": "L 49–56",
       "opponent": "at Colorado State",
-      "opp_record": "(3–7)",
-      "ats": "Missed"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 26–23",
       "opponent": "vs Fresno State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      }
     ],
-    "win_pct": 14
+    "win_pct": 14,
+    "news": null
    },
    "home": {
     "name": "Boise State",
@@ -5563,29 +5178,26 @@
      {
       "result": "W 46–41",
       "opponent": "vs Oregon State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 64–38",
       "opponent": "at Colorado State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "W 46–45",
       "opponent": "vs Texas State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "W 31–10",
       "opponent": "at Washington State",
-      "opp_record": "(2–8)",
-      "ats": "Covered"
+      "opp_record": "(2–8)"
      }
     ],
-    "win_pct": 86
+    "win_pct": 86,
+    "news": null
    }
   },
   {
@@ -5602,7 +5214,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "66°F · Wind 2 mph · Rain or snow 0%",
+   "weather": "64°F · Wind 2 mph · Rain or snow 0%",
    "flags": [
     "Oklahoma State: ranked #25 (CFP)"
    ],
@@ -5615,29 +5227,26 @@
      {
       "result": "L 27–52",
       "opponent": "vs Texas Tech",
-      "opp_record": "(9–1)",
-      "ats": "Missed"
+      "opp_record": "(9–1)"
      },
      {
       "result": "W 66–28",
       "opponent": "at Kansas State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 49–51",
       "opponent": "at Iowa State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 57–24",
       "opponent": "vs Colorado",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 58
+    "win_pct": 58,
+    "news": null
    },
    "home": {
     "name": "Arizona State",
@@ -5648,29 +5257,26 @@
      {
       "result": "W 26–13",
       "opponent": "at UCF",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 20–10",
       "opponent": "vs Colorado",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      },
      {
       "result": "L 20–27",
       "opponent": "at BYU",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 28–17",
       "opponent": "vs Kansas State",
-      "opp_record": "(4–6)",
-      "ats": "Covered"
+      "opp_record": "(4–6)"
      }
     ],
-    "win_pct": 42
+    "win_pct": 42,
+    "news": null
    }
   },
   {
@@ -5687,7 +5293,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "26°F · Wind 5 mph · Rain 24%",
+   "weather": "24°F · Wind 6 mph · Rain 24%",
    "flags": [],
    "away": {
     "name": "Hawai'i",
@@ -5698,29 +5304,26 @@
      {
       "result": "L 13–21",
       "opponent": "vs North Dakota State",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      },
      {
       "result": "W 17–14",
       "opponent": "at UTEP",
-      "opp_record": "(1–9)",
-      "ats": "Missed"
+      "opp_record": "(1–9)"
      },
      {
       "result": "W 56–21",
       "opponent": "at Northern Illinois",
-      "opp_record": "(0–10)",
-      "ats": "Covered"
+      "opp_record": "(0–10)"
      },
      {
       "result": "L 10–21",
       "opponent": "vs New Mexico",
-      "opp_record": "(8–2)",
-      "ats": "Covered"
+      "opp_record": "(8–2)"
      }
     ],
-    "win_pct": 37
+    "win_pct": 37,
+    "news": null
    },
    "home": {
     "name": "Nevada",
@@ -5731,29 +5334,26 @@
      {
       "result": "W 28–7",
       "opponent": "at Northern Illinois",
-      "opp_record": "(0–10)",
-      "ats": "Covered"
+      "opp_record": "(0–10)"
      },
      {
       "result": "L 3–31",
       "opponent": "vs New Mexico",
-      "opp_record": "(8–2)",
-      "ats": "Missed"
+      "opp_record": "(8–2)"
      },
      {
       "result": "L 0–27",
       "opponent": "at UCLA",
-      "opp_record": "(10–0)",
-      "ats": "Missed"
+      "opp_record": "(10–0)"
      },
      {
       "result": "W 28–13",
       "opponent": "vs San José State",
-      "opp_record": "(5–6)",
-      "ats": "Covered"
+      "opp_record": "(5–6)"
      }
     ],
-    "win_pct": 63
+    "win_pct": 63,
+    "news": null
    }
   },
   {
@@ -5770,7 +5370,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 9 mph · Rain 47%",
+   "weather": "42°F · Wind 8 mph · Rain 47%",
    "flags": [
     "Oregon State: one win from bowl eligibility"
    ],
@@ -5783,29 +5383,26 @@
      {
       "result": "L 13–30",
       "opponent": "at San Diego State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 17–10",
       "opponent": "vs Fresno State",
-      "opp_record": "(5–5)",
-      "ats": "Covered"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 31–14",
       "opponent": "vs Colorado State",
-      "opp_record": "(3–7)",
-      "ats": "Covered"
+      "opp_record": "(3–7)"
      },
      {
       "result": "L 17–20",
       "opponent": "at Texas State",
-      "opp_record": "(6–4)",
-      "ats": "Covered"
+      "opp_record": "(6–4)"
      }
     ],
-    "win_pct": 25
+    "win_pct": 25,
+    "news": null
    },
    "home": {
     "name": "Oregon State",
@@ -5816,29 +5413,26 @@
      {
       "result": "L 41–46",
       "opponent": "at Boise State",
-      "opp_record": "(9–1)",
-      "ats": "Covered"
+      "opp_record": "(9–1)"
      },
      {
       "result": "L 21–42",
       "opponent": "vs Texas State",
-      "opp_record": "(6–4)",
-      "ats": "Missed"
+      "opp_record": "(6–4)"
      },
      {
       "result": "L 22–38",
       "opponent": "at Fresno State",
-      "opp_record": "(5–5)",
-      "ats": "Missed"
+      "opp_record": "(5–5)"
      },
      {
       "result": "W 48–30",
       "opponent": "vs Washington State",
-      "opp_record": "(2–8)",
-      "ats": "Missed"
+      "opp_record": "(2–8)"
      }
     ],
-    "win_pct": 75
+    "win_pct": 75,
+    "news": null
    }
   }
  ]
