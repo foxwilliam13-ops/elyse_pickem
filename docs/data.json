@@ -3,9 +3,9 @@
  "week": 12,
  "season_type": "regular",
  "title": "Week 12",
- "generated_at": "2026-11-17T21:06:41.908004+00:00",
- "generated_label": "Tue, Nov 17 at 3:06 PM CT",
- "news_status": "140 of 140 teams checked",
+ "generated_at": "2026-11-19T15:59:36.993945+00:00",
+ "generated_label": "Thu, Nov 19 at 9:59 AM CT",
+ "news_status": "2 of 130 teams checked, stopped early: Gemini busy or down",
  "sp_teams": 138,
  "games": [
   {
@@ -17,19 +17,19 @@
    "kickoff": "Tue, Nov 17 · 5:00 PM CT",
    "neutral": false,
    "venue": "Waldo Stadium, Kalamazoo, MI",
-   "final": null,
-   "spread": "Western Michigan −15.5",
+   "final": "Final: Eastern Michigan 27, Western Michigan 34",
+   "spread": "Western Michigan −18.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "46°F · Wind 6 mph · Rain or snow 0%",
+   "weather": "Game finished",
    "flags": [
     "Eastern Michigan: off a bye week"
    ],
    "away": {
     "name": "Eastern Michigan",
     "rank": "",
-    "record": "4–6",
+    "record": "4–7",
     "ats": "ATS 4–6",
     "sp": {
      "overall": 128,
@@ -40,12 +40,12 @@
      {
       "result": "L 7–35",
       "opponent": "vs Central Michigan (neutral)",
-      "opp_record": "(5–5, SP+ #113)"
+      "opp_record": "(5–6, SP+ #113)"
      },
      {
       "result": "L 20–24",
       "opponent": "at Ohio",
-      "opp_record": "(7–3, SP+ #82)"
+      "opp_record": "(8–3, SP+ #82)"
      },
      {
       "result": "L 14–34",
@@ -55,16 +55,16 @@
      {
       "result": "W 25–23",
       "opponent": "at Akron",
-      "opp_record": "(1–9, SP+ #135)"
+      "opp_record": "(2–9, SP+ #135)"
      }
     ],
-    "win_pct": 16,
-    "news": []
+    "win_pct": 14,
+    "news": null
    },
    "home": {
     "name": "Western Michigan",
     "rank": "",
-    "record": "7–3",
+    "record": "8–3",
     "ats": "ATS 4–6",
     "sp": {
      "overall": 68,
@@ -75,7 +75,7 @@
      {
       "result": "W 42–14",
       "opponent": "at Akron",
-      "opp_record": "(1–9, SP+ #135)"
+      "opp_record": "(2–9, SP+ #135)"
      },
      {
       "result": "W 23–10",
@@ -90,11 +90,11 @@
      {
       "result": "W 21–14",
       "opponent": "at Central Michigan",
-      "opp_record": "(5–5, SP+ #113)"
+      "opp_record": "(5–6, SP+ #113)"
      }
     ],
-    "win_pct": 84,
-    "news": []
+    "win_pct": 86,
+    "news": null
    }
   },
   {
@@ -106,17 +106,17 @@
    "kickoff": "Tue, Nov 17 · 6:00 PM CT",
    "neutral": false,
    "venue": "Dix Stadium, Kent, OH",
-   "final": null,
+   "final": "Final: Miami (OH) 20, Kent State 3",
    "spread": "Miami (OH) −9.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "41°F · Wind 6 mph · Rain or snow 0%",
+   "weather": "Game finished",
    "flags": [],
    "away": {
     "name": "Miami (OH)",
     "rank": "",
-    "record": "6–4",
+    "record": "7–4",
     "ats": "ATS 5–5",
     "sp": {
      "overall": 85,
@@ -127,31 +127,31 @@
      {
       "result": "W 34–17",
       "opponent": "vs Ohio",
-      "opp_record": "(7–3, SP+ #82)"
+      "opp_record": "(8–3, SP+ #82)"
      },
      {
       "result": "L 31–34",
       "opponent": "vs Buffalo",
-      "opp_record": "(7–3, SP+ #105)"
+      "opp_record": "(8–3, SP+ #105)"
      },
      {
       "result": "W 28–27",
       "opponent": "at Central Michigan",
-      "opp_record": "(5–5, SP+ #113)"
+      "opp_record": "(5–6, SP+ #113)"
      },
      {
       "result": "W 34–14",
       "opponent": "vs Akron",
-      "opp_record": "(1–9, SP+ #135)"
+      "opp_record": "(2–9, SP+ #135)"
      }
     ],
     "win_pct": 75,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Kent State",
     "rank": "",
-    "record": "3–7",
+    "record": "3–8",
     "ats": "ATS 4–6",
     "sp": {
      "overall": 132,
@@ -172,7 +172,7 @@
      {
       "result": "W 35–20",
       "opponent": "vs Akron",
-      "opp_record": "(1–9, SP+ #135)"
+      "opp_record": "(2–9, SP+ #135)"
      },
      {
       "result": "L 2–29",
@@ -181,7 +181,7 @@
      }
     ],
     "win_pct": 25,
-    "news": []
+    "news": null
    }
   },
   {
@@ -193,17 +193,17 @@
    "kickoff": "Tue, Nov 17 · 6:00 PM CT",
    "neutral": false,
    "venue": "Peden Stadium, Athens, OH",
-   "final": null,
+   "final": "Final: Ball State 28, Ohio 35",
    "spread": "Ohio −10",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "43°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "Game finished",
    "flags": [],
    "away": {
     "name": "Ball State",
     "rank": "",
-    "record": "3–7",
+    "record": "3–8",
     "ats": "ATS 6–4",
     "sp": {
      "overall": 130,
@@ -214,12 +214,12 @@
      {
       "result": "L 7–28",
       "opponent": "vs Buffalo",
-      "opp_record": "(7–3, SP+ #105)"
+      "opp_record": "(8–3, SP+ #105)"
      },
      {
       "result": "L 30–31",
       "opponent": "at Massachusetts",
-      "opp_record": "(5–5, SP+ #109)"
+      "opp_record": "(5–6, SP+ #109)"
      },
      {
       "result": "W 34–17",
@@ -233,12 +233,12 @@
      }
     ],
     "win_pct": 23,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Ohio",
     "rank": "",
-    "record": "7–3",
+    "record": "8–3",
     "ats": "ATS 4–6",
     "sp": {
      "overall": 82,
@@ -249,17 +249,17 @@
      {
       "result": "L 17–34",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4, SP+ #85)"
+      "opp_record": "(7–4, SP+ #85)"
      },
      {
       "result": "W 28–20",
       "opponent": "at Akron",
-      "opp_record": "(1–9, SP+ #135)"
+      "opp_record": "(2–9, SP+ #135)"
      },
      {
       "result": "W 24–20",
       "opponent": "vs Eastern Michigan",
-      "opp_record": "(4–6, SP+ #128)"
+      "opp_record": "(4–7, SP+ #128)"
      },
      {
       "result": "W 48–7",
@@ -268,7 +268,7 @@
      }
     ],
     "win_pct": 77,
-    "news": []
+    "news": null
    }
   },
   {
@@ -280,19 +280,19 @@
    "kickoff": "Wed, Nov 18 · 6:00 PM CT",
    "neutral": false,
    "venue": "Warren McGuirk Alumni Stadium, Hadley, MA",
-   "final": null,
+   "final": "Final: Akron 34, Massachusetts 33",
    "spread": "Massachusetts −3",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "45°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "Game finished",
    "flags": [
     "Massachusetts: one win from bowl eligibility"
    ],
    "away": {
     "name": "Akron",
     "rank": "",
-    "record": "1–9",
+    "record": "2–9",
     "ats": "ATS 4–6",
     "sp": {
      "overall": 135,
@@ -303,31 +303,31 @@
      {
       "result": "L 14–42",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3, SP+ #68)"
+      "opp_record": "(8–3, SP+ #68)"
      },
      {
       "result": "L 20–28",
       "opponent": "vs Ohio",
-      "opp_record": "(7–3, SP+ #82)"
+      "opp_record": "(8–3, SP+ #82)"
      },
      {
       "result": "L 20–35",
       "opponent": "at Kent State",
-      "opp_record": "(3–7, SP+ #132)"
+      "opp_record": "(3–8, SP+ #132)"
      },
      {
       "result": "L 14–34",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4, SP+ #85)"
+      "opp_record": "(7–4, SP+ #85)"
      }
     ],
-    "win_pct": 41,
-    "news": []
+    "win_pct": 40,
+    "news": null
    },
    "home": {
     "name": "Massachusetts",
     "rank": "",
-    "record": "5–5",
+    "record": "5–6",
     "ats": "ATS 4–6",
     "sp": {
      "overall": 109,
@@ -343,7 +343,7 @@
      {
       "result": "W 31–30",
       "opponent": "vs Ball State",
-      "opp_record": "(3–7, SP+ #130)"
+      "opp_record": "(3–8, SP+ #130)"
      },
      {
       "result": "L 16–35",
@@ -353,11 +353,11 @@
      {
       "result": "L 18–25",
       "opponent": "at Buffalo",
-      "opp_record": "(7–3, SP+ #105)"
+      "opp_record": "(8–3, SP+ #105)"
      }
     ],
-    "win_pct": 59,
-    "news": []
+    "win_pct": 60,
+    "news": null
    }
   },
   {
@@ -369,19 +369,19 @@
    "kickoff": "Wed, Nov 18 · 6:30 PM CT",
    "neutral": false,
    "venue": "UB Stadium, Amherst, NY",
-   "final": null,
-   "spread": "Buffalo −1.5",
+   "final": "Final: Central Michigan 21, Buffalo 40",
+   "spread": "Buffalo −2.5",
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "43°F · Wind 6 mph · Rain or snow 0%",
+   "weather": "Game finished",
    "flags": [
     "Central Michigan: one win from bowl eligibility"
    ],
    "away": {
     "name": "Central Michigan",
     "rank": "",
-    "record": "5–5",
+    "record": "5–6",
     "ats": "ATS 6–4",
     "sp": {
      "overall": 113,
@@ -397,26 +397,26 @@
      {
       "result": "W 35–7",
       "opponent": "vs Eastern Michigan (neutral)",
-      "opp_record": "(4–6, SP+ #128)"
+      "opp_record": "(4–7, SP+ #128)"
      },
      {
       "result": "L 27–28",
       "opponent": "vs Miami (OH)",
-      "opp_record": "(6–4, SP+ #85)"
+      "opp_record": "(7–4, SP+ #85)"
      },
      {
       "result": "L 14–21",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3, SP+ #68)"
+      "opp_record": "(8–3, SP+ #68)"
      }
     ],
-    "win_pct": 48,
-    "news": []
+    "win_pct": 44,
+    "news": null
    },
    "home": {
     "name": "Buffalo",
     "rank": "",
-    "record": "7–3",
+    "record": "8–3",
     "ats": "ATS 6–4",
     "sp": {
      "overall": 105,
@@ -427,12 +427,12 @@
      {
       "result": "W 28–7",
       "opponent": "at Ball State",
-      "opp_record": "(3–7, SP+ #130)"
+      "opp_record": "(3–8, SP+ #130)"
      },
      {
       "result": "W 34–31",
       "opponent": "at Miami (OH)",
-      "opp_record": "(6–4, SP+ #85)"
+      "opp_record": "(7–4, SP+ #85)"
      },
      {
       "result": "W 31–24",
@@ -442,11 +442,11 @@
      {
       "result": "W 25–18",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5, SP+ #109)"
+      "opp_record": "(5–6, SP+ #109)"
      }
     ],
-    "win_pct": 52,
-    "news": []
+    "win_pct": 56,
+    "news": null
    }
   },
   {
@@ -459,11 +459,11 @@
    "neutral": false,
    "venue": "Lincoln Financial Field, Philadelphia, PA",
    "final": null,
-   "spread": "Temple −3",
+   "spread": "Temple −2.5",
    "line_source": "DraftKings",
-   "tossup": false,
+   "tossup": true,
    "prob_source": "betting odds",
-   "weather": "56°F · Wind 4 mph · Rain or snow 0%",
+   "weather": "Weather unavailable",
    "flags": [
     "Rice: short week (played Sat)",
     "Temple: short week (played Sat)"
@@ -500,8 +500,8 @@
       "opp_record": "(6–4, SP+ #64)"
      }
     ],
-    "win_pct": 43,
-    "news": []
+    "win_pct": 44,
+    "news": null
    },
    "home": {
     "name": "Temple",
@@ -535,7 +535,7 @@
       "opp_record": "(1–9, SP+ #134)"
      }
     ],
-    "win_pct": 57,
+    "win_pct": 56,
     "news": []
    }
   },
@@ -553,7 +553,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 4 mph · Rain 79%",
+   "weather": "71°F · Wind 12 mph · Rain 76%",
    "flags": [
     "Iowa State: one win from bowl eligibility",
     "UCF: one win from bowl eligibility"
@@ -590,8 +590,19 @@
       "opp_record": "(7–3, SP+ #20)"
      }
     ],
-    "win_pct": 46,
-    "news": []
+    "win_pct": 47,
+    "news": [
+     {
+      "text": "Rain is expected to be a factor during the Iowa State game against UCF.",
+      "sources": [
+       {
+        "title": "Iowa State-UCF Prediction: Can The Cyclones Battle Through The Rain?",
+        "source": "roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMll3SUlNUXBqMnc1WUJIdDlHa3QxNUZhTlpZSWdnQm9zcmgxUXN6Zm5Lek1WblBnWjROYlJfdy1CWTRFTUNJT0hvMWx4LUd5aldkaldQeDFqTDRMS0pMLXpBUVBqWlFicXp4bExaVGp1QllmU0Z4ZzNoWGxuM08zS0x4QzFoUHRrQ1ZNOTV5UC1lTUxJUVcxWFVfYXpwVXAtOXZCZUMtX0w2ZGxjTV9yb01GdTQxTWFpUWJBQg?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "UCF",
@@ -625,19 +636,8 @@
       "opp_record": "(8–2, SP+ #15)"
      }
     ],
-    "win_pct": 54,
-    "news": [
-     {
-      "text": "Lewis Carter has returned to help the UCF Knights.",
-      "sources": [
-       {
-        "title": "UCF Q&A: How does Lewis Carter’s return help the Knights?",
-        "source": "Orlando Sentinel",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXh1eWl4dmgyazNjUHE5QXR5c21PN1ZGcGNsZV9aUWpwRG00anFqTHI4WjNKdmtkWW1RQ3BkUGF2dHJONGdQaG1weUduY0M3Qy1kbHFfdE1RVVFPVndnVHpMeFZpZWMyeWJ3WlllTkFSRkUyLWN5aTdfZENOdUYzMGlfUUUtQ0tQZUh3Z0hzNFlCeVRjd2VBRFhVWUppVDBOcmtrRUhqT0VPTXZoZ0xHTG4zbDVEdHc?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 53,
+    "news": null
    }
   },
   {
@@ -650,11 +650,11 @@
    "neutral": false,
    "venue": "Wallace Wade Stadium, Durham, NC",
    "final": null,
-   "spread": "Duke −12.5",
+   "spread": "Duke −13.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "57°F · Wind 5 mph · Rain or snow 1%",
+   "weather": "54°F · Wind 6 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Clemson",
@@ -688,19 +688,8 @@
       "opp_record": "(6–4, SP+ #59)"
      }
     ],
-    "win_pct": 20,
-    "news": [
-     {
-      "text": "Clemson has hope in its third-string quarterback entering the upcoming matchup against Duke.",
-      "sources": [
-       {
-        "title": "Why Clemson Tigers Have Hope in Third-String QB Entering Duke Matchup",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnh1eDJIeDg4MG5Nb0RHRnlGa0JUNmlheVIzQUNscGFYNTE3UElJbmxJR0dwM2VnRmlrSnBGSHdXRF83R0huLWI1dE9QUFhQTWdMcVh0STRhOTlKMlRlS0lUN0dtREJQdktnS3JCN1R4OWF5Y21RY0dQMTJnNksyT0Z5bmxwQ3ZpYkN1bXpXTlE3Z1I2OHhNczZMaVd0dFZyZzJrMTVULWN0UXg5aXhqTU5xZEZBTjhVa1hIcnRqdC1fc2FsZ0E?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 19,
+    "news": null
    },
    "home": {
     "name": "Duke",
@@ -734,8 +723,8 @@
       "opp_record": "(5–5, SP+ #56)"
      }
     ],
-    "win_pct": 80,
-    "news": []
+    "win_pct": 81,
+    "news": null
    }
   },
   {
@@ -748,11 +737,11 @@
    "neutral": false,
    "venue": "Glass Bowl, Toledo, OH",
    "final": null,
-   "spread": "Toledo −15.5",
+   "spread": "Toledo −16.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "55°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "50°F · Wind 6 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Bowling Green",
@@ -768,26 +757,26 @@
      {
       "result": "W 33–28",
       "opponent": "vs Kent State",
-      "opp_record": "(3–7, SP+ #132)"
+      "opp_record": "(3–8, SP+ #132)"
      },
      {
       "result": "L 10–23",
       "opponent": "at Western Michigan",
-      "opp_record": "(7–3, SP+ #68)"
+      "opp_record": "(8–3, SP+ #68)"
      },
      {
       "result": "L 24–31",
       "opponent": "at Buffalo",
-      "opp_record": "(7–3, SP+ #105)"
+      "opp_record": "(8–3, SP+ #105)"
      },
      {
       "result": "L 31–32",
       "opponent": "vs Ball State",
-      "opp_record": "(3–7, SP+ #130)"
+      "opp_record": "(3–8, SP+ #130)"
      }
     ],
     "win_pct": 15,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Toledo",
@@ -803,7 +792,7 @@
      {
       "result": "W 24–0",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5, SP+ #109)"
+      "opp_record": "(5–6, SP+ #109)"
      },
      {
       "result": "W 20–17",
@@ -813,16 +802,16 @@
      {
       "result": "W 45–38",
       "opponent": "vs Western Michigan",
-      "opp_record": "(7–3, SP+ #68)"
+      "opp_record": "(8–3, SP+ #68)"
      },
      {
       "result": "W 34–14",
       "opponent": "at Eastern Michigan",
-      "opp_record": "(4–6, SP+ #128)"
+      "opp_record": "(4–7, SP+ #128)"
      }
     ],
     "win_pct": 85,
-    "news": []
+    "news": null
    }
   },
   {
@@ -839,7 +828,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "43°F · Wind 12 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "UTEP",
@@ -874,43 +863,7 @@
      }
     ],
     "win_pct": 8,
-    "news": [
-     {
-      "text": "UTEP fired head coach Scotty Walden following a 6-28 record across three seasons.",
-      "sources": [
-       {
-        "title": "UTEP Fires Head Coach Scotty Walden After 6-28 Record Across Three Seasons",
-        "source": "The Hype Magazine",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnlrUkdhT0dHRjJWZzdpckpnSTRKMWtyYm9hR0hfLTNXV0N5VWxKMlItUmlYOFMtSU9pTENNNGZ1WDR4LU5hdlEwME1HVFZVRWRRc2d1Q3dGT1lJazRob0x4cWY5RGU4V3oxV0VNczlfVm5Yd3hJT2dWVzdQWVhTZDk4UTFVTUE?oc=5"
-       },
-       {
-        "title": "UTEP AD Jim Senter explains Scotty Walden firing after Miners’ 6-28 run under him",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNWVqNDh1YWJDeTVwTnVLWGYzVERaN0VRVzc0U3JYUlh0dDlLeDN3SXNCbWF4UTZWWlkwX2ZEQUQ1UEFoR0JBMVJVTFRENEhFN0xEdU4zMjhaRG1oclZuSzFyMUpzUmhYaHNNQU1xQlpucDFSdlNJUS1BOFN3dEhPQkNn?oc=5"
-       },
-       {
-        "title": "UTEP Fires Scotty Walden: Miners Move On From Head Coach After Wyoming Loss",
-        "source": "FOX Sports",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDZfN3VhVW56Sk5JMGh4VEJINk5oNHFFNkVGclZ2Z2pYZWNmUjQzMm1oWXBDOG5wczNsRHZVSlpTWFozLTJYNWFwZXY3b0h1NUdlT1JPZjNJOGxlckRnalZLcHdDMjlqN2JEcnFJS2NuMXBmbFBRd1NmOTRXbzktcGdNNTZITGFsMGN2a3Y5VEpUVXhhbmtSOG8xV0l6d28waUVBMGxRcHhEVzlKUFNPT0ktOXJHZkhHVlJwVDFFQ2RaUdIBwgFBVV95cUxPY3hQd2Z2RkFUNF9HOXJZdGdZNTIzc1VjX3B6bFFyRTlTNUZKSmNYTEdnb1Atc0tHWlVQenBWTWNzSTFrV0lrcFZ0YTVHczdmZmIxLUVLYUM3TWV1V3I4VGVKbklSWnNEcFl0U05STWVoeTNQWFBLN1Vsa19fUlZkNE1Dd3VuV09aeDBMWFdaczZKdkt2SnlhOUVJUGx6UVVzS0dLTF80cFJIamZjc2E2T01NOW9USDlGb0pVZXJ5NlRHUQ?oc=5"
-       },
-       {
-        "title": "Why UTEP fired Scotty Walden and what it means for Miners football",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVjZMdUxFNDJBMFFEX3BfSzNqQUpvSGZBVm9VVGhFR1hkNnlGLWExZ2liemcwN2xvQzRGVWd5NThzNzNadWxhdzVwM1BGdGVpWEdnSXJUN21tSTBoMVp4VXloTlZqWkphajBYQkxTWUI1TlNUcFVPQVl5dnEycVZfVnFtZw?oc=5"
-       },
-       {
-        "title": "UTEP fires coach Scotty Walden: Who will be up for one of the toughest jobs in the FBS?",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkRzaW41SjRVbHhYMElzUnBVUDFBelNTYkFwZWdHY2dzNXU0NzlINFh6SzRfVlN2QzFrLXp6RXB0NmJQU0ZlQ21iMUR2RWdkQU1XMmtmN3hRN3dzb004RFhHLTJyMG9naGxvME1oRE9SOEVPRFhHX1QxNjhNamJMa0I5R3hSeTFsQ3BBamtKUU41SnY5WVZF?oc=5"
-       },
-       {
-        "title": "UTEP fires head coach Scotty Walden",
-        "source": "On3",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2pWcFBXSnM1Z01adGxyT20xclhPb09tMk91amMzLURvNllRV1JjV3g4bG1hVW1Wa0tqNERNU1pOWndGUThPZTFKemF6dVVHbVJTTXlreHdob295X3BoRXc5TlE1MktnaDQwa1NUblhzS3QyWTVIWGprcFFhWmh5eVZhSjNrZw?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Air Force",
@@ -945,7 +898,7 @@
      }
     ],
     "win_pct": 92,
-    "news": []
+    "news": null
    }
   },
   {
@@ -962,13 +915,13 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "50°F · Wind 8 mph · Rain or snow 1%",
+   "weather": "50°F · Wind 6 mph · Rain or snow 0%",
    "flags": [
-    "Oregon: ranked #16 (CFP)"
+    "Oregon: ranked #13 (CFP)"
    ],
    "away": {
     "name": "Oregon",
-    "rank": "#16",
+    "rank": "#13",
     "record": "7–3",
     "ats": "ATS 5–5",
     "sp": {
@@ -998,8 +951,8 @@
       "opp_record": "(6–4, SP+ #44)"
      }
     ],
-    "win_pct": 85,
-    "news": []
+    "win_pct": 86,
+    "news": null
    },
    "home": {
     "name": "Michigan State",
@@ -1033,19 +986,8 @@
       "opp_record": "(6–4, SP+ #32)"
      }
     ],
-    "win_pct": 15,
-    "news": [
-     {
-      "text": "There is a latest injury update and status available for Michigan State starting quarterback Alessio Milivojevic.",
-      "sources": [
-       {
-        "title": "Latest injury update, status on MSU starting QB Alessio Milivojevic",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHZHU2o0UDVTenN4WGMway1ZRzJLUmlCMjZRaU1ud2JLMF9NYURRMnRZWnBTMWRkb2tkVkFQakljdlQzdTg2ZHNBMDdKTF9UUjhrSHZjQjlGZzFtRHJSTGVUZ1RnMDRMTlMzRVdZMlJSX21fT2hFYUN6aEFsU2lLUVhPbzE0RTZrNnc?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 14,
+    "news": null
    }
   },
   {
@@ -1062,7 +1004,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "30°F · Wind 7 mph · Rain or snow 4%",
+   "weather": "26°F · Wind 10 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "New Mexico",
@@ -1097,7 +1039,7 @@
      }
     ],
     "win_pct": 72,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Wyoming",
@@ -1132,18 +1074,7 @@
      }
     ],
     "win_pct": 28,
-    "news": [
-     {
-      "text": "A weather forecast is noted for Wyoming's upcoming game against New Mexico in Laramie.",
-      "sources": [
-       {
-        "title": "Wyoming Football Weather Forecast vs. New Mexico – Laramie (Nov. 20)",
-        "source": "sports.betmgm.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXJ3cDluc2pFaHlZZXp3UjJsdTJtellLX2NHbWZlenVoajd5Qms5aHhZOEhwaFBlUGdNVUtNbnpVaHV4YlQzaDZFWTF4b3FmNGpVcnFPNjJpdm0tWmowSGFUWWx0Q09GRDdLRzRqZ21YeXBrRjk0cFB3NS1HTVNOOFRBOWNvUVBaVmZBUlZpQktaQi1IeXQwOEFIU1NoNU5NdEJ5YktqQkV1YmU4Qnc5NXJBM1NjYmR3MmVj?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -1156,11 +1087,11 @@
    "neutral": false,
    "venue": "Michie Stadium, West Point, NY",
    "final": null,
-   "spread": "Army −5.5",
+   "spread": "Army −6",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 4 mph · Rain or snow 0%",
+   "weather": "58°F · Wind 3 mph · Rain or snow 0%",
    "flags": [
     "Army: one win from bowl eligibility",
     "Army: off a bye week"
@@ -1197,8 +1128,8 @@
       "opp_record": "(8–2, SP+ #36)"
      }
     ],
-    "win_pct": 34,
-    "news": []
+    "win_pct": 33,
+    "news": null
    },
    "home": {
     "name": "Army",
@@ -1232,24 +1163,8 @@
       "opp_record": "(6–4, SP+ #86)"
      }
     ],
-    "win_pct": 66,
-    "news": [
-     {
-      "text": "Army offensive coordinator Cody Worley is set to become the head coach at Furman.",
-      "sources": [
-       {
-        "title": "Sources -- Army OC Cody Worley to be Furman head coach",
-        "source": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWQxSnczaUp0M19uWWd4U0lVY2lSSlBkODN4S1BLWVRLUWtXX0o1LU9jdTQ2TWhfQnk4TE9wa1gzM1puU1RWTGsyb09KZ0hDcExMUkJWbzlDR2g1S2tMcnFRbU8wc1JSUUdXblg5bEszVlB6Ui0xTnNaWUJuR0JaZkxZU1BGbEZVak9qdU9RSHBjS3JtRTV5Ng?oc=5"
-       },
-       {
-        "title": "Sources: Furman is targeting Army OC Cody Worley as the...",
-        "source": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLYnZpOW1QcjdMV3pDZFhMem5KQkFXanRjZTQ5cElNSFhPWjM1bzBiQzBRRERObDVBRnNjcnlCdnpVb1RRZTJnOVYyeE4xLWctUEFBTnpDTXkwaFBzOUVhZWowQmZrYVROaWc?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 67,
+    "news": null
    }
   },
   {
@@ -1266,7 +1181,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 3 mph · Rain or snow 0%",
+   "weather": "58°F · Wind 3 mph · Rain or snow 0%",
    "flags": [
     "Syracuse: one win from bowl eligibility"
    ],
@@ -1303,7 +1218,7 @@
      }
     ],
     "win_pct": 55,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Boston College",
@@ -1338,23 +1253,7 @@
      }
     ],
     "win_pct": 45,
-    "news": [
-     {
-      "text": "Boston College linebacker Bodie Kahoun has been ruled out for the season.",
-      "sources": [
-       {
-        "title": "Boston College Football Linebacker Bodie Kahoun Ruled out for Season",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTDljWjAwa2VONW9ZMHVaQ2M1ZThBRkRNNlF6Y2lURkh3Vm5GclFmWTN2Y2p6NU9VUzRPdURYUlYwVWtnZ1o5bmQwV0RIVEgxbjlLbkc2X2xRSklVSEl0bTFQOC12czhDOFBqRWFPNlhhQjctZDJ6OE5EUEU2ZWF0bDRSbWxYdlZFaWRXbmN1RFo?oc=5"
-       },
-       {
-        "title": "Boston College Football Starting Linebacker Ruled Out for Season",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEs3cUlZUDNUMFc3dC1uSTRobVRZT1hiLUF2U2xmOFBqaUxSejF3V2lQTjdueVhCNDRjU2p6QXFaWGdtZm50QnNZRHZzSnFSaHdobDV5Q0NCQ1NMa1Z5NUUtajBoZUV1bThjLTZkb2thQXRFbXJUaEdvY0ZwZy03dFg3aXRlQUFQeGxQMjc0eHdTR3dSUnhGY3hEamJwT2EySjJLTWdKblJ4RlZsWXB2UlBhODE?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -1371,7 +1270,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 3 mph · Rain or snow 5%",
+   "weather": "60°F · Wind 4 mph · Rain or snow 0%",
    "flags": [
     "Cincinnati: one win from bowl eligibility"
    ],
@@ -1408,7 +1307,7 @@
      }
     ],
     "win_pct": 41,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Cincinnati",
@@ -1443,18 +1342,7 @@
      }
     ],
     "win_pct": 59,
-    "news": [
-     {
-      "text": "Scott Satterfield faces pressure as he remains firmly on the hot seat at Cincinnati.",
-      "sources": [
-       {
-        "title": "Scott Satterfield Faces Latest Home Test While Firmly on Hot Seat at Cincinnati",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRl95dVg0NEwzclU5dzFLaGxZMHUxbTlUYktzdWNZY21GaWNBSjZvT1ZLclFBLXpJRmFqMUlGc3dvNVYtc19TNjUzRi1tLWMzTk1QcV93aGRFSzljaFJkQUl2Q1ZFdFY1Z1R0bVpjemVSeld1bW5fdWY2dVVEemFHZlJWNUc0U0pkSm5hU2toWlV3SmszdnNoaEY0WVQwS2I5Ni1zVllJQV9sZWprSmR0T3RrcUFhR2FhVExBMl9MUFNUajZEeUxRS29kZ2N0SDdRdm9NZ1hR?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -1471,9 +1359,9 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 9 mph · Rain 29%",
+   "weather": "72°F · Wind 12 mph · Rain or snow 19%",
    "flags": [
-    "Florida: ranked #23 (AP)"
+    "Florida: ranked #24 (CFP)"
    ],
    "away": {
     "name": "Vanderbilt",
@@ -1508,11 +1396,11 @@
      }
     ],
     "win_pct": 19,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Florida",
-    "rank": "#23",
+    "rank": "#24",
     "record": "6–4",
     "ats": "ATS 5–5",
     "sp": {
@@ -1543,7 +1431,7 @@
      }
     ],
     "win_pct": 81,
-    "news": []
+    "news": null
    }
   },
   {
@@ -1556,17 +1444,17 @@
    "neutral": false,
    "venue": "Bobby Dodd Stadium, Atlanta, GA",
    "final": null,
-   "spread": "Wake Forest −21",
+   "spread": "Wake Forest −20.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 12 mph · Rain 26%",
+   "weather": "64°F · Wind 11 mph · Rain or snow 1%",
    "flags": [
-    "Wake Forest: ranked #13 (CFP)"
+    "Wake Forest: ranked #11 (CFP)"
    ],
    "away": {
     "name": "Wake Forest",
-    "rank": "#13",
+    "rank": "#11",
     "record": "9–1",
     "ats": "ATS 8–2",
     "sp": {
@@ -1597,7 +1485,7 @@
      }
     ],
     "win_pct": 90,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Georgia Tech",
@@ -1632,18 +1520,7 @@
      }
     ],
     "win_pct": 10,
-    "news": [
-     {
-      "text": "Georgia Tech is considering whether they can be successful using two quarterbacks in their upcoming game against Wake Forest.",
-      "sources": [
-       {
-        "title": "Three Storylines To Watch On Saturday vs. Wake Forest: Can The Yellow Jackets Be Successful With Two QBs?",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWGhCQVpmc1E4NVpGcVdkMjFrR3VEcmRTd2l3TmtCMVVaNElLSUotcm1mczNxOUw2N250bUFqWGNYMEkzcG44WGVHTlAwSXhieS1MVW03MHlBd0o4RTh6WURabHoyejZEUS1YQ1lfMElyRWVLRmRDcWtDUEg1eUVSZXpYMEttLVZ1U05Ja3JDMHdfdnRNdElVX2RENHc5c0lERno1Tkh3dGY1NVRhUWRmem9RVG5faGhycEdZVGJRVms4OHRFUkd4MU1Wb2ZBbEkxUG9rSVBtRElVNVdRWnFUQk1SY1lSbXZ0VGhzUkNOYkxqbFQ1ZkE?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -1660,7 +1537,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 22 mph · Rain or snow 7%",
+   "weather": "67°F · Wind 20 mph · Rain or snow 1%",
    "flags": [
     "BYU: ranked #10 (CFP)"
    ],
@@ -1697,18 +1574,7 @@
      }
     ],
     "win_pct": 66,
-    "news": [
-     {
-      "text": "Aaron Roderick explained why LJ Martin sat out the second half against Baylor.",
-      "sources": [
-       {
-        "title": "Aaron Roderick Explains Why LJ Martin Sat Second Half vs Baylor",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemg4OVpBNjdyUnZGUTVOV21zLU42eWpudUp2M2NiRnJrSnYwT2t0VzlISFJyaWZITExZNGt3ZmJmWHlXNTh4c1BiTkVLdmU0Z2dreVlPVVkteTVTQUJNQVNzcWV0aFRuVmdiN2lqemJMUTIxeXNIQjBzTkcteFB5TER1ZnhrQnF6NEpBd1c4RW9nVE51X0RQNWNWdVRoOEVUMWdOZWlB?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Kansas",
@@ -1743,7 +1609,7 @@
      }
     ],
     "win_pct": 34,
-    "news": []
+    "news": null
    }
   },
   {
@@ -1756,11 +1622,11 @@
    "neutral": false,
    "venue": "Huntington Bank Stadium, Minneapolis, MN",
    "final": null,
-   "spread": "Northwestern −3",
+   "spread": "Northwestern −2.5",
    "line_source": "DraftKings",
-   "tossup": false,
+   "tossup": true,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 9 mph · Rain 63%",
+   "weather": "52°F · Wind 9 mph · Rain 21%",
    "flags": [
     "Minnesota: one win from bowl eligibility"
    ],
@@ -1796,8 +1662,8 @@
       "opp_record": "(2–8, SP+ #114)"
      }
     ],
-    "win_pct": 58,
-    "news": []
+    "win_pct": 55,
+    "news": null
    },
    "home": {
     "name": "Minnesota",
@@ -1831,24 +1697,8 @@
       "opp_record": "(8–2, SP+ #16)"
      }
     ],
-    "win_pct": 42,
-    "news": [
-     {
-      "text": "Head coach PJ Fleck fired their offensive coordinator.",
-      "sources": [
-       {
-        "title": "PJ Fleck, Gophers Lose Two Recruits After Firing OC",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fa1lNTVV0NjJ1ODdYcGs4clJDVWRLMEtyV3EycVE2eXR1VjZtWUcyeXI2azlJRE5WeGdNZGk5SG9VZUtqV25aZVZvYWtldzg0ZUgxSUhBUmhaM2xVRlZ1WldlNmdkaHp0ZWFBcGpQTGx4S3pCRkJqTjlqQ3I1b2c?oc=5"
-       },
-       {
-        "title": "Fleck said firing of Harbaugh came down to ‘feel’",
-        "source": "InForum",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFM4VDNZMzRLNVRwT2xETExBVDVTNFlFdGxHUDVROWZ2OEo1MXhuMzl5bXhrNnFJUVliNGlJQjg2WUhpSUJyUjR1OFBPdU41VkV0QW83MDUzUXNCRmdRcUJiZld4REFwbzFkRVgzSUFONS1CcGM3VDA1dnpqenpMZTBuRFF4dmExcTM2V1d6OA?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 45,
+    "news": null
    }
   },
   {
@@ -1861,11 +1711,11 @@
    "neutral": false,
    "venue": "Navy-Marine Corps Memorial Stadium, Annapolis, MD",
    "final": null,
-   "spread": "Memphis −3.5",
+   "spread": "Memphis −3",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 3 mph · Rain or snow 0%",
+   "weather": "57°F · Wind 4 mph · Rain or snow 0%",
    "flags": [
     "Memphis: ranked #24 (AP)",
     "Navy: off a bye week"
@@ -1903,7 +1753,7 @@
      }
     ],
     "win_pct": 60,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Navy",
@@ -1938,7 +1788,7 @@
      }
     ],
     "win_pct": 40,
-    "news": []
+    "news": null
    }
   },
   {
@@ -1951,17 +1801,17 @@
    "neutral": false,
    "venue": "Memorial Stadium (Lincoln, NE), Lincoln, NE",
    "final": null,
-   "spread": "Ohio State −3",
+   "spread": "Ohio State −3.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 14 mph · Rain 44%",
+   "weather": "55°F · Wind 10 mph · Rain or snow 18%",
    "flags": [
-    "Ohio State: ranked #20 (CFP)"
+    "Ohio State: ranked #14 (CFP)"
    ],
    "away": {
     "name": "Ohio State",
-    "rank": "#20",
+    "rank": "#14",
     "record": "7–3",
     "ats": "ATS 5–5",
     "sp": {
@@ -1991,19 +1841,8 @@
       "opp_record": "(9–1, SP+ #5)"
      }
     ],
-    "win_pct": 59,
-    "news": [
-     {
-      "text": "Head coach Ryan Day provided a negative injury update regarding the chances of an injured starter returning this year.",
-      "sources": [
-       {
-        "title": "Ohio State HC Ryan Day gives injury update that doesn’t sound good for Buckeyes’ chances of getting an injured starter back this year",
-        "source": "A to Z Sports",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMTkxV1g0UTZwVXpaMXVTeTllTG51TU5FbW1xVXhJMUVfVGFhNHItdTNpR2ViM1M2RFJ2T1puR3VnejQtVGRyNWpaV01wRE1JN2h4VWplVkg0VG16STREbHdLbnlEbmJyTHJjZDZHenk3TWFDZ2FiZ09RQlR0RWxhcW1YUG1yS1UxcGhCU3RJb1k5WXZkSHM5TW1mbk9xNjBwNFRYM2hmTWZuSW1pSzdnRktIajFUV1Y2U29xb3BmZ0c1VHJVeUQtQWktZkI2Y3F3LVJB?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 60,
+    "news": null
    },
    "home": {
     "name": "Nebraska",
@@ -2037,8 +1876,8 @@
       "opp_record": "(7–3, SP+ #14)"
      }
     ],
-    "win_pct": 41,
-    "news": []
+    "win_pct": 40,
+    "news": null
    }
   },
   {
@@ -2051,14 +1890,14 @@
    "neutral": false,
    "venue": "Vaught-Hemingway Stadium, Oxford, MS",
    "final": null,
-   "spread": "No line yet",
-   "line_source": "",
+   "spread": "Ole Miss −49.5",
+   "line_source": "DraftKings",
    "tossup": false,
-   "prob_source": null,
-   "weather": "64°F · Wind 8 mph · Rain or snow 4%",
+   "prob_source": "the spread",
+   "weather": "66°F · Wind 6 mph · Rain or snow 1%",
    "flags": [
     "Wofford: off a bye week",
-    "Ole Miss: ranked #19 (CFP)"
+    "Ole Miss: ranked #25 (CFP)"
    ],
    "away": {
     "name": "Wofford",
@@ -2070,15 +1909,15 @@
      {
       "result": "L 15–36",
       "opponent": "at Kent State",
-      "opp_record": "(3–7, SP+ #132)"
+      "opp_record": "(3–8, SP+ #132)"
      }
     ],
-    "win_pct": null,
-    "news": []
+    "win_pct": 1,
+    "news": null
    },
    "home": {
     "name": "Ole Miss",
-    "rank": "#19",
+    "rank": "#25",
     "record": "6–4",
     "ats": "ATS 4–6",
     "sp": {
@@ -2108,19 +1947,8 @@
       "opp_record": "(8–2, SP+ #8)"
      }
     ],
-    "win_pct": null,
-    "news": [
-     {
-      "text": "Ole Miss is monitoring the potential return of three injured running backs.",
-      "sources": [
-       {
-        "title": "Which of Ole Miss football's 3 injured RBs Pete Golding said could return",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUVQU2VOa09sZV9scmNwRlhzdmkzTVk3T01Fc2FxeWpMMXQyemJkNTJjaFdKVXBXZ21SOHF3Z0dWYlk2RkFEek1KZllIRTlTeFBqYkE2WXZrdU1UUlFyeDZBVWRjLWw2WTdwTXM2aEJYclNqRlZFX3pVQUVaZzJhMllnNA?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 99,
+    "news": null
    }
   },
   {
@@ -2137,7 +1965,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 7 mph · Rain or snow 6%",
+   "weather": "61°F · Wind 12 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Wisconsin",
@@ -2171,8 +1999,8 @@
       "opp_record": "(7–3, SP+ #21)"
      }
     ],
-    "win_pct": 66,
-    "news": []
+    "win_pct": 67,
+    "news": null
    },
    "home": {
     "name": "Purdue",
@@ -2206,8 +2034,8 @@
       "opp_record": "(6–4, SP+ #37)"
      }
     ],
-    "win_pct": 34,
-    "news": []
+    "win_pct": 33,
+    "news": null
    }
   },
   {
@@ -2220,11 +2048,11 @@
    "neutral": false,
    "venue": "Yulman Stadium, New Orleans, LA",
    "final": null,
-   "spread": "North Texas −6",
+   "spread": "North Texas −6.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "66°F · Wind 10 mph · Rain or snow 3%",
+   "weather": "74°F · Wind 11 mph · Rain or snow 2%",
    "flags": [
     "Tulane: one win from bowl eligibility"
    ],
@@ -2261,18 +2089,7 @@
      }
     ],
     "win_pct": 68,
-    "news": [
-     {
-      "text": "North Texas quarterback Tayven Jackson may be out for the remainder of the season.",
-      "sources": [
-       {
-        "title": "North Texas quarterback Tayven Jackson may be done for the year",
-        "source": "Lyndy's Sports Annuals",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2xUeFZzNHRJQUpudS1CRjEtUGtrN29yYVk0Nk50djExVTExbnhHWlVKcFo3RlBtZWFZcEx0Q0oteXIzX3FuWXFsYng2U0hfcEMxcHpjbFhrWUJ3UHY1NEZfbWxneTd0ZjhDcGJNRklPZWhGdFd1Y21kREFMd0VOQ0FQWVN0MFRtVHc5enR1SkpiaFEtMWlLQ2dwZnJYdjVCdEk5cjBlMlo?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Tulane",
@@ -2307,7 +2124,7 @@
      }
     ],
     "win_pct": 32,
-    "news": []
+    "news": null
    }
   },
   {
@@ -2324,7 +2141,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 4 mph · Rain or snow 3%",
+   "weather": "62°F · Wind 3 mph · Rain or snow 0%",
    "flags": [
     "North Carolina: one win from bowl eligibility",
     "Virginia: one win from bowl eligibility"
@@ -2362,23 +2179,7 @@
      }
     ],
     "win_pct": 48,
-    "news": [
-     {
-      "text": "Neo Avdalas will be sidelined for the upcoming game due to a wrist injury.",
-      "sources": [
-       {
-        "title": "What Neo Avdalas' Injury Means for UNC Moving Forward",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0c3bkNkajVaQ3J1dEVFS1k1QXZjb0lHanRKelpRekxWbmxrRDhpMUJBRzg3Z1NOMEhzVVJZMC1ibU5IcFpGejVSUDRKLUkwSWNRRHhyUTY3ZWxHRGlVV0EyT3N4U19MQnlHb3ljaVM1VENzZXg2WVJaWGpkMzFNZS1FNGlvelN3bTNQRjZB?oc=5"
-       },
-       {
-        "title": "Wrist Injury Will Sideline UNC's Neo Avdalas",
-        "source": "On3",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjZTOFFPMERiLXktUkJXNEw2TFVwd1hPRjVUbkRWeU5XTzFOTlkzNTRJbjJPQUpaWG04SjRUekVlLTlSMXhlSHZiX0hhWTVpbG43V1BRUUtvYlBlRkh1WUFKR1NzRkwydV8tN2VkeHNyeDFRWGh5RndSTndmWU1RYk9vd1pnU1Q1QXhzZDNWUGVMb2xC?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Virginia",
@@ -2413,18 +2214,7 @@
      }
     ],
     "win_pct": 52,
-    "news": [
-     {
-      "text": "Virginia is seeking bowl eligibility in their upcoming game against North Carolina.",
-      "sources": [
-       {
-        "title": "Three big story lines for Saturday as Virginia seeks bowl eligibility against UNC",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaU52V2lqbXpBTG5MdmxTVHZ4Y3FLRE1lMXV6NlIweW16c3U2clJ3dDFIQ2ZyUGdHZzRLVXJpa3psX2NDWkhlbDJGZ19ldFpNQUZZRVUyUzlQVHlmQjZMYlFZclJvUGJsVm1UT2FPTTh4MnJjN00zZ09VbXl3Q3g1XzF4LWtmOGlPTko2N3VkX2s3dUdWY0x3aGxNb0xuNklQdFlvbkpqUnFEaUU0OUlQX1U4MlZBTUFqQWhpa1h5UVR1anc1UXFTRGpVRERxUWxxLVNqa2lB?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -2441,7 +2231,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 7 mph · Rain or snow 3%",
+   "weather": "62°F · Wind 6 mph · Rain or snow 0%",
    "flags": [
     "Liberty: ranked #22 (AP)"
    ],
@@ -2478,7 +2268,7 @@
      }
     ],
     "win_pct": 14,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Liberty",
@@ -2513,7 +2303,7 @@
      }
     ],
     "win_pct": 86,
-    "news": []
+    "news": null
    }
   },
   {
@@ -2526,11 +2316,11 @@
    "neutral": false,
    "venue": "Davis Wade Stadium, Starkville, MS",
    "final": null,
-   "spread": "No line yet",
-   "line_source": "",
+   "spread": "Mississippi State −35.5",
+   "line_source": "DraftKings",
    "tossup": false,
-   "prob_source": null,
-   "weather": "61°F · Wind 6 mph · Rain or snow 5%",
+   "prob_source": "the spread",
+   "weather": "66°F · Wind 8 mph · Rain or snow 1%",
    "flags": [],
    "away": {
     "name": "Tennessee Tech",
@@ -2539,19 +2329,8 @@
     "ats": "ATS 0–0",
     "sp": null,
     "last": [],
-    "win_pct": null,
-    "news": [
-     {
-      "text": "The injury status of AJ Swann remains unclear heading into the upcoming game.",
-      "sources": [
-       {
-        "title": "Why AJ Swann's Injury Status Remains Unclear Ahead of Tennessee Tech",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0J0VnUxT2lmZlQxdm1SbU1MMjAwSm5BanJVbU16Znhwa3FxNWRyWDRMWVNDQTlMWkZ6bzI1a0p4YU1ZVWVUWVFUX3RaNW5NbUpYc2w5MnFRMXZ4aGl2MDFUZ2E0SjRjVHdsZ2Q2d1hpdzBsVzZhazNHZFNINU1tbXJtSWxkRUt3UHFEWEltUVlBNFNDWjVnZVJqN09YRlBVN2g2QjhjV1I5bEZzUzFTYVc3R3Z1Umdrb0hqNkFR?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 1,
+    "news": null
    },
    "home": {
     "name": "Mississippi State",
@@ -2585,34 +2364,8 @@
       "opp_record": "(6–4, SP+ #41)"
      }
     ],
-    "win_pct": null,
-    "news": [
-     {
-      "text": "Quarterback AJ Swann's injury status remains unclear for the upcoming game against Tennessee Tech.",
-      "sources": [
-       {
-        "title": "Why AJ Swann's Injury Status Remains Unclear Ahead of Tennessee Tech",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0J0VnUxT2lmZlQxdm1SbU1MMjAwSm5BanJVbU16Znhwa3FxNWRyWDRMWVNDQTlMWkZ6bzI1a0p4YU1ZVWVUWVFUX3RaNW5NbUpYc2w5MnFRMXZ4aGl2MDFUZ2E0SjRjVHdsZ2Q2d1hpdzBsVzZhazNHZFNINU1tbXJtSWxkRUt3UHFEWEltUVlBNFNDWjVnZVJqN09YRlBVN2g2QjhjV1I5bEZzUzFTYVc3R3Z1Umdrb0hqNkFR?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Head coach Jeff Lebby fired two assistant coaches following the team's recent performance.",
-      "sources": [
-       {
-        "title": "Why Jeff Lebby Fired Two Mississippi State Assistants After Saying He Would Wait",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOcm1saDNPRW1XT2l0Z1B1N2lTX0I5YkQxWEFyeUtWUmkyNkY3OHljMDVzYV9oT1NTZ196Rm9qNDI3aXFlczhuZlVGSENRWnVVTWl3cFhrN2lJb1RZU1gxdE95UEFRT0UzS0N2ZWE4TnNWdkJ1NFVUNy1OcVFmQQ?oc=5"
-       },
-       {
-        "title": "Why Jeff Lebby fired 2 Mississippi State assistant coaches a game after saying he wouldn't",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wS3E1UWhGbXRGSVhQeFJ6SnhsUzBJbW5CV05JemlUY2VPdVVreFpZZk5ORTJIMHVuRmplMGo0dmZielk3dEJVbUZnVE9QNFJlU2hiZVZrblJVSnk2UFJiZE56NDFLSm9JZjI3dXpLdTVJcnlKcUlMQVVTNA?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 99,
+    "news": null
    }
   },
   {
@@ -2629,14 +2382,14 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 2 mph · Rain or snow 0%",
+   "weather": "66°F · Wind 3 mph · Rain or snow 0%",
    "flags": [
-    "Houston: ranked #14 (CFP)",
+    "Houston: ranked #20 (CFP)",
     "West Virginia: one win from bowl eligibility"
    ],
    "away": {
     "name": "Houston",
-    "rank": "#14",
+    "rank": "#20",
     "record": "7–3",
     "ats": "ATS 3–7",
     "sp": {
@@ -2667,18 +2420,7 @@
      }
     ],
     "win_pct": 73,
-    "news": [
-     {
-      "text": "Linebacker Carmycah Glass will miss the remainder of the season due to injury.",
-      "sources": [
-       {
-        "title": "University of Houston football notes: Linebacker Carmycah Glass out for rest of season",
-        "source": "Houston Chronicle",
-        "url": "https://www.msn.com/en-us/news/other/university-of-houston-football-notes-linebacker-carmycah-glass-out-for-rest-of-season/ar-AA2hyDLK"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "West Virginia",
@@ -2713,33 +2455,7 @@
      }
     ],
     "win_pct": 27,
-    "news": [
-     {
-      "text": "Quarterback Mike Hawkins Jr. is listed as questionable for the upcoming game against Houston.",
-      "sources": [
-       {
-        "title": "WVU’s Michael Hawkins Injury Update Puts QB Scotty Fox Jr. in Line to Start",
-        "source": "Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFpMTWw0WGRSUlBnV3F6X1JBcmoydEdaaXpJc3RhUUZzalJLbS1fbTJuMUdSbTRZTmlCU3E5ekM4Y3FlMG9sY0Fub2tTbWRFeFgyWkhVb1RFZl82VHNwVVBLWWE0SHNURHZhZ2loc3o1WVBVeXNneFVJMnVGS0RRSkV6SFlKc2p1OGFzQ2w1b1V3bkhMNlFXNktiYjhMSk5uM2NOaVFGcG5oVkVBWXBHbi1NZUZsUQ?oc=5"
-       },
-       {
-        "title": "WVU QB Mike Hawkins Jr. Considered \"Questionable\" for Houston Game",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnFCOGhyMUhYU1RmU3A1Nmp6R0JvX3FzQ05mbnZVcWJhMkN0MmJld1VseVFGeTJtVVM3Vl84WkFYUmgxVEtGQXZYRDdKVHJ5QmQwcHdYSnBmN2JlSVZRLVdpLWM4V2J2QkQ1M1B5ZktLS21OVUc3VjhDS25WZk12SC1fT1dXemNQRWxZZFVyQkVrdndHZ1c5c2tyaE1ERU85Wi1DRGNGWC1hQndKeElDWWxB?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Scotty Fox Jr. is in line to start at quarterback if Michael Hawkins Jr. is unable to play.",
-      "sources": [
-       {
-        "title": "WVU’s Michael Hawkins Injury Update Puts QB Scotty Fox Jr. in Line to Start",
-        "source": "Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFpMTWw0WGRSUlBnV3F6X1JBcmoydEdaaXpJc3RhUUZzalJLbS1fbTJuMUdSbTRZTmlCU3E5ekM4Y3FlMG9sY0Fub2tTbWRFeFgyWkhVb1RFZl82VHNwVVBLWWE0SHNURHZhZ2loc3o1WVBVeXNneFVJMnVGS0RRSkV6SFlKc2p1OGFzQ2w1b1V3bkhMNlFXNktiYjhMSk5uM2NOaVFGcG5oVkVBWXBHbi1NZUZsUQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -2752,11 +2468,11 @@
    "neutral": false,
    "venue": "Bryant-Denny Stadium, Tuscaloosa, AL",
    "final": null,
-   "spread": "No line yet",
-   "line_source": "",
+   "spread": "Alabama −49.5",
+   "line_source": "DraftKings",
    "tossup": false,
-   "prob_source": null,
-   "weather": "66°F · Wind 6 mph · Rain or snow 9%",
+   "prob_source": "the spread",
+   "weather": "75°F · Wind 5 mph · Rain or snow 0%",
    "flags": [
     "Alabama: ranked #3 (CFP)"
    ],
@@ -2767,8 +2483,8 @@
     "ats": "ATS 0–0",
     "sp": null,
     "last": [],
-    "win_pct": null,
-    "news": []
+    "win_pct": 1,
+    "news": null
    },
    "home": {
     "name": "Alabama",
@@ -2802,8 +2518,8 @@
       "opp_record": "(8–2, SP+ #11)"
      }
     ],
-    "win_pct": null,
-    "news": []
+    "win_pct": 99,
+    "news": null
    }
   },
   {
@@ -2820,7 +2536,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "72°F · Wind 8 mph · Rain 20%",
+   "weather": "71°F · Wind 9 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Missouri State",
@@ -2855,7 +2571,7 @@
      }
     ],
     "win_pct": 23,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Jacksonville State",
@@ -2890,18 +2606,7 @@
      }
     ],
     "win_pct": 77,
-    "news": [
-     {
-      "text": "Jacksonville State coach Rich Rodriguez anticipates the return of injured offensive linemen for the upcoming game.",
-      "sources": [
-       {
-        "title": "Jax State's Kelly anticipates return of injured offensive linemen",
-        "source": "The Anniston Star",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0lOMDdPYlZ0UTVXZnl0RUhyczZDcGl3NnctTENhYmhHa2xEM1A2UFdBcnAwaFNvUG5SbUg4U2ZLUUZVNnp5X1ZmWXNKZThBcllJQkxNZlZrQjVfYnlYU1QwMDVvQnBteDRXOGotRmx4Vk9uNGNYNVlSN1JldG1pNTliVDBtbko2elNvNU5rRDFqdjNTd2xNbWRSX3lpbGttMEl3eFVJMlNMMThTVmRZSzdwZWJkNGhjakFRSEZyT3d4d1NYTnBGREhSYVRVSExEeHJwSUg0dktKMllFTHA0NGxn?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -2918,7 +2623,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "74°F · Wind 6 mph · Rain or snow 1%",
+   "weather": "78°F · Wind 9 mph · Rain or snow 2%",
    "flags": [
     "Middle Tennessee: one win from bowl eligibility"
    ],
@@ -2955,7 +2660,7 @@
      }
     ],
     "win_pct": 66,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Sam Houston",
@@ -2990,7 +2695,7 @@
      }
     ],
     "win_pct": 34,
-    "news": []
+    "news": null
    }
   },
   {
@@ -3007,7 +2712,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "70°F · Wind 14 mph · Rain or snow 10%",
+   "weather": "72°F · Wind 15 mph · Rain or snow 8%",
    "flags": [],
    "away": {
     "name": "Charlotte",
@@ -3042,7 +2747,7 @@
      }
     ],
     "win_pct": 8,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Tulsa",
@@ -3077,7 +2782,7 @@
      }
     ],
     "win_pct": 92,
-    "news": []
+    "news": null
    }
   },
   {
@@ -3094,7 +2799,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "54°F · Wind 7 mph · Rain or snow 17%",
+   "weather": "55°F · Wind 5 mph · Rain or snow 3%",
    "flags": [],
    "away": {
     "name": "UL Monroe",
@@ -3129,7 +2834,7 @@
      }
     ],
     "win_pct": 17,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "App State",
@@ -3164,7 +2869,7 @@
      }
     ],
     "win_pct": 83,
-    "news": []
+    "news": null
    }
   },
   {
@@ -3181,7 +2886,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "84°F · Wind 12 mph · Rain 40%",
+   "weather": "80°F · Wind 10 mph · Rain or snow 17%",
    "flags": [],
    "away": {
     "name": "South Florida",
@@ -3212,11 +2917,11 @@
      {
       "result": "W 29–2",
       "opponent": "vs Kent State",
-      "opp_record": "(3–7, SP+ #132)"
+      "opp_record": "(3–8, SP+ #132)"
      }
     ],
     "win_pct": 51,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Florida Atlantic",
@@ -3251,7 +2956,7 @@
      }
     ],
     "win_pct": 49,
-    "news": []
+    "news": null
    }
   },
   {
@@ -3268,7 +2973,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 7 mph · Rain or snow 6%",
+   "weather": "67°F · Wind 13 mph · Rain or snow 0%",
    "flags": [
     "Iowa: ranked #15 (CFP)"
    ],
@@ -3305,7 +3010,7 @@
      }
     ],
     "win_pct": 73,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Illinois",
@@ -3340,18 +3045,7 @@
      }
     ],
     "win_pct": 27,
-    "news": [
-     {
-      "text": "Illinois wide receiver Hudson Clement is out for the remainder of the season.",
-      "sources": [
-       {
-        "title": "Illinois WR Hudson Clement out for season",
-        "source": "The Champaign Room",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOWswSWVQTGNITFVVV0lLLU1UcEdJQVZrVGtoSW5Ecl9CNHpCQmlHODVPSWR1WnQ2Qm1YNjU1Z295MUN0eW9JNHRHTFZ5SkZidlVON3U5ZHhOUl9xT256N0NsSmhYaWZOWW9UcmpscVB2QWgyb25WcXJmeFF0a3FoekdQVC1lWkJOUHZHQUlqSlZiblNMQjJVYjkzRlZrWmhqXzNDZUNmY0lvLTFGZTFuWnh3ZV96MFZjenVUREdOSm9jQ0ppSmdJSEVuNmFqVGhQUUpzZmFGUHhxaUdhenJWWjJBdVFaYnZIdG5YZ3JRUWY5bDFzQS1sb004VUVWUzlTc1pSdg?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -3368,7 +3062,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 9 mph · Rain or snow 13%",
+   "weather": "68°F · Wind 10 mph · Rain or snow 1%",
    "flags": [],
    "away": {
     "name": "Florida International",
@@ -3402,19 +3096,8 @@
       "opp_record": "(5–5, SP+ #122)"
      }
     ],
-    "win_pct": 40,
-    "news": [
-     {
-      "text": "Florida International is scheduled to play Kennesaw State on November 21.",
-      "sources": [
-       {
-        "title": "Kennesaw State vs. Florida International Football Game Tickets, Venue, Start Time – Nov. 21",
-        "source": "Bleacher Nation",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLW9WWWVQMl9ZdHZPOVF6Rm1Pd3RqRVdaTEJKQ24zbkdOU1pVUlhudU5meUg5Y3V1V2VBc1hfekZ1Wm5xOGRGa0xITjZCMnlRTmFWdkRxYUhvWkZNdTVpNnpFbXQtRlhHd09ZT0pGQUwyQlFia093RHZkTWtDZ3NOZHJ0cnlXMkpUQWlGLVF3bklScHVTWEFkZVpLbEtrRDdPNmZVMWFJbEdjU2FoX21RemRXSkdORTE3QjRaSVJFRndodEhJQUxmYVgzWWh0dFd2cWc?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 41,
+    "news": null
    },
    "home": {
     "name": "Kennesaw State",
@@ -3448,8 +3131,8 @@
       "opp_record": "(9–1, SP+ #19)"
      }
     ],
-    "win_pct": 60,
-    "news": []
+    "win_pct": 59,
+    "news": null
    }
   },
   {
@@ -3466,7 +3149,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "70°F · Wind 7 mph · Rain or snow 1%",
+   "weather": "75°F · Wind 8 mph · Rain 21%",
    "flags": [],
    "away": {
     "name": "Coastal Carolina",
@@ -3501,7 +3184,7 @@
      }
     ],
     "win_pct": 23,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Louisiana",
@@ -3536,23 +3219,7 @@
      }
     ],
     "win_pct": 77,
-    "news": [
-     {
-      "text": "Louisiana player Ashley Williams was carted off the field during the game against ULM.",
-      "sources": [
-       {
-        "title": "University of Louisiana Football Player Ashley Williams Carted Off the Field in Terrifying Scene",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDhQZTl6OE5DaTBEZkljVkk2OWE3eDBFV3BMOVV0ZEJxcGM4UXdkLU9xU2g0NGQ4ZG1FYU92VVYyQWR2SWJiY21tNWU4cm55Vm03a3JyTHBZTHA4aGhGTnViT0t3cjhid0N5X3AzeG05X0VrQzVaYUhjWm9oREhaRjFvR0IwLWFKWUJ6MmhMTlpyUmpqR3M4?oc=5"
-       },
-       {
-        "title": "Louisiana football's Ashley Williams carted off the field vs ULM in Week 11",
-        "source": "The Daily Advertiser | Lafayette, Louisiana",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVhPa3RRYXBweGJ1ck9mNk90dmRJeDgwWjFJbE96U0tGOXhXOWJ3aDVDTDFZU2xYN2VuWUwzSGdiRGVSVlBzYVlLdmJfLURJSEd3TFR6S0NQUHVxZXVHVERtRW9aZnlyUDR1ZmRSUmgteVhQTmxEU1p2YUl2bWcxOGJKLWp2RDZTa1BERERXUE9YVHJHM19Ia3RVYkdNMllyVWNkNEprTFNDdG9tbEZRR05FUTlqcGozQk05aDU0VTdSYUZaWWdNUE1TZlFoWjhfOS1EazJGbzNxS0dB?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -3565,11 +3232,11 @@
    "neutral": false,
    "venue": "Aggie Memorial Stadium, Las Cruces, NM",
    "final": null,
-   "spread": "Delaware −3.5",
+   "spread": "Delaware −3",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "61°F · Wind 19 mph · Rain or snow 0%",
+   "weather": "60°F · Wind 23 mph · Rain or snow 0%",
    "flags": [
     "Delaware: one win from bowl eligibility"
    ],
@@ -3606,7 +3273,7 @@
      }
     ],
     "win_pct": 60,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "New Mexico State",
@@ -3641,18 +3308,7 @@
      }
     ],
     "win_pct": 40,
-    "news": [
-     {
-      "text": "A New Mexico State player has returned to the team after being stretchered off the field during the Missouri State game.",
-      "sources": [
-       {
-        "title": "New Mexico State player back with team after being stretchered off vs Missouri State",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkZIcE4tRk93bWpRdnJTaEpWWTZXcllUSXNnd3BuWDFacGJyMFF6bnp5T0drTVY1dDVWWG1Kckh2aF9RQVRWdS1sc1hWVzI5ZDlody1lbEpUYTdlR0IzSGVpWkRZSV9Wb19XcW5GVkxQc25JMjRHTkQtdXJ1alU2V3FPQlc?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -3665,11 +3321,11 @@
    "neutral": false,
    "venue": "Jordan-Hare Stadium, Auburn, AL",
    "final": null,
-   "spread": "No line yet",
-   "line_source": "",
+   "spread": "Auburn −48.5",
+   "line_source": "DraftKings",
    "tossup": false,
-   "prob_source": null,
-   "weather": "72°F · Wind 8 mph · Rain or snow 11%",
+   "prob_source": "the spread",
+   "weather": "72°F · Wind 9 mph · Rain or snow 0%",
    "flags": [
     "Samford: off a bye week"
    ],
@@ -3686,8 +3342,8 @@
       "opp_record": "(6–4, SP+ #95)"
      }
     ],
-    "win_pct": null,
-    "news": []
+    "win_pct": 1,
+    "news": null
    },
    "home": {
     "name": "Auburn",
@@ -3721,19 +3377,8 @@
       "opp_record": "(6–4, SP+ #9)"
      }
     ],
-    "win_pct": null,
-    "news": [
-     {
-      "text": "Head coach Alex Golesh addressed recent travel issues and a rescheduled kickoff time.",
-      "sources": [
-       {
-        "title": "Auburn HC Alex Golesh Details Changes During Travel Issues, Rescheduled Kickoff",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNalI2V1k2bEVSdldtYWxEMDhhMGxKQ2p4TU1RZFU4TUR1WDgzelZ5OE96QUNZTzFIb2J3VWVPOEt6U3RnYTNyWmFucEdBQmpCWTdtZEJhLTdhdTBOTG9NVThoM2NGdGp5S3c4RkVsblRWUUN4WGRtNEhhbWNxUTRQYVR3YWk1UC1GRU04TE5jR3ZqU19Mc09kVEdKQU5kcWthd2x5X0NVZ3BfSVJfQ3VtaGlwMEdEd2RBNVN4a2RB?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 99,
+    "news": null
    }
   },
   {
@@ -3750,7 +3395,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "75°F · Wind 13 mph · Rain or snow 3%",
+   "weather": "76°F · Wind 14 mph · Rain or snow 2%",
    "flags": [
     "Texas Tech: ranked #12 (CFP)"
    ],
@@ -3787,18 +3432,7 @@
      }
     ],
     "win_pct": 60,
-    "news": [
-     {
-      "text": "Thomas Castellanos is dealing with an injury ahead of this week's game.",
-      "sources": [
-       {
-        "title": "Thomas Castellanos Injury Update | Leftwich Being Targeted For A HC Job?! | Texas Tech Football News",
-        "source": "BVM Sports",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3lxQ3h0Mm1mVllIV0NzWDNQeXpjb0tSS3hreGRpWEl2aE5CdWdHVlJyQW0xRzFxSDZ6czhRUFE4YjdLMFNYX0dNbVlscTFiemlaTU96YnlYUjZMdzY3NzRpVDM4X1JqUFZwUElvTWM0UEM5RlJZajJUdTZyZDNwdWloZ3RUOUFCM1M5c3ZzQ19VVjNqeUU0MmFrRl9EUWZQQjVZa2RTanZyd0k1V0VfdlBGQ1RqbHBfVVllNEVEckhPVUFBZmdB?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Baylor",
@@ -3833,7 +3467,7 @@
      }
     ],
     "win_pct": 40,
-    "news": []
+    "news": null
    }
   },
   {
@@ -3846,11 +3480,11 @@
    "neutral": false,
    "venue": "Doak Campbell Stadium, Tallahassee, FL",
    "final": null,
-   "spread": "Florida State −9.5",
+   "spread": "Florida State −10.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 8 mph · Rain or snow 17%",
+   "weather": "73°F · Wind 9 mph · Rain or snow 4%",
    "flags": [
     "Florida State: one win from bowl eligibility"
    ],
@@ -3886,44 +3520,8 @@
       "opp_record": "(5–5, SP+ #106)"
      }
     ],
-    "win_pct": 24,
-    "news": [
-     {
-      "text": "Philip Rivers has been introduced as the new head football coach for NC State.",
-      "sources": [
-       {
-        "title": "Philip Rivers drops ‘this is home’ admission on new NC State football gig",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVVQdlpsdjk1WVFXMEIwa3U2ZGRBRFlNd1VUT1R1dEpROENDdEVoNVVWOXFNbzJLOERwR09LSWhlejZzbUVpQVI0RUc0UkJDYVI0SU9xeS1LdEdWTDMyRVRsSEVqbHVaWkRPeVFoYXZ4STc1cFliUjM5eFFhNEJ1WUdNZGpxNWowRGF3?oc=5"
-       },
-       {
-        "title": "Philip Rivers targets ACC title and playoff berth at NC State introduction",
-        "source": "ACC Sports Journal",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cnVtcE1yX3J4dnVCRllSdXFXYmNsOC04MklKeXRMNjNaLWJXd3FXRWZfX3o3dzR1dnRjRG5MNTZLSGNUTWpkZDB3TDhCZVc2YmhHcmJjTGVfeDFYWEJaQ1ptcHRPZWNISGo2TFR4ZUZ0RkZsSGc?oc=5"
-       },
-       {
-        "title": "Nunc coepi: Wolfpack begin again under Rivers",
-        "source": "The North State Journal",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFhhdVBFY1NNWTFURVhxRS1fVjJleWxodkZla1h1THBFZjZJd2h4dFE4alBZdjlkSXFOZXFKT0thLVo5QTZhSXRpZGxzMnR5c1VGcjRnbERBOHJMUmtIYVZfNEY1UWRSMjk4MFZDWUNoSzBzbjAzb0EzMlhFZlV6bWZFbE5hWjQwV0pN?oc=5"
-       },
-       {
-        "title": "Coach Philip Rivers | NC State introduces former Wolfpack QB as new head football coach",
-        "source": "ABC11 News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTJLU3c3Ny1BUXJ5c2ZONkYwX3g3blkxOEh6bTJPNTNUVnE2cXp4dE5jRlJSYWhkLXdXWVRMNThoRjZJZTBKamE5d1RwQXN4ZlBxME52ZVRUWnZKTmVQVFM1ZVg2Mk8xaGdFem03RTZBeGVsNGtKTWxEOUFQTElYUGVVZFplUVJoRFdnVU53U2xfOFRCSXNneVJkRnVNeWp0ZGRUVXkyd2NkR1VWSmfSAbMBQVVfeXFMT0NuT2FPUGtFWU53LUQzRzhDbm9LQ0xQRVJZQWNkUmIxLVdFNjk2dm90VkdlQmJqRk1KZzBxMlpvMUtwd0lfSVlMU3RsU2tsSlZGWGpjei1ma3pwMVV4UlMxUTVQM3k2VWNQNTVqa3FsOC1TVHk2bUNWVmRoX3U1UklXR09OZVFNSjJhdlZSVUxsSkNKY1NSYUJYMm5nMWxLWkZvWHd0NTViUEdNYTZhYmQyU0k?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Dave Doeren has been fired as the head coach of the NC State football team.",
-      "sources": [
-       {
-        "title": "$100M Philip Rivers Breaks Silence After Settling for Half of Fired Dave Doeren’s Pay in NC State Deal",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcktRUU9udWJ6eGRmX3FWbGRmendFcEVOYTJjdThSMkN3VXpMMWgxTXc2RmtBNDJwSzZHS3BybXpxR2VraEh5RmtZLTlnTnZ3bnozdy1ybjZWN3JJVEpfdHdwWGxPZ01zV0x3TUdEZFhWMkZaVk9fbkthUHBfMll4OWRFRHRlVEh2S2c?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 23,
+    "news": null
    },
    "home": {
     "name": "Florida State",
@@ -3957,34 +3555,8 @@
       "opp_record": "(9–1, SP+ #3)"
      }
     ],
-    "win_pct": 76,
-    "news": [
-     {
-      "text": "Florida State is dealing with an extremely thin running back room.",
-      "sources": [
-       {
-        "title": "A name to watch as Florida State seeks to aid extremely thin running back room",
-        "source": "On3",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd1g1eFF5aEdiT3RuV1hNNloweXhkZGRxcUVEc0dUYVlZZ3RCbHZGcVBoQ0hNTGgxeUNCaXgxeGxmZGpTaDFFeEJTMTh3WGNrMTBfWnc2SWNVR1Q2dXRRSXZjdWZrYndlNjhKamU2S0x2NWJQSnh4X0VjbmFvSmJSdVNnX3BLUGRBSE83TC1BZlpiSmlDc1JF?oc=5"
-       },
-       {
-        "title": "FSU football scrambles as running back room empties",
-        "source": "Tallahassee Democrat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRzVWeDRIdi1rTjVjcVhSb0ZEU0FDWnJxMHNCeTcwckV6S2huODU1aFFzME43aFhlN2J2Ml82T3VfdTRjbHU4QnZGR2cycTlGTF9rMzlWRWRvdnNsNkdoS2dGWjdCVURxMGoyMFVNRG56YUkwOGd6TzYzcU5RbEdjSnZ1TF82eVJpd3czYlp2ZDJMNy1fR09JQTFCbHVDdTJiUkVSejU3bmFvNlljMVB4RXQxQVRZUGQ2XzVFdWpKWVp6OVozbjN2OUh6VmZZLXp4b083VjVDbGc5cVYwLWIwVU1vQVVDWXpCSnc?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Coach Rick Stockstill provided an injury update ahead of the game against NC State.",
-      "sources": [
-       {
-        "title": "Rick Stockstill Gives Injury Update Ahead of FSU Football vs. NC State",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeTVrbERaWmpiQ1c3LTh5a1ZUbE5PV3hQb25XNnBKaFVKbEdURXV2OTJrWFlISVRwUFdyeDl2SXBCdDlTa1VPM2xWWjY3SmdUMktjUE5vYmZkWlY4TTFvNkQwblVLQjFNOFVvRHFqWmk5Y010TU5TSkZLUmZndkJnbTRkdV9EaEh1c205RGNLZERiSGFiWDZZa1lTUDFoendKR01JVUx5bWdaQVhudG81N0MybWVWdE5yOUtDLVdRZlljakc2U2liNFVn?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 77,
+    "news": null
    }
   },
   {
@@ -4001,7 +3573,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "59°F · Wind 8 mph · Rain or snow 5%",
+   "weather": "62°F · Wind 12 mph · Rain or snow 0%",
    "flags": [
     "UCLA: ranked #4 (CFP)",
     "Michigan: one win from bowl eligibility"
@@ -4038,8 +3610,8 @@
       "opp_record": "(3–7, SP+ #86)"
      }
     ],
-    "win_pct": 62,
-    "news": []
+    "win_pct": 61,
+    "news": null
    },
    "home": {
     "name": "Michigan",
@@ -4073,8 +3645,8 @@
       "opp_record": "(9–1, SP+ #5)"
      }
     ],
-    "win_pct": 38,
-    "news": []
+    "win_pct": 39,
+    "news": null
    }
   },
   {
@@ -4091,7 +3663,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "56°F · Wind 5 mph · Rain or snow 1%",
+   "weather": "57°F · Wind 7 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Rutgers",
@@ -4126,7 +3698,7 @@
      }
     ],
     "win_pct": 7,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Penn State",
@@ -4161,18 +3733,7 @@
      }
     ],
     "win_pct": 93,
-    "news": [
-     {
-      "text": "The status of Penn State's top running back for the upcoming game against Rutgers remains uncertain.",
-      "sources": [
-       {
-        "title": "Will the top Penn State football running back play vs Rutgers?",
-        "source": "York Daily Record",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOem1lQU5kSjBYVi1YYW5xblh6UGlsNW5LUUJhUERCaE4zZWpzVnBrTVQtSmEyVEdWbldySVloQktRbTBRbVQ3UVNaWTBVTWJhWlBjY1hEcEFjNE16TkpURGFwTjhsTldNOTZmZ0NHZXRMY2YzUDlydmppZ0RLNWhTY2lNTjRqRmhBSGhiYXMwV0p2VmcyUmpOSnRLcklBYVhnUTNEZUlOT0JFa0xGRzFiS2c2RXdZd3phSUtNWmcyVVp4WDlnQnMxeU9RcEVMOXBoejRLM0ZhZHBNa3RZQlBsUQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -4189,14 +3750,13 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "67°F · Wind 2 mph · Rain or snow 9%",
+   "weather": "66°F · Wind 2 mph · Rain or snow 0%",
    "flags": [
-    "LSU: ranked #21 (CFP)",
-    "Tennessee: ranked #8 (CFP)"
+    "Tennessee: ranked #9 (CFP)"
    ],
    "away": {
     "name": "LSU",
-    "rank": "#21",
+    "rank": "",
     "record": "6–4",
     "ats": "ATS 4–6",
     "sp": {
@@ -4227,22 +3787,11 @@
      }
     ],
     "win_pct": 51,
-    "news": [
-     {
-      "text": "LSU players provided insights ahead of their upcoming Week 12 matchup against Tennessee.",
-      "sources": [
-       {
-        "title": "Inside the Locker Room: 12 key quotes from LSU football players ahead of Tennessee in Week 12",
-        "source": "247Sports",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbjY0V1IwdFlhT0xFS1hfR0FRa2tEMm5Bd3ZRSFRvVmlLMVdfMHo1UmRvNFpBWjZ0WFJEVmpQZHdlRFV5MExBYjYwVHlySDZ3WklyMDY3WVY4cGhoV1NTeDNRN3Fxd1haaU1lWnYxVTRBSUhKYm50VUhxVmNnVTA4WmdLS2lKVHJLZFpsazhwX1lmSXhXZTJ0ekQ3U0g0SEtKekpFcXE4YUpMYmxQREUzbWl5T2xNUThCWnVFVTdMODlrSVVEM0pBb3c3aThKX2JOU0wtcHZ2Y3hHOW1sZmM3c3l6dENJTEtVbDlnSmFrcVJYTEE?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Tennessee",
-    "rank": "#8",
+    "rank": "#9",
     "record": "8–2",
     "ats": "ATS 6–4",
     "sp": {
@@ -4273,28 +3822,7 @@
      }
     ],
     "win_pct": 49,
-    "news": [
-     {
-      "text": "Tennessee has made an interesting choice regarding its wide receiver rotation over the last two games.",
-      "sources": [
-       {
-        "title": "The Tennessee Vols have quietly made an interesting choice with its wide receivers over the last couple of games",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFZoLXgxTWdKVlpBUkhabEtJcmlJYzZGLWJLU0pvVVpvNzhGMUVBNUJkbUxoZC05LXB3dXBlOHhyaUsxMDFYZ2dGM2dNTTNXQkdzdHdJdksyU3VEX0w3VFV0aEpxUUNIZzR5Z25aQm5sODhzUXdzZnFKQ2pjcG82UGJtS2h4X3o2aUJKeGVtQTVudw?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "LSU has an opportunity to exploit a unique weakness in the Tennessee team.",
-      "sources": [
-       {
-        "title": "LSU Has an Opportunity to Exploit a Unique Tennessee Weakness",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0pMekROMzZPcF9ydE1aS3IxMWRTUURHbXpNLVpYQl90ZlBlZ1A2dUc2UnVONnJxajZHX0dHdkJWS1NkTVJSdXBrQ09QYURZNmFEU1pXVGxtelQ3cjNNaGVmUTluX0UzWlJBNVFqcXh4UDFrX2RRYm5sOG9iVkdHQnA3TVA3TUp3S0lmZURDby1CUTNHaE5INWJuRkg?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -4311,9 +3839,9 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "72°F · Wind 10 mph · Rain or snow 4%",
+   "weather": "77°F · Wind 9 mph · Rain or snow 2%",
    "flags": [
-    "Texas: ranked #6 (CFP)"
+    "Texas: ranked #5 (CFP)"
    ],
    "away": {
     "name": "Arkansas",
@@ -4348,11 +3876,11 @@
      }
     ],
     "win_pct": 10,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Texas",
-    "rank": "#6",
+    "rank": "#5",
     "record": "8–2",
     "ats": "ATS 5–5",
     "sp": {
@@ -4383,28 +3911,7 @@
      }
     ],
     "win_pct": 90,
-    "news": [
-     {
-      "text": "Texas received season-ending injury news following the victory against LSU.",
-      "sources": [
-       {
-        "title": "Steve Sarkisian, Texas Receive Season-Ending Injury News After LSU Win",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW9sWTd3cHdMdEVybHo5dHg1UjBpUmlxOG8wR2xST1VqNWUzaTVZTE1BRV9XenlnQ3FscFZRRXBJeXZvbXJhcFFpeTJ4ZkVId0Y0djJvYllRSlhsb3JOUzY5eWJ0VHdSaFlGWWtob1Bkem8xRXpPZnY5R2F1aFpybHVWMmFMcWR2SmhadXVB?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Head coach Steve Sarkisian warned that the team is currently in a dangerous spot.",
-      "sources": [
-       {
-        "title": "Steve Sarkisian Warns Texas Is in a 'Dangerous Spot' After LSU Victory",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmNuR21kcENCYUZ4enlkTVNnT3NuZUJ2Vk5xMXBaNnlqQ1dwNkZCeXNybHdhMmJXRWdXOTVkMXE1N3FFVlh0c1ZNN3gtc2RyelNxenR2akxFN2duVDJzRjRKRnNvcFlITlUxc0pTcmNoMUpkLWV5UlAxa0RibGlSdVQzQUNQVXBqR3VqTzdrbWx4VndqV0plOEF3cC1CSTlLMTk4S200QnJzOE53?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -4421,7 +3928,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 3 mph · Rain or snow 0%",
+   "weather": "60°F · Wind 2 mph · Rain or snow 0%",
    "flags": [
     "Old Dominion: off a bye week",
     "UConn: one win from bowl eligibility"
@@ -4459,7 +3966,7 @@
      }
     ],
     "win_pct": 19,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "UConn",
@@ -4490,22 +3997,11 @@
      {
       "result": "W 35–16",
       "opponent": "vs Massachusetts",
-      "opp_record": "(5–5, SP+ #109)"
+      "opp_record": "(5–6, SP+ #109)"
      }
     ],
     "win_pct": 81,
-    "news": [
-     {
-      "text": "Kick-off and television information has been officially announced for the upcoming game against Wyoming.",
-      "sources": [
-       {
-        "title": "Kick-Off and TV Info Announced for Wyoming Game",
-        "source": "University of Connecticut Athletics",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUt4RGk0M1h6bE1nTFpua1lZcUlpeHZRUXJULUV3R2ZFamRLb2FOcWdRaDA2dlVEbTdQLWZVVGxkc2I0bXpvczJZODh4Wlc3MkVMSWdpZGRXcFNFdDhPRHNrTmg3b3pXM0xUemYyd29IY2VHVnJXWVFSQ0VsNmhkekZpRU5qMkp2aWxxOVZmY0Z2bWhPV29XZXVPM05RUQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -4522,13 +4018,13 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "47°F · Wind 0 mph · Rain 23%",
+   "weather": "47°F · Wind 2 mph · Rain or snow 14%",
    "flags": [
-    "Indiana: ranked #9 (CFP)"
+    "Indiana: ranked #8 (CFP)"
    ],
    "away": {
     "name": "Indiana",
-    "rank": "#9",
+    "rank": "#8",
     "record": "9–1",
     "ats": "ATS 2–8",
     "sp": {
@@ -4559,7 +4055,7 @@
      }
     ],
     "win_pct": 73,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Washington",
@@ -4594,18 +4090,7 @@
      }
     ],
     "win_pct": 27,
-    "news": [
-     {
-      "text": "An injured running back for the Washington Huskies could potentially return for the team's final game.",
-      "sources": [
-       {
-        "title": "Washington Huskies Football: Injured Running Back Could Return in Team's Final Game",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXpfd0x6aTRRV0FhQ09XYVQ5RHBNeXYwZHRucGM0enlXZHJqdmRkUC14aWE4UjZsT1N1ZnN0VVNWSTJKZE9SX280UFg0UUNEX2NnQktNdldILVZkbXFCcGs4SkFNbG11d1RwYUNsemg4TEotSEZGa0RybUJHclNmVngzeDIwUHg0SlIxTXFWaGRTRmNOcl9J?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -4622,8 +4107,10 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 21 mph · Rain or snow 18%",
-   "flags": [],
+   "weather": "70°F · Wind 22 mph · Rain 22%",
+   "flags": [
+    "Oklahoma: ranked #22 (CFP)"
+   ],
    "away": {
     "name": "Texas A&M",
     "rank": "",
@@ -4657,32 +4144,11 @@
      }
     ],
     "win_pct": 28,
-    "news": [
-     {
-      "text": "Mike Elko acknowledged that the team is facing a major roster problem following their recent loss.",
-      "sources": [
-       {
-        "title": "Mike Elko Acknowledges a Major Texas A&M Roster Problem After Tennessee Loss",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVZacUpXYUtkNllLdUZMTkZWZ3RTV3lhN0g4TFVFbWtoUVVrOTBscHE3U3k4VkE3WU9zWDVYZHRhN0psaTdpeXZaTVlvMklzTVpNMkliOEdJbHVMOVN5N3NQT3V6ajZxTnQ1YUNza1NSZGo4Z3dMcGpKa2tfUEtIb2VhQ0s0NTh1aGVId1BzU1FsRFBiazdRS0psZ0syc0VCakJGMnhQbDFHb2hWazdxOG53TEE?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Former wide receiver Jerome Myles has made a decision regarding the transfer portal.",
-      "sources": [
-       {
-        "title": "Former Texas A&M WR Jerome Myles Makes Transfer Portal Decision",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0M0azNqQ1ZxTjdVUmdUTzY4VlEwRDI0NWpHb0ltRnljY3JsTlVtcTZmUHNETFZDU3g5cjFtbU50LW1ta2U0ZWwzOXJTdG5XeEtrM0FOdVlfVGdkTURtdU4wSUZDaHdOeHp6QzJwb1phampseThmTTdjWk85RFRqMlpmOVM0a243eDZQa0lfTnBJV2pFNVI4eUhaNjB3TEwxUkdrZWZn?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Oklahoma",
-    "rank": "",
+    "rank": "#22",
     "record": "6–4",
     "ats": "ATS 5–5",
     "sp": {
@@ -4713,18 +4179,7 @@
      }
     ],
     "win_pct": 72,
-    "news": [
-     {
-      "text": "Brent Venables stated that the new offensive coordinator will have the authority to make changes to the coaching staff.",
-      "sources": [
-       {
-        "title": "Brent Venables Says Oklahoma's New Offensive Coordinator Will Have Ability to Make Staff Changes",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEZsR1N2LVpoSllWRW8tbEtkRVI3dU51MnJlbHZHYXNCMDhjQlVfSXFlSUM5a21rci1IalRGaUR5Y0JfTmc4VGs3cEtjUk10U3duUlZZQ0RHMTRnSHBzR24xMENsT2Q4ajdIX2VkZ3RtVjFrYnBRWkREdF9JR0ZaSktoWERIdWRVQ2xpUUpnTHQyeUxyZkZqNzdOTVY2c3A1bk9BYnZvcHdfLXVseWJaLXc0RGZyTTIyanQ1Nk0xQXNweXZZU25qVnRNa1Rsc2VqZEVKUUtCcVpjWHBOeG1UVk02OHM0X1hFYWc?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -4737,11 +4192,11 @@
    "neutral": false,
    "venue": "Joan C. Edwards Stadium, Huntington, WV",
    "final": null,
-   "spread": "Marshall −1.5",
+   "spread": "Marshall −2.5",
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 3 mph · Rain or snow 4%",
+   "weather": "64°F · Wind 2 mph · Rain or snow 0%",
    "flags": [
     "Georgia State: one win from bowl eligibility",
     "Marshall: one win from bowl eligibility"
@@ -4778,8 +4233,8 @@
       "opp_record": "(4–6, SP+ #100)"
      }
     ],
-    "win_pct": 50,
-    "news": []
+    "win_pct": 46,
+    "news": null
    },
    "home": {
     "name": "Marshall",
@@ -4813,34 +4268,8 @@
       "opp_record": "(5–5, SP+ #107)"
      }
     ],
-    "win_pct": 50,
-    "news": [
-     {
-      "text": "Marshall has fired offensive coordinator Rod Smith.",
-      "sources": [
-       {
-        "title": "Marshall football: Rod Smith fired, Gunter Brewer to serve as interim OC",
-        "source": "herald-dispatch.com",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZjZvMkNVWVhsYzRSV1RhLXlfdTlNVzN1VDAzS3FkX0t2d053dWphZ1pYQ0QwVUNjT3dvdUdkR25mLVFwNDJwVWVEazhWaEM5b1lPQ3JSZ2pETVVEWkJoM3VUbEJidGljWWdqbFNGQm45cTFaNEdxY2VJUEEyRjVtb3RmcjQ2MkVtU0YzSXhtaEtCZVU4RkVZdHY4NFk1cUNXUlhpRWc3X3RGQ3BLZHIzV0plZGlQSkRUZ1NIcjVCTjluY3FJR3hEWHVMNFVGb3Z2LS1NZ2hvSlk0UG5heWVNenBNNDFoY0lsd0FqQUdiNkJ2UUczSjJIQ3pxUWQteEJib1ZKdTNn?oc=5"
-       },
-       {
-        "title": "Marshall football fires offensive coordinator Rod Smith",
-        "source": "WCHS",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2VNY1duSElPUGdHeFpNQ0ZUcG40eHoyTk1CMnFhLXNxd3hHaHFkQURRb2FJVUE0YWt5UnNLWVRfUXhOYjhmZEZDMDZ0akc0emp0SGtfUGdmOTFVY2RUVDRCam42MHB5dU5xTEUyYWtUMGJiWHBFUUh1NzdzdU52WnFLV21hTzhSMkZ1cHA5ZlRrMUJ2YzRN?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Gunter Brewer will serve as the interim offensive coordinator for the team.",
-      "sources": [
-       {
-        "title": "Marshall football: Rod Smith fired, Gunter Brewer to serve as interim OC",
-        "source": "herald-dispatch.com",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZjZvMkNVWVhsYzRSV1RhLXlfdTlNVzN1VDAzS3FkX0t2d053dWphZ1pYQ0QwVUNjT3dvdUdkR25mLVFwNDJwVWVEazhWaEM5b1lPQ3JSZ2pETVVEWkJoM3VUbEJidGljWWdqbFNGQm45cTFaNEdxY2VJUEEyRjVtb3RmcjQ2MkVtU0YzSXhtaEtCZVU4RkVZdHY4NFk1cUNXUlhpRWc3X3RGQ3BLZHIzV0plZGlQSkRUZ1NIcjVCTjluY3FJR3hEWHVMNFVGb3Z2LS1NZ2hvSlk0UG5heWVNenBNNDFoY0lsd0FqQUdiNkJ2UUczSjJIQ3pxUWQteEJib1ZKdTNn?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 54,
+    "news": null
    }
   },
   {
@@ -4892,7 +4321,7 @@
      }
     ],
     "win_pct": 6,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "North Dakota State",
@@ -4927,18 +4356,7 @@
      }
     ],
     "win_pct": 94,
-    "news": [
-     {
-      "text": "The NDSU football team experienced a 13-hour delay during their recent trip to Hawaii.",
-      "sources": [
-       {
-        "title": "NDSU Bison football trip to Hawaii delayed 13 hours",
-        "source": "kvrr.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLWFqR1NJLVc5cXZBVk9Qa052ancxWkhCMEVnNm52ZTdndEdLd001akZKcEFqRV9Fcl9PMEdNdnhlMGtBa1RHUjQ3ekxTTjFWNjBIYm0xZDVUb3ZxQk5pbURrUF9FN1N2R2dkeTkyQVAwNmMxcVM0WHBUWVNodDVzMEFlQjBIWjFZTm8wMHkyMGxsMjI3NldCay1ZaVJ1eGFIaXFxX0tuMmtmd2h3QmIwSnVaVTAyODRlM1h5Zi1rbFIxaXdMd1hpaGpIVlRBQQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -4955,7 +4373,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "69°F · Wind 5 mph · Rain or snow 4%",
+   "weather": "78°F · Wind 6 mph · Rain or snow 1%",
    "flags": [
     "South Alabama: one win from bowl eligibility"
    ],
@@ -4992,7 +4410,7 @@
      }
     ],
     "win_pct": 62,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Southern Miss",
@@ -5027,23 +4445,7 @@
      }
     ],
     "win_pct": 38,
-    "news": [
-     {
-      "text": "Head coach Blake Anderson has confirmed that he will not make any changes to the Southern Miss coaching staff.",
-      "sources": [
-       {
-        "title": "Why Blake Anderson won't make changes to Southern Miss football coaching staff",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2dJWFhsTTdKNlRUZUtLcHhvUG1iTGtZU2NGTXdEQk1YeHJXakFmUEwzUDVJVVhfeTgzYmI0NFFTc2pudE8yQkI2Zm1KRVlOLVNsTHZFRk80c0FFTkFZdjAzcTRucmZoRTlSbTFGQjBSXzB6S0NjRXhfZ3I2ZFZDMl9QWThQNVk?oc=5"
-       },
-       {
-        "title": "'I'm Not Firing Staff': Blake Anderson Plans to Retain Southern Miss Staff, Explains Why",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1dLYi1FMDAxRWpOVEhXR3VLTXU1d0JuOFpwMWptMW5KdWFSUkRTT3U4bnJrWkZHNlhUS3RJT0ZxLTJWeW90b2pwUzd5ZmcwUzI3YzdMN1BmUDJRREdHUmhGQTJIUi0xNnQzOVB6SVo5Y2I2Qmw0TjFfeXN6WE9tYlpiQlhvVWFTTjd5ci05enAwODBiWFhxQUU4UkVLdDd5bmg3amR6U3Z4TlI5MWt4RUd2emhwLWs4bXdPRkFTYkFzQQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -5060,7 +4462,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "71°F · Wind 8 mph · Rain or snow 11%",
+   "weather": "72°F · Wind 9 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Georgia Southern",
@@ -5094,8 +4496,8 @@
       "opp_record": "(3–7, SP+ #124)"
      }
     ],
-    "win_pct": 73,
-    "news": []
+    "win_pct": 74,
+    "news": null
    },
    "home": {
     "name": "Troy",
@@ -5129,19 +4531,8 @@
       "opp_record": "(2–8, SP+ #133)"
      }
     ],
-    "win_pct": 27,
-    "news": [
-     {
-      "text": "The Troy football team is currently dealing with internal issues during their late-season slide.",
-      "sources": [
-       {
-        "title": "Troy battling internal issues amid late-season slide",
-        "source": "The Troy Messenger",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWlNcjZWMjhkNEI4WVcwQVA3SU0xMGpKNVdGUnZrSk02d0VOVGhSLXhTSzBWMkhOZVV0LXVwa2RyWFJlc25udWVsNl9lUlJveDJITllVa0pQeHUzdmRJa0dZclhobkk4MVJtSWNhU0tGZ0pESmJtM2N6cXp5NkowTjd6WVFrQTE2M0M4dktxZU5YNE9GZUJzcnByUFE2cENV?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 26,
+    "news": null
    }
   },
   {
@@ -5154,11 +4545,11 @@
    "neutral": false,
    "venue": "Bobcat Stadium (TX), San Marcos, TX",
    "final": null,
-   "spread": "Texas State −10.5",
+   "spread": "Texas State −11.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "68°F · Wind 7 mph · Rain or snow 4%",
+   "weather": "73°F · Wind 6 mph · Rain or snow 3%",
    "flags": [],
    "away": {
     "name": "Washington State",
@@ -5192,19 +4583,8 @@
       "opp_record": "(5–5, SP+ #58)"
      }
     ],
-    "win_pct": 22,
-    "news": [
-     {
-      "text": "Offensive coordinator Kirby Moore is considering adjustments to the team's rushing attack following their recent performance.",
-      "sources": [
-       {
-        "title": "Kirby Moore hints at changes to Washington State's rushing attack after record-setting performance",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlA2bnU4WWhGcjF3eTk3TEx5YkFpcGRKSGR4WlEyVUxCQzloSjMxeHpiVXlQTHRENWpCQmcyV2hWYnRyLUdCaGhpZGczbFVGV2l3WlF3SFNXY0dNWU14a01MRGt2QllaWnhjcWtrd0lhZjhpVFpJc2lRNDFwa0ViSUgxcHFJOGdha0xrWmVR?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 21,
+    "news": null
    },
    "home": {
     "name": "Texas State",
@@ -5238,19 +4618,8 @@
       "opp_record": "(4–6, SP+ #98)"
      }
     ],
-    "win_pct": 78,
-    "news": [
-     {
-      "text": "Texas State features a dangerous dual-threat quarterback heading into the matchup against Washington State.",
-      "sources": [
-       {
-        "title": "Washington State faces another dangerous dual-threat quarterback in Texas State showdown",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUWc4NXhKWFE0MnNJUzRwS1BsVEJiVjZvM01TdE9hdjVpNWd3ZUV5d1RxNEVrSUxwWmVWOXZVZlpXRlhiNlB5QkY2WlJLakRfNmN3TDNJaXZzXzhQQzJaVlFVMXp0X2RkUks3TXdjTndHM092dFZHd1ozdkxjazVMWldYandRamtxWlM1bTFnQ2RrbHo0YnpKcG9Bcm5tX212WjBJd2ItdEtWeXVZNHZxZGR0RElQZjBuemxHa1RSZ1RHQUV3c25jMGZNN25oMlJzMGRXRzBOdlk?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 79,
+    "news": null
    }
   },
   {
@@ -5267,7 +4636,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "66°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "66°F · Wind 4 mph · Rain or snow 0%",
    "flags": [
     "USC: ranked #18 (CFP)"
    ],
@@ -5304,23 +4673,7 @@
      }
     ],
     "win_pct": 14,
-    "news": [
-     {
-      "text": "Interim coach Aazaar Abdul-Rahim is managing the team's preparation for the upcoming USC matchup.",
-      "sources": [
-       {
-        "title": "Maryland Football: Abdul-Rahim Recaps Wisconsin Win, QB Status and USC Prep",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeUxKbmVWQnJjU0YybGQ2bVVXY0htSUdYOGxQTWoyUmxPcjhqOW1ldjN5WHM0SmN1UDJuVFpISi14UHFNbjljbGNFdGtjYWxCZVZnUmpkV3FtTWEtcTBrd1FrazczZXhrby1ndG9GSjI1MGpRcU5OOUZoaGxyb3hYWWJqZmdwamxPbXFNWUt3?oc=5"
-       },
-       {
-        "title": "Maryland Interim Coach Aazaar Abdul-Rahim Details USC Trojans' Strengths",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnktRlpTUGljVlJBS29RTzlZT3Z2T25uWDIxckh4ZzRoeDdzQmdWUEpSeEROM1BLMFN6TmVEMGQzdGhpZ21PRTZMaGMtc1BSMmdWYzU0X0lvYWZHajktRV8xdGdvUTF1MWZRc2ptTksxcktSU2U5dmwyVkIwV283NXNhLWl1MU1KYmMtdA?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "USC",
@@ -5355,18 +4708,7 @@
      }
     ],
     "win_pct": 86,
-    "news": [
-     {
-      "text": "Quarterback Jayden Maiava's performance has negatively impacted the USC offense.",
-      "sources": [
-       {
-        "title": "How USC Quarterback Jayden Maiava Has Hampered the Trojans' Offense",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0tpM0VnQ0h5ZGpFTW1NYlRsdXAwM3NVZ2FTWFA1a3U0UDlKZGNxOElmVVlVeWFYNXFFeHdVZjU5VVdramVYeGVvWU1QS0ptOGx0YmhBTW1MUDNuWWFxSnZ5bkI0TUMxNnlfZ080VnRKSUI0bTJvYmZJNFJueFdlcjRwdnotUU1yZkdQYTZRWmk?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -5383,13 +4725,13 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 8 mph · Rain 46%",
+   "weather": "58°F · Wind 4 mph · Rain 81%",
    "flags": [
-    "Arizona: ranked #23 (CFP)"
+    "Arizona: ranked #19 (CFP)"
    ],
    "away": {
     "name": "Arizona",
-    "rank": "#23",
+    "rank": "#19",
     "record": "7–3",
     "ats": "ATS 4–6",
     "sp": {
@@ -5420,7 +4762,7 @@
      }
     ],
     "win_pct": 71,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Kansas State",
@@ -5455,7 +4797,7 @@
      }
     ],
     "win_pct": 29,
-    "news": []
+    "news": null
    }
   },
   {
@@ -5472,7 +4814,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "65°F · Wind 3 mph · Rain or snow 1%",
+   "weather": "63°F · Wind 3 mph · Rain or snow 3%",
    "flags": [],
    "away": {
     "name": "Arkansas State",
@@ -5506,49 +4848,8 @@
       "opp_record": "(3–7, SP+ #128)"
      }
     ],
-    "win_pct": 18,
-    "news": [
-     {
-      "text": "Arkansas State has fired head football coach Butch Jones.",
-      "sources": [
-       {
-        "title": "Butch Jones fired as Arkansas State head football coach",
-        "source": "Wynne Progress",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDd0NmJHem1jQ2VYV1RCUEE0U3lFdjh6eDVxdVJHdV91WTZCaDZvTXM5SWxHalJSS1hJTjVsZlgwemxxUm8wd0lQTzU0TE9TWjVWc0FvTExZZHd1dlNHZ0hiX1p5QnNQNF9SeFVCdHdiNFZHRGc3THhURnNXU1JTZE1HbjBFZFNUaXVzNkdn?oc=5"
-       },
-       {
-        "title": "Butch Jones Out at Arkansas State",
-        "source": "Arkansas Money & Politics",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Od1EwUXBrcGlSWVdVcEhUSE5mRU43WURnTTdfVDIwMTdUcmE1YzlHUlAzblVkZ2hZOE1XaDM1WlpzUzd1NWUtd05IR3JpSzNSRGRZeUI3LXBvQ2xBZVJZcUZabkw4MGM?oc=5"
-       },
-       {
-        "title": "Arkansas State to oust Butch Jones amid 4-6 start",
-        "source": "Mahoning Matters",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11NEdSV3VVVHVHdDJfNE9VZDlLd3ZBT2h0Uk1sOFVUOEk0RnFheDlscDViemx0UFBNa21KS0MzVVhYcjR5d2dCaXpsV1RvaFhKRERvQWRBSmVTQk0xRmJ4bGRpVXU0OXc5QVBWLUdDaHdHaHFPU2R3?oc=5"
-       },
-       {
-        "title": "Arkansas State fires Butch Jones: Red Wolves part with veteran coach amid 4-6 record in sixth season",
-        "source": "BVM Sports",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUDR4M1NleGxUZHJSLXAzdDhfdG1iYmlCa2pZNXRScXRCODlHN05OUTVqWjhzbHpxZmVEN2I3aUN5VGs2dDhJRHJJMWhPLUxfVHZMWnV6TjVEcHI5S0RxcWN3VktBS0FWX3lVQk1FWGNJWEF1bnlkNlFSbkdrMHA3RnMtSlpUakpqTVNmVDFRV0piYWFSM1VaQlhETVkyZVpIZHgyZ2dJT0JISk5lM2pkS3laTWZUeXpYTUFNWmFoTjR0U3FCUk5VWUxnbTBCZw?oc=5"
-       },
-       {
-        "title": "Butch Jones Fired: Arkansas State Football Head Coach Departs After Nearly Six Seasons as Red Wolves Struggle at 4-6",
-        "source": "The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWl9XUXdQVVBHTFl0ckhTMmM2ZWIzLWFmUnBCR0dIZzkwZ3p6bU5DVkJHX3dxNmxQQnYxdW1sQTZhZWdJal9YemU5anBfTVptejg4VGg0dU85dkNrV3RBTlAzX0lYdFVMb19RXy05VlBLWXJQelhMZGFBd29QeG4wOVdDek1UWWI2Q1d0NnExSmFOV3JRdDNmWVZBVGw4MTRacXR4bVdKODhOUU5rN21SZmN4TjVTbEtvMmV0LUF5bW96VTJLUTFvSjhPQnlnVnkyQ2VVZmFjbFo5clZDYnpIeXBoZmZrYlp1OEkzQlZvbk5JUFnSAfgBQVVfeXFMTXZkSlg0emlHRjBrRTJFdVVaeVhYc2ZzdG5mdTFsR3owN2syQU0tZkJQQ0xSVVA5SnBYaUhEZ1hBX0FCZ1FfOFhtOVdYODdrRDlITm16X0ZjX2doNzJvX1A5SWtZNFBFRVNib25BSTZCLVhYUFU1am1ac296TDFuNV8yWGZQSVdyNUE2YmdKWFRUR1RjNUl6UUVMLUJCbnlKTlU2Rl9UdF9GUndfaUhxQVg4MjBPVWlhQWFHRTU4SlQ3MkVFX3lfRDcxVS1kbk13dnNheDlQVjVydHBEcmYyS0hLZW12cWVIaFppenotUnVyVkpIZzdEYlY?oc=5"
-       },
-       {
-        "title": "Sources: Arkansas State tells Butch Jones he's out at end of year",
-        "source": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDNkVWZVODhOenI5eDNCRGk5blY5eXRhSFZJLWRxZTlPSVk5OGppX1hvWTUxbUpLZmlLblJlRWZYUmI2ZnlkRS1PUTljTExMc3ZySUVaaktvT1F3T2YtZmZFRHo2Y1JQeWxhU2tzOVpndlFQWmZWYjN3Z2VRR2dFanhHUFJZVDF6RXJVbFpVRkZDSWp0MTVtQmJ5eWM3Q0E?oc=5"
-       },
-       {
-        "title": "Arkansas State Fires Former Tennessee Head Coach Butch Jones",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXNTTi1MUHFIU2N0VDE3RVQtYTdnenA3dHlFSDN2SjZjeEdheURwaHpYblV1VHVtNmoxSG80eVRna3E1MXpMMXBQbWtoWEdOang2VnJkT1pYejBrNzRyV0prR1J1blhsdmw4dmFlSS1SV1VZMXl4b1ByS203TmdNMzF5TmwxZlZlQm5MTE5hUXhMZkd0NHQ1R2dtSGsteGJxN2w4bkR4WUJCbHFQNGNFTWZkWmFmVDFrdkJ3?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 19,
+    "news": null
    },
    "home": {
     "name": "Louisiana Tech",
@@ -5582,8 +4883,8 @@
       "opp_record": "(3–7, SP+ #124)"
      }
     ],
-    "win_pct": 82,
-    "news": []
+    "win_pct": 81,
+    "news": null
    }
   },
   {
@@ -5600,7 +4901,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "79°F · Wind 12 mph · Rain 31%",
+   "weather": "80°F · Wind 10 mph · Rain 31%",
    "flags": [
     "Miami: ranked #7 (CFP)"
    ],
@@ -5637,18 +4938,7 @@
      }
     ],
     "win_pct": 10,
-    "news": [
-     {
-      "text": "The Virginia Tech football team is holding candid conversations to regroup before their upcoming game against Miami.",
-      "sources": [
-       {
-        "title": "Virginia Tech football turns to candid conversations to regroup before Miami test",
-        "source": "Roanoke Times",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM09HRE83R3drRGtqQTlvSzNRa1pueUdLb1l0c2VNeUttd2xsNXdITnBTLXVaMW1kQ0JEaHBTN2RVMkU0SlhESE1IaUxCano4LUZlWVZiM2thdW5uci1abXgxTzZ6bm9WVldyWTQtTFlVOE1VZmFrX2dTVURnU3R0NGxvYVFSLThzRVJQalVyMHpXcGpnU3N6NzR3MUdwNU5CQTZNRTA0ZXFZNHhQY1FWaGdPV3c?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Miami",
@@ -5683,33 +4973,7 @@
      }
     ],
     "win_pct": 90,
-    "news": [
-     {
-      "text": "Malachi Toney is currently dealing with an injury, with anticipation building for his eventual return to the field.",
-      "sources": [
-       {
-        "title": "Malachi Toney's injury update raises anticipation for the Miami star's eventual return",
-        "source": "Canes Warning",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDlBdFAwZTg4d2hzbEhoQmMzbDFwUHJtT0ZfbXZxbzB1TTB0blRheXUwNThiQVRKM01iV3hMMUZSeFA4dWFDdU1MZllVenYtazM4b2JSVjA1ZEc0TFBOcEQwa19EalBrNlg0MDREdGZnSjhwd05OMnFXb2xxSFFlX0swcnMxZzAyRlpMMWxZWUxzMW9HNTBCWUIwZ3Rvcy0tWXZveXJYM21PcFJhcWNFTA?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "The team is currently receiving minimal production from a key transfer player, whose performance turnaround is considered crucial.",
-      "sources": [
-       {
-        "title": "Monday Musings: Adaptation is key; Miami needs more from a key transfer",
-        "source": "State of The U",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWxsYlV2OTMxejZrVDlnem5TLVd1cUt1Ym1ZOExDX2lWeEVETXRkSURqS0lBaG5YanBCUm1pMVF0V2hfbGxoUzRxMFcwajhnZnB5ZUJPbm4tQ2I0aVhOeUROckRMRjItWV90M2R0UG83MUdpeXp1cXRScVhSWkpnVnlQaU1KTUt0cmpWSHNUOFVHMDQ0YkNCeHBlN1kteTBTN3RwLTNNbmQwaGIwZm9YU0otaXBwS2I3V0ZPdmEtOHRZZ0J2b1ZyM3BhMUxCTy10QmlYY1RR?oc=5"
-       },
-       {
-        "title": "The Miami Hurricanes are getting next to nothing from a crucial transfer, and his turnaround is key to a playoff run",
-        "source": "A to Z Sports",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbXpOdTgzYXJueE04SjZNakg1MXFING50WFR4cTVTcjNxVnU3b1UtOHN3SHBYMlFrZ21UMXZYaXJTVGdnb056clA5c0NwR3B2dXFod091cFBHYUhkTWI0UkdZUU4xSDZCSTZkSUhMdUhUcEQ3OTBDV092RkdaSEtYZ3FzLWEzc3VjV3ZhdVRfNl9Ib2htRVhiT1A1bTJ6aW5IcnNDcFZFY3NvRWxndlRRMnNrQnpVblNOQnhQV1h1ZEdFcEptRlFZVU44RU9wMWJ3OGNBVm1keGVTTFFLYkJNag?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -5726,7 +4990,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "57°F · Wind 5 mph · Rain 27%",
+   "weather": "55°F · Wind 6 mph · Rain or snow 8%",
    "flags": [
     "San José State: one win from bowl eligibility"
    ],
@@ -5763,33 +5027,7 @@
      }
     ],
     "win_pct": 69,
-    "news": [
-     {
-      "text": "Quarterback Jackson Arnold was honored by the Earl Campbell Award following his three-touchdown performance.",
-      "sources": [
-       {
-        "title": "Jackson Action: QB Honored Again By Earl Campbell Award",
-        "source": "University of Nevada Las Vegas Athletics",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDR3Nmp2YkZkLVpDRmJ4M2s4WWpJaVRLLXYtdWpBcmdmNV9scDhnUVJHS0ZvTzl5RHA0RnAzOFVGS0F3Z3FiY2xzWXNSdUJCaGh4UHdmUnZuTm5wUHNWcW5PRUtGaE8tY25zT0ZjR3VLNS1RSGNkZWNSQkMwTWxUdG4tN3hoamxld1dVYU13SEN5VDRpVDBZclF5RDhjbDR2aEsycQ?oc=5"
-       },
-       {
-        "title": "One week after being benched, Jackson Arnold responds with 3 TDs in UNLV win",
-        "source": "Las Vegas Review-Journal",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYXdsNlc3aHd1dWtuVDdkbklDRnJkSVM1Y2FKLTMxZVVFQ0ZIYTl2YUJGbDBXUDlIMm1JYl9SV0NjZkpYOWFhVmJJWEtjdlBOM29qajI4ZTc5eWc5Zi1VcGxHZEZsSVRLaUZuNjZ2clRIOHBPa1RxLXVJdW14eUFDT25BQ2YwMV9uS3NFcGpKUDF3ZXhlN1pkdjV3bXVIcVVFdVMzVjV0NVJpQlViOW84SEY4YWplQ0hfalhpVVF0MXNXWTg0ZzlCdF9fOW9KbG5qTjU4SGE0cw?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "The Rebels are traveling to San Jose State for their final road game of the season.",
-      "sources": [
-       {
-        "title": "GAME 11: Rebs Off To San Jose State For Road Finale",
-        "source": "University of Nevada Las Vegas Athletics",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmZBX0FBYTJ1XzZLNVh4YVItdUZsYlZfdkg2ako4RWpWSlV4dGtQTkg1bVN0SFh0WTZxU2wtUVNMa0NYOGJSc2cxMUVnczQ5NFdrVnRYQWEzUXJzZ29YSnBnd2MwbktONmlBckdkcG1mZWEtQUJMblRESzZtOG9ybTRTS3hiMUExY282Y1lFNkcwNEYzdkdMZTRiVnFocTQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "San José State",
@@ -5824,7 +5062,7 @@
      }
     ],
     "win_pct": 31,
-    "news": []
+    "news": null
    }
   },
   {
@@ -5841,7 +5079,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "55°F · Wind 7 mph · Rain 56%",
+   "weather": "53°F · Wind 4 mph · Rain 35%",
    "flags": [
     "Stanford: one win from bowl eligibility"
    ],
@@ -5878,7 +5116,7 @@
      }
     ],
     "win_pct": 54,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "California",
@@ -5913,18 +5151,7 @@
      }
     ],
     "win_pct": 46,
-    "news": [
-     {
-      "text": "Tosh Lupoi is making his coaching debut for the Big Game.",
-      "sources": [
-       {
-        "title": "Can Tosh Lupoi Overcome History in Big Game Coaching Debut?",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTVEQ2hZVHpmLVhDS0hUbDJKLTg1VENjQmxDOEY0MEx0aUZvTVYzWU5NallkdHpITW14ZGh6bUtSLWRGdjFHam9NcjZxRERFMmdyZERLZTZRWktPYkJ4WkU4US1jTDhzeXotb1J0ZExmOUNaR1FWbmVhdXdTZmtua2JZLUNEWDB6VzRzQVZBTEEwUUJsZ2JveWZQY0E3blhXbF9CM3J0bEI5eHFGU1pCcQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -5941,7 +5168,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 2 mph · Rain or snow 1%",
+   "weather": "57°F · Wind 2 mph · Rain or snow 0%",
    "flags": [
     "Fresno State: one win from bowl eligibility"
    ],
@@ -5978,38 +5205,7 @@
      }
     ],
     "win_pct": 10,
-    "news": [
-     {
-      "text": "Following a 73-7 loss, there is public speculation regarding the future of head coach Jim Mora.",
-      "sources": [
-       {
-        "title": "Keeler: Jim Mora talking his way into early CSU Rams exit",
-        "source": "The Denver Post",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjRhN3pmdVdXVGhrdUM4UkZLaUZGR2tXdFdUQUtSSnIyRmhPaDFKelRqR1lXSXVhV3I3WW0ydVl5TXpRaERwdnYtX1NjOVR1RW5adHlUSnNxaUpaaXQzVmlSRUZILVJGMVdpcEFvcWJRbTVlZlhLYURUZ3RDLUpoZFI1S1dqcTlkb2FoRzlub0xiV1h2OVE?oc=5"
-       },
-       {
-        "title": "Jim Mora Jr. says Colorado State people don’t know how to win after 73-7 loss",
-        "source": "SuperWest Sports",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVFoWnNzZHVscGxJaW5FZkgyaFV3YXJCa0tVeGF2S19MZ0ZfbjFpR2FrNXJUMWZaaV9udENWWFhmQ0dkcmp4S3M3QXNJZk9iZFEta05PMm91SkVoanAxTElSVEp3Slp1Ml90d2l6SmFOWUh4bGhYS1dfOHUxOWhRT2w3TnNZVkZTTlhQeDJXdVNhSGV2bjZtWlRZU2ZwYWVSeUQ5ellidw?oc=5"
-       },
-       {
-        "title": "Jim Mora basically calls Colorado State a loser football program after 73-7 loss",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUxYQldYUEhScWlUaVJPTFBBb21lUWxQaV9ka29fUllnamJTR05RaHlYTzJPdHZ3QWk2ZjRfYjUyOU54eFd6UjNRWEs4OHJ3YWRxWEtQSHA1R0hMejhoN1J1UHpDN0xDQW9WS29xMTAtU0JQSHRGUTlfMGFaalJUZG9RUUljM0RCX2c?oc=5"
-       },
-       {
-        "title": "Colorado State’s Jim Mora compares new job to UConn after 73-7 loss",
-        "source": "SuperWest Sports",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmtLLU5OV0JPR1lHejhoSXF0SUNyWlFVLXc0N1JIN2tnQWRMNmNGN0tKTmFLNTRrQmJBRVJtaUdmX2FXSlNUd0J1OF8yZFhtZ1dEdUVYOV9TVUppQjJOQ1luM1RrdDZEaGQ2N1JJRGNoQ2VIWkRZNmxNQ1hRbWJZdm9BTkZDaXVuaFF5QkdhVzhoSnpReHBxNDMzVQ?oc=5"
-       },
-       {
-        "title": "Former UConn Football Coach Compares New Job to Old Job After Terrible Loss",
-        "source": "roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjJCVUUyVlZXYXlOWWpaN0ZIUlhqLTJzY1RpYVMyZUpIQTgxdEpuSi15eHNiRTBqSVhyS0R5R1JrTFR0a1F4Qkt5UHktV1ZWSXFIRmgwX0tUdHZQV2lVRVVYUHBaQ0F5aDl4UEhmZEVNZHFjdTB5aHBRdVNGSE9pbTIzUEtJeEJiRENfOFBZY3A2MWFsY1lMNVlEaG9mT0FrdDhjdHFuMlRMVHdqZENMbnRQVloyT3NBN3VQQ0lKQWFRZw?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Fresno State",
@@ -6044,7 +5240,7 @@
      }
     ],
     "win_pct": 90,
-    "news": []
+    "news": null
    }
   },
   {
@@ -6061,9 +5257,9 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "61°F · Wind 4 mph · Rain or snow 9%",
+   "weather": "60°F · Wind 4 mph · Rain or snow 0%",
    "flags": [
-    "Louisville: ranked #21 (AP)"
+    "Louisville: ranked #23 (CFP)"
    ],
    "away": {
     "name": "Pittsburgh",
@@ -6098,11 +5294,11 @@
      }
     ],
     "win_pct": 18,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Louisville",
-    "rank": "#21",
+    "rank": "#23",
     "record": "7–3",
     "ats": "ATS 6–4",
     "sp": {
@@ -6133,7 +5329,7 @@
      }
     ],
     "win_pct": 82,
-    "news": []
+    "news": null
    }
   },
   {
@@ -6150,14 +5346,13 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "60°F · Wind 10 mph · Rain or snow 10%",
+   "weather": "61°F · Wind 9 mph · Rain or snow 1%",
    "flags": [
-    "Kentucky: ranked #11 (CFP)",
-    "Missouri: ranked #22 (CFP)"
+    "Kentucky: ranked #16 (CFP)"
    ],
    "away": {
     "name": "Kentucky",
-    "rank": "#11",
+    "rank": "#16",
     "record": "7–3",
     "ats": "ATS 7–3",
     "sp": {
@@ -6188,27 +5383,11 @@
      }
     ],
     "win_pct": 34,
-    "news": [
-     {
-      "text": "The Kentucky offensive staff is currently searching for solutions to address recent self-inflicted mistakes.",
-      "sources": [
-       {
-        "title": "Kentucky's offensive staff is looking for solutions to self-inflicted mistakes",
-        "source": "On3",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZXaTRvblkxbEpTdFRUYncwZVNOZUpSMmpyVXpka2llWHZQazg5d3QxTGRYWE1IWGxVVDkwT1RxZ3hrQ2ViNS0xVEt6N190VG9IZ0xGZVo5dlNJSkEyblVsMnFtMzFMUl9QVDNkcHgyOG1xWnUteUlUMFpMT0Qzc1FSMkVBSEQ2c25LaDlvOA?oc=5"
-       },
-       {
-        "title": "Kentucky Football Faces Defining Moment After Florida Loss As Will Stein Looks For Answers",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnJnak1KTlB2SFZleEZjZXJaWmFDb29BUlIzVWk0S2U4VGQzNDZjTjVMME4yRmRxbldUdk9ETm5ENHdmbGQxR2JiaDljUG1aVDhZeXhPYVd3VzVvRFlZNkxDckN6b2RnSWIzeVBybkZMTU04V21qVG5RTjdHNFRvWVVSN0pET0FsT2w3Y2VFVllSdw?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Missouri",
-    "rank": "#22",
+    "rank": "",
     "record": "6–4",
     "ats": "ATS 4–6",
     "sp": {
@@ -6239,18 +5418,7 @@
      }
     ],
     "win_pct": 66,
-    "news": [
-     {
-      "text": "Missouri's rushing attack has shown a concerning decline in performance over recent weeks.",
-      "sources": [
-       {
-        "title": "Mizzou Football's Rushing Attack Has Taken a Concerning Turn in Recent Weeks",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2YtRTNfMnI3X2NMZlg3S0VEbzBNdS11VWVTNlF5aXItTWdlc2wzTl9HTG5VSzUybWdZeTZIbXp4cTNXaTVJamJUQ1FmR1QxTXRwQzAtQ1A2ZGVfZXRNNHhfZW91UDdmMGVaWGRnRnJvb2hIb0pfQjlwdDk4a3l2UTFaMDhQWjdJZE5YZ1IzYzgzZnA4dGFDZlFTV1djVDJLd3VXNFNxRXFBdXlkLWhPOXpxRW5zOUtHZzZKWVBvejhaMXktZjJV?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -6267,9 +5435,9 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "54°F · Wind 9 mph · Rain or snow 8%",
+   "weather": "54°F · Wind 9 mph · Rain or snow 0%",
    "flags": [
-    "Notre Dame: ranked #5 (CFP)"
+    "Notre Dame: ranked #6 (CFP)"
    ],
    "away": {
     "name": "SMU",
@@ -6304,32 +5472,11 @@
      }
     ],
     "win_pct": 9,
-    "news": [
-     {
-      "text": "The game against Notre Dame will be played under specific weather conditions.",
-      "sources": [
-       {
-        "title": "WEATHER REPORT: Notre Dame Fighting Irish VS SMU Mustangs",
-        "source": "One Foot Down",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0dvcUVQZ3k0eWx4X05ZNzBHVFRqdnFtU01xMWR0cXVDTFJBZ2tuYW9kMm1LSGRIMjZ5SEFUVkN4dHBGUzBXZzg0WnZEaHVycTVoM2pERkhpektXdzJWSTA2Vk5oZ2FzaXNhaWhwZ0xQTTkzQUVTSE5qZWw2c0JscThUZjRuZWdNbzR5Z3F0T1hoUUEzblB2eEFaYlJRMDJWY29RZ2h0MVVJUnNaX3BDNjZDY0xENmZPc2wyVUhJZnNvN1E?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "An injury report and updated depth charts are available for the SMU Mustangs ahead of the matchup.",
-      "sources": [
-       {
-        "title": "NOTRE DAME FOOTBALL: Injury report and depth charts for SMU Mustangs",
-        "source": "One Foot Down",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFRxY0VrVHRlRHhsVXd3SUNkUDVWZXIwOWlrdmp4TVQ2UWxFRno5TUl4UGF1RWVlZkItdVFoR1o4RGpMUU8zVzJsT05GRXEzMkxtbFMxbGpyekM4LUxnNHd5QjNRVm05SWZnS1dseGllcnNjc2t0U09DSW9CYXFZZUdScUh5Yi1BSVZsNk4ydkJsN2NSWXYtcHEyWTJCZDF1blZaV0hIcjVLUmprQjNyR3hfcU1aZFY2OFNxekdKaEo2U2gzS09xNTJfZFM3cTU5Mnc?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    },
    "home": {
     "name": "Notre Dame",
-    "rank": "#5",
+    "rank": "#6",
     "record": "9–1",
     "ats": "ATS 5–5",
     "sp": {
@@ -6360,38 +5507,7 @@
      }
     ],
     "win_pct": 91,
-    "news": [
-     {
-      "text": "Notre Dame is managing various injuries that have forced the team to redefine its identity.",
-      "sources": [
-       {
-        "title": "Notre Dame injuries have allowed them to redefine its identity",
-        "source": "A to Z Sports",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTEtMeHhqRlN5eEw3WTQtRTEzc0hjSkpTM2NBNEVDcFYyNS01R2x4QTZxTjh4S3lMaU9yU2ZJZkJ6aEV3SGk5a05XWGR4d3gwNHlFWmJLTDVLQjN3dWZUQ2UwVllmTDFEdG5xRGFoUXQ4amlHejVXS1F0cl9UZ2JIZUwzbUQyaE9iMk9BWlN3UUo2eG5Ka1JqWjhwYW83ZzBEZEFBMEtyaGh6eVFEVWRwWVFULUlFX0ROZVV3OWkzb3JyWlk4cmpNbDl2Vlc1VFVzcjFzeVppVUtTaVJSSDRLa0hsZ1N4MGtDTkZvWTNUbWtRRkp3NmlvWHlXSUVXZl9zMTN5QWxYZHExZ0ppajdxNnIwZ0JVZGRnQ21YeWVzMFRsczU2MXVTRmxBbVhuZTk1SHpEU284NXRrcUJvWjZ6SmhKbFR3ZTJLY1NkODlyMU0?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Head coach Marcus Freeman provided an update regarding the status of lineman Charles Jagusah.",
-      "sources": [
-       {
-        "title": "Irish HC Marcus Freeman provides update on lineman Charles Jagusah",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzZCNl9WeTFzVjlBc3p0S0VhR2FPMGFWc1JRRVBQbHdxNEV6RGNkY3ExeXdoTWYwSC0wVWhkSkRMSWFtMUw4LWYzbFk1UnhrOS1EZ0QyMDVqVER0OGpfOERLbTVKdVdzakU1cGJhZ3JzWXo1QUJVaU9Fc0RiOG5KZWoxNXFWQXpq?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Recent reports indicate there is positive injury news surrounding the team.",
-      "sources": [
-       {
-        "title": "Recapping a busy Monday for Notre Dame, including insane recruiting momentum, positive injury news, and Brian Kelly",
-        "source": "A to Z Sports",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOQnBkVHpobVdHOHRBbHRTQi1TcmZ4djdrWl9BTHAzT2hFd29tcWtva29SQTJUeWNUQ09Qbi1SRUxvWjl4RXZNZ0dDbVNjSWtvWHNQaFVQUC1OYVlQNjNGZ0hfdDJDMXVZejc2M0FRdVhDNllCT21RcWdXU1B0R0FTMUoyN0h1N1pNRVM0dkFJd25vZW5wMTJtVVhBRFhGUFNCN0FfbzJPSkkxTFZJaEgzQ2ZLNUdyd3B6ODZZanZUSDFNY1FtOFl2X3daalNZTVJ4Y1o3QWJjVzc3Q194N2c4MjlrZ0g1X2lxSHFaalVwdFIyU2FOUVF3Rm1rMnVpb3B5NWZkdTFRd0lwZjhBamFacTd5SnF2cEx6Vy0tbzF0Y1NyV3VSbElNaVd2ZTQ2LTA?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -6404,14 +5520,14 @@
    "neutral": false,
    "venue": "Williams-Brice Stadium, Columbia, SC",
    "final": null,
-   "spread": "Georgia −16.5",
+   "spread": "Georgia −14.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "57°F · Wind 16 mph · Rain 28%",
+   "weather": "64°F · Wind 14 mph · Rain or snow 16%",
    "flags": [
     "Georgia: ranked #1 (CFP)",
-    "South Carolina: ranked #17 (CFP)"
+    "South Carolina: ranked #21 (CFP)"
    ],
    "away": {
     "name": "Georgia",
@@ -6445,12 +5561,12 @@
       "opp_record": "(6–4, SP+ #49)"
      }
     ],
-    "win_pct": 86,
-    "news": []
+    "win_pct": 85,
+    "news": null
    },
    "home": {
     "name": "South Carolina",
-    "rank": "#17",
+    "rank": "#21",
     "record": "6–4",
     "ats": "ATS 5–5",
     "sp": {
@@ -6480,19 +5596,8 @@
       "opp_record": "(8–2, SP+ #11)"
      }
     ],
-    "win_pct": 14,
-    "news": [
-     {
-      "text": "Shane Beamer stated specific requirements for quarterback LaNorris Sellers to be cleared to play in the upcoming game against Georgia.",
-      "sources": [
-       {
-        "title": "What Shane Beamer said South Carolina QB LaNorris Sellers must do to play vs Georgia",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0FnX2NZLWRnYmo0N0FEMVVjcy12WnVRWUMwcGV3Z01ubkp2MzBWcG1hQ0xxd0lheWtqa0htRFl5d2tMNWZQVy1BSnl2UWJ5X0V1QTh2RVJKb3RpYVlDVjJJcWgzRFZkcFpKdldhUXRibEp1bHRqcEJGZDY1YnJ2ZENqQzBQeEpK?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 15,
+    "news": null
    }
   },
   {
@@ -6509,7 +5614,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "66°F · Wind 8 mph · Rain or snow 5%",
+   "weather": "63°F · Wind 6 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "UTSA",
@@ -6544,7 +5649,7 @@
      }
     ],
     "win_pct": 68,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "UAB",
@@ -6579,28 +5684,7 @@
      }
     ],
     "win_pct": 32,
-    "news": [
-     {
-      "text": "UAB will host UTSA for Senior Day at Protective Stadium.",
-      "sources": [
-       {
-        "title": "Blazers Turn Attention to UTSA for Senior Day at Protective Stadium",
-        "source": "UAB Athletics",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaURmbTFjRExRMUhYc2NCY216OU1MU0tjN1V6WHJxc2FtMXdpMnZDR0h1UWJJYk5fY2xwaWN2UTBvSG5ONFFUY2xQaFdGakxWYWRHaUhmYzZuYzJTUmNHYWFUTlNFZ2F6ZXFoMFRwNkpnREFrRF9YWkFUdTZxd3VVTG0yWFlnVjFDaGlBcXllZkx5bk5XcGotc2tEUl9qanpYS2RvUWd2SnRXYTFWazlIOV9UZTA?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "The UAB game against UTSA is scheduled for a 7 p.m. kickoff on ESPNU.",
-      "sources": [
-       {
-        "title": "UAB Announces 7 p.m. Kickoff Against UTSA on ESPNU",
-        "source": "UAB Athletics",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHlWMXRfRzFXYlBVWmtRcGZsa1pnc2E2aDJPbVk4RVBJV3ZuLUVtM1NfckdIdjVIVGRWcG52N25WMHBEQ3FmUkJIMGlYZm8yazZ2Q0RtcVBXdDJwczNTdHB3TDBfSlZYRHBqcVlJV2lCUFcyVjdabnFYbm11UEtyREhMcnZlNm5GWDhQbzZ3NkNTU2U1bEE5MlUtUQ?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -6617,7 +5701,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "68°F · Wind 13 mph · Rain or snow 9%",
+   "weather": "68°F · Wind 10 mph · Rain or snow 14%",
    "flags": [
     "Utah: ranked #2 (CFP)",
     "TCU: one win from bowl eligibility"
@@ -6655,7 +5739,7 @@
      }
     ],
     "win_pct": 70,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "TCU",
@@ -6690,7 +5774,7 @@
      }
     ],
     "win_pct": 30,
-    "news": []
+    "news": null
    }
   },
   {
@@ -6703,14 +5787,14 @@
    "neutral": false,
    "venue": "Albertsons Stadium, Boise, ID",
    "final": null,
-   "spread": "Boise State −16.5",
+   "spread": "Boise State −17.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 7 mph · Rain or snow 19%",
+   "weather": "42°F · Wind 6 mph · Rain or snow 8%",
    "flags": [
     "San Diego State: one win from bowl eligibility",
-    "Boise State: ranked #24 (CFP)"
+    "Boise State: ranked #17 (CFP)"
    ],
    "away": {
     "name": "San Diego State",
@@ -6745,11 +5829,11 @@
      }
     ],
     "win_pct": 14,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Boise State",
-    "rank": "#24",
+    "rank": "#17",
     "record": "9–1",
     "ats": "ATS 5–5",
     "sp": {
@@ -6780,28 +5864,7 @@
      }
     ],
     "win_pct": 86,
-    "news": [
-     {
-      "text": "The weather forecast for the upcoming game against San Diego State on November 21 is available.",
-      "sources": [
-       {
-        "title": "Boise State Football Weather Forecast: Nov. 21 vs. San Diego State",
-        "source": "sports.betmgm.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm5RVVAtdW5obERuV3RCLVRmNkFCLWxMTENFcGkycjJ5MnZWR3NUY0VtbHZJNUI5T0tEbEtQUmF2amhXcDBaT0FFbXpwRV82SlF2dmxqREhkU09oMVdIOGFYUG1lcGVMNjR3VHkyUjdmNDhJTFBCdmllam9YWEF1aEd0ellZTmEyZ3RfNm8yRHA1T2Q1bl9ieUxFYzdfbDZ3cHZuSzFVUnQzNkl0eDBNY2o0dW15UEFBUHFtbw?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "The Boise State defense is described as embattled heading into the matchup against San Diego State.",
-      "sources": [
-       {
-        "title": "Embattled Boise State defense could have a bounce-back performance against San Diego State",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHNaUGVIUkRYcUVGa0NJRUVLeU9HZ3BiMDF3SnVLNVZmOS15VTFxblpoci1FTnJnUnU3NmFGRjk1RXhVNDBOeUlJbHJQSy16V09HUVZENlFfVnFhQXhpUG9zazh2RTBqVVhpbGZYdkNtcDVEX2pSSWlxZkN2emE4ZFE1UzU4UDUxU2Z3UA?oc=5"
-       }
-      ]
-     }
-    ]
+    "news": null
    }
   },
   {
@@ -6814,17 +5877,15 @@
    "neutral": false,
    "venue": "Mountain America Stadium, Tempe, AZ",
    "final": null,
-   "spread": "Oklahoma State −3",
+   "spread": "Oklahoma State −2.5",
    "line_source": "DraftKings",
-   "tossup": false,
+   "tossup": true,
    "prob_source": "betting odds",
-   "weather": "64°F · Wind 2 mph · Rain or snow 0%",
-   "flags": [
-    "Oklahoma State: ranked #25 (CFP)"
-   ],
+   "weather": "64°F · Wind 1 mph · Rain or snow 0%",
+   "flags": [],
    "away": {
     "name": "Oklahoma State",
-    "rank": "#25",
+    "rank": "",
     "record": "6–4",
     "ats": "ATS 7–3",
     "sp": {
@@ -6854,29 +5915,8 @@
       "opp_record": "(4–6, SP+ #93)"
      }
     ],
-    "win_pct": 58,
-    "news": [
-     {
-      "text": "Quarterback Drew Mestemaker is expected to be okay following a shoulder injury.",
-      "sources": [
-       {
-        "title": "Drew Mestemaker injury update: Oklahoma State football QB's shoulder 'gonna be OK'",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2d1bER2QW5uak1fZHJwblQxQmlsajhuNGluRWRiTmlDSngtU3VSTzFGdGZMTEdCNzRLNjkyUFdDVkozWDlldnR2YXZRY1I3Y0Z6akR0X3ZzWDUxYWIxX3REWGx2MDRKMlItanRIQUVwUFpXY3NwYjZ6N1QyQUNqelg2YWNvcW9BaXFpSy0xZw?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Safety Evan Jackson and the Oklahoma State secondary are currently struggling.",
-      "sources": [
-       {
-        "title": "Oklahoma State football safety Evan Jackson, secondary struggling for Cowboys",
-        "source": "Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3F2V1MtLWV0ZndNdThpZTVrSVZPNXJSSWhfNUpYcHJQOS1lcmptdUU1NU1WMDhDcGJyd0lQRmNOWkhmU1Ffa2VVVEJpZkljdEs0dFU1R1ltVi11QzF6THNqcUVqbXZnMlloX20zeHhyaWRYb1lqR0VVejFLQmtlZC1UcDJXY2tnSTk3Ng?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 56,
+    "news": null
    },
    "home": {
     "name": "Arizona State",
@@ -6910,19 +5950,8 @@
       "opp_record": "(4–6, SP+ #52)"
      }
     ],
-    "win_pct": 42,
-    "news": [
-     {
-      "text": "Arizona State's Tuesday practice was shortened due to hail and weather conditions.",
-      "sources": [
-       {
-        "title": "Kenny Dillingham Talks After Lightning-Shortened Tuesday Practice: Oklahoma State Prep, Hail and Weather",
-        "source": "Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeDFheWY5UW5BVzlHWVVGeVYzdWlDMkMzUUx0SlNmLUpET2lRQkt6cXNDZmMzZGlPR3plRGdQUVM5azVndTVFMnJvTzZhLWF4YXF0dU1jS21DX2JUb0c4WDZyMTd5QlpNQ2ItRllEcWJRZEVLS1hBR1hOcUZxYXBaTzhTSm82UG8zaGZWdjFISkY5ZEFxZ3FRNkJ0ekgzaVVvX1FUQXc5Y1hnZ1ZYb1JlbEd4LXMwa1FYNUxSanREN0FrUWgyMTE0enhneXk4VktxX2N6QVZUUWhBa21xRTRYZVhuc2tIRThHX2swd05ZNFA3Rm0xMjhF?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 44,
+    "news": null
    }
   },
   {
@@ -6935,11 +5964,11 @@
    "neutral": false,
    "venue": "Mackay Stadium, Reno, NV",
    "final": null,
-   "spread": "Nevada −4",
+   "spread": "Nevada −4.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "24°F · Wind 6 mph · Rain or snow 19%",
+   "weather": "30°F · Wind 6 mph · Rain or snow 2%",
    "flags": [],
    "away": {
     "name": "Hawai'i",
@@ -6973,8 +6002,8 @@
       "opp_record": "(8–2, SP+ #23)"
      }
     ],
-    "win_pct": 37,
-    "news": []
+    "win_pct": 36,
+    "news": null
    },
    "home": {
     "name": "Nevada",
@@ -7008,29 +6037,8 @@
       "opp_record": "(5–6, SP+ #118)"
      }
     ],
-    "win_pct": 63,
-    "news": [
-     {
-      "text": "AJ Bianco will remain the starting quarterback for Nevada.",
-      "sources": [
-       {
-        "title": "AJ Bianco to remain Nevada's starting quarterback; OC Brett Bartolone moves to field level",
-        "source": "Nevada Sports Net",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUFxcGw5eDdnMDlRWTNueUY0RHhoZ3dxTUNUT096Wng0T25neE1qaXBYMldqRy1SWUY3RDczY3FnSVBUUUgxdHlManBIMm9idkh3RzcxMkVjalgyNmpOTnJRalBrUnpROHNuUHJPdXQxdTlHTjFRNE9QeWhzUmYtcVJqekNJMjBETXllVlRkTmd5Y05IdXFrUkxGZ3N4LW0wMkZEMWExQi10WFUyWWdkd3NVMTNraXVsR1haejNTUWFiamQ1TTJrTy1Pdw?oc=5"
-       }
-      ]
-     },
-     {
-      "text": "Offensive coordinator Brett Bartolone is moving to field level for the upcoming game.",
-      "sources": [
-       {
-        "title": "AJ Bianco to remain Nevada's starting quarterback; OC Brett Bartolone moves to field level",
-        "source": "Nevada Sports Net",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUFxcGw5eDdnMDlRWTNueUY0RHhoZ3dxTUNUT096Wng0T25neE1qaXBYMldqRy1SWUY3RDczY3FnSVBUUUgxdHlManBIMm9idkh3RzcxMkVjalgyNmpOTnJRalBrUnpROHNuUHJPdXQxdTlHTjFRNE9QeWhzUmYtcVJqekNJMjBETXllVlRkTmd5Y05IdXFrUkxGZ3N4LW0wMkZEMWExQi10WFUyWWdkd3NVMTNraXVsR1haejNTUWFiamQ1TTJrTy1Pdw?oc=5"
-       }
-      ]
-     }
-    ]
+    "win_pct": 64,
+    "news": null
    }
   },
   {
@@ -7047,7 +6055,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 8 mph · Rain 47%",
+   "weather": "42°F · Wind 4 mph · Rain 60%",
    "flags": [
     "Oregon State: one win from bowl eligibility"
    ],
@@ -7084,7 +6092,7 @@
      }
     ],
     "win_pct": 25,
-    "news": []
+    "news": null
    },
    "home": {
     "name": "Oregon State",
@@ -7119,7 +6127,7 @@
      }
     ],
     "win_pct": 75,
-    "news": []
+    "news": null
    }
   }
  ]
