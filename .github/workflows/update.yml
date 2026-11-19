@@ -21,6 +21,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 50     # hard stop; news.py gives up on its own after 30 minutes
     steps:
       - uses: actions/checkout@v4
 

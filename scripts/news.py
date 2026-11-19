@@ -32,6 +32,10 @@ FALLBACK_MODELS = ["gemini-3.8-flash"]   # tried when the main one is overloaded
 # (see available_models) and adds them after these, so a retirement doesn't break the notes.
 MODEL_NAME = re.compile(r"^gemini-(\d+(?:\.\d+)?)-flash(-lite)?$")
 GIVE_UP_AFTER = 3       # teams in a row failing on every model -> skip the rest of the news step
+GIVE_UP_TOTAL = 8       # teams failing in total (even with successes between) -> skip the rest
+MODELS_PER_TEAM = 2     # models tried for one team before calling it failed (failing ones rotate to the back)
+NEWS_TIME_LIMIT = 30 * 60   # seconds; the whole news step stops after this, keeping what it has
+GEMINI_TIMEOUT = 30     # seconds to wait for one Gemini answer
 MAX_HEADLINES = 10      # headlines sent to Gemini per team
 MAX_NOTES = 3           # notes kept per team
 DAYS_BACK = 7
@@ -138,7 +142,7 @@ def ask_gemini(team, headlines, key, model):
     }
     url = f"{GEMINI_BASE}/{urllib.parse.quote(model)}:generateContent"
     calls["gemini"] += 1
-    raw = _get(url, {"Content-Type": "application/json", "x-goog-api-key": key}, json.dumps(body).encode(), timeout=60)
+    raw = _get(url, {"Content-Type": "application/json", "x-goog-api-key": key}, json.dumps(body).encode(), timeout=GEMINI_TIMEOUT)
     reply = json.loads(raw)
     text = "".join(p.get("text", "") for p in reply["candidates"][0]["content"]["parts"])
     return json.loads(text).get("notes") or []
@@ -197,12 +201,15 @@ def error_text(err):
         return ""
 
 
-def notes_with_fallback(search, headlines, key, models):
+def notes_with_fallback(search, headlines, key, models, deadline):
     """Tries each free model in turn. Overloaded (503/500) or rate-limited (429) -> wait and
     retry, then move to the next model. A model that keeps failing is moved to the back of
-    the list so later teams start with one that works. Raises if every model fails."""
-    for model in list(models):
+    the list so later teams start with one that works. Tries at most MODELS_PER_TEAM models
+    and stops at the deadline. Raises if none of them worked."""
+    for model in list(models)[:MODELS_PER_TEAM]:
         for wait in (0, 15):
+            if time.monotonic() > deadline:
+                raise RuntimeError("out of time")
             time.sleep(GEMINI_GAP + wait)
             try:
                 return checked_notes(ask_gemini(search, headlines, key, model), headlines)
@@ -235,8 +242,13 @@ def team_news(teams):
     models = list(dict.fromkeys([os.environ.get("GEMINI_MODEL", "").strip() or DEFAULT_MODEL, *FALLBACK_MODELS,
                                  *available_models(key)]))
     print(f"  Gemini models to try: {', '.join(models)}")
-    out, failed_in_a_row, stopped = {}, 0, ""
+    out, failed_in_a_row, failed_total, stopped = {}, 0, 0, ""
+    deadline = time.monotonic() + NEWS_TIME_LIMIT
     for name, search in teams.items():
+        if time.monotonic() > deadline:
+            print(f"  News step hit its {NEWS_TIME_LIMIT // 60}-minute limit; stopping news notes.")
+            stopped = "time limit reached"
+            break
         try:
             time.sleep(NEWS_GAP)
             headlines = headlines_for(search)
@@ -251,7 +263,7 @@ def team_news(teams):
             out[name] = []
             continue
         try:
-            out[name] = notes_with_fallback(search, headlines, key, models)
+            out[name] = notes_with_fallback(search, headlines, key, models, deadline)
             failed_in_a_row = 0
         except KeyRefused as err:
             print(f"  Gemini refused the key ({err}). Check the GEMINI_API_KEY secret. Stopping news notes.")
@@ -260,10 +272,18 @@ def team_news(teams):
         except Exception as err:
             print(f"  Gemini failed for {name}: {err}")
             failed_in_a_row += 1
-            if failed_in_a_row >= GIVE_UP_AFTER or not models:
+            failed_total += 1
+            if time.monotonic() > deadline:
+                print(f"  News step hit its {NEWS_TIME_LIMIT // 60}-minute limit; stopping news notes.")
+                stopped = "time limit reached"
+                break
+            if failed_in_a_row >= GIVE_UP_AFTER or failed_total >= GIVE_UP_TOTAL or not models:
                 if not models:
                     print("  None of the Gemini models are available to this key; stopping news notes.")
                     stopped = "no Gemini model available (see run log)"
+                elif failed_total >= GIVE_UP_TOTAL and failed_in_a_row < GIVE_UP_AFTER:
+                    print(f"  {failed_total} teams failed in total. Gemini is too unreliable today; stopping news notes.")
+                    stopped = "Gemini unreliable"
                 else:
                     print(f"  {failed_in_a_row} teams in a row failed on every model. Gemini seems down; stopping news notes.")
                     stopped = "Gemini busy or down"
