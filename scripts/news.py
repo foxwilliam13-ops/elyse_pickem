@@ -54,9 +54,14 @@ Rules:
 - If nothing is relevant, return an empty list. That is a good answer.
 
 Return JSON only: {{"notes": [{{"text": "...", "headlines": [1, 3]}}]}}
-
+{already}
 Headlines:
 {headlines}"""
+
+ALREADY = """
+These notes were already written earlier this week. Do not repeat them; only add something new:
+{notes}
+"""
 
 calls = {"news": 0, "gemini": 0}
 
@@ -131,13 +136,14 @@ def headlines_for(query):
     raise RuntimeError("; ".join(errors) or "no news source left to try")
 
 
-def ask_gemini(team, headlines, key, model):
+def ask_gemini(team, headlines, key, model, earlier=()):
+    already = ALREADY.format(notes="\n".join(f"- {n['text']}" for n in earlier)) if earlier else ""
     listing = "\n".join(
         f"{i}. {h['title']} ({h['source'] or 'unknown source'}"
         + (f", {h['date']:%b} {h['date'].day}" if h["date"] else "") + ")"
         for i, h in enumerate(headlines, 1))
     body = {
-        "contents": [{"parts": [{"text": PROMPT.format(team=team, max_notes=MAX_NOTES, headlines=listing)}]}],
+        "contents": [{"parts": [{"text": PROMPT.format(team=team, max_notes=MAX_NOTES, already=already, headlines=listing)}]}],
         "generationConfig": {"temperature": 0.1, "responseMimeType": "application/json"},
     }
     url = f"{GEMINI_BASE}/{urllib.parse.quote(model)}:generateContent"
@@ -201,7 +207,7 @@ def error_text(err):
         return ""
 
 
-def notes_with_fallback(search, headlines, key, models, deadline):
+def notes_with_fallback(search, headlines, key, models, deadline, earlier=()):
     """Tries each free model in turn. Overloaded (503/500) or rate-limited (429) -> wait and
     retry, then move to the next model. A model that keeps failing is moved to the back of
     the list so later teams start with one that works. Tries at most MODELS_PER_TEAM models
@@ -212,7 +218,7 @@ def notes_with_fallback(search, headlines, key, models, deadline):
                 raise RuntimeError("out of time")
             time.sleep(GEMINI_GAP + wait)
             try:
-                return checked_notes(ask_gemini(search, headlines, key, model), headlines)
+                return checked_notes(ask_gemini(search, headlines, key, model, earlier), headlines)
             except urllib.error.HTTPError as err:
                 detail = error_text(err)
                 if err.code in (401, 403) or (err.code == 400 and "API key" in detail):
@@ -229,12 +235,16 @@ def notes_with_fallback(search, headlines, key, models, deadline):
     raise RuntimeError("every model failed")
 
 
-def team_news(teams):
+def team_news(teams, earlier=None, earlier_time=None):
     """teams: {display name: search name}.
+    earlier: {display name: [notes]} from a previous run this same week (e.g. Thursday's), made at earlier_time.
     Returns ({display name: [notes]}, status text for the page).
 
-    A team missing from the result means "not checked" (no key or an error), so the
-    page can tell that apart from "checked, nothing notable" (an empty list)."""
+    Earlier notes are never dropped: a team with no headlines since earlier_time keeps them as is,
+    and new notes from newer headlines are added after them. A team missing from the result
+    means "not checked" (no key or an error), so the page can tell that apart from
+    "checked, nothing notable" (an empty list)."""
+    earlier = earlier or {}
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
         print("  news notes skipped: no GEMINI_API_KEY")
@@ -242,13 +252,17 @@ def team_news(teams):
     models = list(dict.fromkeys([os.environ.get("GEMINI_MODEL", "").strip() or DEFAULT_MODEL, *FALLBACK_MODELS,
                                  *available_models(key)]))
     print(f"  Gemini models to try: {', '.join(models)}")
-    out, failed_in_a_row, failed_total, stopped = {}, 0, 0, ""
+    if earlier:
+        print(f"  {len(earlier)} teams already checked earlier this week; only newer headlines are sent to Gemini")
+    out, failed_in_a_row, failed_total, unchanged, stopped = {}, 0, 0, 0, ""
     deadline = time.monotonic() + NEWS_TIME_LIMIT
-    for name, search in teams.items():
+    # Teams that weren't checked before go first, so a run that stops early fills the gaps.
+    for name, search in sorted(teams.items(), key=lambda item: item[0] in earlier):
         if time.monotonic() > deadline:
             print(f"  News step hit its {NEWS_TIME_LIMIT // 60}-minute limit; stopping news notes.")
             stopped = "time limit reached"
             break
+        old = earlier.get(name)
         try:
             time.sleep(NEWS_GAP)
             headlines = headlines_for(search)
@@ -259,11 +273,16 @@ def team_news(teams):
                 stopped = "news sites unreachable"
                 break
             continue
+        if old is not None and earlier_time:
+            headlines = [h for h in headlines if h["date"] and h["date"] > earlier_time]
         if not headlines:
-            out[name] = []
+            out[name] = old if old is not None else []
+            unchanged += old is not None
             continue
         try:
-            out[name] = notes_with_fallback(search, headlines, key, models, deadline)
+            added = notes_with_fallback(search, headlines, key, models, deadline, old or ())
+            seen = {n["text"] for n in old or ()}
+            out[name] = [*(old or ()), *(n for n in added if n["text"] not in seen)]
             failed_in_a_row = 0
         except KeyRefused as err:
             print(f"  Gemini refused the key ({err}). Check the GEMINI_API_KEY secret. Stopping news notes.")
@@ -288,6 +307,11 @@ def team_news(teams):
                     print(f"  {failed_in_a_row} teams in a row failed on every model. Gemini seems down; stopping news notes.")
                     stopped = "Gemini busy or down"
                 break
+    for name in teams:   # anything not reached this run keeps what the earlier run found
+        if name not in out and name in earlier:
+            out[name] = earlier[name]
     summary = f"{len(out)} of {len(teams)} teams checked"
+    if unchanged:
+        summary += f" ({unchanged} had no new headlines since the last run)"
     print(f"  news notes: {summary} ({calls['news']} news fetches, {calls['gemini']} Gemini calls)")
     return out, f"{summary}, stopped early: {stopped}" if stopped else summary

@@ -453,10 +453,13 @@ def main():
             for side in ("away", "home"):
                 name = card[side]["name"]
                 upcoming[name] = f"{name} {mascots[name]}" if mascots.get(name) else name
-    news, news_status = team_news(upcoming) if upcoming else ({}, "no upcoming games")
+    # An earlier run this same week (Thursday's, seen by Friday's run): its notes are kept and only added to.
+    old_news, old_time = previous_news(year, season_type, week)
+    news, news_status = team_news(upcoming, old_news, old_time) if upcoming else ({}, "no upcoming games")
     for card in cards:
         for side in ("away", "home"):
-            card[side]["news"] = news.get(card[side]["name"])   # None = not checked
+            name = card[side]["name"]
+            card[side]["news"] = news[name] if name in news else old_news.get(name)   # None = not checked
 
     stamp = now.astimezone(CENTRAL)
     data = {
@@ -476,6 +479,25 @@ def main():
     save_archive(data, text)
     print(f"Wrote {len(cards)} games to {OUT_FILE} "
           f"({api_calls['cfbd']} CollegeFootballData calls, {api_calls['weather']} weather calls)")
+
+
+def previous_news(year, season_type, week):
+    """News notes from the last run if it covered this same week: ({team: notes}, its run time).
+    Teams that weren't checked then are left out. ({}, None) if there's nothing to reuse."""
+    try:
+        old = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+        if (old.get("season"), old.get("season_type"), old.get("week")) != (year, season_type, week):
+            return {}, None
+        when = dt.datetime.fromisoformat(old["generated_at"])
+    except Exception:
+        return {}, None
+    notes = {}
+    for game in old.get("games") or []:
+        for side in ("away", "home"):
+            team = game.get(side) or {}
+            if team.get("name") and isinstance(team.get("news"), list):
+                notes[team["name"]] = team["news"]
+    return notes, when
 
 
 def save_archive(data, text):
