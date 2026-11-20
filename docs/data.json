@@ -3,9 +3,9 @@
  "week": 12,
  "season_type": "regular",
  "title": "Week 12",
- "generated_at": "2026-11-20T14:17:52.505466+00:00",
- "generated_label": "Fri, Nov 20 at 8:17 AM CT",
- "news_status": "88 of 128 teams checked, stopped early: time limit reached",
+ "generated_at": "2026-11-20T15:24:22.016181+00:00",
+ "generated_label": "Fri, Nov 20 at 9:24 AM CT",
+ "news_status": "128 of 128 teams checked (50 had no new headlines since the last run)",
  "sp_teams": 138,
  "games": [
   {
@@ -553,7 +553,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "72°F · Wind 8 mph · Rain 27%",
+   "weather": "72°F · Wind 7 mph · Rain or snow 18%",
    "flags": [
     "Iowa State: one win from bowl eligibility",
     "UCF: one win from bowl eligibility"
@@ -643,7 +643,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "52°F · Wind 5 mph · Rain or snow 0%",
+   "weather": "51°F · Wind 5 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "Clemson",
@@ -817,7 +817,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 8 mph · Rain or snow 0%",
+   "weather": "43°F · Wind 10 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "UTEP",
@@ -1011,11 +1011,11 @@
    "neutral": false,
    "venue": "War Memorial Stadium, Laramie, WY",
    "final": null,
-   "spread": "New Mexico −8.5",
+   "spread": "New Mexico −9.5",
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "30°F · Wind 16 mph · Rain or snow 0%",
+   "weather": "29°F · Wind 15 mph · Rain or snow 0%",
    "flags": [],
    "away": {
     "name": "New Mexico",
@@ -1049,7 +1049,7 @@
       "opp_record": "(8–2, SP+ #31)"
      }
     ],
-    "win_pct": 74,
+    "win_pct": 75,
     "news": [
      {
       "text": "The New Mexico coach hinted at a quarterback change prior to the crucial game against Wyoming.",
@@ -1095,7 +1095,7 @@
       "opp_record": "(0–10, SP+ #138)"
      }
     ],
-    "win_pct": 26,
+    "win_pct": 25,
     "news": [
      {
       "text": "There is a weather forecast for the Wyoming game against New Mexico in Laramie.",
@@ -1728,7 +1728,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "48°F · Wind 11 mph · Rain 53%",
+   "weather": "48°F · Wind 11 mph · Rain 52%",
    "flags": [
     "Minnesota: one win from bowl eligibility"
    ],
@@ -2744,6 +2744,16 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVJOak9YZldMTHVDMFNLZm1ubDA5UWtCSGE3UFBVNUtwWXdBOHVfYkEtTkNIZi1US1kzbVA1YTNkNzRIZTBPcFQteU85cFJ1WDdhX1ZCX3JkQjlKd2JMb2pHUTE3c0lNaG9ZN3I0dHJvS1N1WDF6THByY18tM00xYUhENGlSNEU1QUNQcVpMNDJOLWNTVFhTcXdkSzdPWGpWaDg1RFdxNTJ5ZEZQ?oc=5"
        }
       ]
+     },
+     {
+      "text": "Keelon Russell is ready to play against Chattanooga.",
+      "sources": [
+       {
+        "title": "Jumbo Package: Keelon Russell good to go vs Chattanooga",
+        "source": "Roll 'Bama Roll",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3RGQTJFOG45VG83S1M3TV82UnFienJiczA1cl9hcFA2TkFSZWQwTm5HcTZSWG4xZFAtZFNFbnI2M3JjSjRucW41Xy1nS3JNa000Ui1sRWxGNnFtT0c4QmpqcGFrNFc5bHI4R2ZfM1YxLVlNVUxsQUpmbnZUZlV1aW5ablQxQWo2QzV4QmZ6c1J5VlJJcXNaLTdnUzNZbE56NzJjVERIakhxeTk5TlNDcXEyLXRTVzZ2anMwOFhxVQ?oc=5"
+       }
+      ]
      }
     ]
    }
@@ -2973,7 +2983,7 @@
      }
     ],
     "win_pct": 8,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Tulsa",
@@ -3123,7 +3133,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "78°F · Wind 7 mph · Rain 22%",
+   "weather": "78°F · Wind 7 mph · Rain 24%",
    "flags": [],
    "away": {
     "name": "South Florida",
@@ -3336,7 +3346,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "70°F · Wind 13 mph · Rain or snow 11%",
+   "weather": "70°F · Wind 13 mph · Rain or snow 10%",
    "flags": [],
    "away": {
     "name": "Florida International",
@@ -3599,7 +3609,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "the spread",
-   "weather": "71°F · Wind 10 mph · Rain or snow 9%",
+   "weather": "71°F · Wind 10 mph · Rain or snow 8%",
    "flags": [
     "Samford: off a bye week"
    ],
@@ -3871,6 +3881,16 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjgtcE5VYzdJcVA1eTFxUFNfR1RfR3M3WDZfMlRhN3k0ZldOV3NWS2ZYYlpPZ3I4S25NcnNBd3YzTnZnRG5TQVI3WWRYbXlUUHRDcmhQcmpnTkhEWWMtQk9vaTlhbm1NZlE0RE9ncjk1eFRmai0xdndNWjVQME1RREdVOUFqQjBqT2lZZjdSZ0cySHJkZWFxWVRQenloVEg1LUIwRnR1ekRqY3pFWVEzOEx1RHlENWpoajdhNVdlS1VPZlBaWEdDdUVkY0hUWTNyU1N4aTIyZE5YeG5V?oc=5"
        }
       ]
+     },
+     {
+      "text": "Florida State is conducting a coaching search with various top candidates.",
+      "sources": [
+       {
+        "title": "Florida State football coaching search: Who are the top candidates?",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblRjcTdFZzNfaU43bWNIaWtvTkpPblF2UXR4UklsV0hkMmx4aTA3RWRPOXFuN2J4VUUxRFNaOHRlRUpFYnQyMmNVS2lnaWVvZVRnR25XSnZhRWRYb0RHXzdOdmlfSE52M29mUWVzU3ZrX2Vya3BYZFBBcGI4cFlmSFZHZkRvX3FWbXVLUHl4a1k?oc=5"
+       }
+      ]
      }
     ]
    }
@@ -3927,7 +3947,18 @@
      }
     ],
     "win_pct": 62,
-    "news": null
+    "news": [
+     {
+      "text": "UCLA faces a depleted Michigan team in Week 12.",
+      "sources": [
+       {
+        "title": "UCLA vows to avoid overlooking depleted Michigan in pursuit of record-setting win",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2xoR09nUV9KWG1Vc2JDY1hjZXBad0NWUEZEa0JxNG5VcEFvNzFEaGFfTkRQNXJrSlpWYk5vanNiX08wRjB2a2ZWaVZxY29zWlN0VHJWQlZoUU5HbUhISXVaNXgzclJ6dHdlVnlReFhGZUQ1LTVySFQyUGZCZkFBS2VMTm0yWmZGY0NnMnp3?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Michigan",
@@ -4361,7 +4392,7 @@
      }
     ],
     "win_pct": 18,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "UConn",
@@ -4450,7 +4481,18 @@
      }
     ],
     "win_pct": 73,
-    "news": []
+    "news": [
+     {
+      "text": "Coach Curt Cignetti discussed the team's quarterbacks and the need for improvement ahead of the Washington game.",
+      "sources": [
+       {
+        "title": "Curt Cignetti Talks Indiana's Quarterbacks, Need For Improvement Ahead Of Washington",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdG53bGYzV2xoMm9wMndXbGM0ZWNZX1BEOVgwSFV1eFZ6bVRnTkdIWmRUX1VNbWNuTk5PMUtGYV8xVXRzV19PeFlFOG5qMk50eDhyMWtQT1QwMjMwQWhFdmZzTmxoNVdveXVvOExCUXJWaGNjdm15UHRSbTdOdWlnNzVMMlNhamhTMVZDSWpkZ3A1bjhOV0lrRGxzcjhvQ0MtWGQ2RGdObkpGUG9CTDctanQ1VHNmbzJ2dFRldzV4ekJPSk9Qd3c?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Washington",
@@ -4910,7 +4952,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "63°F · Wind 8 mph · Rain or snow 17%",
+   "weather": "63°F · Wind 8 mph · Rain or snow 16%",
    "flags": [],
    "away": {
     "name": "Georgia Southern",
@@ -4980,7 +5022,7 @@
      }
     ],
     "win_pct": 25,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5031,8 +5073,29 @@
       "opp_record": "(5–5, SP+ #58)"
      }
     ],
-    "win_pct": 20,
-    "news": null
+    "win_pct": 19,
+    "news": [
+     {
+      "text": "Kirby Moore made an intriguing position change for a Washington State freshman.",
+      "sources": [
+       {
+        "title": "Kirby Moore makes intriguing position change for Washington State freshman",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONGMwZmxWX0FDa0VFZmJLc1VIYzQ4OVRnbnMyUVhZTEhCSlFRQUUyYnMzYUgxdzI1U2Y1VmRubThGbFNNelZMRkpIdmEwMm1QUXNDYTNQLWJ3dzV5MXFER0JVclIwWE5rMEFGWEk0blpPNTJMWnFacUVTdXBCQnFnZHByTWh0VEphMFJQQ2FUN3JoLTVzNW1FZnd4d1RLUWtRTV8xUEZFR3QzenEtdGdZcFN3eTZaY2tjQlg0UjJrSVBkdWdqbVE?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Kirby Moore hinted at changes to Washington State's rushing attack.",
+      "sources": [
+       {
+        "title": "Kirby Moore hints at changes to Washington State's rushing attack after record-setting performance",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlA2bnU4WWhGcjF3eTk3TEx5YkFpcGRKSGR4WlEyVUxCQzloSjMxeHpiVXlQTHRENWpCQmcyV2hWYnRyLUdCaGhpZGczbFVGV2l3WlF3SFNXY0dNWU14a01MRGt2QllaWnhjcWtrd0lhZjhpVFpJc2lRNDFwa0ViSUgxcHFJOGdha0xrWmVR?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Texas State",
@@ -5066,8 +5129,19 @@
       "opp_record": "(4–6, SP+ #98)"
      }
     ],
-    "win_pct": 80,
-    "news": null
+    "win_pct": 81,
+    "news": [
+     {
+      "text": "Texas State quarterback Brad Jackson faces a key transfer decision.",
+      "sources": [
+       {
+        "title": "Texas State, QB Brad Jackson Face Key Transfer Decision",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTlZSDNsMjl1TmxfQV9XcUtqVWZjd3ZBLUpFalhEQ1ROTXQ2NTVXaFNLelZGUmJ6Wnc2NnJac001ai12dmZOU01jRmdURWdGUVdiSHFnaDNJbHBkZDItVWkxYnlDUzFpV0k1VkhqZHhqY1B6eHlWLXNOUzNLZUNwaVdn?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5121,7 +5195,7 @@
      }
     ],
     "win_pct": 13,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "USC",
@@ -5156,7 +5230,28 @@
      }
     ],
     "win_pct": 87,
-    "news": null
+    "news": [
+     {
+      "text": "USC released an injury report prior to playing Maryland.",
+      "sources": [
+       {
+        "title": "USC Trojans Injury Report Before Maryland Sees Key Changes",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORTkwVnY2MzlEcFdDZVJhOTBCV0VWbENwT0R3TmJ5VTJDQXg4eTNsUUJjNXFFa1U5N05MMHk4NE1zLU5waG9rOHFDenRUdy1id29NQW9WU2VNVC1wVURzdEhGMlVnNF8xOXBRaExvOEpPS3RBNGZWSHdEWnVGcnlDTmxBMW80bkJQYTlMeGttS0lCUzBMLTM5Szd1aUZvWVU?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Lincoln Riley stated that USC is pushing quarterback Jayden Maiava to utilize a key skill more.",
+      "sources": [
+       {
+        "title": "Lincoln Riley Names Key Skill That USC is Pushing Jayden Maiava To Utilize More",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUREY3VieTlTbDNtRXZxZlQwWjhtQkNzZzZLWl9nNU5nMHZIWHE5WUgtbWIycWlhVDFJeGdiUFA1eWwyeE5jaXFZM1hoNkRrUF94elk4a25HWG1VMXp5ZTlLd3VVYU1vNkhoZzh2bEdBaWlOUkl1RTIyc01aVHV3NE5NMWd1RHdrNVJJa1ZGQlc5YVZFd2ZmMEJfWnpwQW5UdE9WR1lMaDhsbk1WZ0R3T2RYZVMweGM?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5210,7 +5305,7 @@
      }
     ],
     "win_pct": 71,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Kansas State",
@@ -5245,7 +5340,7 @@
      }
     ],
     "win_pct": 29,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5297,7 +5392,23 @@
      }
     ],
     "win_pct": 18,
-    "news": null
+    "news": [
+     {
+      "text": "Arkansas State fired head coach Butch Jones.",
+      "sources": [
+       {
+        "title": "Who told Butch Jones he was fired? Arkansas State isn’t trying to hide their Hugh Freeze desire, per source",
+        "source": "A to Z Sports",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0dNUXVmS3hYRVMwWWtqTURQMmNPQ09Vc3pYX3VablE4X3pHVVJsa25pN0JjNlRGVFM3VVozOEFSYl85TmhPRExsYk5GZC1uTzFCVmlGZ2tZdTltYVhUTjFfMkg3S29vZmttNW9zLU51OXduSkg3d1RoWndDNjBqc3F0MThVcDdaX0lEWEhRWmo4UXcta05IZHdJbjBhbTFOZGxTcGFHLWdURWZWeThfS250MGtxTjBkWnN1MGRqeUFRaThD?oc=5"
+       },
+       {
+        "title": "17-Year College Football Head Coach Fired In Shocking Turn Of Events (Breaking News)",
+        "source": "Gridiron Heroics",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pT0tsNXptNHZfTzJOMFRwM2ROUlZOUEZFUlRBbllGZXlZQkV0NFFzb1JpOFZBbjFsaW1SLUREdGVNUE9NTm9FS0E0dGgzWGljMnQ2a0NFbmp0cVlJU3dNYTVnX1VPczJtcWtkaTdmRkthcjhucUNxdE9IMkc?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Louisiana Tech",
@@ -5332,7 +5443,7 @@
      }
     ],
     "win_pct": 82,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5349,7 +5460,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "73°F · Wind 5 mph · Rain 26%",
+   "weather": "73°F · Wind 5 mph · Rain 25%",
    "flags": [
     "Miami: ranked #7 (CFP)"
    ],
@@ -5386,7 +5497,7 @@
      }
     ],
     "win_pct": 9,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Miami",
@@ -5421,7 +5532,18 @@
      }
     ],
     "win_pct": 91,
-    "news": null
+    "news": [
+     {
+      "text": "Miami shared news regarding Malachi Toney before the Virginia Tech game.",
+      "sources": [
+       {
+        "title": "Miami Shares Malachi Toney News Before Virginia Tech Game",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWx0NmhIY2hlLTAxNWUwaTNqSFZuSFZGMmRQMXJmNEp2Wk1PTl9TR3JPZWJNOHRiQ0hIODFBeEFTZTFpSVBfWGNJSDZpU2IyM3BoWElvUXB1WnJraU5oQnhHNDJjcGplZkM5UTBmN2xuOHRSenJORi1EMEpJZV8yX2xsbUtpNzg?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5475,7 +5597,7 @@
      }
     ],
     "win_pct": 68,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "San José State",
@@ -5510,7 +5632,18 @@
      }
     ],
     "win_pct": 32,
-    "news": null
+    "news": [
+     {
+      "text": "San Jose State can count on Clark to help their offense keep moving.",
+      "sources": [
+       {
+        "title": "San Jose State Spartans can count on Clark to help offense keep moving",
+        "source": "The Mercury News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXVJRm5zV3RnZTlxZHFHYUczRl9pT240RXpWcUl1RWJxT3d1bFM1TWN2YnpieXNMaE5GLS1oUG50RDhZNTVTOUlvZVh0cU1GTElPUEJvOWx5NGJyTWhfdndVYmdvQk8wWHFHeGVyZXhQUVpNSnRjbTBUM1BrRHFmZW5hODRVX3B6U2hmckpnczlvY2xSWEJiYWMxNkMxT3NVNjNOb3pGTTVmTVVfdlBzcTlB?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5527,7 +5660,7 @@
    "line_source": "DraftKings",
    "tossup": true,
    "prob_source": "betting odds",
-   "weather": "51°F · Wind 9 mph · Rain 33%",
+   "weather": "51°F · Wind 9 mph · Rain 34%",
    "flags": [
     "Stanford: one win from bowl eligibility"
    ],
@@ -5564,7 +5697,7 @@
      }
     ],
     "win_pct": 54,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "California",
@@ -5599,7 +5732,7 @@
      }
     ],
     "win_pct": 46,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5653,7 +5786,7 @@
      }
     ],
     "win_pct": 10,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Fresno State",
@@ -5688,7 +5821,7 @@
      }
     ],
     "win_pct": 90,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5742,7 +5875,7 @@
      }
     ],
     "win_pct": 18,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Louisville",
@@ -5777,7 +5910,7 @@
      }
     ],
     "win_pct": 82,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5831,7 +5964,18 @@
      }
     ],
     "win_pct": 36,
-    "news": null
+    "news": [
+     {
+      "text": "Nic Anderson is trending toward playing in Saturday's game against Missouri according to the injury report.",
+      "sources": [
+       {
+        "title": "Kentucky vs. Missouri Injury Report: Nic Anderson trending toward playing Saturday",
+        "source": "A Sea Of Blue",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbENTclZMWXhxMnJjcXc4MWNkZVZwQks4ME5SdUk3OGhBd3h5N0o5N0JMWlgtcFF1cHRXcmVFS2xoUkY1RDVOYWlnSzRhbmdOMkxDRTVfYkJEc3pkTEN5cnVQeXBGMnVvTGU1aEhoWnZXQnFUSVYzbktJeHRlY0FxOUJFZnpwcElJdWIxRzVfbVNabW1GUUVtQ19VZG1MX2c?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Missouri",
@@ -5866,7 +6010,7 @@
      }
     ],
     "win_pct": 64,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5920,7 +6064,7 @@
      }
     ],
     "win_pct": 9,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Notre Dame",
@@ -5955,7 +6099,7 @@
      }
     ],
     "win_pct": 91,
-    "news": null
+    "news": []
    }
   },
   {
@@ -5972,7 +6116,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "58°F · Wind 10 mph · Rain 73%",
+   "weather": "58°F · Wind 10 mph · Rain 74%",
    "flags": [
     "Georgia: ranked #1 (CFP)",
     "South Carolina: ranked #21 (CFP)"
@@ -6010,7 +6154,28 @@
      }
     ],
     "win_pct": 85,
-    "news": null
+    "news": [
+     {
+      "text": "At least 8 South Carolina players are out for the game against Georgia.",
+      "sources": [
+       {
+        "title": "At least 8 South Carolina players out vs. Georgia football",
+        "source": "UGA Wire",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZS1oLVFyV29PV1ZFVlNrdDRBa1M3YUJ6ZHZxNDh3MUVaUGg3cEs5QWl5Z250SU9vdWFXaWtib2J6YThPQmo5dlRoaTh3d21qT2hkaHgtNjh1QXQzVnJWZkRnejVzV183ZVpXQWhoSmdfZ0NxWHF6aGdtREhrcWlVM21KVEw2VnFVb1ZTMktKbW5CNURVWXV3ck8wMEZ5WnVBSUxtX3BzOWRLb1FUWjRZZTc3ckdmNlMwZzZkUGV2aXNQVXdUV09NaVJ5Tm5yODJLbXBn?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "A Georgia Bulldog receiver has been ruled out according to the injury report.",
+      "sources": [
+       {
+        "title": "Georgia Injury Report: Bulldog receiver ruled out",
+        "source": "On3",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnZVVmdYb0w2elFfb1RTOUxIcEVRZU5RTGV2WGozWjBNWEpJT25XOXhHTWxQMU11TFQxS0FvRGRfRDhqbktKUHdIUkVqZTRDanprLWY1SEZoM1ZTSXJacXZuNE9wNncyOHF5MUNSY1gzRmhpN3Y5a1FQUk1QNUJmNXRmTGoyX05reW43SThVSkQ3bHAxX1I4d0lsR2tlZw?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "South Carolina",
@@ -6045,7 +6210,38 @@
      }
     ],
     "win_pct": 15,
-    "news": null
+    "news": [
+     {
+      "text": "At least 8 South Carolina players are out for the game against Georgia.",
+      "sources": [
+       {
+        "title": "At least 8 South Carolina players out vs. Georgia football",
+        "source": "UGA Wire",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZS1oLVFyV29PV1ZFVlNrdDRBa1M3YUJ6ZHZxNDh3MUVaUGg3cEs5QWl5Z250SU9vdWFXaWtib2J6YThPQmo5dlRoaTh3d21qT2hkaHgtNjh1QXQzVnJWZkRnejVzV183ZVpXQWhoSmdfZ0NxWHF6aGdtREhrcWlVM21KVEw2VnFVb1ZTMktKbW5CNURVWXV3ck8wMEZ5WnVBSUxtX3BzOWRLb1FUWjRZZTc3ckdmNlMwZzZkUGV2aXNQVXdUV09NaVJ5Tm5yODJLbXBn?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Players adjusted for South Carolina in the latest availability report.",
+      "sources": [
+       {
+        "title": "Players adjusted for South Carolina in latest availability report",
+        "source": "247Sports",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSExNQURweWdlOUJ6WmpwSTBfTm9HRG4ycTVpelpSeGVQdlJUZjF1cWpRSWlOY3ZNal84VGpUNnlCQWgyRHpvOG9xOEpwMnBoQXVzb0dJWEJCVy1ZQUtVd2lfU1ZTZDFvWG02WnJrYzlTcS1tcjdWQ2hnWHd2WUtNaVpUT3hUWTlmNllnMFoyaG96NVhCS0tUcm8wUEVKbG9Mc0lXckZzQ3RPc3VSeGFBYUx1V3BwWEJzSE0yWDNpTmNDdw?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Questions surround whether LaNorris Sellers will play against Georgia.",
+      "sources": [
+       {
+        "title": "South Carolina vs Georgia predictions: If LaNorris Sellers plays is upset possible?",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR283VlNjSnMtOEVUV3hfRGFCOHdoMlJpaXpoR29ZeTZUbDZTVUFJVlFpLV80czlHNnBla0dUR2dQaTljN0pjZGxNTXBNemVYQ0NaQUE4a3JfUUdCSXpIN3dwMGJ6VFVEX0M2RVdPN2xBendYNGlEeExpV0xuUFRmOFNwVEUwMnZLMDF5cDhXWQ?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -6062,7 +6258,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "62°F · Wind 5 mph · Rain or snow 1%",
+   "weather": "62°F · Wind 5 mph · Rain or snow 2%",
    "flags": [],
    "away": {
     "name": "UTSA",
@@ -6097,7 +6293,7 @@
      }
     ],
     "win_pct": 68,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "UAB",
@@ -6132,7 +6328,7 @@
      }
     ],
     "win_pct": 32,
-    "news": null
+    "news": []
    }
   },
   {
@@ -6149,7 +6345,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "65°F · Wind 7 mph · Rain or snow 13%",
+   "weather": "65°F · Wind 7 mph · Rain or snow 3%",
    "flags": [
     "Utah: ranked #2 (CFP)",
     "TCU: one win from bowl eligibility"
@@ -6187,7 +6383,7 @@
      }
     ],
     "win_pct": 71,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "TCU",
@@ -6222,7 +6418,7 @@
      }
     ],
     "win_pct": 29,
-    "news": null
+    "news": []
    }
   },
   {
@@ -6277,7 +6473,18 @@
      }
     ],
     "win_pct": 13,
-    "news": null
+    "news": [
+     {
+      "text": "San Diego State was ravaged by mumps, though the team can still play for the Pac-12 title.",
+      "sources": [
+       {
+        "title": "Mumps ravaged San Diego State. Somehow, Aztecs can still play for Pac-12 title",
+        "source": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdHBIa2FDckwyd3JSYXdqZFd6c0pWWnpHZElRbkNwd1JFN2hHMFJCRENfUU1vZmY4TGo0cjY5YXN1cEprQVBEY3lacHJZek1TWDB4aF9hcVZ3cmpNaTAxOUJlMVBwb3dPeGFnSUdfbHIxbzF3bmMzN3dVczNxQUlPU3FsclhJYmxaTDZXVXN1aTZSenhZSUJxNmdyLWdHMGxtcEpQVDZmLWRFbmhCaElQZ2dXUXVuc3c3WHpZcTR6SkJoUWR6Z3FsQlJOV2YxWUNCTk9laEktdEhLUUt6RFhF?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Boise State",
@@ -6312,7 +6519,18 @@
      }
     ],
     "win_pct": 87,
-    "news": null
+    "news": [
+     {
+      "text": "A weather forecast is available for the Boise State game against San Diego State on November 21.",
+      "sources": [
+       {
+        "title": "Boise State Football Weather Forecast: Nov. 21 vs. San Diego State",
+        "source": "sports.betmgm.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm5RVVAtdW5obERuV3RCLVRmNkFCLWxMTENFcGkycjJ5MnZWR3NUY0VtbHZJNUI5T0tEbEtQUmF2amhXcDBaT0FFbXpwRV82SlF2dmxqREhkU09oMVdIOGFYUG1lcGVMNjR3VHkyUjdmNDhJTFBCdmllam9YWEF1aEd0ellZTmEyZ3RfNm8yRHA1T2Q1bl9ieUxFYzdfbDZ3cHZuSzFVUnQzNkl0eDBNY2o0dW15UEFBUHFtbw?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -6364,7 +6582,23 @@
      }
     ],
     "win_pct": 56,
-    "news": null
+    "news": [
+     {
+      "text": "Drew Mestemaker is questionable for the upcoming game against Arizona State.",
+      "sources": [
+       {
+        "title": "Drew Mestemaker injury status revealed for Oklahoma State football game vs Arizona State",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTU9zZTFpd2pTTTFXdkpHNnN6ejlnem5HWjZEd2lLSUF4eGpMYm0zV3dOemlOZGdHR1BxNnZScUFFcXo5LXhfSGpmSDZnYXJMaTZHcjRNSy1TOE55NTBTcVpsTG82a1pLVTl0RFFmQjFBS3d2bHJRLUgyZXJTVERVTTdJYTZtc2tlQkE3S2NrUXk?oc=5"
+       },
+       {
+        "title": "Drew Mestemaker Questionable on First Oklahoma State-Arizona State Player Report",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZE5YamJYWGkwVlhiYXNUUWJlNGk4UF9nV19LblZQZ0xrNDc4bjUwLWZ1Sm5YVmhDeDJQajhZMVJTMzU4Smd4b2VISE1uX2dHNHlwYlhqZ0dEVkFkby1DNXNKdTFYcHQ0ZXN0aGpsRTZ6eGFGNnVDN0dsUzdGa2JER09yU09vcG56TEpCSDRZdjdVUzVzdFVvMzdwQjIwazVVMlhoOWtzNzhtdGF0UWExOWRB?oc=5"
+       }
+      ]
+     }
+    ]
    },
    "home": {
     "name": "Arizona State",
@@ -6399,7 +6633,33 @@
      }
     ],
     "win_pct": 44,
-    "news": null
+    "news": [
+     {
+      "text": "Oklahoma State quarterback Drew Mestemaker is questionable for the game against Arizona State.",
+      "sources": [
+       {
+        "title": "Oklahoma State QB Drew Mestemaker questionable vs. Arizona State",
+        "source": "SuperWest Sports",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNk5MWWtFdWpHOV9xaFJBZFlyOHJTdktscmM2c3hjNWdna0xfTDd2dWZESzcxbUtyQ0ZXMXNrUTdIbnJ6Q1BHelpvUWdOM3M3YUxpNjlwNHl4Q0xEQkVuTENiTVR4R1U5U1k2ZUU4RjZQZ0hWNDJqSmtHZlQyWVlGdmZ1dFp3YVFJQzI1Z29vemptQUdDSF9J?oc=5"
+       },
+       {
+        "title": "Drew Mestemaker injury status revealed for Oklahoma State football game vs Arizona State",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTU9zZTFpd2pTTTFXdkpHNnN6ejlnem5HWjZEd2lLSUF4eGpMYm0zV3dOemlOZGdHR1BxNnZScUFFcXo5LXhfSGpmSDZnYXJMaTZHcjRNSy1TOE55NTBTcVpsTG82a1pLVTl0RFFmQjFBS3d2bHJRLUgyZXJTVERVTTdJYTZtc2tlQkE3S2NrUXk?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "Starting Arizona State receiver Omarion Miller is listed out for the matchup against Oklahoma State.",
+      "sources": [
+       {
+        "title": "BIG LOSS: Starting ASU Receiver Omarion Miller listed OUT for Saturday's Matchup with Oklahoma State",
+        "source": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2I2bllGaXlMNFVRZmxNazlUUWlfQlhjUzQxOVU3Y3o1aUR2S3lka09wbUlGSTNQVzVMUVVOTlFsNER0NE1kZVl4VVVvUTF3R0o1Mmo3UFNUaTF1SG5sdkNmMVRpblBfdkxXcklwQktaTVQ2R042REtvRFBGaEVjZjB6NDg2dw?oc=5"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -6451,7 +6711,7 @@
      }
     ],
     "win_pct": 34,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Nevada",
@@ -6486,7 +6746,7 @@
      }
     ],
     "win_pct": 66,
-    "news": null
+    "news": []
    }
   },
   {
@@ -6503,7 +6763,7 @@
    "line_source": "DraftKings",
    "tossup": false,
    "prob_source": "betting odds",
-   "weather": "42°F · Wind 8 mph · Rain 62%",
+   "weather": "42°F · Wind 8 mph · Rain 60%",
    "flags": [
     "Oregon State: one win from bowl eligibility"
    ],
@@ -6540,7 +6800,7 @@
      }
     ],
     "win_pct": 27,
-    "news": null
+    "news": []
    },
    "home": {
     "name": "Oregon State",
@@ -6575,7 +6835,28 @@
      }
     ],
     "win_pct": 73,
-    "news": null
+    "news": [
+     {
+      "text": "The Oregon State secondary suffered another hit with Howard being ruled out.",
+      "sources": [
+       {
+        "title": "OSU secondary takes another hit with Howard ruled out",
+        "source": "OregonLive.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMEZyNWVCNDVJem1yYzQ5aloxRVk2bEFrY2xDenYxQVFYajZrZmNQWmhvd3R5SXR6dTFFeTVOUkNsdlRnR3l6RGFMYXdVQy1IVHRpZzlSRHFrdUlmc3gtOXp4czFmQS10U1NvajdPSFZxZEt2T1Atc0xmbi1sR3NGdEdBMVZBMlFJZ2ZZRmFRd0Q2QTlYejBZ?oc=5"
+       }
+      ]
+     },
+     {
+      "text": "A hand injury keeps Atkinson sidelined for the upcoming game against Utah State.",
+      "sources": [
+       {
+        "title": "Hand injury keeps Atkinson sidelined for OSU's Utah State game",
+        "source": "OregonLive.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGlEeDUtaHhua0xLWVNyV25mWU5qTkxyZldXMDRvSVNZdGt1MUI3cTlMdWtwSnNUYndCMG0xUkcxaXhLaXRmVE9wc3BsTUJtVDFGNVdpZG9NUk5SeGNmVklycGpPXzRzRV9TejFXTkx6UHdiSVV2MnVVMTJ6NVlfaGhlZWdZSFVPS0tsS3lZWGNYZ3RWQjBHVXMzcmUtZw?oc=5"
+       }
+      ]
+     }
+    ]
    }
   }
  ]
